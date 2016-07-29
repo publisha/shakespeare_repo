@@ -12,5 +12,5 @@ This is the template for the first pages of the book. The page size is set to 14
   
 - shakespeare.dtd
 
-This is the DTD that defines the rules for the play text.
+This is the DTD that defines the rules for the play text. The DTD shows the structure of a typical play
 
