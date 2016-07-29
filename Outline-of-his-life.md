@@ -85,3 +85,30 @@ The best books on the life of Shakespeare: J. O. Halliwell-Phillipps, _Outlines 
 [^5]: Registered Dec., 1592, but printed without date.
 [^6]: These may be seen, as well as all others up to 1700, in the re-edited _Shakespeare Allusion Book_, ed. J. Munro, London, 1909.
 
+
+<!--
+##Where does this text come from?
+The Project Gutenberg EBook of An Introduction to Shakespeare, by 
+H. N. MacCracken and F. E. Pierce and W. H. Durham
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: An Introduction to Shakespeare
+  H. N. MacCRACKEN, PH.D.
+  F. E. PIERCE, PH.D.
+  AND
+  W. H. DURHAM, PH.D.
+
+New York
+
+THE MACMILLAN COMPANY
+COPYRIGHT, 1910,
+
+-->
+
+
+
