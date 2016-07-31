@@ -30,6 +30,7 @@ You will need these resources to work on your InDesign documents.
 5. firstscene
 6. location
 7. stagedirections
+8. character
 
 These are just examples; view the DTD for a further understanding.
 
