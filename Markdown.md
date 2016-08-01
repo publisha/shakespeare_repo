@@ -1,5 +1,5 @@
 # Markdown
-##Introduction
+## Introduction
 Before we begin, I should explain that I am editing this text in Penflip. I am entering the markdown tags by using special character, but if you view this in the editor, you will notice 2 things:
 
 - You can use the editor toolbar at the top, to create the structure (H1,H2,H3 etc)
