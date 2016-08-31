@@ -1,6 +1,10 @@
 # Markdown
 ## Introduction
-Before we begin, I should explain that I am editing this text in Penflip. I am entering the markdown tags by using special character, but if you view this in the editor, you will notice 2 things:
+Before we begin, I should explain that I am editing this text as markdown.
+
+*Markdown* is a simple markup language that allows for structured text to be edited simply without the bloat of word processors like Microsoft Word.
+
+I am entering the markdown tags by using special character, but if you view this in the editor, you will notice 2 things:
 
 - You can use the editor toolbar at the top, to create the structure (H1,H2,H3 etc)
 - I have used the code block (starting and finishing with 3 backticks \`\`\`) to display what the markdown syntax looks like)
@@ -9,7 +13,7 @@ Before we begin, I should explain that I am editing this text in Penflip. I am e
 I entered the text above thus:
 # Markdown
 ##Introduction
-Before we begin, I should explain that I am editing this text in Penflip. I am entering the markdown tags by using special character, but if you view this in the editor, you will notice 2 things:
+Before we begin, I should explain that I am editing this text in markdown. I am entering the markdown tags by using special character, but if you view this in the editor, you will notice 2 things:
 
 - You can use the editor toolbar at the top, to create the structure (H1,H2,H3 etc)
 - I have used the code block (starting and finishing with 3 backticks \`\`\`) to display what the markdown syntax looks like)
@@ -99,9 +103,14 @@ If you want multiple lines like this in one blockqute then you need a **soft-bre
 There are **lots** of other things that you can do with Markdown, such as links, images and code, but for our purposes we are going to leave more sophisticated formatting until we get our text into _InDesign_.
 
 ##Markdown to InDesign
-Formatting with markdown is very simple. We are only going to have paragraphs, headings and **bold** and _italics_ . When all is done then we can download the text (as source text) and then place into InDesign through a special script.
+Although there is a script that will help us get our text into InDesign, there is one element that we cannot resolve with a script; footnotes are a little more complex. So, we need to convert our markdown copy to another text format that InDesign can use. It turns out that we can convert to _ICML_. This is a format that the InDesign suster program uses called InCopy.
 
-## Comments in Markdown
-can we do it like this
-<!--shall I consider this as a comment?-->
+###Pandoc to the rescue
+Fortunately the clever http://johnmacfarlane.net/ has created this software to convert anything to anything else.
 
+If you want to edit 'Life if Shakespeare' text and convert it yourself it is as as simple as going to the Terminal application on the mac and typing:
+
+`pandoc -s -o shakespeare.icml Downloads/Outline-of-his-life.md`
+
+##From ICML to InDesign
+Once you have your inDesign document started then use File>Place> choose the ICML file and the text will flow.
