@@ -106,9 +106,7 @@ There are **lots** of other things that you can do with Markdown, such as links,
 Although there is a script that will help us get our text into InDesign, there is one element that we cannot resolve with a script; footnotes are a little more complex. So, we need to convert our markdown copy to another text format that InDesign can use. It turns out that we can convert to _ICML_. This is a format that the InDesign suster program uses called InCopy.
 
 ###Pandoc to the rescue
-Fortunately the clever http://johnmacfarlane.net/ has created this software to convert anything to anything else.
-
-If you want to edit 'Life if Shakespeare' text and convert it yourself it is as as simple as going to the Terminal application on the mac and typing:
+Fortunately the clever http://johnmacfarlane.net/ has created this software to convert anything to anything else. We have already converted the _Life of Shakespeare_ to an ICML file but if you want to edit 'Life of Shakespeare' text and convert it yourself it is as as simple as going to the Terminal application on the Mac and typing:
 
 `pandoc -s -o shakespeare.icml Downloads/Outline-of-his-life.md`
 
