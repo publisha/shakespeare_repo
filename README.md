@@ -19,7 +19,7 @@ This is totally optional. You do not need to edit this text for this first part 
  - Make your changes and save
  - Still in TextWrangler locate the scripts menu
  - Click here and select BBpandoc-master> Pandoc-icml.
- - This will then save a new copy of *Outline-of-his-life.md*
+ - This will then save a new copy of *Outline-of-his-life.icml*
  - This is the file that you should place into the InDesign template
  
 ##What else is here?
