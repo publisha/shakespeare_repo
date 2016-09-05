@@ -1,2 +1,24 @@
 # Shakespeare
-Various Assets required for teaching on Publishing course
+Various Assets required for creating a Shakespeare book.
+
+##What is here?
+You will find the text for 'The Life of Shakespeare' that can be used for the introductory pages of your book. The text is provided in *markdown* but is also converted to *ICML* format for direct placing into InDesign.
+
+The text includes a basic structure, with headings and some inine styles (*italics* and **bold**). There are also some footnotes which will also succesfully be transferred to InDesign.
+
+##Editing the text
+This is totally optional. You do not need to edit this text for this first part of the assignement. If you do want to make changes to the text, you can follow these steps:
+
+ - Download the zip file
+ - Locate the file 'Outline-of-his-life.md'
+ - Right click this file and select 'open with ...' 
+ - Choose **TextWrangler**
+ - You will see that the text is in *Markdown*. Read about this here: [Markdown Tutorial](http://www.markdowntutorial.com)
+ - Make your changes and save
+ - Still in TextWrangler locate the scripts menu
+ - Click here and select BBpandoc-master> Pandoc-icml.
+ - This will then save a new copy of *Outline-of-his-life.md*
+ - This is the file that you should place into the InDesign template
+ 
+##What else is here?
+Apart from the text described above, you have also been provided with a selection of images and some InDesign templates. These are explained in the Readme file in the resources folder.
