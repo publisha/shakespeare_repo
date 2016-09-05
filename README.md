@@ -1,5 +1,7 @@
-# Shakespeare
-Various Assets required for creating a Shakespeare book.
+#Shakespeare Book assignment for *Design and Production*
+##Various Assets provided for creating a Shakespeare book.
+
+> Before you download the ZIP file, explore these resources buy reading the readme files.
 
 ##What is here?
 You will find the text for 'The Life of Shakespeare' that can be used for the introductory pages of your book. The text is provided in *markdown* but is also converted to *ICML* format for direct placing into InDesign.
@@ -7,7 +9,7 @@ You will find the text for 'The Life of Shakespeare' that can be used for the in
 The text includes a basic structure, with headings and some inine styles (*italics* and **bold**). There are also some footnotes which will also succesfully be transferred to InDesign.
 
 ##Editing the text
-This is totally optional. You do not need to edit this text for this first part of the assignement. If you do want to make changes to the text, you can follow these steps:
+This is totally optional. You do not need to edit this text for this first part of the assignment. If you do want to make changes to the text, you can follow these steps:
 
  - Download the zip file
  - Locate the file 'Outline-of-his-life.md'
@@ -21,4 +23,4 @@ This is totally optional. You do not need to edit this text for this first part 
  - This is the file that you should place into the InDesign template
  
 ##What else is here?
-Apart from the text described above, you have also been provided with a selection of images and some InDesign templates. These are explained in the Readme file in the resources folder.
+Apart from the text described above, you have also been provided with a selection of images and some InDesign templates. The templates are explained in the Readme file in the resources folder and the images are availble for preview in the images folder.
