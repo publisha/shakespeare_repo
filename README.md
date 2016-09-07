@@ -28,4 +28,4 @@ Apart from the text described above, you have also been provided with a selectio
 ###Files for the first Workshop
 I have provided here a reduced sample of the text. We will use this in the first workshop together with some images found in the images folder.
 
-The first step is for us to convert the text (workshop_sample.md) into a file that can be **Placed** into InDesign.
+The first step is for us to convert the text (workshop_sample.md) into a file that can be **Placed** into InDesign. We will do this with *TextWrangler*.
