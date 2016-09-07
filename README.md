@@ -24,3 +24,8 @@ This is totally optional. You do not need to edit this text for this first part 
  
 ##What else is here?
 Apart from the text described above, you have also been provided with a selection of images and some InDesign templates. The templates are explained in the Readme file in the resources folder and the images are availble for preview in the images folder.
+
+###Files for the first Workshop
+I have provided here a reduced sample of the text. We will use this in the first workshop together with some images found in the images folder.
+
+The first step is for us to convert the text (workshop_sample.md) into a file that can be **Placed** into InDesign.
