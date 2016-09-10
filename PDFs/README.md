@@ -1,1 +1,1 @@
-#Here are some PDFs that explain how to things
+#Here are some PDFs that explain how to do things
