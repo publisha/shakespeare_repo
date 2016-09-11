@@ -30,7 +30,7 @@ A file will be created in your work folder (where you unpacked the downloaded fi
 
 ![][image-2]
 
-In the following weeks we will convert our text to a more sustainable format (ICML), but for this exercise Microsoft Word is our chosen format.
+In the following weeks we will convert our text to a more appropriate format (ICML), but for this exercise **Microsoft Word** is our chosen format.
 
 ### Starting InDesign
 Open InDesign. You can find the application by selecting the Launchpad on the dock (lower left).
