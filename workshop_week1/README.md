@@ -8,6 +8,7 @@ This is not a comprehensive explanation of the workshop. Just enough to get you 
 ### Getting the files
 Go to the GitHub repository and download the ZIP
 
+
 ![][image-1]
 
 This ZIP file should be delivered to your Downloads folder and will probably unpack.
