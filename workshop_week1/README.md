@@ -1,6 +1,6 @@
 # Design and Production
 ## Week 1 Workshop Instructions
-Chris Jennings 2016
+Chris Jennings September 2016
 
 ### Introduction
 This is not a comprehensive explanation of the workshop. Just enough to get you started.
