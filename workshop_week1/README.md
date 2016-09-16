@@ -3,7 +3,7 @@
 Chris Jennings September 2016
 
 ### Introduction
-This is not a comprehensive explanation of the workshop. Just enough to get you started.
+This is not a comprehensive explanation of the workshop. Just enough to get you started. I will be covering more on the day, but we see how far we get.
 
 ### Getting the files
 Go to the GitHub repository and download the ZIP
