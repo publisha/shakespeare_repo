@@ -1,11 +1,11 @@
-#InDesign Scripts
+# InDesign Scripts
 
 Here are some scripts for InDesign.
 
-##search_change_case.jsx
+## search_change_case.jsx
 this will help change the case (from all caps to title case)
 
-##How to add the script to InDesign
+## How to add the script to InDesign
 
 - You will find the script menu item under Window > Utilities > Scripts
 - Now right click over **User**
