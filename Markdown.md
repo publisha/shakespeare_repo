@@ -35,7 +35,7 @@ This is a paragraph but if I know need a second paragraph I will need to hit the
 
 Here is the second paragraph and I am also adding some *italics* text and a little bit of **bold**. To get this second paragraph I entered the return key twice.
 ```
-##Lists
+## Lists
 
 If we want a list with bullet points then we do this:
 
@@ -73,7 +73,7 @@ A numbered list works like this:
 3. Discuss
 4. Deliver
 
-##Blockquotes
+## Blockquotes
 
 If you want to indent some text as in a quotation then you use this > in front
 
@@ -99,18 +99,18 @@ Our dreadful marches to delightful measures.
 
 If you want multiple lines like this in one blockqute then you need a **soft-break** at the end of each line. A soft-break in this editor is achieved by using shift-break. You will notice though that you do not need the > at the front of each line. It is optional.
 
-###More Markdown
+### More Markdown
 There are **lots** of other things that you can do with Markdown, such as links, images and code, but for our purposes we are going to leave more sophisticated formatting until we get our text into _InDesign_.
 
-##Markdown to InDesign
+## Markdown to InDesign
 Although there is a script that will help us get our text into InDesign, there is one element that we cannot resolve with a script; *footnotes* are a little more complex. So, we need to convert our markdown copy to another text format that InDesign can use. It turns out that we can convert to _ICML_. This is a format that the InDesign sister program uses called *InCopy*.
 
-###Pandoc to the rescue
+### Pandoc to the rescue
 Fortunately the clever http://johnmacfarlane.net/ has created this software to convert anything to anything else. We have already converted the _Life of Shakespeare_ to an ICML file but if you want to edit 'Life of Shakespeare' text and convert it yourself you can open the file in TextWrangler, make the cnages and then from the script menu choose BBpandoc-master>pandoc-icml. This will create a file with the same name ie; Outline-of-his-life.md.
 
 `pandoc -s -o shakespeare.icml Downloads/Outline-of-his-life.md`
 
-##From ICML to InDesign
+## From ICML to InDesign
 Once you have your inDesign document started then use File>Place> choose the ICML file and the text will flow.
 
 The relationship between InCopy and InDesign is worth knowing. InCopy can be used to continue to edit the text even after it has been 'placed' into InDesign. If you don't want to do this, simply go to the Links menu and rght click over the linked file > then select 'unlink'.
