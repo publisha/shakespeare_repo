@@ -12,25 +12,25 @@ I am entering the markdown tags by using special character, but if you view this
 ```
 I entered the text above thus:
 # Markdown
-##Introduction
+## Introduction
 Before we begin, I should explain that I am editing this text in markdown. I am entering the markdown tags by using special character, but if you view this in the editor, you will notice 2 things:
 
 - You can use the editor toolbar at the top, to create the structure (H1,H2,H3 etc)
 - I have used the code block (starting and finishing with 3 backticks \`\`\`) to display what the markdown syntax looks like)
 ```
 There are some differences between the way markdown is implented in various software and online tools.
-##Here is some 'markdown' (this is a second level heading)
+## Here is some 'markdown' (this is a second level heading)
 You will notice that I didn't press the return key twice because I am entering text after a heading. You *can* enter the return twice and it will still display as a new line with a break.
-###This is a third level heading and I also do not need to enter twice
+### This is a third level heading and I also do not need to enter twice
 This is a paragraph but if I know need a second paragraph I will need to hit the return twice.
 
 Here is the second paragraph and I am also adding some *italics* text and a little bit of **bold**. To get this second paragraph I entered the return key twice.
 
 ```
 I entered this thus:
-##Here is some 'markdown' (this is a second level heading)
+## Here is some 'markdown' (this is a second level heading)
 You will notice that I didn't press the return key twice because I am entering text after a heading. You *can* enter the return twice and it will still display as a new line with a break.
-###This is a third level heading and I also do not need to enter twice
+### This is a third level heading and I also do not need to enter twice
 This is a paragraph but if I know need a second paragraph I will need to hit the return twice.
 
 Here is the second paragraph and I am also adding some *italics* text and a little bit of **bold**. To get this second paragraph I entered the return key twice.
