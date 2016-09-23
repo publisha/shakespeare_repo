@@ -1,5 +1,5 @@
-#Shakespeare Book assignment for *Design and Production*
-##Various Assets provided for creating a Shakespeare book.
+# Shakespeare Book assignment for *Design and Production*
+## Various Assets provided for creating a Shakespeare book.
 
 > Before you download the ZIP file, explore these resources buy reading the readme files.
 
@@ -13,7 +13,7 @@ This is totally optional. You do not need to edit this text for this first part 
 
  - Download the zip file
  - Locate the file 'Outline-of-his-life.md'
- - Right click this file and select 'open with ...' 
+ - Right click this file and select 'open with ...'
  - Choose **TextWrangler**
  - You will see that the text is in *Markdown*. Read about this here: [Markdown Tutorial](http://www.markdowntutorial.com)
  - Make your changes and save
@@ -21,11 +21,11 @@ This is totally optional. You do not need to edit this text for this first part 
  - Click here and select BBpandoc-master> Pandoc-icml.
  - This will then save a new copy of *Outline-of-his-life.icml*
  - This is the file that you should place into the InDesign template
- 
-##What else is here?
+
+## What else is here?
 Apart from the text described above, you have also been provided with a selection of images and some InDesign templates. The templates are explained in the Readme file in the resources folder and the images are availble for preview in the images folder.
 
-###Files for the first Workshop
+### Files for the first Workshop
 I have provided here a reduced sample of the text. We will use this in the first workshop together with some images found in the images folder.
 
 The first step is for us to convert the text (workshop_sample.md) into a file that can be **Placed** into InDesign. We will do this with *TextWrangler*.
