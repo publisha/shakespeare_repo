@@ -44,9 +44,10 @@ The next important reference is from _Palladis Tamia_, by Francis Meres (1598):
 
 > "Quod non imber edax: Non Aquilo impotius possit diruere: aut innumerabilis annorum series et fuga temporum: so say I severally of Sir Philip Sidneys Spencers Daniels Draytons Shakespeares and Warners workes."
 
-This is the earliest claim for the supremacy of Shakespeare in the English theatre, a claim never seriously disputed from that day to this. The numerous other contemporary allusions to Shakespeare's fame, which fill the _Shakespeare Allusion Book_,[^6] add nothing to our purpose; but merely confirm the statement that throughout his life his readers knew and admitted his worth. The chorus of praise continued from people of all classes. John Weever, the epigrammatist, and Richard Camden, the antiquarian, praised Shakespeare highly, and Michael Drayton, the poet, called him "perfection in a man." Finally, Ben Jonson, his most famous competitor for public applause, crowned our poet's fame with his poem, prefixed to the first collected edition of Shakespeare's famous First Folio of 1623: "To the Memory of my beloved, the author, Mr. William Shakespeare, and what he hath left us.
+This is the earliest claim for the supremacy of Shakespeare in the English theatre, a claim never seriously disputed from that day to this. The numerous other contemporary allusions to Shakespeare's fame, which fill the _Shakespeare Allusion Book_,[^6] add nothing to our purpose; but merely confirm the statement that throughout his life his readers knew and admitted his worth. The chorus of praise continued from people of all classes. John Weever, the epigrammatist, and Richard Camden, the antiquarian, praised Shakespeare highly, and Michael Drayton, the poet, called him "perfection in a man." Finally, Ben Jonson, his most famous competitor for public applause, crowned our poet's fame with his poem, prefixed to the first collected edition of Shakespeare's famous First Folio of 1623:
 
-"He was not of an age, but for all time!"
+> "To the Memory of my beloved, the author, Mr. William Shakespeare, and what he hath left us.
+> He was not of an age, but for all time!"
 
 ## Shakespeare as an Actor
 The allusion quoted above of Henry Chettle praises Shakespeare's excellence _in the qualitie he professes._ Stronger evidence is afforded by some of the title-pages of plays printed during the poet's life. Thus Ben Jonson's _Every Man in his Humour_ says on its title-page: _Every One in his Umor_.
