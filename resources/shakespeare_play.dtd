@@ -2,7 +2,7 @@
 <!ELEMENT dramatis_personae (dramatis_head?,charactername+,play_location?)>
 <!ELEMENT charactername (#PCDATA | character_role)*>
 <!ELEMENT character_role (#PCDATA)>
-<!ELEMENT play ((act,(((firstscene|scene)+,location?,(stage_directions|character|prose|verseline|song)+))*)*)>
+<!ELEMENT play ((act,(((firstscene|scene)+,location?,(stage_directions|stage_action|character|prose|verseline|song)+))*)*)>
 <!ELEMENT location (#PCDATA | scene_image)*>
 <!ELEMENT dramatis_head (#PCDATA)>
 <!ELEMENT play_location (#PCDATA)>
@@ -10,6 +10,7 @@
 <!ELEMENT firstscene (#PCDATA)>
 <!ELEMENT scene (#PCDATA)>
 <!ELEMENT stage_directions (#PCDATA)>
+<!ELEMENT stage_action (#PCDATA)>
 <!ELEMENT character (#PCDATA)>
 <!ELEMENT prose (#PCDATA)>
 <!ELEMENT verseline (#PCDATA)>
