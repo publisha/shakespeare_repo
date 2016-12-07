@@ -1,14 +1,16 @@
-# Shakespeare Book assignment for *Design and Production*
+# Shakespeare Book assignment for *Design and Production* and *Multi-platform Publishing*
 ## Various Assets provided for creating a Shakespeare book.
 
-> Before you download the ZIP file, explore these resources buy reading the readme files.
+<!-- Note: Chris J keeps this locally on his Google Drive at teaching/DesignandProduction -->
 
-##What is here?
+> Before you download the ZIP file, explore these resources by reading the readme files.
+
+## What is here?
 You will find the text for 'The Life of Shakespeare' that can be used for the introductory pages of your book. The text is provided in *markdown* but is also converted to *ICML* format for direct placing into InDesign.
 
 The text includes a basic structure, with headings and some inine styles (*italics* and **bold**). There are also some footnotes which will also succesfully be transferred to InDesign.
 
-##Editing the text
+## Editing the text
 This is totally optional. You do not need to edit this text for this first part of the assignment. If you do want to make changes to the text, you can follow these steps:
 
  - Download the zip file
