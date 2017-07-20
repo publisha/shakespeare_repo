@@ -3,7 +3,7 @@ This folder contains images for you to use on the cover of your book and in the 
 
 Each of these images includes metadata that describes the image. You can extract the metadata for captions by viewing the File Info... in Photoshop.
 
-Images for specific plays can be found at http://luna.folger.edu but please be aware that the images found on the web are NOT likely to be in high enough resolution for your cover designs and so you will need to edit any of the images from here to CMYK and 300ppi.
+Images for specific plays can be found at http://luna.folger.edu but please be aware that the images found on the web are NOT likely to be in high enough resolution for your cover designs and so you will need to edit any of the images from that web site to CMYK and 300ppi (sometimes referred to as dots per inch - DPI)
 
 ## Portraits of Shakespeare
 ![chandos\_engraving.jpg][image-1]
@@ -32,4 +32,3 @@ Shakespeare's Birthplace, Stratford-upon-Avon
 [image-5]:	firstfoliotitlepage.jpg "The First Folio Title Page"
 [image-6]:	globe_theatre.jpg "Globe"
 [image-7]:	Birthplace_Stratford-upon-Avon.jpg "Birthplace"
-
