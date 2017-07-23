@@ -1,4 +1,4 @@
-# Shakespeare Book assignment for *Design and Production* and *Multi-platform Publishing*
+# Shakespeare Book assignment for *Design and Production*
 ## Various Assets provided for creating a Shakespeare book.
 
 <!-- Note: Chris J keeps this locally on his Google Drive at teaching/DesignandProduction -->
@@ -11,7 +11,7 @@ You will find the text for 'The Life of Shakespeare' that can be used for the in
 The text includes a basic structure, with headings and some inine styles (*italics* and **bold**). There are also some footnotes which will also succesfully be transferred to InDesign.
 
 ## Editing the text
-This is totally optional. You do not need to edit this text for this first part of the assignment. If you do want to make changes to the text, you can follow these steps:
+This is totally optional. You **do not need to edit** this text for this first part of the assignment. If you do want to make changes to the text, you can follow these steps:
 
  - Download the zip file
  - Locate the file 'Outline-of-his-life.md'
@@ -26,3 +26,6 @@ This is totally optional. You do not need to edit this text for this first part 
 
 ## What else is here?
 Apart from the text described above, you have also been provided with a selection of images and some InDesign templates. The templates are explained in the Readme file in the resources folder and the images are available for preview in the images folder.
+
+### The Play texts
+All available play texts from the public domain are in the *text_of_plays* folder.
