@@ -11,9 +11,10 @@
 <!ELEMENT scene (#PCDATA)>
 <!ELEMENT stage_directions (#PCDATA)>
 <!ELEMENT stage_action (#PCDATA)>
-<!ELEMENT character (#PCDATA)>
-<!ELEMENT prose (#PCDATA)>
-<!ELEMENT verseline (#PCDATA)>
+<!ELEMENT character (#PCDATA | stage_directions_inline)*>
+<!ELEMENT prose (#PCDATA | stage_directions_inline)*>
+<!ELEMENT stage_directions_inline (#PCDATA)>
+<!ELEMENT verseline (#PCDATA | stage_directions_inline)*>
 <!ELEMENT song (#PCDATA)>
 <!ELEMENT scene_image (#PCDATA)>
 <!ATTLIST scene_image href CDATA #REQUIRED>
