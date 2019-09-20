@@ -36,3 +36,7 @@ You need to use one of these texts for your project
 - The Winter's Tale
 
 You will need to process the text that you use to remove unwanted space and line breaks. This will be done once the text is placed in InDesign.
+
+## The Synopses
+
+All of the plays have a synopsis provided in the file called `allplaysynopsis.md`. Grab your own play from here and use on the cover back or elsewhere in the book. This text is provided as a `markdown` text but you can copy the section and paste into InDesign.
