@@ -1,0 +1,2735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" []>
+<shakespeareplay title="Much Ado About Nothing">
+<dramatis_personae>
+<dramatis_head>Dramatis Personae </dramatis_head>
+<charactername>Don Pedro, <character_role>Prince of Arragon.</character_role>
+</charactername>
+<charactername>Don John, <character_role>his bastard brother.</character_role></charactername>
+<charactername>Claudio, <character_role>a young lord of Florence.</character_role></charactername>
+<charactername>Benedick, <character_role>a Young lord of Padua.</character_role></charactername>
+<charactername>Leonato, <character_role>Governor of Messina.</character_role></charactername>
+<charactername>Antonio, <character_role>an old man, his brother.</character_role></charactername>
+<charactername>Balthasar, <character_role>attendant on Don Pedro.</character_role></charactername>
+<charactername>Borachio, <character_role>follower of Don John.</character_role></charactername>
+<charactername>Conrade, <character_role>follower of Don John.</character_role></charactername>
+<charactername>Friar Francis</charactername>
+<charactername>Dogberry, <character_role>a Constable.</character_role></charactername>
+<charactername>Verges, <character_role>a Headborough.</character_role></charactername>
+<charactername>
+<character_role>A Sexton</character_role></charactername>
+<charactername>
+<character_role>A Boy.</character_role></charactername>
+<charactername>Hero, <character_role>daughter to Leonato.</character_role></charactername>
+<charactername>Beatrice, <character_role>niece to Leonato.</character_role></charactername>
+<charactername>Margaret, <character_role>waiting gentlewoman attending on Hero.</character_role></charactername>
+<charactername>Ursula, <character_role>waiting gentlewoman attending on Hero.</character_role></charactername>
+<charactername>
+<character_role>Messengers, Watch, Attendants, etc</character_role>
+</charactername>
+<play_location>SCENE.--Messina.</play_location>
+</dramatis_personae>
+<play>
+<act>ACT I </act>
+<firstscene>Scene I</firstscene>
+<location>An orchard before Leonato&#8217;s house</location>
+<stage_directions>Enter Leonato (Governor of Messina), Hero (his Daughter), and Beatrice (his Niece), with a Messenger</stage_directions>
+<character>Leonato </character>
+<prose>I learn in this letter that Don Pedro of Arragon comes this night to Messina</prose>
+<character>Messenger </character>
+<prose>He is very near by this. He was not three leagues off when I left him</prose>
+<character>Leonato </character>
+<verseline>How many gentlemen have you lost in this action? </verseline>
+<character>Messenger </character>
+<verseline>But few of any sort, and none of name</verseline>
+<character>Leonato </character>
+<prose>A victory is twice itself when the achiever brings home full numbers. I find here that Don Pedro hath bestowed much honour on a young Florentine called Claudio</prose>
+<character>Messenger </character>
+<verseline>Much deserv&#8217;d on his part, and equally rememb&#8217;red by Don Pedro. He hath borne himself beyond the promise of his age, doing in the figure of a lamb the feats of a lion. He hath indeed better bett&#8217;red expectation than you must expect of me to tell you how</verseline>
+<character>Leonato </character>
+<verseline>He hath an uncle here in Messina will be very much glad of it</verseline>
+<character>Messenger </character>
+<prose>I have already delivered him letters, and there appears much joy in him; even so much that joy could not show itself modest enough without a badge of bitterness</prose>
+<character>Leonato </character>
+<verseline>Did he break out into tears? </verseline>
+<character>Messenger </character>
+<verseline>In great measure</verseline>
+<character>Leonato </character>
+<prose>A kind overflow of kindness. There are no faces truer than those that are so wash&#8217;d. How much better is it to weep at joy than to joy at weeping! </prose>
+<character>Beatrice </character>
+<verseline>I pray you, is Signior Mountanto return&#8217;d from the wars or no? </verseline>
+<character>Messenger </character>
+<prose>I know none of that name, lady. There was none such in the army of any sort</prose>
+<character>Leonato </character>
+<verseline>What is he that you ask for, niece? </verseline>
+<character>Hero </character>
+<verseline>My cousin means Signior Benedick of Padua</verseline>
+<character>Messenger </character>
+<verseline>O, he&#8217;s return&#8217;d, and as pleasant as ever he was</verseline>
+<character>Beatrice </character>
+<prose>He set up his bills here in Messina and challeng&#8217;d Cupid at the flight, and my uncle&#8217;s fool, reading the challenge, subscrib&#8217;d for Cupid and challeng&#8217;d him at the burbolt. I pray you, how many hath he kill&#8217;d and eaten in these wars? But how many hath he kill&#8217;d? For indeed I promised to eat all of his killing</prose>
+<character>Leonato </character>
+<prose>Faith, niece, you tax Signior Benedick too much; but he&#8217;ll be meet with you, I doubt it not</prose>
+<character>Messenger </character>
+<verseline>He hath done good service, lady, in these wars</verseline>
+<character>Beatrice </character>
+<prose>You had musty victual, and he hath holp to eat it. He is a very valiant trencherman; he hath an excellent stomach</prose>
+<character>Messenger </character>
+<verseline>And a good soldier too, lady</verseline>
+<character>Beatrice </character>
+<verseline>And a good soldier to a lady; but what is he to a lord? </verseline>
+<character>Messenger </character>
+<prose>A lord to a lord, a man to a man; stuff&#8217;d with all honourable virtues</prose>
+<character>Beatrice </character>
+<prose>It is so indeed. He is no less than a stuff&#8217;d man; but for the stuffing--well, we are all mortal</prose>
+<character>Leonato </character>
+<prose>You must not, sir, mistake my niece. There is a kind of merry war betwixt Signior Benedick and her. They never meet but there&#8217;s a skirmish of wit between them</prose>
+<character>Beatrice </character>
+<prose>Alas, he gets nothing by that! In our last conflict four of his five wits went halting off, and now is the whole man govern&#8217;d with one; so that if he have wit enough to keep himself warm, let him bear it for a difference between himself and his horse; for it is all the wealth that he hath left to be known a reasonable creature. Who is his companion now? He hath every month a new sworn brother</prose>
+<character>Messenger </character>
+<verseline>Is&#8217;t possible? </verseline>
+<character>Beatrice </character>
+<prose>Very easily possible. He wears his faith but as the fashion of his hat; it ever changes with the next block</prose>
+<character>Messenger </character>
+<verseline>I see, lady, the gentleman is not in your books</verseline>
+<character>Beatrice </character>
+<prose>No. An he were, I would burn my study. But I pray you, who is his companion? Is there no young squarer now that will make a voyage with him to the devil? </prose>
+<character>Messenger </character>
+<verseline>He is most in the company of the right noble Claudio</verseline>
+<character>Beatrice </character>
+<prose>O Lord, he will hang upon him like a disease! He is sooner caught than the pestilence, and the taker runs presently mad. God help the noble Claudio! If he have caught the Benedick, it will cost him a thousand pound ere &#8216;a be cured</prose>
+<character>Messenger </character>
+<verseline>I will hold friends with you, lady</verseline>
+<character>Beatrice </character>
+<verseline>Do, good friend</verseline>
+<character>Leonato </character>
+<verseline>You will never run mad, niece</verseline>
+<character>Beatrice </character>
+<verseline>No, not till a hot January</verseline>
+<character>Messenger </character>
+<verseline>Don Pedro is approach&#8217;d</verseline>
+<stage_directions>Enter Don Pedro, Claudio, Benedick, Balthasar, and John the Bastard</stage_directions>
+<character>Don Pedro </character>
+<prose>Good Signior Leonato, are you come to meet your trouble? The fashion of the world is to avoid cost, and you encounter it</prose>
+<character>Leonato </character>
+<prose>Never came trouble to my house in the likeness of your Grace; for trouble being gone, comfort should remain; but when you depart from me, sorrow abides and happiness takes his leave</prose>
+<character>Don Pedro </character>
+<prose>You embrace your charge too willingly. I think this is your daughter</prose>
+<character>Leonato </character>
+<verseline>Her mother hath many times told me so</verseline>
+<character>Benedick </character>
+<verseline>Were you in doubt, sir, that you ask&#8217;d her? </verseline>
+<character>Leonato </character>
+<verseline>Signior Benedick, no; for then were you a child</verseline>
+<character>Don Pedro </character>
+<prose>You have it full, Benedick. We may guess by this what you are, being a man. Truly the lady fathers herself. Be happy, lady; for you are like an honourable father</prose>
+<character>Benedick </character>
+<prose>If Signior Leonato be her father, she would not have his head on her shoulders for all Messina, as like him as she is</prose>
+<character>Beatrice </character>
+<verseline>I wonder that you will still be talking, Signior Benedick</verseline>
+<verseline>Nobody marks you</verseline>
+<character>Benedick </character>
+<verseline>What, my dear Lady Disdain! are you yet living? </verseline>
+<character>Beatrice </character>
+<prose>Is it possible Disdain should die while she hath such meet food to feed it as Signior Benedick? Courtesy itself must convert to disdain if you come in her presence</prose>
+<character>Benedick </character>
+<prose>Then is courtesy a turncoat. But it is certain I am loved of all ladies, only you excepted; and I would I could find in my heart that I had not a hard heart, for truly I love none</prose>
+<character>Beatrice </character>
+<prose>A dear happiness to women! They would else have been troubled with a pernicious suitor. I thank God and my cold blood, I am of your humour for that. I had rather hear my dog bark at a crow than a man swear he loves me</prose>
+<character>Benedick </character>
+<prose>God keep your ladyship still in that mind! So some gentleman or other shall scape a predestinate scratch&#8217;d face</prose>
+<character>Beatrice </character>
+<prose>Scratching could not make it worse an &#8216;twere such a face as yours were</prose>
+<character>Benedick </character>
+<verseline>Well, you are a rare parrot-teacher</verseline>
+<character>Beatrice </character>
+<verseline>A bird of my tongue is better than a beast of yours</verseline>
+<character>Benedick </character>
+<prose>I would my horse had the speed of your tongue, and so good a continuer. But keep your way, a God&#8217;s name! I have done</prose>
+<character>Beatrice </character>
+<verseline>You always end with a jade&#8217;s trick. I know you of old</verseline>
+<character>Don Pedro </character>
+<verseline>That is the sum of all, Leonato. Signior Claudio and Signior Benedick, my dear friend Leonato hath invited you all. I tell him we shall stay here at the least a month, and he heartly prays some occasion may detain us longer. I dare swear he is no hypocrite, but prays from his heart</verseline>
+<character>Leonato </character>
+<verseline>If you swear, my lord, you shall not be forsworn.  </verseline>
+<verseline>
+<stage_directions_inline>[To Don John]</stage_directions_inline>
+</verseline>
+<verseline>Let me bid you welcome, my lord. Being reconciled to the Prince your brother, I owe you all duty</verseline>
+<character>Don John </character>
+<verseline>I thank you. I am not of many words, but I thank you</verseline>
+<character>Leonato </character>
+<verseline>Please it your Grace lead on? </verseline>
+<character>Don Pedro </character>
+<verseline>Your hand, Leonato. We will go together</verseline>
+<stage_directions>Exeunt. Manent Benedick and Claudio</stage_directions>
+<character>Claudio </character>
+<verseline>Benedick, didst thou note the daughter of Signior Leonato? </verseline>
+<character>Benedick </character>
+<verseline>I noted her not, but I look&#8217;d on her</verseline>
+<character>Claudio </character>
+<verseline>Is she not a modest young lady? </verseline>
+<character>Benedick </character>
+<prose>Do you question me, as an honest man should do, for my simple true judgment? or would you have me speak after my custom, as being a professed tyrant to their sex? </prose>
+<character>Claudio </character>
+<verseline>No. I pray thee speak in sober judgment</verseline>
+<character>Benedick </character>
+<prose>Why, i&#8217; faith, methinks she&#8217;s too low for a high praise, too brown for a fair praise, and too little for a great praise. Only this commendation I can afford her, that were she other than she is, she were unhandsome, and being no other but as she is, I do not like her</prose>
+<character>Claudio </character>
+<prose>Thou thinkest I am in sport. I pray thee tell me truly how thou lik&#8217;st her</prose>
+<character>Benedick </character>
+<verseline>Would you buy her, that you enquire after her? </verseline>
+<character>Claudio </character>
+<verseline>Can the world buy such a jewel? </verseline>
+<character>Benedick </character>
+<prose>Yea, and a case to put it into. But speak you this with a sad brow? or do you play the flouting Jack, to tell us Cupid is a good hare-finder and Vulcan a rare carpenter? Come, in what key shall a man take you to go in the song? </prose>
+<character>Claudio </character>
+<verseline>In mine eye she is the sweetest lady that ever I look&#8217;d on</verseline>
+<character>Benedick </character>
+<verseline>I can see yet without spectacles, and I see no such matter. There&#8217;s her cousin, an she were not possess&#8217;d with a fury,exceeds her as much in beauty as the first of May doth the last of December. But I hope you have no intent to turn husband, have you? </verseline>
+<character>Claudio </character>
+<prose>I would scarce trust myself, though I had sworn the contrary, if Hero would be my wife</prose>
+<character>Benedick </character>
+<prose>Is&#8217;t come to this? In faith, hath not the world one man but he will wear his cap with suspicion? Shall I never see a bachelor of threescore again? Go to, i&#8217; faith! An thou wilt needs thrust thy neck into a yoke, wear the print of it and sigh away Sundays</prose>
+<stage_directions>Enter Don Pedro</stage_directions>
+<verseline>Look! Don Pedro is returned to seek you</verseline>
+<character>Don Pedro </character>
+<verseline>What secret hath held you here, that you followed not to Leonato&#8217;s? </verseline>
+<character>Benedick </character>
+<verseline>I would your Grace would constrain me to tell</verseline>
+<character>Don Pedro </character>
+<verseline>I charge thee on thy allegiance</verseline>
+<character>Benedick </character>
+<prose>You hear, Count Claudio. I can be secret as a dumb man, I would have you think so; but, on my allegiance--mark you this-on my allegiance! he is in love. With who? Now that is your Grace&#8217;s part. Mark how short his answer is: With Hero, Leonato&#8217;s short daughter</prose>
+<character>Claudio </character>
+<verseline>If this were so, so were it utt&#8217;red</verseline>
+<character>Benedick </character>
+<prose>Like the old tale, my lord: &#8216;It is not so, nor &#8216;twas not so; but indeed, God forbid it should be so!&#8217; </prose>
+<character>Claudio </character>
+<prose>If my passion change not shortly, God forbid it should be otherwise</prose>
+<character>Don Pedro </character>
+<verseline>Amen, if you love her; for the lady is very well worthy</verseline>
+<character>Claudio </character>
+<verseline>You speak this to fetch me in, my lord</verseline>
+<character>Don Pedro </character>
+<verseline>By my troth, I speak my thought</verseline>
+<character>Claudio </character>
+<verseline>And, in faith, my lord, I spoke mine</verseline>
+<character>Benedick </character>
+<verseline>And, by my two faiths and troths, my lord, I spoke mine</verseline>
+<character>Claudio </character>
+<verseline>That I love her, I feel</verseline>
+<character>Don Pedro </character>
+<verseline>That she is worthy, I know</verseline>
+<character>Benedick </character>
+<prose>That I neither feel how she should be loved, nor know how she should be worthy, is the opinion that fire cannot melt out of me. I will die in it at the stake</prose>
+<character>Don Pedro </character>
+<prose>Thou wast ever an obstinate heretic in the despite of beauty</prose>
+<character>Claudio </character>
+<prose>And never could maintain his part but in the force of his will</prose>
+<character>Benedick </character>
+<prose>That a woman conceived me, I thank her; that she brought me up, I likewise give her most humble thanks; but that I will have a rechate winded in my forehead, or hang my bugle in an invisible baldrick, all women shall pardon me. Because I will not do them the wrong to mistrust any, I will do myself the right to trust none; and the fine is (for the which I may go the finer), I will live a bachelor</prose>
+<character>Don Pedro </character>
+<verseline>I shall see thee, ere I die, look pale with love</verseline>
+<character>Benedick </character>
+<prose>With anger, with sickness, or with hunger, my lord; not with love. Prove that ever I lose more blood with love than I will get again with drinking, pick out mine eyes with a ballad-maker&#8217;s pen and hang me up at the door of a brothel house for the sign of blind Cupid</prose>
+<character>Don Pedro </character>
+<prose>Well, if ever thou dost fall from this faith, thou wilt prove a notable argument</prose>
+<character>Benedick </character>
+<prose>If I do, hang me in a bottle like a cat and shoot at me; and he that hits me, let him be clapp&#8217;d on the shoulder and call&#8217;d Adam</prose>
+<character>Don Pedro </character>
+<verseline>Well, as time shall try. &#8216;In time the savage bull doth bear the yoke.&#8217; </verseline>
+<character>Benedick </character>
+<prose>The savage bull may; but if ever the sensible Benedick bear it, pluck off the bull&#8217;s horns and set them in my forehead, and let me be vilely painted, and in such great letters as they write &#8216;Here is good horse to hire,&#8217; let them signify under my sign &#8216;Here you may see Benedick the married man.&#8217; </prose>
+<character>Claudio </character>
+<verseline>If this should ever happen, thou wouldst be horn-mad</verseline>
+<character>Don Pedro </character>
+<prose>Nay, if Cupid have not spent all his quiver in Venice, thou wilt quake for this shortly</prose>
+<character>Benedick </character>
+<verseline>I look for an earthquake too then</verseline>
+<character>Don Pedro </character>
+<prose>Well, you will temporize with the hours. In the meantime, good Signior Benedick, repair to Leonato&#8217;s, commend me to him and tell him I will not fail him at supper; for indeed he hath made great preparation</prose>
+<character>Benedick </character>
+<prose>I have almost matter enough in me for such an embassage; and so I commit you-- </prose>
+<character>Claudio </character>
+<verseline>To the tuition of God. From my house--if I had it-- </verseline>
+<character>Don Pedro </character>
+<verseline>The sixth of July. Your loving friend, Benedick</verseline>
+<character>Benedick </character>
+<prose>Nay, mock not, mock not. The body of your discourse is sometime guarded with fragments, and the guards are but slightly basted on neither. Ere you flout old ends any further, examine your conscience. And so I leave you</prose>
+<stage_directions>Exit</stage_directions>
+<character>Claudio </character>
+<verseline>My liege, your Highness now may do me good</verseline>
+<character>Don Pedro </character>
+<verseline>My love is thine to teach. Teach it but how, And thou shalt see how apt it is to learn Any hard lesson that may do thee good</verseline>
+<character>Claudio </character>
+<verseline>Hath Leonato any son, my lord? </verseline>
+<character>Don Pedro </character>
+<verseline>No child but Hero; she&#8217;s his only heir</verseline>
+<verseline>Dost thou affect her, Claudio? </verseline>
+<character>Claudio </character>
+<verseline>O my lord, </verseline>
+<verseline>When you went onward on this ended action, </verseline>
+<verseline>I look&#8217;d upon her with a soldier&#8217;s eye, </verseline>
+<verseline>That lik&#8217;d, but had a rougher task in hand </verseline>
+<verseline>Than to drive liking to the name of love; </verseline>
+<verseline>But now I am return&#8217;d and that war-thoughts </verseline>
+<verseline>Have left their places vacant, in their rooms </verseline>
+<verseline>Come thronging soft and delicate desires, </verseline>
+<verseline>All prompting me how fair young Hero is, </verseline>
+<verseline>Saying I lik&#8217;d her ere I went to wars</verseline>
+<character>Don Pedro </character>
+<verseline>Thou wilt be like a lover presently </verseline>
+<verseline>And tire the hearer with a book of words</verseline>
+<verseline>If thou dost love fair Hero, cherish it, </verseline>
+<verseline>And I will break with her and with her father, </verseline>
+<verseline>And thou shalt have her. Wast not to this end </verseline>
+<verseline>That thou began&#8217;st to twist so fine a story? </verseline>
+<character>Claudio </character>
+<verseline>How sweetly you do minister to love, </verseline>
+<verseline>That know love&#8217;s grief by his complexion! </verseline>
+<verseline>But lest my liking might too sudden seem, </verseline>
+<verseline>I would have salv&#8217;d it with a longer treatise</verseline>
+<character>Don Pedro </character>
+<verseline>What need the bridge much broader than the flood? </verseline>
+<verseline>The fairest grant is the necessity</verseline>
+<verseline>Look, what will serve is fit. &#8216;Tis once, thou lovest, </verseline>
+<verseline>And I will fit thee with the remedy</verseline>
+<verseline>I know we shall have revelling to-night</verseline>
+<verseline>I will assume thy part in some disguise </verseline>
+<verseline>And tell fair Hero I am Claudio, </verseline>
+<verseline>And in her bosom I&#8217;ll unclasp my heart </verseline>
+<verseline>And take her hearing prisoner with the force </verseline>
+<verseline>And strong encounter of my amorous tale</verseline>
+<verseline>Then after to her father will I break, </verseline>
+<verseline>And the conclusion is, she shall be thine</verseline>
+<verseline>In practice let us put it presently</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene II</scene>
+<location>A room in Leonato&#8217;s house</location>
+<stage_directions>Enter [at one door] Leonato and [at another door, Antonio] an old man, brother to Leonato</stage_directions>
+<character>Leonato </character>
+<prose>How now, brother? Where is my cousin your son? Hath he provided this music? </prose>
+<character>Antonio </character>
+<prose>He is very busy about it. But, brother, I can tell you strange news that you yet dreamt not of</prose>
+<character>Leonato </character>
+<verseline>Are they good? </verseline>
+<character>Antonio </character>
+<prose>As the event stamps them; but they have a good cover, they show well outward. The Prince and Count Claudio, walking in a thick-pleached alley in mine orchard, were thus much overheard by a man of mine: the Prince discovered to Claudio that he loved my niece your daughter and meant to acknowledge it this night in a dance, and if he found her accordant, he meant to take the present time by the top and instantly break with you of it</prose>
+<character>Leonato </character>
+<verseline>Hath the fellow any wit that told you this? </verseline>
+<character>Antonio </character>
+<prose>A good sharp fellow. I will send for him, and question him yourself</prose>
+<character>Leonato </character>
+<verseline>No, no. We will hold it as a dream till it appear itself; but I will acquaint my daughter withal, that she may be the better prepared for an answer, if peradventure this be true. Go you and tell her of it</verseline>
+<stage_directions>[Exit Antonio.] </stage_directions>
+<stage_directions>[Enter Antonio&#8217;s Son with a Musician, and others.] </stage_directions>
+<prose>
+<stage_directions_inline>[To the Son]</stage_directions_inline>
+</prose>
+<verseline>Cousin, you know what you have to do</verseline>
+<prose>
+<stage_directions_inline>--[To the Musician] </stage_directions_inline>
+</prose>
+<prose>O, I cry you mercy, friend. Go you with me, and I will use your skill.--Good cousin, have a care this busy time</prose>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene III</scene>
+<location>[Another room in Leonato&#8217;s house.] </location>
+<stage_directions>Enter Sir John the Bastard and Conrade, his companion</stage_directions>
+<character>Conrade </character>
+<prose>What the goodyear, my lord! Why are you thus out of measure sad? </prose>
+<character>Don John </character>
+<prose>There is no measure in the occasion that breeds; therefore the sadness is without limit</prose>
+<character>Conrade </character>
+<verseline>You should hear reason</verseline>
+<character>Don John </character>
+<verseline>And when I have heard it, what blessings brings it? </verseline>
+<character>Conrade </character>
+<verseline>If not a present remedy, at least a patient sufferance</verseline>
+<character>Don John </character>
+<prose>I wonder that thou (being, as thou say&#8217;st thou art, born under Saturn) goest about to apply a moral medicine to a mortifying mischief. I cannot hide what I am: I must be sad when I have cause, and smile at no man&#8217;s jests; eat when I have stomach, and wait for no man&#8217;s leisure; sleep when I am drowsy, and tend on no man&#8217;s business; laugh when I am merry, and claw no man in his humour</prose>
+<character>Conrade </character>
+<prose>Yea, but you must not make the full show of this till you may do it without controlment. You have of late stood out against your brother, and he hath ta&#8217;en you newly into his grace, where it is impossible you should take true root but by the fair weather that you make yourself. It is needful that you frame the season for your own harvest</prose>
+<character>Don John </character>
+<prose>I had rather be a canker in a hedge than a rose in his grace, and it better fits my blood to be disdain&#8217;d of all than to fashion a carriage to rob love from any. In this, though I cannot be said to be a flattering honest man, it must not be denied but I am a plain-dealing villain. I am trusted with a muzzle and enfranchis&#8217;d with a clog; therefore I have decreed not to sing in my cage. If I had my mouth, I would bite; if I had my liberty, I would do my liking. In the meantime let me be that I am, and seek not to alter me</prose>
+<character>Conrade </character>
+<verseline>Can you make no use of your discontent? </verseline>
+<character>Don John </character>
+<verseline>I make all use of it, for I use it only</verseline>
+<stage_directions>Enter Borachio</stage_directions>
+<verseline>Who comes here? What news, Borachio? </verseline>
+<character>Borachio </character>
+<prose>I came yonder from a great supper. The Prince your brother is royally entertain&#8217;d by Leonato, and I can give you intelligence of an intended marriage</prose>
+<character>Don John </character>
+<verseline>Will it serve for any model to build mischief on? </verseline>
+<verseline>What is he for a fool that betroths himself to unquietness? </verseline>
+<character>Borachio </character>
+<verseline>Marry, it is your brother&#8217;s right hand</verseline>
+<character>Don John </character>
+<verseline>Who? the most exquisite Claudio? </verseline>
+<character>Borachio </character>
+<verseline>Even he</verseline>
+<character>Don John </character>
+<verseline>A proper squire! And who? and who? which way looks he? </verseline>
+<character>Borachio </character>
+<verseline>Marry, on Hero, the daughter and heir of Leonato</verseline>
+<character>Don John </character>
+<verseline>A very forward March-chick! How came you to this? </verseline>
+<character>Borachio </character>
+<prose>Being entertain&#8217;d for a perfumer, as I was smoking a musty room, comes me the Prince and Claudio, hand in hand in sad conference. I whipt me behind the arras and there heard it agreed upon that the Prince should woo Hero for himself, and having obtain&#8217;d her, give her to Count Claudio</prose>
+<character>Don John </character>
+<prose>Come, come, let us thither. This may prove food to my displeasure. That young start-up hath all the glory of my overthrow. If I can cross him any way, I bless myself every way. You are both sure, and will assist me? </prose>
+<character>Conrade </character>
+<verseline>To the death, my lord</verseline>
+<character>Don John </character>
+<verseline>Let us to the great supper. Their cheer is the greater that </verseline>
+<prose>I am subdued. Would the cook were o&#8217; my mind! Shall we go prove what&#8217;s to be done? </prose>
+<character>Borachio </character>
+<verseline>We&#8217;ll wait upon your lordship</verseline>
+<stage_directions>Exeunt</stage_directions>
+<act>ACT II.  </act>
+<firstscene>Scene I </firstscene>
+<location>A hall in Leonato&#8217;s house</location>
+<stage_directions>Enter Leonato, [Antonio] his Brother, Hero his Daughter, and Beatrice his Niece, and a Kinsman; [also Margaret and Ursula]</stage_directions>
+<character>Leonato </character>
+<verseline>Was not Count John here at supper? </verseline>
+<character>Antonio </character>
+<verseline>I saw him not</verseline>
+<character>Beatrice </character>
+<prose>How tartly that gentleman looks! I never can see him but I am heart-burn&#8217;d an hour after</prose>
+<character>Hero </character>
+<verseline>He is of a very melancholy disposition</verseline>
+<character>Beatrice </character>
+<prose>He were an excellent man that were made just in the midway between him and Benedick. The one is too like an image and says nothing, and the other too like my lady&#8217;s eldest son, evermore tattling</prose>
+<character>Leonato </character>
+<prose>Then half Signior Benedick&#8217;s tongue in Count John&#8217;s mouth, and half Count John&#8217;s melancholy in Signior Benedick&#8217;s face-- </prose>
+<character>Beatrice </character>
+<prose>With a good leg and a good foot, uncle, and money enough in his purse, such a man would win any woman in the world--if &#8216;a could get her good will</prose>
+<character>Leonato </character>
+<prose>By my troth, niece, thou wilt never get thee a husband if thou be so shrewd of thy tongue</prose>
+<character>Antonio </character>
+<verseline>In faith, she&#8217;s too curst</verseline>
+<character>Beatrice </character>
+<prose>Too curst is more than curst. I shall lessen God&#8217;s sending that way, for it is said, &#8216;God sends a curst cow short horns,&#8217; but to a cow too curst he sends none</prose>
+<character>Leonato </character>
+<verseline>So, by being too curst, God will send you no horns</verseline>
+<character>Beatrice </character>
+<prose>Just, if he send me no husband; for the which blessing I am at him upon my knees every morning and evening. Lord, I could not endure a husband with a beard on his face. I had rather lie in the woollen! </prose>
+<character>Leonato </character>
+<verseline>You may light on a husband that hath no beard</verseline>
+<character>Beatrice </character>
+<prose>What should I do with him? dress him in my apparel and make him my waiting gentlewoman? He that hath a beard is more than a youth, and he that hath no beard is less than a man; and he that is more than a youth is not for me; and he that is less than a man, I am not for him. Therefore I will even take sixpence in earnest of the berrord and lead his apes into hell</prose>
+<character>Leonato </character>
+<verseline>Well then, go you into hell? </verseline>
+<character>Beatrice </character>
+<prose>No; but to the gate, and there will the devil meet me like an old cuckold with horns on his head, and say &#8216;Get you to heaven, </prose>
+<prose>Beatrice, get you to heaven. Here&#8217;s no place for you maids.&#8217; So deliver I up my apes, and away to Saint Peter--for the heavens. He shows me where the bachelors sit, and there live we as merry as the day is long</prose>
+<character>Antonio </character>
+<prose>[to Hero] Well, niece, I trust you will be rul&#8217;d by your father</prose>
+<character>Beatrice </character>
+<verseline>Yes faith. It is my cousin&#8217;s duty to make cursy and say, </verseline>
+<prose>&#8216;Father, as it please you.&#8217; But yet for all that, cousin, let him be a handsome fellow, or else make another cursy, and say, &#8216;Father, as it please me.&#8217; </prose>
+<character>Leonato </character>
+<verseline>Well, niece, I hope to see you one day fitted with a husband</verseline>
+<character>Beatrice </character>
+<prose>Not till God make men of some other metal than earth. Would it not grieve a woman to be overmaster&#8217;d with a piece of valiant dust? to make an account of her life to a clod of wayward marl? No, uncle, I&#8217;ll none. Adam&#8217;s sons are my brethren, and truly I hold it a sin to match in my kinred</prose>
+<character>Leonato </character>
+<prose>Daughter, remember what I told you. If the Prince do solicit you in that kind, you know your answer</prose>
+<character>Beatrice </character>
+<prose>The fault will be in the music, cousin, if you be not wooed in good time. If the Prince be too important, tell him there is measure in everything, and so dance out the answer. For, hear me, Hero: wooing, wedding, and repenting is as a Scotch jig, a measure, and a cinque-pace: the first suit is hot and hasty like a Scotch jig--and full as fantastical; the wedding, mannerly modest, as a measure, full of state and ancientry; and then comes Repentance and with his bad legs falls into the cinque-pace faster and faster, till he sink into his grave</prose>
+<character>Leonato </character>
+<verseline>Cousin, you apprehend passing shrewdly</verseline>
+<character>Beatrice </character>
+<verseline>I have a good eye, uncle; I can see a church by daylight</verseline>
+<character>Leonato </character>
+<verseline>The revellers are ent&#8217;ring, brother. Make good room</verseline>
+<stage_directions>[Exit Antonio.] </stage_directions>
+<stage_directions>Enter, [masked,] Don Pedro, Claudio, Benedick, and Balthasar. [With them enter Antonio, also masked. After them enter] Don John [and Borachio (without masks), who stand aside and look on during the dance]</stage_directions>
+<character>Don Pedro </character>
+<verseline>Lady, will you walk a bout with your friend? </verseline>
+<character>Hero </character>
+<verseline>So you walk softly and look sweetly and say nothing, </verseline>
+<verseline>I am yours for the walk; and especially when I walk away</verseline>
+<character>Don Pedro </character>
+<verseline>With me in your company? </verseline>
+<character>Hero </character>
+<verseline>I may say so when I please</verseline>
+<character>Don Pedro </character>
+<verseline>And when please you to say so? </verseline>
+<character>Hero </character>
+<prose>When I like your favour, for God defend the lute should be like the case! </prose>
+<character>Don Pedro </character>
+<verseline>My visor is Philemon&#8217;s roof; within the house is Jove</verseline>
+<character>Hero </character>
+<verseline>Why then, your visor should be thatch&#8217;d</verseline>
+<character>Don Pedro </character>
+<verseline>Speak low if you speak love</verseline>
+<prose>
+<stage_directions_inline>[Takes her aside.]</stage_directions_inline>
+</prose>
+<character>Balthasar </character>
+<verseline>Well, I would you did like me</verseline>
+<character>Margaret </character>
+<prose>So would not I for your own sake, for I have many ill qualities</prose>
+<character>Balthasar </character>
+<verseline>Which is one? </verseline>
+<character>Margaret </character>
+<verseline>I say my prayers aloud</verseline>
+<character>Balthasar </character>
+<verseline>I love you the better. The hearers may cry Amen</verseline>
+<character>Margaret </character>
+<verseline>God match me with a good dancer! </verseline>
+<character>Balthasar </character>
+<verseline>Amen</verseline>
+<character>Margaret </character>
+<verseline>And God keep him out of my sight when the dance is done! </verseline>
+<verseline>Answer, clerk</verseline>
+<character>Balthasar </character>
+<verseline>No more words. The clerk is answered</verseline>
+<prose>
+<stage_directions_inline>[Takes her aside.]</stage_directions_inline>
+</prose>
+<character>Ursula </character>
+<verseline>I know you well enough. You are Signior Antonio</verseline>
+<character>Antonio </character>
+<verseline>At a word, I am not</verseline>
+<character>Ursula </character>
+<verseline>I know you by the waggling of your head</verseline>
+<character>Antonio </character>
+<verseline>To tell you true, I counterfeit him</verseline>
+<character>Ursula </character>
+<prose>You could never do him so ill-well unless you were the very man. Here&#8217;s his dry hand up and down. You are he, you are he! </prose>
+<character>Antonio </character>
+<verseline>At a word, I am not</verseline>
+<character>Ursula </character>
+<prose>Come, come, do you think I do not know you by your excellent wit? Can virtue hide itself? Go to, mum you are he. Graces will appear, and there&#8217;s an end</prose>
+<prose>
+<stage_directions_inline>[They step aside.]</stage_directions_inline>
+</prose>
+<character>Beatrice </character>
+<verseline>Will you not tell me who told you so? </verseline>
+<character>Benedick </character>
+<verseline>No, you shall pardon me</verseline>
+<character>Beatrice </character>
+<verseline>Nor will you not tell me who you are? </verseline>
+<character>Benedick </character>
+<verseline>Not now</verseline>
+<character>Beatrice </character>
+<verseline>That I was disdainful, and that I had my good wit out of the &#8216;Hundred Merry Tales.&#8217; Well, this was Signior Benedick that said so</verseline>
+<character>Benedick </character>
+<verseline>What&#8217;s he? </verseline>
+<character>Beatrice </character>
+<verseline>I am sure you know him well enough</verseline>
+<character>Benedick </character>
+<verseline>Not I, believe me</verseline>
+<character>Beatrice </character>
+<verseline>Did he never make you laugh? </verseline>
+<character>Benedick </character>
+<verseline>I pray you, what is he? </verseline>
+<character>Beatrice </character>
+<prose>Why, he is the Prince&#8217;s jester, a very dull fool. Only his gift is in devising impossible slanders. None but libertines delight in him; and the commendation is not in his wit, but in his villany; for he both pleases men and angers them, and then they laugh at him and beat him. I am sure he is in the fleet. I would he had boarded me</prose>
+<character>Benedick </character>
+<verseline>When I know the gentleman, I&#8217;ll tell him what you say</verseline>
+<character>Beatrice </character>
+<prose>Do, do. He&#8217;ll but break a comparison or two on me; which peradventure, not marked or not laugh&#8217;d at, strikes him into melancholy; and then there&#8217;s a partridge wing saved, for the fool will eat no supper that night</prose>
+<prose>
+<stage_directions_inline>[Music.] </stage_directions_inline>
+</prose>
+<verseline>We must follow the leaders</verseline>
+<character>Benedick </character>
+<verseline>In every good thing</verseline>
+<character>Beatrice </character>
+<prose>Nay, if they lead to any ill, I will leave them at the next turning</prose>
+<prose>
+<stage_directions_inline>Dance</stage_directions_inline>
+</prose>
+<stage_directions>Exeunt (all but Don John, Borachio, and Claudio]</stage_directions>
+<character>Don John </character>
+<prose>Sure my brother is amorous on Hero and hath withdrawn her father to break with him about it. The ladies follow her and but one visor remains</prose>
+<character>Borachio </character>
+<verseline>And that is Claudio. I know him by his bearing</verseline>
+<character>Don John </character>
+<verseline>Are you not Signior Benedick? </verseline>
+<character>Claudio </character>
+<verseline>You know me well. I am he</verseline>
+<character>Don John </character>
+<prose>Signior, you are very near my brother in his love. He is enamour&#8217;d on Hero. I pray you dissuade him from her; she is no equal for his birth. You may do the part of an honest man in it</prose>
+<character>Claudio </character>
+<verseline>How know you he loves her? </verseline>
+<character>Don John </character>
+<verseline>I heard him swear his affection</verseline>
+<character>Borachio </character>
+<verseline>So did I too, and he swore he would marry her tonight</verseline>
+<character>Don John </character>
+<verseline>Come, let us to the banquet</verseline>
+<stage_directions>Exeunt. Manet Claudio</stage_directions>
+<character>Claudio </character>
+<verseline>Thus answer I in name of Benedick </verseline>
+<verseline>But hear these ill news with the ears of Claudio</verseline>
+<prose>
+<stage_directions_inline>[Unmasks.] </stage_directions_inline>
+</prose>
+<verseline>&#8216;Tis certain so. The Prince wooes for himself</verseline>
+<verseline>Friendship is constant in all other things </verseline>
+<verseline>Save in the office and affairs of love</verseline>
+<verseline>Therefore all hearts in love use their own tongues; </verseline>
+<verseline>Let every eye negotiate for itself </verseline>
+<verseline>And trust no agent; for beauty is a witch </verseline>
+<verseline>Against whose charms faith melteth into blood</verseline>
+<verseline>This is an accident of hourly proof, </verseline>
+<verseline>Which I mistrusted not. Farewell therefore Hero! </verseline>
+<stage_directions>Enter Benedick [unmasked]</stage_directions>
+<character>Benedick </character>
+<verseline>Count Claudio? </verseline>
+<character>Claudio </character>
+<verseline>Yea, the same</verseline>
+<character>Benedick </character>
+<verseline>Come, will you go with me? </verseline>
+<character>Claudio </character>
+<verseline>Whither? </verseline>
+<character>Benedick </character>
+<prose>Even to the next willow, about your own business, County. What fashion will you wear the garland of? about your neck, like an usurer&#8217;s chain? or under your arm, like a lieutenant&#8217;s scarf? You must wear it one way, for the Prince hath got your Hero</prose>
+<character>Claudio </character>
+<verseline>I wish him joy of her</verseline>
+<character>Benedick </character>
+<prose>Why, that&#8217;s spoken like an honest drovier. So they sell bullocks. But did you think the Prince would have served you thus? </prose>
+<character>Claudio </character>
+<verseline>I pray you leave me</verseline>
+<character>Benedick </character>
+<prose>Ho! now you strike like the blind man! &#8216;Twas the boy that stole your meat, and you&#8217;ll beat the post</prose>
+<character>Claudio </character>
+<verseline>If it will not be, I&#8217;ll leave you</verseline>
+<stage_directions>Exit</stage_directions>
+<character>Benedick </character>
+<prose>Alas, poor hurt fowl! now will he creep into sedges. But, that my Lady Beatrice should know me, and not know me! The Prince&#8217;s fool! Ha! it may be I go under that title because I am merry. Yea, but so I am apt to do myself wrong. I am not so reputed. It is the base (though bitter) disposition of Beatrice that puts the world into her person and so gives me out. Well, I&#8217;ll be revenged as I may</prose>
+<stage_directions>Enter Don Pedro</stage_directions>
+<character>Don Pedro </character>
+<verseline>Now, signior, where&#8217;s the Count? Did you see him? </verseline>
+<character>Benedick </character>
+<prose>Troth, my lord, I have played the part of Lady Fame, I found him here as melancholy as a lodge in a warren. I told him, and I think I told him true, that your Grace had got the good will of this young lady, and I off&#8217;red him my company to a willow tree, either to make him a garland, as being forsaken, or to bind him up a rod, as being worthy to be whipt</prose>
+<character>Don Pedro </character>
+<verseline>To be whipt? What&#8217;s his fault? </verseline>
+<character>Benedick </character>
+<prose>The flat transgression of a schoolboy who, being overjoyed with finding a bird&#8217;s nest, shows it his companion, and he steals it</prose>
+<character>Don Pedro </character>
+<prose>Wilt thou make a trust a transgression? The transgression is in the stealer</prose>
+<character>Benedick </character>
+<prose>Yet it had not been amiss the rod had been made, and the garland too; for the garland he might have worn himself, and the rod he might have bestowed on you, who, as I take it, have stol&#8217;n his bird&#8217;s nest</prose>
+<character>Don Pedro </character>
+<verseline>I will but teach them to sing and restore them to the owner</verseline>
+<character>Benedick </character>
+<prose>If their singing answer your saying, by my faith you say honestly</prose>
+<character>Don Pedro </character>
+<prose>The Lady Beatrice hath a quarrel to you. The gentleman that danc&#8217;d with her told her she is much wrong&#8217;d by you</prose>
+<character>Benedick </character>
+<prose>O, she misus&#8217;d me past the endurance of a block! An oak but with one green leaf on it would have answered her; my very visor began to assume life and scold with her. She told me, not thinking I had been myself, that I was the Prince&#8217;s jester, that I was duller than a great thaw; huddling jest upon jest with such impossible conveyance upon me that I stood like a man at a mark, with a whole army shooting at me. She speaks poniards, and every word stabs. If her breath were as terrible as her terminations, there were no living near her; she would infect to the North Star. I would not marry her though she were endowed with all that Adam had left him before he transgress&#8217;d. She would have made Hercules have turn&#8217;d spit, yea, and have cleft his club to make the fire too. Come, talk not of her. You shall find her the infernal Ate in good apparel. I would to God some scholar would conjure her, for certainly, while she is here, a man may live as quiet in hell as in a sanctuary; and people sin upon purpose, because they would go thither; so indeed all disquiet, horror, and perturbation follows her</prose>
+<stage_directions>Enter Claudio and Beatrice, Leonato, Hero</stage_directions>
+<character>Don Pedro </character>
+<verseline>Look, here she comes</verseline>
+<character>Benedick </character>
+<prose>Will your Grace command me any service to the world&#8217;s end? I will go on the slightest errand now to the Antipodes that you can devise to send me on; I will fetch you a toothpicker now from the furthest inch of Asia; bring you the length of Prester John&#8217;s foot; fetch you a hair off the great Cham&#8217;s beard; do you any embassage to the Pygmies--rather than hold three words&#8217; conference with this harpy. You have no employment for me? </prose>
+<character>Don Pedro </character>
+<verseline>None, but to desire your good company</verseline>
+<character>Benedick </character>
+<verseline>O God, sir, here&#8217;s a dish I love not! I cannot endure my Lady </verseline>
+<verseline>Tongue</verseline>
+<stage_directions>[Exit.] </stage_directions>
+<character>Don Pedro </character>
+<verseline>Come, lady, come; you have lost the heart of Signior </verseline>
+<verseline>Benedick</verseline>
+<character>Beatrice </character>
+<prose>Indeed, my lord, he lent it me awhile, and I gave him use for it--a double heart for his single one. Marry, once before he won it of me with false dice; therefore your Grace may well say I have lost it</prose>
+<character>Don Pedro </character>
+<verseline>You have put him down, lady; you have put him down</verseline>
+<character>Beatrice </character>
+<prose>So I would not he should do me, my lord, lest I should prove the mother of fools. I have brought Count Claudio, whom you sent me to seek</prose>
+<character>Don Pedro </character>
+<verseline>Why, how now, Count? Wherefore are you sad? </verseline>
+<character>Claudio </character>
+<verseline>Not sad, my lord</verseline>
+<character>Don Pedro </character>
+<verseline>How then? sick? </verseline>
+<character>Claudio </character>
+<verseline>Neither, my lord</verseline>
+<character>Beatrice </character>
+<prose>The Count is neither sad, nor sick, nor merry, nor well; but civil count--civil as an orange, and something of that jealous complexion</prose>
+<character>Don Pedro </character>
+<prose>I&#8217; faith, lady, I think your blazon to be true; though I&#8217;ll be sworn, if he be so, his conceit is false. Here, Claudio, I have wooed in thy name, and fair Hero is won. I have broke with her father, and his good will obtained. Name the day of marriage, and God give thee joy! </prose>
+<character>Leonato </character>
+<verseline>Count, take of me my daughter, and with her my fortunes. His Grace hath made the match, and all grace say Amen to it! </verseline>
+<character>Beatrice </character>
+<verseline>Speak, Count, &#8216;tis your cue</verseline>
+<character>Claudio </character>
+<prose>Silence is the perfectest herald of joy. I were but little happy if I could say how much. Lady, as you are mine, I am yours. I give away myself for you and dote upon the exchange</prose>
+<character>Beatrice </character>
+<prose>Speak, cousin; or, if you cannot, stop his mouth with a kiss and let not him speak neither</prose>
+<character>Don Pedro </character>
+<verseline>In faith, lady, you have a merry heart</verseline>
+<character>Beatrice </character>
+<prose>Yea, my lord; I thank it, poor fool, it keeps on the windy side of care. My cousin tells him in his ear that he is in her heart</prose>
+<character>Claudio </character>
+<verseline>And so she doth, cousin</verseline>
+<character>Beatrice </character>
+<verseline>Good Lord, for alliance! Thus goes every one to the world but I, and I am sunburnt. I may sit in a corner and cry &#8216;Heigh-ho for a husband!&#8217; </verseline>
+<character>Don Pedro </character>
+<verseline>Lady Beatrice, I will get you one</verseline>
+<character>Beatrice </character>
+<verseline>I would rather have one of your father&#8217;s getting. Hath your Grace ne&#8217;er a brother like you? Your father got excellent husbands, if a maid could come by them</verseline>
+<character>Don Pedro </character>
+<verseline>Will you have me, lady? </verseline>
+<character>Beatrice </character>
+<prose>No, my lord, unless I might have another for working days: your Grace is too costly to wear every day. But I beseech your Grace pardon me. I was born to speak all mirth and no matter</prose>
+<character>Don Pedro </character>
+<prose>Your silence most offends me, and to be merry best becomes you, for out o&#8217; question you were born in a merry hour</prose>
+<character>Beatrice </character>
+<prose>No, sure, my lord, my mother cried; but then there was a star danc&#8217;d, and under that was I born. Cousins, God give you joy! </prose>
+<character>Leonato </character>
+<verseline>Niece, will you look to those things I told you of? </verseline>
+<character>Beatrice </character>
+<verseline>I cry you mercy, uncle, By your Grace&#8217;s pardon</verseline>
+<stage_directions>Exit</stage_directions>
+<character>Don Pedro </character>
+<verseline>By my troth, a pleasant-spirited lady</verseline>
+<character>Leonato </character>
+<prose>There&#8217;s little of the melancholy element in her, my lord. She is never sad but when she sleeps, and not ever sad then; for I have heard my daughter say she hath often dreamt of unhappiness and wak&#8217;d herself with laughing</prose>
+<character>Don Pedro </character>
+<verseline>She cannot endure to hear tell of a husband</verseline>
+<character>Leonato </character>
+<verseline>O, by no means! She mocks all her wooers out of suit</verseline>
+<character>Don Pedro </character>
+<verseline>She were an excellent wife for Benedick</verseline>
+<character>Leonato </character>
+<prose>O Lord, my lord! if they were but a week married, they would talk themselves mad</prose>
+<character>Don Pedro </character>
+<verseline>County Claudio, when mean you to go to church? </verseline>
+<character>Claudio </character>
+<prose>To-morrow, my lord. Time goes on crutches till love have all his rites</prose>
+<character>Leonato </character>
+<prose>Not till Monday, my dear son, which is hence a just sevennight; and a time too brief too, to have all things answer my mind</prose>
+<character>Don Pedro </character>
+<prose>Come, you shake the head at so long a breathing; but I warrant thee, Claudio, the time shall not go dully by us</prose>
+<prose>I will in the interim undertake one of Hercules&#8217; labours, which is, to bring Signior Benedick and the Lady Beatrice into a mountain of affection th&#8217; one with th&#8217; other. I would fain have it a match, and I doubt not but to fashion it if you three will but minister such assistance as I shall give you direction</prose>
+<character>Leonato </character>
+<prose>My lord, I am for you, though it cost me ten nights&#8217; watchings</prose>
+<character>Claudio </character>
+<verseline>And I, my lord</verseline>
+<character>Don Pedro </character>
+<verseline>And you too, gentle Hero? </verseline>
+<character>Hero </character>
+<prose>I will do any modest office, my lord, to help my cousin to a good husband</prose>
+<character>Don Pedro </character>
+<verseline>And Benedick is not the unhopefullest husband that I know. Thus far can I praise him: he is of a noble strain, of approved valour, and confirm&#8217;d honesty. I will teach you how to humour your cousin, that she shall fall in love with Benedick; and I</verseline>
+<prose>
+<stage_directions_inline>[to Leonato and Claudio] </stage_directions_inline>
+</prose>
+<verseline>with your two helps, will so practise on </verseline>
+<prose>Benedick that, in despite of his quick wit and his queasy stomach, he shall fall in love with Beatrice. If we can do this, </prose>
+<prose>Cupid is no longer an archer; his glory shall be ours, for we are the only love-gods. Go in with me, and I will tell you my drift</prose>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene II</scene>
+<location>A hall in Leonato&#8217;s house</location>
+<stage_directions>Enter [Don] John and Borachio</stage_directions>
+<character>Don John </character>
+<verseline>It is so. The Count Claudio shall marry the daughter of </verseline>
+<verseline>Leonato</verseline>
+<character>Borachio </character>
+<verseline>Yea, my lord; but I can cross it</verseline>
+<character>Don John </character>
+<verseline>Any bar, any cross, any impediment will be med&#8217;cinable to me. I am sick in displeasure to him, and whatsoever comes athwart his affection ranges evenly with mine. How canst thou cross this marriage? </verseline>
+<character>Borachio </character>
+<prose>Not honestly, my lord, but so covertly that no dishonesty shall appear in me</prose>
+<character>Don John </character>
+<verseline>Show me briefly how</verseline>
+<character>Borachio </character>
+<prose>I think I told your lordship, a year since, how much I am in the favour of Margaret, the waiting gentlewoman to Hero</prose>
+<character>Don John </character>
+<verseline>I remember</verseline>
+<character>Borachio </character>
+<prose>I can, at any unseasonable instant of the night, appoint her to look out at her lady&#8217;s chamber window</prose>
+<character>Don John </character>
+<verseline>What life is in that to be the death of this marriage? </verseline>
+<character>Borachio </character>
+<verseline>The poison of that lies in you to temper. Go you to the </verseline>
+<prose>Prince your brother; spare not to tell him that he hath wronged his honour in marrying the renowned Claudio (whose estimation do you mightily hold up) to a contaminated stale, such a one as Hero</prose>
+<character>Don John </character>
+<verseline>What proof shall I make of that? </verseline>
+<character>Borachio </character>
+<verseline>Proof enough to misuse the Prince, to vex Claudio, to undo Hero, and kill Leonato. Look you for any other issue? </verseline>
+<character>Don John </character>
+<verseline>Only to despite them I will endeavour anything</verseline>
+<character>Borachio </character>
+<verseline>Go then; find me a meet hour to draw Don Pedro and the Count Claudio alone; tell them that you know that Hero loves me; intend a kind of zeal both to the Prince and Claudio, as--in love of your brother&#8217;s honour, who hath made this match, and his friend&#8217;s reputation, who is thus like to be cozen&#8217;d with the semblance of a maid--that you have discover&#8217;d thus. They will scarcely believe this without trial. Offer them instances; which shall bear no less likelihood than to see me at her chamber window, hear me call Margaret Hero, hear Margaret term me Claudio; and bring them to see this the very night before the intended wedding (for in the meantime I will so fashion the matter that Hero shall be absent) and there shall appear such seeming truth of Hero&#8217;s disloyalty that jealousy shall be call&#8217;d assurance and all the preparation overthrown</verseline>
+<character>Don John </character>
+<prose>Grow this to what adverse issue it can, I will put it in practice. Be cunning in the working this, and thy fee is a thousand ducats</prose>
+<character>Borachio </character>
+<prose>Be you constant in the accusation, and my cunning shall not shame me</prose>
+<character>Don John </character>
+<verseline>I will presently go learn their day of marriage</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene III</scene>
+<location>Leonato&#8217;s orchard</location>
+<stage_directions>Enter Benedick alone</stage_directions>
+<character>Benedick </character>
+<verseline>Boy! </verseline>
+<verseline>
+<stage_directions_inline>[Enter Boy.]</stage_directions_inline>
+</verseline>
+<character>A Boy </character>
+<verseline>Signior? </verseline>
+<character>Benedick </character>
+<prose>In my chamber window lies a book. Bring it hither to me in the orchard</prose>
+<character>A Boy </character>
+<verseline>I am here already, sir</verseline>
+<character>Benedick </character>
+<verseline>I know that, but I would have thee hence and here again.  </verseline>
+<verseline>
+<stage_directions_inline>(Exit Boy.)</stage_directions_inline>
+</verseline>
+<verseline>I do much wonder that one man, seeing how much aother man is a fool when he dedicates his behaviours to love, will, after he hath laugh&#8217;d at such shallow follies in others, become the argument of his own scorn by falling in love; and such a man is Claudio. I have known when there was no music with him but the drum and the fife; and now had he rather hear the tabor and the pipe. I have known when he would have walk&#8217;d ten mile afoot to see a good armour; and now will he lie ten nights awake carving the fashion of a new doublet. He was wont to speak plain and to the purpose, like an honest man and a soldier; and now is he turn&#8217;d orthography; his words are a very fantastical banquet-- just so many strange dishes. May I be so converted and see with these eyes? I cannot tell; I think not. I will not be sworn but love may transform me to an oyster; but I&#8217;ll take my oath on it, till he have made an oyster of me he shall never make me such a fool. One woman is fair, yet I am well; another is wise, yet I am well; another virtuous, yet I am well; but till all graces be in one woman, one woman shall not come in my grace. Rich she shall be, that&#8217;s certain; wise, or I&#8217;ll none; virtuous, or I&#8217;ll never cheapen her; fair, or I&#8217;ll never look on her; mild, or come not near me; noble, or not I for an angel; of good discourse, an excellent musician, and her hair shall be of what colour it please God. Ha, the Prince and Monsieur Love! I will hide me in the arbour.<stage_directions_inline>[Hides.]</stage_directions_inline>
+</verseline>
+<stage_directions>Enter Don Pedro, Leonato, Claudio. Music [within]</stage_directions>
+<character>Don Pedro </character>
+<verseline>Come, shall we hear this music? </verseline>
+<character>Claudio </character>
+<verseline>Yea, my good lord. How still the evening is, </verseline>
+<verseline>As hush&#8217;d on purpose to grace harmony! </verseline>
+<character>Don Pedro </character>
+<verseline>See you where Benedick hath hid himself? </verseline>
+<character>Claudio </character>
+<verseline>O, very well, my lord. The music ended, </verseline>
+<verseline>We&#8217;ll fit the kid-fox with a pennyworth</verseline>
+<stage_directions>Enter Balthasar with Music</stage_directions>
+<character>Don Pedro </character>
+<verseline>Come, Balthasar, we&#8217;ll hear that song again</verseline>
+<character>Balthasar </character>
+<verseline>O, good my lord, tax not so bad a voice </verseline>
+<verseline>To slander music any more than once</verseline>
+<character>Don Pedro </character>
+<verseline>It is the witness still of excellency </verseline>
+<verseline>To put a strange face on his own perfection</verseline>
+<verseline>I pray thee sing, and let me woo no more</verseline>
+<character>Balthasar </character>
+<verseline>Because you talk of wooing, I will sing, </verseline>
+<verseline>Since many a wooer doth commence his suit </verseline>
+<verseline>To her he thinks not worthy, yet he wooes, </verseline>
+<verseline>Yet will he swear he loves</verseline>
+<character>Don Pedro </character>
+<verseline>Nay, pray thee come; </verseline>
+<verseline>Or if thou wilt hold longer argument, </verseline>
+<verseline>Do it in notes</verseline>
+<character>Balthasar </character>
+<verseline>Note this before my notes: </verseline>
+<verseline>There&#8217;s not a note of mine that&#8217;s worth the noting</verseline>
+<character>Don Pedro </character>
+<verseline>Why, these are very crotchets that he speaks! </verseline>
+<verseline>Note notes, forsooth, and nothing!<stage_directions_inline>[Music.]</stage_directions_inline>
+</verseline>
+<character>Benedick </character>
+<prose>
+<stage_directions_inline>[aside] </stage_directions_inline>Now divine air! Now is his soul ravish&#8217;d! Is it not strange that sheep&#8217;s guts should hale souls out of men&#8217;s bodies? Well, a horn for my money, when all&#8217;s done</prose>
+<verseline>
+<stage_directions_inline>[Balthasar sings.] </stage_directions_inline>
+</verseline>
+<song>The Song</song>
+<song>Sigh no more, ladies, sigh no more! </song>
+<song>Men were deceivers ever, </song>
+<stage_directions>One foot in sea, and one on shore; </stage_directions>
+<song>To one thing constant never</song>
+<song>Then sigh not so, </song>
+<song>But let them go, </song>
+<song>And be you blithe and bonny, </song>
+<song>Converting all your sounds of woe </song>
+<song>Into Hey nonny, nonny</song>
+<song>Sing no more ditties, sing no moe, </song>
+<song>Of dumps so dull and heavy! </song>
+<song>The fraud of men was ever so, </song>
+<song>Since summer first was leavy</song>
+<song>Then sigh not so, &amp;c</song>
+<character>Don Pedro </character>
+<verseline>By my troth, a good song</verseline>
+<character>Balthasar </character>
+<verseline>And an ill singer, my lord</verseline>
+<character>Don Pedro </character>
+<verseline>Ha, no, no, faith! Thou sing&#8217;st well enough for a shift</verseline>
+<character>Benedick </character>
+<prose>
+<stage_directions_inline>[aside] </stage_directions_inline>An he had been a dog that should have howl&#8217;d thus, they would have hang&#8217;d him; and I pray God his bad voice bode no mischief. I had as live have heard the night raven, come what plague could have come after it</prose>
+<character>Don Pedro </character>
+<prose>Yea, marry. Dost thou hear, Balthasar? I pray thee get us some excellent music; for to-morrow night we would have it at the Lady Hero&#8217;s chamber window</prose>
+<character>Balthasar </character>
+<verseline>The best I can, my lord</verseline>
+<character>Don Pedro </character>
+<verseline>Do so. Farewell</verseline>
+<stage_directions>Exit Balthasar [with Musicians]</stage_directions>
+<prose>Come hither, Leonato. What was it you told me of to-day? that your niece Beatrice was in love with Signior Benedick? </prose>
+<character>Claudio </character>
+<verseline>O, ay!-<stage_directions_inline>[Aside to Pedro] </stage_directions_inline>Stalk on, stalk on; the fowl sits</verseline>
+<verseline>--I did never think that lady would have loved any man</verseline>
+<character>Leonato </character>
+<prose>No, nor I neither; but most wonderful that she should so dote on Signior Benedick, whom she hath in all outward behaviours seem&#8217;d ever to abhor</prose>
+<character>Benedick </character>
+<verseline>
+<stage_directions_inline>[aside] </stage_directions_inline>Is&#8217;t possible? Sits the wind in that corner? </verseline>
+<character>Leonato </character>
+<prose>By my troth, my lord, I cannot tell what to think of it, but that she loves him with an enraged affection. It is past the infinite of thought</prose>
+<character>Don Pedro </character>
+<verseline>May be she doth but counterfeit</verseline>
+<character>Claudio </character>
+<verseline>Faith, like enough</verseline>
+<character>Leonato </character>
+<prose>O God, counterfeit? There was never counterfeit of passion came so near the life of passion as she discovers it</prose>
+<character>Don Pedro </character>
+<verseline>Why, what effects of passion shows she? </verseline>
+<character>Claudio </character>
+<verseline>
+<stage_directions_inline>[aside] </stage_directions_inline>Bait the hook well! This fish will bite</verseline>
+<character>Leonato </character>
+<prose>What effects, my lord? She will sit you--you heard my daughter tell you how</prose>
+<character>Claudio </character>
+<verseline>She did indeed</verseline>
+<character>Don Pedro </character>
+<prose>How, how, I pray you? You amaze me. I would have thought her spirit had been invincible against all assaults of affection</prose>
+<character>Leonato </character>
+<verseline>I would have sworn it had, my lord--especially against </verseline>
+<verseline>Benedick</verseline>
+<character>Benedick </character>
+<prose>
+<stage_directions_inline>[aside] </stage_directions_inline>I should think this a gull but that the white-bearded fellow speaks it. Knavery cannot, sure, hide himself in such reverence</prose>
+<character>Claudio </character>
+<verseline>
+<stage_directions_inline>[aside] </stage_directions_inline>He hath ta&#8217;en th&#8217; infection. Hold it up</verseline>
+<character>Don Pedro </character>
+<verseline>Hath she made her affection known to Benedick? </verseline>
+<character>Leonato </character>
+<verseline>No, and swears she never will. That&#8217;s her torment</verseline>
+<character>Claudio </character>
+<prose>&#8216;Tis true indeed. So your daughter says. &#8216;Shall I,&#8217; says she, &#8216;that have so oft encount&#8217;red him with scorn, write to him that I love him?&#8217;&#8221; </prose>
+<character>Leonato </character>
+<prose>This says she now when she is beginning to write to him; for she&#8217;ll be up twenty times a night, and there will she sit in her smock till she have writ a sheet of paper. My daughter tells us all</prose>
+<character>Claudio </character>
+<prose>Now you talk of a sheet of paper, I remember a pretty jest your daughter told us of</prose>
+<character>Leonato </character>
+<verseline>O, when she had writ it, and was reading it over, she found &#8216;Benedick&#8217; and &#8216;Beatrice&#8217; between the sheet? </verseline>
+<character>Claudio </character>
+<verseline>That</verseline>
+<character>Leonato </character>
+<prose>O, she tore the letter into a thousand halfpence, rail&#8217;d at herself that she should be so immodest to write to one that she knew would flout her. &#8216;I measure him,&#8217; says she, &#8216;by my own spirit; for I should flout him if he writ to me. Yea, though I love him, I should.&#8217; </prose>
+<character>Claudio </character>
+<prose>Then down upon her knees she falls, weeps, sobs, beats her heart, tears her hair, prays, curses--&#8217;O sweet Benedick! God give me patience!&#8217; </prose>
+<character>Leonato </character>
+<prose>She doth indeed; my daughter says so. And the ecstasy hath so much overborne her that my daughter is sometime afeard she will do a desperate outrage to herself. It is very true</prose>
+<character>Don Pedro </character>
+<prose>It were good that Benedick knew of it by some other, if she will not discover it</prose>
+<character>Claudio </character>
+<prose>To what end? He would make but a sport of it and torment the poor lady worse</prose>
+<character>Don Pedro </character>
+<prose>An he should, it were an alms to hang him! She&#8217;s an excellent sweet lady, and (out of all suspicion) she is virtuous</prose>
+<character>Claudio </character>
+<verseline>And she is exceeding wise</verseline>
+<character>Don Pedro </character>
+<verseline>In everything but in loving Benedick</verseline>
+<character>Leonato </character>
+<prose>O, my lord, wisdom and blood combating in so tender a body, we have ten proofs to one that blood hath the victory. I am sorry for her, as I have just cause, being her uncle and her guardian</prose>
+<character>Don Pedro </character>
+<prose>I would she had bestowed this dotage on me. I would have daff&#8217;d all other respects and made her half myself. I pray you tell Benedick of it and hear what &#8216;a will say</prose>
+<character>Leonato </character>
+<verseline>Were it good, think you? </verseline>
+<character>Claudio </character>
+<prose>Hero thinks surely she will die; for she says she will die if he love her not, and she will die ere she make her love known, and she will die, if he woo her, rather than she will bate one breath of her accustomed crossness</prose>
+<character>Don Pedro </character>
+<prose>She doth well. If she should make tender of her love, &#8216;tis very possible he&#8217;ll scorn it; for the man (as you know all) hath a contemptible spirit</prose>
+<character>Claudio </character>
+<verseline>He is a very proper man</verseline>
+<character>Don Pedro </character>
+<verseline>He hath indeed a good outward happiness</verseline>
+<character>Claudio </character>
+<verseline>Before God! and in my mind, very wise</verseline>
+<character>Don Pedro </character>
+<verseline>He doth indeed show some sparks that are like wit</verseline>
+<character>Claudio </character>
+<verseline>And I take him to be valiant</verseline>
+<character>Don Pedro </character>
+<prose>As Hector, I assure you; and in the managing of quarrels you may say he is wise, for either he avoids them with great discretion, or undertakes them with a most Christianlike fear</prose>
+<character>Leonato </character>
+<prose>If he do fear God, &#8216;a must necessarily keep peace. If he break the peace, he ought to enter into a quarrel with fear and trembling</prose>
+<character>Don Pedro </character>
+<prose>And so will he do; for the man doth fear God, howsoever it seems not in him by some large jests he will make. Well, I am sorry for your niece. Shall we go seek Benedick and tell him of her love? </prose>
+<character>Claudio </character>
+<prose>Never tell him, my lord. Let her wear it out with good counsel</prose>
+<character>Leonato </character>
+<verseline>Nay, that&#8217;s impossible; she may wear her heart out first</verseline>
+<character>Don Pedro </character>
+<prose>Well, we will hear further of it by your daughter. Let it cool the while. I love Benedick well, and I could wish he would modestly examine himself to see how much he is unworthy so good a lady</prose>
+<character>Leonato </character>
+<verseline>My lord, will you .walk? Dinner is ready</verseline>
+<verseline>
+<stage_directions_inline>[They walk away.] </stage_directions_inline>
+</verseline>
+<character>Claudio </character>
+<prose>If he dote on her upon this, I will never trust my expectation</prose>
+<character>Don Pedro </character>
+<prose>Let there be the same net spread for her, and that must your daughter and her gentlewomen carry. The sport will be, when they hold one an opinion of another&#8217;s dotage, and no such matter. That&#8217;s the scene that I would see, which will be merely a dumb show. Let us send her to call him in to dinner</prose>
+<stage_directions>Exeunt [Don Pedro, Claudio, and Leonato]</stage_directions>
+<stage_directions>[Benedick advances from the arbour.] </stage_directions>
+<character>Benedick </character>
+<prose>This can be no trick. The conference was sadly borne; they have the truth of this from Hero; they seem to pity the lady. It seems her affections have their full bent. Love me? Why, it must be requited. I hear how I am censur&#8217;d. They say I will bear myself proudly if I perceive the love come from her. They say too that she will rather die than give any sign of affection. I did never think to marry. I must not seem proud. Happy are they that hear their detractions and can put them to mending. They say the lady is fair--&#8217;tis a truth, I can bear them witness; and virtuous--&#8217;tis so, I cannot reprove it; and wise, but for loving me--by my troth, it is no addition to her wit, nor no great argument of her folly, for I will be horribly in love with her. I may chance have some odd quirks and remnants of wit broken on me because I have railed so long against marriage. But doth not the appetite alters? A man loves the meat in his youth that he cannot endure in his age. Shall quips and sentences and these paper bullets of the brain awe a man from the career of his humour? No, the world must be peopled. When I said I would die a bachelor, I did not think I should live till I were married</prose>
+<stage_directions>Enter Beatrice</stage_directions>
+<prose>Here comes Beatrice. By this day, she&#8217;s a fair lady! I do spy some marks of love in her</prose>
+<character>Beatrice </character>
+<verseline>Against my will I am sent to bid You come in to dinner</verseline>
+<character>Benedick </character>
+<verseline>Fair Beatrice, I thank you for your pains</verseline>
+<character>Beatrice </character>
+<prose>I took no more pains for those thanks than you take pains to thank me. If it had been painful, I would not have come</prose>
+<character>Benedick </character>
+<verseline>You take pleasure then in the message? </verseline>
+<character>Beatrice </character>
+<prose>Yea, just so much as you may take upon a knives point, and choke a daw withal. You have no stomach, signior. Fare you well</prose>
+<stage_directions>Exit</stage_directions>
+<character>Benedick </character>
+<verseline>Ha! &#8216;Against my will I am sent to bid you come in to dinner.&#8217; T</verseline>
+<prose>here&#8217;s a double meaning in that. &#8216;I took no more pains for those thanks than you took pains to thank me.&#8217; That&#8217;s as much as to say, &#8216;Any pains that I take for you is as easy as thanks.&#8217; If I do not take pity of her, I am a villain; if I do not love her, I am a Jew. I will go get her picture</prose>
+<stage_directions>Exit</stage_directions>
+<act>ACT III</act>
+<firstscene>Scene I</firstscene>
+<location>Leonato&#8217;s orchard</location>
+<stage_directions>Enter Hero and two Gentlewomen, Margaret and Ursula</stage_directions>
+<character>Hero </character>
+<verseline>Good Margaret, run thee to the parlour</verseline>
+<verseline>There shalt thou find my cousin Beatrice </verseline>
+<verseline>Proposing with the Prince and Claudio</verseline>
+<verseline>Whisper her ear and tell her, I and Ursley </verseline>
+<verseline>Walk in the orchard, and our whole discourse </verseline>
+<verseline>Is all of her. Say that thou overheard&#8217;st us; </verseline>
+<verseline>And bid her steal into the pleached bower, </verseline>
+<verseline>Where honeysuckles, ripened by the sun, </verseline>
+<verseline>Forbid the sun to enter--like favourites, </verseline>
+<verseline>Made proud by princes, that advance their pride </verseline>
+<verseline>Against that power that bred it. There will she hide her </verseline>
+<verseline>To listen our propose. This is thy office</verseline>
+<verseline>Bear thee well in it and leave us alone</verseline>
+<character>Margaret </character>
+<verseline>I&#8217;ll make her come, I warrant you, presently</verseline>
+<stage_directions>[Exit.] </stage_directions>
+<character>Hero </character>
+<verseline>Now, Ursula, when Beatrice doth come, </verseline>
+<verseline>As we do trace this alley up and down, </verseline>
+<verseline>Our talk must only be of Benedick</verseline>
+<verseline>When I do name him, let it be thy part </verseline>
+<verseline>To praise him more than ever man did merit</verseline>
+<verseline>My talk to thee must be how Benedick </verseline>
+<verseline>Is sick in love with Beatrice. Of this matter </verseline>
+<verseline>Is little Cupid&#8217;s crafty arrow made, </verseline>
+<verseline>That only wounds by hearsay</verseline>
+<stage_directions>[Enter Beatrice.] </stage_directions>
+<verseline>Now begin; </verseline>
+<verseline>For look where Beatrice like a lapwing runs </verseline>
+<verseline>Close by the ground, to hear our conference</verseline>
+<verseline>
+<stage_directions_inline>[Beatrice hides in the arbour]</stage_directions_inline>
+</verseline>
+<character>Ursula </character>
+<verseline>The pleasant&#8217;st angling is to see the fish </verseline>
+<verseline>Cut with her golden oars the silver stream </verseline>
+<verseline>And greedily devour the treacherous bait</verseline>
+<verseline>So angle we for Beatrice, who even now </verseline>
+<verseline>Is couched in the woodbine coverture</verseline>
+<verseline>Fear you not my part of the dialogue</verseline>
+<character>Hero </character>
+<verseline>Then go we near her, that her ear lose nothing </verseline>
+<verseline>Of the false sweet bait that we lay for it</verseline>
+<verseline>
+<stage_directions_inline>[They approach the arbour.] </stage_directions_inline>
+</verseline>
+<verseline>No, truly, Ursula, she is too disdainful</verseline>
+<verseline>I know her spirits are as coy and wild </verseline>
+<verseline>As haggards of the rock</verseline>
+<character>Ursula </character>
+<verseline>But are you sure </verseline>
+<verseline>That Benedick loves Beatrice so entirely? </verseline>
+<character>Hero </character>
+<verseline>So says the Prince, and my new-trothed lord</verseline>
+<character>Ursula </character>
+<verseline>And did they bid you tell her of it, madam? </verseline>
+<character>Hero </character>
+<verseline>They did entreat me to acquaint her of it; </verseline>
+<verseline>But I persuaded them, if they lov&#8217;d Benedick, </verseline>
+<verseline>To wish him wrestle with affection </verseline>
+<verseline>And never to let Beatrice know of it</verseline>
+<character>Ursula </character>
+<verseline>Why did you so? Doth not the gentleman </verseline>
+<verseline>Deserve as full, as fortunate a bed </verseline>
+<verseline>As ever Beatrice shall couch upon? </verseline>
+<character>Hero </character>
+<verseline>O god of love! I know he doth deserve </verseline>
+<verseline>As much as may be yielded to a man: </verseline>
+<verseline>But Nature never fram&#8217;d a woman&#8217;s heart </verseline>
+<verseline>Of prouder stuff than that of Beatrice</verseline>
+<verseline>Disdain and scorn ride sparkling in her eyes, </verseline>
+<verseline>Misprizing what they look on; and her wit </verseline>
+<verseline>Values itself so highly that to her </verseline>
+<verseline>All matter else seems weak. She cannot love, </verseline>
+<verseline>Nor take no shape nor project of affection, </verseline>
+<verseline>She is so self-endeared</verseline>
+<character>Ursula </character>
+<verseline>Sure I think so; </verseline>
+<verseline>And therefore certainly it were not good </verseline>
+<verseline>She knew his love, lest she&#8217;ll make sport at it</verseline>
+<character>Hero </character>
+<verseline>Why, you speak truth. I never yet saw man, </verseline>
+<verseline>How wise, how noble, young, how rarely featur&#8217;d, </verseline>
+<verseline>But she would spell him backward. If fair-fac&#8217;d, </verseline>
+<verseline>She would swear the gentleman should be her sister; </verseline>
+<verseline>If black, why, Nature, drawing of an antic, </verseline>
+<verseline>Made a foul blot; if tall, a lance ill-headed; </verseline>
+<verseline>If low, an agate very vilely cut; </verseline>
+<verseline>If speaking, why, a vane blown with all winds; </verseline>
+<verseline>If silent, why, a block moved with none</verseline>
+<verseline>So turns she every man the wrong side out </verseline>
+<verseline>And never gives to truth and virtue that </verseline>
+<verseline>Which simpleness and merit purchaseth</verseline>
+<character>Ursula </character>
+<verseline>Sure, sure, such carping is not commendable</verseline>
+<character>Hero </character>
+<verseline>No, not to be so odd, and from all fashions, </verseline>
+<verseline>As Beatrice is, cannot be commendable</verseline>
+<verseline>But who dare tell her so? If I should speak, </verseline>
+<verseline>She would mock me into air; O, she would laugh me </verseline>
+<verseline>Out of myself, press me to death with wit! </verseline>
+<verseline>Therefore let Benedick, like cover&#8217;d fire, </verseline>
+<verseline>Consume away in sighs, waste inwardly</verseline>
+<verseline>It were a better death than die with mocks, </verseline>
+<verseline>Which is as bad as die with tickling</verseline>
+<character>Ursula </character>
+<verseline>Yet tell her of it. Hear what she will say</verseline>
+<character>Hero </character>
+<verseline>No; rather I will go to Benedick </verseline>
+<verseline>And counsel him to fight against his passion</verseline>
+<verseline>And truly, I&#8217;ll devise some honest slanders </verseline>
+<verseline>To stain my cousin with. One doth not know </verseline>
+<verseline>How much an ill word may empoison liking</verseline>
+<character>Ursula </character>
+<verseline>O, do not do your cousin such a wrong! </verseline>
+<verseline>She cannot be so much without true judgment </verseline>
+<verseline>(Having so swift and excellent a wit </verseline>
+<verseline>As she is priz&#8217;d to have) as to refuse </verseline>
+<verseline>So rare a gentleman as Signior Benedick</verseline>
+<character>Hero </character>
+<verseline>He is the only man of Italy, </verseline>
+<verseline>Always excepted my dear Claudio</verseline>
+<character>Ursula </character>
+<verseline>I pray you be not angry with me, madam, </verseline>
+<verseline>Speaking my fancy: Signior Benedick, </verseline>
+<verseline>For shape, for bearing, argument, and valour, </verseline>
+<verseline>Goes foremost in report through Italy</verseline>
+<character>Hero </character>
+<verseline>Indeed he hath an excellent good name</verseline>
+<character>Ursula </character>
+<verseline>His excellence did earn it ere he had it</verseline>
+<verseline>When are you married, madam? </verseline>
+<character>Hero </character>
+<verseline>Why, every day to-morrow! Come, go in</verseline>
+<verseline>I&#8217;ll show thee some attires, and have thy counsel </verseline>
+<verseline>Which is the best to furnish me to-morrow</verseline>
+<verseline>
+<stage_directions_inline>[They walk away.] </stage_directions_inline>
+</verseline>
+<character>Ursula </character>
+<verseline>She&#8217;s lim&#8217;d, I warrant you! We have caught her, madam</verseline>
+<character>Hero </character>
+<verseline>If it prove so, then loving goes by haps; </verseline>
+<verseline>Some Cupid kills with arrows, some with traps</verseline>
+<stage_directions>Exeunt [Hero and Ursula]</stage_directions>
+<prose>
+<stage_directions_inline>[Beatrice advances from the arbour.]</stage_directions_inline>
+</prose>
+<character>Beatrice </character>
+<verseline>What fire is in mine ears? Can this be true? </verseline>
+<verseline>Stand I condemn&#8217;d for pride and scorn so much? </verseline>
+<verseline>Contempt, farewell! and maiden pride, adieu! </verseline>
+<verseline>No glory lives behind the back of such</verseline>
+<verseline>And, Benedick, love on; I will requite thee, </verseline>
+<verseline>Taming my wild heart to thy loving hand</verseline>
+<verseline>If thou dost love, my kindness shall incite thee </verseline>
+<verseline>To bind our loves up in a holy band; </verseline>
+<verseline>For others say thou dost deserve, and I </verseline>
+<verseline>Believe it better than reportingly</verseline>
+<stage_directions>Exit</stage_directions>
+<scene>Scene II</scene>
+<location>A room in Leonato&#8217;s house</location>
+<stage_directions>Enter Don Pedro, Claudio, Benedick, and Leonato</stage_directions>
+<character>Don Pedro </character>
+<verseline>I do but stay till your marriage be consummate, and then go I toward Arragon</verseline>
+<character>Claudio </character>
+<verseline>I&#8217;ll bring you thither, my lord, if you&#8217;ll vouchsafe me</verseline>
+<character>Don Pedro </character>
+<prose>Nay, that would be as great a soil in the new gloss of your marriage as to show a child his new coat and forbid him to wear it. I will only be bold with Benedick for his company; for, from the crown of his head to the sole of his foot, he is all mirth. He hath twice or thrice cut Cupid&#8217;s bowstring, and the little hangman dare not shoot at him. He hath a heart as sound as a bell; and his tongue is the clapper, for what his heart thinks, his tongue speaks</prose>
+<character>Benedick </character>
+<verseline>Gallants, I am not as I have been</verseline>
+<character>Leonato </character>
+<verseline>So say I. Methinks you are sadder</verseline>
+<character>Claudio </character>
+<verseline>I hope he be in love</verseline>
+<character>Don Pedro </character>
+<prose>Hang him, truant! There&#8217;s no true drop of blood in him to be truly touch&#8217;d with love. If he be sad, he wants money</prose>
+<character>Benedick </character>
+<verseline>I have the toothache</verseline>
+<character>Don Pedro </character>
+<verseline>Draw it</verseline>
+<character>Benedick </character>
+<verseline>Hang it! </verseline>
+<character>Claudio </character>
+<verseline>You must hang it first and draw it afterwards</verseline>
+<character>Don Pedro </character>
+<verseline>What? sigh for the toothache? </verseline>
+<character>Leonato </character>
+<verseline>Where is but a humour or a worm</verseline>
+<character>Benedick </character>
+<verseline>Well, every one can master a grief but he that has it</verseline>
+<character>Claudio </character>
+<verseline>Yet say I he is in love</verseline>
+<character>Don Pedro </character>
+<prose>There is no appearance of fancy in him, unless it be a fancy that he hath to strange disguises; as to be a Dutchman to-day, a Frenchman to-morrow; or in the shape of two countries at once, as a German from the waist downward, all slops, and a Spaniard from the hip upward, no doublet. Unless he have a fancy to this foolery, as it appears he hath, he is no fool for fancy, as you would have it appear he is</prose>
+<character>Claudio </character>
+<prose>If he be not in love with some woman, there is no believing old signs. &#8216;A brushes his hat o&#8217; mornings. What should that bode? </prose>
+<character>Don Pedro </character>
+<verseline>Hath any man seen him at the barber&#8217;s? </verseline>
+<character>Claudio </character>
+<verseline>No, but the barber&#8217;s man hath been seen with him, and the old ornament of his cheek hath already stuff&#8217;d tennis balls</verseline>
+<character>Leonato </character>
+<verseline>Indeed he looks younger than he did, by the loss of a beard</verseline>
+<character>Don Pedro </character>
+<prose>Nay, &#8216;a rubs himself with civet. Can you smell him out by that? </prose>
+<character>Claudio </character>
+<verseline>That&#8217;s as much as to say, the sweet youth&#8217;s in love</verseline>
+<character>Don Pedro </character>
+<verseline>The greatest note of it is his melancholy</verseline>
+<character>Claudio </character>
+<verseline>And when was he wont to wash his face? </verseline>
+<character>Don Pedro </character>
+<prose>Yea, or to paint himself? for the which I hear what they say of him</prose>
+<character>Claudio </character>
+<prose>Nay, but his jesting spirit, which is new-crept into a lutestring, and now govern&#8217;d by stops</prose>
+<character>Don Pedro </character>
+<prose>Indeed that tells a heavy tale for him. Conclude, conclude, he is in love</prose>
+<character>Claudio </character>
+<verseline>Nay, but I know who loves him</verseline>
+<character>Don Pedro </character>
+<verseline>That would I know too. I warrant, one that knows him not</verseline>
+<character>Claudio </character>
+<prose>Yes, and his ill conditions; and in despite of all, dies for him</prose>
+<character>Don Pedro </character>
+<verseline>She shall be buried with her face upwards</verseline>
+<character>Benedick </character>
+<prose>Yet is this no charm for the toothache. Old signior, walk aside with me. I have studied eight or nine wise words to speak to you, which these hobby-horses must not hear</prose>
+<stage_directions>[Exeunt Benedick and Leonato.] </stage_directions>
+<character>Don Pedro </character>
+<verseline>For my life, to break with him about Beatrice! </verseline>
+<character>Claudio </character>
+<prose>&#8216;Tis even so. Hero and Margaret have by this played their parts with Beatrice, and then the two bears will not bite one another when they meet</prose>
+<stage_directions>Enter John the Bastard</stage_directions>
+<character>Don John </character>
+<verseline>My lord and brother, God save you</verseline>
+<character>Don Pedro </character>
+<verseline>Good den, brother</verseline>
+<character>Don John </character>
+<verseline>If your leisure serv&#8217;d, I would speak with you</verseline>
+<character>Don Pedro </character>
+<verseline>In private? </verseline>
+<character>Don John </character>
+<prose>If it please you. Yet Count Claudio may hear, for what I would speak of concerns him</prose>
+<character>Don Pedro </character>
+<verseline>What&#8217;s the matter? </verseline>
+<character>Don John </character>
+<verseline>
+<stage_directions_inline>[to Claudio] </stage_directions_inline>Means your lordship to be married tomorrow? </verseline>
+<character>Don Pedro </character>
+<verseline>You know he does</verseline>
+<character>Don John </character>
+<verseline>I know not that, when he knows what I know</verseline>
+<character>Claudio </character>
+<verseline>If there be any impediment, I pray you discover it</verseline>
+<character>Don John </character>
+<prose>You may think I love you not. Let that appear hereafter, and aim better at me by that I now will manifest. For my brother, I think he holds you well and in dearness of heart hath holp to effect your ensuing marriage--surely suit ill spent and labour ill bestowed! </prose>
+<character>Don Pedro </character>
+<verseline>Why, what&#8217;s the matter? </verseline>
+<character>Don John </character>
+<prose>I came hither to tell you, and, circumstances short&#8217;ned (for she has been too long a-talking of), the lady is disloyal</prose>
+<character>Claudio </character>
+<verseline>Who? Hero? </verseline>
+<character>Don John </character>
+<verseline>Even she--Leonato&#8217;s Hero, your Hero, every man&#8217;s Hero</verseline>
+<character>Claudio </character>
+<verseline>Disloyal? </verseline>
+<character>Don John </character>
+<prose>The word is too good to paint out her wickedness. I could say she were worse; think you of a worse title, and I will fit her to it. Wonder not till further warrant. Go but with me to-night, you shall see her chamber window ent&#8217;red, even the night before her wedding day. If you love her then, to-morrow wed her. But it would better fit your honour to change your mind</prose>
+<character>Claudio </character>
+<verseline>May this be so? </verseline>
+<character>Don Pedro </character>
+<verseline>I will not think it</verseline>
+<character>Don John </character>
+<prose>If you dare not trust that you see, confess not that you know. If you will follow me, I will show you enough; and when you have seen more and heard more, proceed accordingly</prose>
+<character>Claudio </character>
+<prose>If I see anything to-night why I should not marry her to-morrow, in the congregation where I should wed, there will I shame her</prose>
+<character>Don Pedro </character>
+<prose>And, as I wooed for thee to obtain her, I will join with thee to disgrace her</prose>
+<character>Don John </character>
+<verseline>I will disparage her no farther till you are my witnesses</verseline>
+<verseline>Bear it coldly but till midnight, and let the issue show itself</verseline>
+<character>Don Pedro </character>
+<verseline>O day untowardly turned! </verseline>
+<character>Claudio </character>
+<verseline>O mischief strangely thwarting! </verseline>
+<character>Don John </character>
+<verseline>O plague right well prevented! </verseline>
+<verseline>So will you say when you have seen the Sequel</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene III</scene>
+<location>A street</location>
+<stage_directions>Enter Dogberry and his compartner [Verges], with the Watch</stage_directions>
+<character>Dogberry </character>
+<verseline>Are you good men and true? </verseline>
+<character>Verges </character>
+<prose>Yea, or else it were pity but they should suffer salvation, body and soul</prose>
+<character>Dogberry </character>
+<prose>Nay, that were a punishment too good for them if they should have any allegiance in them, being chosen for the Prince&#8217;s watch</prose>
+<character>Verges </character>
+<verseline>Well, give them their charge, neighbour Dogberry</verseline>
+<character>Dogberry </character>
+<verseline>First, who think you the most desartless man to be constable? I. Watch. Hugh Oatcake, sir, or George Seacoal; for they can write and read</verseline>
+<character>Dogberry </character>
+<prose>Come hither, neighbour Seacoal. God hath bless&#8217;d you with a good name. To be a well-favoured man is the gift of fortune, but to write and read comes by nature. 2. Watch. Both which, Master Constable-- </prose>
+<character>Dogberry </character>
+<prose>You have. I knew it would be your answer. Well, for your favour, sir, why, give God thanks and make no boast of it; and for your writing and reading, let that appear when there is no need of such vanity. You are thought here to be the most senseless and fit man for the constable of the watch. Therefore bear you the lanthorn. This is your charge: you shall comprehend all vagrom men; you are to bid any man stand, in the Prince&#8217;s name. 2. Watch. How if &#8216;a will not stand? </prose>
+<character>Dogberry </character>
+<prose>Why then, take no note of him, but let him go, and presently call the rest of the watch together and thank God you are rid ofa knave</prose>
+<character>Verges </character>
+<verseline>If he will not stand when he is bidden, he is none of the Prince&#8217;s subjects</verseline>
+<character>Dogberry </character>
+<prose>True, and they are to meddle with none but the Prince&#8217;s subjects. You shall also make no noise in the streets; for for the watch to babble and to talk is most tolerable, and not to be endured. 2. Watch. We will rather sleep than talk. We know what belongs to a watch</prose>
+<character>Dogberry </character>
+<prose>Why, you speak like an ancient and most quiet watchman, for I cannot see how sleeping should offend. Only have a care that your bills be not stol&#8217;n. Well, you are to call at all the alehouses and bid those that are drunk get them to bed. 2. Watch. How if they will not? </prose>
+<character>Dogberry </character>
+<prose>Why then, let them alone till they are sober. If they make you not then the better answer, You may say they are not the men you took them for. 2. Watch. Well, sir</prose>
+<character>Dogberry </character>
+<prose>If you meet a thief, you may suspect him, by virtue of your office, to be no true man; and for such kind of men, the less you meddle or make with them, why, the more your honesty. 2. Watch. If we know him to be a thief, shall we not lay hands on him? </prose>
+<character>Dogberry </character>
+<prose>Truly, by your office you may; but I think they that touch pitch will be defil&#8217;d. The most peaceable way for you, if you do take a thief, is to let him show himself what he is, and steal out of your company</prose>
+<character>Verges </character>
+<verseline>You have been always called a merciful man, partner</verseline>
+<character>Dogberry </character>
+<prose>Truly, I would not hang a dog by my will, much more a man who hath any honesty in him</prose>
+<character>Verges </character>
+<prose>If you hear a child cry in the night, you must call to the nurse and bid her still it. 2. Watch. How if the nurse be asleep and will not hear us? </prose>
+<character>Dogberry </character>
+<prose>Why then, depart in peace and let the child wake her with crying; for the ewe that will not hear her lamb when it baes will never answer a calf when he bleats</prose>
+<character>Verges </character>
+<verseline>&#8216;Tis very true</verseline>
+<character>Dogberry </character>
+<prose>This is the end of the charge: you, constable, are to present the Prince&#8217;s own person. If you meet the Prince in the night, you may stay him</prose>
+<character>Verges </character>
+<verseline>Nay, by&#8217;r lady, that I think &#8216;a cannot</verseline>
+<character>Dogberry </character>
+<prose>Five shillings to one on&#8217;t with any man that knows the statutes, he may stay him! Marry, not without the Prince be willing; for indeed the watch ought to offend no man, and it is an offence to stay a man against his will</prose>
+<character>Verges </character>
+<verseline>By&#8217;r lady, I think it be so</verseline>
+<character>Dogberry </character>
+<prose>Ha, ah, ha! Well, masters, good night. An there be any matter of weight chances, call up me. Keep your fellows&#8217; counsels and your own, and good night. Come, neighbour</prose>
+<prose>2. Watch. Well, masters, we hear our charge. Let us go sit here upon the church bench till two, and then all to bed</prose>
+<character>Dogberry </character>
+<verseline>One word more, honest neighbours. I pray you watch about Signior Leonato&#8217;s door; for the wedding being there tomorrow, there is a great coil to-night. Adieu. Be vigitant, I beseech you</verseline>
+<stage_directions>Exeunt [Dogberry and Verges]</stage_directions>
+<stage_directions>Enter Borachio and Conrade</stage_directions>
+<character>Borachio </character>
+<verseline>What, Conrade! </verseline>
+<verseline>2. Watch. <stage_directions_inline>[aside]</stage_directions_inline> Peace! stir not! </verseline>
+<character>Borachio </character>
+<verseline>Conrade, I say! </verseline>
+<character>Conrade </character>
+<verseline>Here, man. I am at thy elbow</verseline>
+<character>Borachio </character>
+<prose>Mass, and my elbow itch&#8217;d! I thought there would a scab follow</prose>
+<character>Conrade </character>
+<prose>I will owe thee an answer for that; and now forward with thy tale</prose>
+<character>Borachio </character>
+<prose>Stand thee close then under this penthouse, for it drizzles rain, and I will, like a true drunkard, utter all to thee. 2. Watch. <stage_directions_inline>[aside]</stage_directions_inline> Some treason, masters. Yet stand close</prose>
+<character>Borachio </character>
+<verseline>Therefore know I have earned of Don John a thousand ducats</verseline>
+<character>Conrade </character>
+<verseline>Is it possible that any villany should be so dear? </verseline>
+<character>Borachio </character>
+<prose>Thou shouldst rather ask if it were possible any villany should be so rich; for when rich villains have need of poor ones, poor ones may make what price they will</prose>
+<character>Conrade </character>
+<verseline>I wonder at it</verseline>
+<character>Borachio </character>
+<prose>That shows thou art unconfirm&#8217;d. Thou knowest that the fashion of a doublet, or a hat, or a cloak, is nothing to a man</prose>
+<character>Conrade </character>
+<verseline>Yes, it is apparel</verseline>
+<character>Borachio </character>
+<verseline>I mean the fashion</verseline>
+<character>Conrade </character>
+<verseline>Yes, the fashion is the fashion</verseline>
+<character>Borachio </character>
+<prose>Tush! I may as well say the fool&#8217;s the fool. But seest thou not what a deformed thief this fashion is? 2. Watch. [aside] I know that Deformed. &#8216;A bas been a vile thief this seven year; &#8216;a goes up and down like a gentleman. I remember his name</prose>
+<character>Borachio </character>
+<verseline>Didst thou not hear somebody? </verseline>
+<character>Conrade </character>
+<verseline>No; &#8216;twas the vane on the house</verseline>
+<character>Borachio </character>
+<prose>Seest thou not, I say, what a deformed thief this fashion is? how giddily &#8216;a turns about all the hot-bloods between fourteen and five-and-thirty? sometimes fashioning them like Pharaoh&#8217;s soldiers in the reechy painting, sometime like god Bel&#8217;s priests in the old church window, sometime like the shaven Hercules in the smirch&#8217;d worm-eaten tapestry, where his codpiece seems as massy as his club? </prose>
+<character>Conrade </character>
+<prose>All this I see; and I see that the fashion wears out more apparel than the man. But art not thou thyself giddy with the fashion too, that thou hast shifted out of thy tale into telling me of the fashion? </prose>
+<character>Borachio </character>
+<prose>Not so neither. But know that I have to-night wooed Margaret, the Lady Hero&#8217;s gentlewoman, by the name of Hero. She leans me out at her mistress&#8217; chamber window, bids me a thousand times good night--I tell this tale vilely; I should first tell thee how the Prince, Claudio and my master, planted and placed and possessed by my master Don John, saw afar off in the orchard this amiable encounter</prose>
+<character>Conrade </character>
+<verseline>And thought they Margaret was Hero? </verseline>
+<character>Borachio </character>
+<prose>Two of them did, the Prince and Claudio; but the devil my master knew she was Margaret; and partly by his oaths, which first possess&#8217;d them, partly by the dark night, which did deceive them, but chiefly by my villany, which did confirm any slander that Don John had made, away went Claudio enrag&#8217;d; swore he would meet her, as he was appointed, next morning at the temple, and there, before the whole congregation, shame her with what he saw o&#8217;ernight and send her home again without a husband. 2. Watch. We charge you in the Prince&#8217;s name stand! 1. Watch. Call up the right Master Constable. We have here recover&#8217;d the most dangerous piece of lechery that ever was known in the commonwealth 2. Watch. And one Deformed is one of them. I know him; &#8216;a wears a lock</prose>
+<character>Conrade </character>
+<verseline>Masters, masters-- 1. Watch. You&#8217;ll be made bring Deformed forth, I warrant you</verseline>
+<character>Conrade </character>
+<verseline>Masters-- 2. Watch. Never speak, we charge you. Let us obey you to go with us</verseline>
+<character>Borachio </character>
+<prose>We are like to prove a goodly commodity, being taken up of these men&#8217;s bills</prose>
+<character>Conrade </character>
+<verseline>A commodity in question, I warrant you. Come, we&#8217;ll obey you</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene IV</scene>
+<location>A Room in Leonato&#8217;s house</location>
+<stage_directions>Enter Hero, and Margaret and Ursula</stage_directions>
+<character>Hero </character>
+<verseline>Good Ursula, wake my cousin Beatrice and desire her to rise</verseline>
+<character>Ursula </character>
+<verseline>I will, lady</verseline>
+<character>Hero </character>
+<verseline>And bid her come hither</verseline>
+<character>Ursula </character>
+<verseline>Well</verseline>
+<stage_directions>[Exit.] </stage_directions>
+<character>Margaret </character>
+<verseline>Troth, I think your other rebato were better</verseline>
+<character>Hero </character>
+<verseline>No, pray thee, good Meg, I&#8217;ll wear this</verseline>
+<character>Margaret </character>
+<prose>By my troth, &#8216;s not so good, and I warrant your cousin will say so</prose>
+<character>Hero </character>
+<prose>My cousin&#8217;s a fool, and thou art another. I&#8217;ll wear none but this</prose>
+<character>Margaret </character>
+<prose>I like the new tire within excellently, if the hair were a thought browner; and your gown&#8217;s a most rare fashion, i&#8217; faith. I saw the Duchess of Milan&#8217;s gown that they praise so</prose>
+<character>Hero </character>
+<verseline>O, that exceeds, they say</verseline>
+<character>Margaret </character>
+<prose>By my troth, &#8216;s but a nightgown in respect of yours-- cloth-o&#8217;-gold and cuts, and lac&#8217;d with silver, set with pearls down sleeves, side-sleeves, and skirts, round underborne with a blush tinsel. But for a fine, quaint, graceful, and excellent fashion, yours is worth ten on&#8217;t</prose>
+<character>Hero </character>
+<verseline>God give me joy to wear it! for my heart is exceeding heavy</verseline>
+<character>Margaret </character>
+<verseline>&#8216;Twill be heavier soon by the weight of a man</verseline>
+<character>Hero </character>
+<verseline>Fie upon thee! art not ashamed? </verseline>
+<character>Margaret </character>
+<prose>Of what, lady? of speaking honourably? Is not marriage honourable in a beggar? Is not your lord honourable without marriage? I think you would have me say, &#8216;saving your reverence, a husband.&#8217; An bad thinking do not wrest true speaking, I&#8217;ll offend nobody. Is there any harm in &#8216;the heavier for a husband&#8217;? None, I think, an it be the right husband and the right wife. Otherwise &#8216;tis light, and not heavy. Ask my Lady Beatrice else. Here she comes</prose>
+<stage_directions>Enter Beatrice</stage_directions>
+<character>Hero </character>
+<verseline>Good morrow, coz</verseline>
+<character>Beatrice </character>
+<verseline>Good morrow, sweet Hero</verseline>
+<character>Hero </character>
+<verseline>Why, how now? Do you speak in the sick tune? </verseline>
+<character>Beatrice </character>
+<verseline>I am out of all other tune, methinks</verseline>
+<character>Margaret </character>
+<prose>Clap&#8217;s into &#8216;Light o&#8217; love.&#8217; That goes without a burden. Do you sing it, and I&#8217;ll dance it</prose>
+<character>Beatrice </character>
+<prose>Yea, &#8216;Light o&#8217; love&#8217; with your heels! then, if your husband have stables enough, you&#8217;ll see he shall lack no barnes</prose>
+<character>Margaret </character>
+<verseline>O illegitimate construction! I scorn that with my heels</verseline>
+<character>Beatrice </character>
+<verseline>&#8216;Tis almost five o&#8217;clock, cousin; &#8216;tis time you were ready. By my troth, I am exceeding ill. Hey-ho! </verseline>
+<character>Margaret </character>
+<verseline>For a hawk, a horse, or a husband? </verseline>
+<character>Beatrice </character>
+<verseline>For the letter that begins them all, H</verseline>
+<character>Margaret </character>
+<prose>Well, an you be not turn&#8217;d Turk, there&#8217;s no more sailing by the star</prose>
+<character>Beatrice </character>
+<verseline>What means the fool, trow? </verseline>
+<character>Margaret </character>
+<verseline>Nothing I; but God send every one their heart&#8217;s desire! </verseline>
+<character>Hero </character>
+<prose>These gloves the Count sent me, they are an excellent perfume</prose>
+<character>Beatrice </character>
+<verseline>I am stuff&#8217;d, cousin; I cannot smell</verseline>
+<character>Margaret </character>
+<verseline>A maid, and stuff&#8217;d! There&#8217;s goodly catching of cold</verseline>
+<character>Beatrice </character>
+<prose>O, God help me! God help me! How long have you profess&#8217;d apprehension? </prose>
+<character>Margaret </character>
+<verseline>Ever since you left it. Doth not my wit become me rarely? </verseline>
+<character>Beatrice </character>
+<prose>It is not seen enough. You should wear it in your cap. By my troth, I am sick</prose>
+<character>Margaret </character>
+<prose>Get you some of this distill&#8217;d carduus benedictus and lay it to your heart. It is the only thing for a qualm</prose>
+<character>Hero </character>
+<verseline>There thou prick&#8217;st her with a thistle</verseline>
+<character>Beatrice </character>
+<verseline>Benedictus? why benedictus? You have some moral in this&#8216;benedictus.&#8217; </verseline>
+<character>Margaret </character>
+<prose>Moral? No, by my troth, I have no moral meaning; I meant plain holy thistle. You may think perchance that I think you are in love. Nay, by&#8217;r lady, I am not such a fool to think what I list; nor I list not to think what I can; nor indeed I cannot think, if I would think my heart out of thinking, that you are in love, or that you will be in love, or that you can be in love. Yet Benedick was such another, and now is he become a man. He swore he would never marry; and yet now in despite of his heart he eats his meat without grudging; and how you may be converted I know not, but methinks you look with your eyes as other women do</prose>
+<character>Beatrice </character>
+<verseline>What pace is this that thy tongue keeps? </verseline>
+<character>Margaret </character>
+<verseline>Not a false gallop</verseline>
+<stage_directions>Enter Ursula</stage_directions>
+<character>Ursula </character>
+<verseline>Madam, withdraw. The Prince, the Count, Signior Benedick, Don John, and all the gallants of the town are come to fetch you to church</verseline>
+<character>Hero </character>
+<verseline>Help to dress me, good coz, good Meg, good Ursula</verseline>
+<stage_directions>[Exeunt.] </stage_directions>
+<scene>Scene V</scene>
+<location>The hall in Leonato&#8217;s house</location>
+<stage_directions>Enter Leonato and the Constable [Dogberry] and the Headborough [verges]</stage_directions>
+<character>Leonato </character>
+<verseline>What would you with me, honest neighbour? </verseline>
+<character>Dogberry </character>
+<prose>Marry, sir, I would have some confidence with you that decerns you nearly</prose>
+<character>Leonato </character>
+<verseline>Brief, I pray you; for you see it is a busy time with me</verseline>
+<character>Dogberry </character>
+<verseline>Marry, this it is, sir</verseline>
+<character>Verges </character>
+<verseline>Yes, in truth it is, sir</verseline>
+<character>Leonato </character>
+<verseline>What is it, my good friends? </verseline>
+<character>Dogberry </character>
+<prose>Goodman Verges, sir, speaks a little off the matter--an old man, sir, and his wits are not so blunt as, God help, I would desire they were; but, in faith, honest as the skin between his brows</prose>
+<character>Verges </character>
+<prose>Yes, I thank God I am as honest as any man living that is an old man and no honester than I</prose>
+<character>Dogberry </character>
+<verseline>Comparisons are odorous. Palabras, neighbour Verges</verseline>
+<character>Leonato </character>
+<verseline>Neighbours, you are tedious</verseline>
+<character>Dogberry </character>
+<prose>It pleases your worship to say so, but we are the poor Duke&#8217;s officers; but truly, for mine own part, if I were as tedious as a king, I could find in my heart to bestow it all of your worship</prose>
+<character>Leonato </character>
+<verseline>All thy tediousness on me, ah? </verseline>
+<character>Dogberry </character>
+<prose>Yea, in &#8216;twere a thousand pound more than &#8216;tis; for I hear as good exclamation on your worship as of any man in the city; and though I be but a poor man, I am glad to hear it</prose>
+<character>Verges </character>
+<verseline>And so am I</verseline>
+<character>Leonato </character>
+<verseline>I would fain know what you have to say</verseline>
+<character>Verges </character>
+<prose>Marry, sir, our watch to-night, excepting your worship&#8217;s presence, ha&#8217; ta&#8217;en a couple of as arrant knaves as any in Messina</prose>
+<character>Dogberry </character>
+<prose>A good old man, sir; he will be talking. As they say, &#8216;When the age is in, the wit is out.&#8217; God help us! it is a world to see! Well said, i&#8217; faith, neighbour Verges. Well, God&#8217;s a good man. An two men ride of a horse, one must ride behind. An honest soul, i&#8217; faith, sir, by my troth he is, as ever broke bread; but God is to be worshipp&#8217;d; all men are not alike, alas, good neighbour! </prose>
+<character>Leonato </character>
+<verseline>Indeed, neighbour, he comes too short of you</verseline>
+<character>Dogberry </character>
+<verseline>Gifts that God gives</verseline>
+<character>Leonato </character>
+<verseline>I must leave you</verseline>
+<character>Dogberry </character>
+<prose>One word, sir. Our watch, sir, have indeed comprehended two aspicious persons, and we would have them this morning examined before your worship</prose>
+<character>Leonato </character>
+<prose>Take their examination yourself and bring it me. I am now in great haste, as it may appear unto you</prose>
+<character>Dogberry </character>
+<verseline>It shall be suffigance</verseline>
+<character>Leonato </character>
+<verseline>Drink some wine ere you go. Fare you well</verseline>
+<stage_directions>[Enter a Messenger.] </stage_directions>
+<character>Messenger </character>
+<prose>My lord, they stay for you to give your daughter to her husband</prose>
+<character>Leonato </character>
+<verseline>I&#8217;ll wait upon them. I am ready</verseline>
+<stage_directions>[Exeunt Leonato and Messenger.] </stage_directions>
+<character>Dogberry </character>
+<prose>Go, good partner, go get you to Francis Seacoal; bid him bring his pen and inkhorn to the jail. We are now to examination these men</prose>
+<character>Verges </character>
+<verseline>And we must do it wisely</verseline>
+<character>Dogberry </character>
+<prose>We will spare for no wit, I warrant you. Here&#8217;s that shall drive some of them to a non-come. Only get the learned writer to set down our excommunication, and meet me at the jail</prose>
+<stage_directions>[Exeunt.] </stage_directions>
+<act>ACT IV</act>
+<firstscene>Scene I</firstscene>
+<location>A church</location>
+<stage_directions>Enter Don Pedro, [John the] Bastard, Leonato, Friar [Francis], Claudio, Benedick, Hero, Beatrice, [and Attendants]</stage_directions>
+<character>Leonato </character>
+<prose>Come, Friar Francis, be brief. Only to the plain form of marriage, and you shall recount their particular duties afterwards</prose>
+<character>Friar Francis </character>
+<verseline>You come hither, my lord, to marry this lady? </verseline>
+<character>Claudio </character>
+<verseline>No</verseline>
+<character>Leonato </character>
+<verseline>To be married to her. Friar, you come to marry her</verseline>
+<character>Friar Francis </character>
+<verseline>Lady, you come hither to be married to this count? </verseline>
+<character>Hero </character>
+<verseline>I do</verseline>
+<character>Friar Francis </character>
+<prose>If either of you know any inward impediment why you should not be conjoined, I charge you on your souls to utter it</prose>
+<character>Claudio </character>
+<verseline>Know you any, Hero? </verseline>
+<character>Hero </character>
+<verseline>None, my lord</verseline>
+<character>Friar Francis </character>
+<verseline>Know you any, Count? </verseline>
+<character>Leonato </character>
+<verseline>I dare make his answer--none</verseline>
+<character>Claudio </character>
+<prose>O, what men dare do! what men may do! what men daily do, not knowing what they do! </prose>
+<character>Benedick </character>
+<prose>How now? interjections? Why then, some be of laughing, as, ah, ha, he! </prose>
+<character>Claudio </character>
+<verseline>Stand thee by, friar. Father, by your leave: </verseline>
+<verseline>Will you with free and unconstrained soul </verseline>
+<verseline>Give me this maid your daughter? </verseline>
+<character>Leonato </character>
+<verseline>As freely, son, as God did give her me</verseline>
+<character>Claudio </character>
+<verseline>And what have I to give you back whose worth </verseline>
+<verseline>May counterpoise this rich and precious gift? </verseline>
+<character>Don Pedro </character>
+<verseline>Nothing, unless you render her again</verseline>
+<character>Claudio </character>
+<verseline>Sweet Prince, you learn me noble thankfulness</verseline>
+<verseline>There, Leonato, take her back again</verseline>
+<verseline>Give not this rotten orange to your friend</verseline>
+<verseline>She&#8217;s but the sign and semblance of her honour</verseline>
+<verseline>Behold how like a maid she blushes here! </verseline>
+<verseline>O, what authority and show of truth </verseline>
+<verseline>Can cunning sin cover itself withal! </verseline>
+<verseline>Comes not that blood as modest evidence </verseline>
+<verseline>To witness simple virtue, Would you not swear, </verseline>
+<verseline>All you that see her, that she were a maid </verseline>
+<verseline>By these exterior shows? But she is none: </verseline>
+<verseline>She knows the heat of a luxurious bed; </verseline>
+<verseline>Her blush is guiltiness, not modesty</verseline>
+<character>Leonato </character>
+<verseline>What do you mean, my lord? </verseline>
+<character>Claudio </character>
+<verseline>Not to be married, </verseline>
+<verseline>Not to knit my soul to an approved wanton</verseline>
+<character>Leonato </character>
+<verseline>Dear my lord, if you, in your own proof, </verseline>
+<verseline>Have vanquish&#8217;d the resistance of her youth </verseline>
+<verseline>And made defeat of her virginity-- </verseline>
+<character>Claudio </character>
+<verseline>I know what you would say. If I have known her, </verseline>
+<verseline>You will say she did embrace me as a husband, </verseline>
+<verseline>And so extenuate the forehand sin</verseline>
+<verseline>No, Leonato, </verseline>
+<verseline>I never tempted her with word too large, </verseline>
+<verseline>But, as a brother to his sister, show&#8217;d </verseline>
+<verseline>Bashful sincerity and comely love</verseline>
+<character>Hero </character>
+<verseline>And seem&#8217;d I ever otherwise to you? </verseline>
+<character>Claudio </character>
+<verseline>Out on the seeming! I will write against it</verseline>
+<verseline>You seem to me as Dian in her orb, </verseline>
+<verseline>As chaste as is the bud ere it be blown; </verseline>
+<verseline>But you are more intemperate in your blood </verseline>
+<verseline>Than Venus, or those pamp&#8217;red animals </verseline>
+<verseline>That rage in savage sensuality</verseline>
+<character>Hero </character>
+<verseline>Is my lord well that he doth speak so wide? </verseline>
+<character>Leonato </character>
+<verseline>Sweet Prince, why speak not you? </verseline>
+<character>Don Pedro </character>
+<verseline>What should I speak? </verseline>
+<verseline>I stand dishonour&#8217;d that have gone about </verseline>
+<verseline>To link my dear friend to a common stale</verseline>
+<character>Leonato </character>
+<verseline>Are these things spoken, or do I but dream? </verseline>
+<character>Don John </character>
+<verseline>Sir, they are spoken, and these things are true</verseline>
+<character>Benedick </character>
+<verseline>This looks not like a nuptial</verseline>
+<character>Hero </character>
+<verseline>&#8216;True!&#8217; O God! </verseline>
+<character>Claudio </character>
+<verseline>Leonato, stand I here? </verseline>
+<verseline>Is this the Prince, Is this the Prince&#8217;s brother? </verseline>
+<verseline>Is this face Hero&#8217;s? Are our eyes our own? </verseline>
+<character>Leonato </character>
+<verseline>All this is so; but what of this, my lord? </verseline>
+<character>Claudio </character>
+<verseline>Let me but move one question to your daughter, </verseline>
+<verseline>And by that fatherly and kindly power </verseline>
+<verseline>That you have in her, bid her answer truly</verseline>
+<character>Leonato </character>
+<verseline>I charge thee do so, as thou art my child</verseline>
+<character>Hero </character>
+<verseline>O, God defend me! How am I beset! </verseline>
+<verseline>What kind of catechising call you this? </verseline>
+<character>Claudio </character>
+<verseline>To make you answer truly to your name</verseline>
+<character>Hero </character>
+<verseline>Is it not Hero? Who can blot that name </verseline>
+<verseline>With any just reproach? </verseline>
+<character>Claudio </character>
+<verseline>Marry, that can Hero! </verseline>
+<verseline>Hero itself can blot out Hero&#8217;s virtue</verseline>
+<verseline>What man was he talk&#8217;d with you yesternight, </verseline>
+<verseline>Out at your window betwixt twelve and one? </verseline>
+<verseline>Now, if you are a maid, answer to this</verseline>
+<character>Hero </character>
+<verseline>I talk&#8217;d with no man at that hour, my lord</verseline>
+<character>Don Pedro </character>
+<verseline>Why, then are you no maiden. Leonato, </verseline>
+<verseline>I am sorry you must hear. Upon my honour, </verseline>
+<verseline>Myself, my brother, and this grieved Count </verseline>
+<verseline>Did see her, hear her, at that hour last night </verseline>
+<verseline>Talk with a ruffian at her chamber window, </verseline>
+<verseline>Who hath indeed, most like a liberal villain, </verseline>
+<verseline>Confess&#8217;d the vile encounters they have had </verseline>
+<verseline>A thousand times in secret</verseline>
+<character>Don John </character>
+<verseline>Fie, fie! they are not to be nam&#8217;d, my lord-- </verseline>
+<verseline>Not to be spoke of; </verseline>
+<verseline>There is not chastity, enough in language </verseline>
+<verseline>Without offence to utter them. Thus, pretty lady, </verseline>
+<verseline>I am sorry for thy much misgovernment</verseline>
+<character>Claudio </character>
+<verseline>O Hero! what a Hero hadst thou been </verseline>
+<verseline>If half thy outward graces had been plac&#8217;d </verseline>
+<verseline>About thy thoughts and counsels of thy heart! </verseline>
+<verseline>But fare thee well, most foul, most fair! Farewell, </verseline>
+<verseline>Thou pure impiety and impious purity! </verseline>
+<verseline>For thee I&#8217;ll lock up all the gates of love, </verseline>
+<verseline>And on my eyelids shall conjecture hang, </verseline>
+<verseline>To turn all beauty into thoughts of harm, </verseline>
+<verseline>And never shall it more be gracious</verseline>
+<character>Leonato </character>
+<verseline>Hath no man&#8217;s dagger here a point for me? </verseline>
+<verseline>
+<stage_directions_inline>[Hero swoons.]</stage_directions_inline>
+</verseline>
+<character>Beatrice </character>
+<verseline>Why, how now, cousin? Wherefore sink you down? </verseline>
+<character>Don John </character>
+<verseline>Come let us go. These things, come thus to light, </verseline>
+<verseline>Smother her spirits up</verseline>
+<stage_directions>[Exeunt Don Pedro, Don Juan, and Claudio.] </stage_directions>
+<character>Benedick </character>
+<verseline>How doth the lady? </verseline>
+<character>Beatrice </character>
+<verseline>Dead, I think. Help, uncle! </verseline>
+<verseline>Hero! why, Hero! Uncle! Signior Benedick! Friar! </verseline>
+<character>Leonato </character>
+<verseline>O Fate, take not away thy heavy hand! </verseline>
+<verseline>Death is the fairest cover for her shame </verseline>
+<verseline>That may be wish&#8217;d for</verseline>
+<character>Beatrice </character>
+<verseline>How now, cousin Hero? </verseline>
+<character>Friar Francis </character>
+<verseline>Have comfort, lady</verseline>
+<character>Leonato </character>
+<verseline>Dost thou look up? </verseline>
+<character>Friar Francis </character>
+<verseline>Yea, wherefore should she not? </verseline>
+<character>Leonato </character>
+<verseline>Wherefore? Why, doth not every earthly thing </verseline>
+<verseline>Cry shame upon her? Could she here deny </verseline>
+<verseline>The story that is printed in her blood? </verseline>
+<verseline>Do not live, Hero; do not ope thine eyes; </verseline>
+<verseline>For, did I think thou wouldst not quickly die, </verseline>
+<verseline>Thought I thy spirits were stronger than thy shames, </verseline>
+<verseline>Myself would on the rearward of reproaches </verseline>
+<verseline>Strike at thy life. Griev&#8217;d I, I had but one? </verseline>
+<verseline>Child I for that at frugal nature&#8217;s frame? </verseline>
+<verseline>O, one too much by thee! Why had I one? </verseline>
+<verseline>Why ever wast thou lovely in my eyes? </verseline>
+<verseline>Why had I not with charitable hand </verseline>
+<verseline>Took up a beggar&#8217;s issue at my gates, </verseline>
+<verseline>Who smirched thus and mir&#8217;d with infamy, </verseline>
+<verseline>I might have said, &#8216;No part of it is mine; </verseline>
+<verseline>This shame derives itself from unknown loins&#8217;? </verseline>
+<verseline>But mine, and mine I lov&#8217;d, and mine I prais&#8217;d, </verseline>
+<verseline>And mine that I was proud on--mine so much </verseline>
+<verseline>That I myself was to myself not mine, </verseline>
+<verseline>Valuing of her--why, she, O, she is fall&#8217;n </verseline>
+<verseline>Into a pit of ink, that the wide sea </verseline>
+<verseline>Hath drops too few to wash her clean again, </verseline>
+<verseline>And salt too little which may season give </verseline>
+<verseline>To her foul tainted flesh! </verseline>
+<character>Benedick </character>
+<verseline>Sir, sir, be patient</verseline>
+<verseline>For my part, I am so attir&#8217;d in wonder, </verseline>
+<verseline>I know not what to say</verseline>
+<character>Beatrice </character>
+<verseline>O, on my soul, my cousin is belied! </verseline>
+<character>Benedick </character>
+<verseline>Lady, were you her bedfellow last night? </verseline>
+<character>Beatrice </character>
+<verseline>No, truly, not; although, until last night, </verseline>
+<verseline>I have this twelvemonth been her bedfellow </verseline>
+<character>Leonato </character>
+<verseline>Confirm&#8217;d, confirm&#8217;d! O, that is stronger made </verseline>
+<verseline>Which was before barr&#8217;d up with ribs of iron! </verseline>
+<verseline>Would the two princes lie? and Claudio lie, </verseline>
+<verseline>Who lov&#8217;d her so that, speaking of her foulness, </verseline>
+<verseline>Wash&#8217;d it with tears? Hence from her! let her die</verseline>
+<character>Friar Francis </character>
+<verseline>Hear me a little; </verseline>
+<verseline>For I have only been silent so long, </verseline>
+<verseline>And given way unto this course of fortune, </verseline>
+<verseline>By noting of the lady. I have mark&#8217;d </verseline>
+<verseline>A thousand blushing apparitions </verseline>
+<verseline>To start into her face, a thousand innocent shames </verseline>
+<verseline>In angel whiteness beat away those blushes, </verseline>
+<verseline>And in her eye there hath appear&#8217;d a fire </verseline>
+<verseline>To burn the errors that these princes hold </verseline>
+<verseline>Against her maiden truth. Call me a fool; </verseline>
+<verseline>Trust not my reading nor my observation, </verseline>
+<verseline>Which with experimental seal doth warrant </verseline>
+<verseline>The tenure of my book; trust not my age, </verseline>
+<verseline>My reverence, calling, nor divinity, </verseline>
+<verseline>If this sweet lady lie not guiltless here </verseline>
+<verseline>Under some biting error</verseline>
+<character>Leonato </character>
+<verseline>Friar, it cannot be</verseline>
+<verseline>Thou seest that all the grace that she hath left </verseline>
+<verseline>Is that she will not add to her damnation </verseline>
+<verseline>A sin of perjury: she not denies it</verseline>
+<verseline>Why seek&#8217;st thou then to cover with excuse </verseline>
+<verseline>That which appears in proper nakedness? </verseline>
+<character>Friar Francis </character>
+<verseline>Lady, what man is he you are accus&#8217;d of? </verseline>
+<character>Hero </character>
+<verseline>They know that do accuse me; I know none</verseline>
+<verseline>If I know more of any man alive </verseline>
+<verseline>Than that which maiden modesty doth warrant, </verseline>
+<verseline>Let all my sins lack mercy! O my father, </verseline>
+<verseline>Prove you that any man with me convers&#8217;d </verseline>
+<verseline>At hours unmeet, or that I yesternight </verseline>
+<verseline>Maintain&#8217;d the change of words with any creature, </verseline>
+<verseline>Refuse me, hate me, torture me to death! </verseline>
+<character>Friar Francis </character>
+<verseline>There is some strange misprision in the princes</verseline>
+<character>Benedick </character>
+<verseline>Two of them have the very bent of honour; </verseline>
+<verseline>And if their wisdoms be misled in this, </verseline>
+<verseline>The practice of it lives in John the bastard, </verseline>
+<verseline>Whose spirits toil in frame of villanies</verseline>
+<character>Leonato </character>
+<verseline>I know not. If they speak but truth of her, </verseline>
+<verseline>These hands shall tear her. If they wrong her honour, </verseline>
+<verseline>The proudest of them shall well hear of it</verseline>
+<verseline>Time hath not yet so dried this blood of mine, </verseline>
+<verseline>Nor age so eat up my invention, </verseline>
+<verseline>Nor fortune made such havoc of my means, </verseline>
+<verseline>Nor my bad life reft me so much of friends, </verseline>
+<verseline>But they shall find awak&#8217;d in such a kind </verseline>
+<verseline>Both strength of limb and policy of mind, </verseline>
+<verseline>Ability in means, and choice of friends, </verseline>
+<verseline>To quit me of them throughly</verseline>
+<character>Friar Francis </character>
+<verseline>Pause awhile </verseline>
+<verseline>And let my counsel sway you in this case</verseline>
+<verseline>Your daughter here the princes left for dead, </verseline>
+<verseline>Let her awhile be secretly kept in, </verseline>
+<verseline>And publish it that she is dead indeed; </verseline>
+<verseline>Maintain a mourning ostentation, </verseline>
+<verseline>And on your family&#8217;s old monument </verseline>
+<verseline>Hang mournful epitaphs, and do all rites </verseline>
+<verseline>That appertain unto a burial</verseline>
+<character>Leonato </character>
+<verseline>What shall become of this? What will this do? </verseline>
+<character>Friar Francis </character>
+<verseline>Marry, this well carried shall on her behalf </verseline>
+<verseline>Change slander to remorse. That is some good</verseline>
+<verseline>But not for that dream I on this strange course, </verseline>
+<verseline>But on this travail look for greater birth</verseline>
+<verseline>She dying, as it must be so maintain&#8217;d, </verseline>
+<verseline>Upon the instant that she was accus&#8217;d, </verseline>
+<verseline>Shall be lamented, pitied, and excus&#8217;d </verseline>
+<verseline>Of every hearer; for it so falls out </verseline>
+<verseline>That what we have we prize not to the worth </verseline>
+<verseline>Whiles we enjoy it, but being lack&#8217;d and lost, </verseline>
+<verseline>Why, then we rack the value, then we find </verseline>
+<verseline>The virtue that possession would not show us </verseline>
+<verseline>Whiles it was ours. So will it fare with Claudio</verseline>
+<verseline>When he shall hear she died upon his words, </verseline>
+<verseline>Th&#8217; idea of her life shall sweetly creep </verseline>
+<verseline>Into his study of imagination, </verseline>
+<verseline>And every lovely organ of her life </verseline>
+<verseline>Shall come apparell&#8217;d in more precious habit, </verseline>
+<verseline>More moving, delicate, and full of life, </verseline>
+<verseline>Into the eye and prospect of his soul </verseline>
+<verseline>Than when she liv&#8217;d indeed. Then shall he mourn </verseline>
+<verseline>(If ever love had interest in his liver) </verseline>
+<verseline>And wish he had not so accused her-- </verseline>
+<verseline>No, though be thought his accusation true</verseline>
+<verseline>Let this be so, and doubt not but success </verseline>
+<verseline>Will fashion the event in better shape </verseline>
+<verseline>Than I can lay it down in likelihood</verseline>
+<verseline>But if all aim but this be levell&#8217;d false, </verseline>
+<verseline>The supposition of the lady&#8217;s death </verseline>
+<verseline>Will quench the wonder of her infamy</verseline>
+<verseline>And if it sort not well, you may conceal her, </verseline>
+<verseline>As best befits her wounded reputation, </verseline>
+<verseline>In some reclusive and religious life, </verseline>
+<verseline>Out of all eyes, tongues, minds, and injuries</verseline>
+<character>Benedick </character>
+<verseline>Signior Leonato, let the friar advise you; </verseline>
+<verseline>And though you know my inwardness and love </verseline>
+<verseline>Is very much unto the Prince and Claudio, </verseline>
+<verseline>Yet, by mine honour, I will deal in this </verseline>
+<verseline>As secretly and justly as your soul </verseline>
+<verseline>Should with your body</verseline>
+<character>Leonato </character>
+<verseline>Being that I flow in grief, </verseline>
+<verseline>The smallest twine may lead me</verseline>
+<character>Friar Francis </character>
+<verseline>&#8216;Tis well consented. Presently away; </verseline>
+<verseline>For to strange sores strangely they strain the cure</verseline>
+<verseline>Come, lady, die to live. This wedding day </verseline>
+<verseline>Perhaps is but prolong&#8217;d. Have patience and endure</verseline>
+<stage_directions>Exeunt [all but Benedick and Beatrice]</stage_directions>
+<character>Benedick </character>
+<verseline>Lady Beatrice, have you wept all this while? </verseline>
+<character>Beatrice </character>
+<verseline>Yea, and I will weep a while longer</verseline>
+<character>Benedick </character>
+<verseline>I will not desire that</verseline>
+<character>Beatrice </character>
+<verseline>You have no reason. I do it freely</verseline>
+<character>Benedick </character>
+<verseline>Surely I do believe your fair cousin is wronged</verseline>
+<character>Beatrice </character>
+<verseline>Ah, how much might the man deserve of me that would right her! </verseline>
+<character>Benedick </character>
+<verseline>Is there any way to show such friendship? </verseline>
+<character>Beatrice </character>
+<verseline>A very even way, but no such friend</verseline>
+<character>Benedick </character>
+<verseline>May a man do it? </verseline>
+<character>Beatrice </character>
+<verseline>It is a man&#8217;s office, but not yours</verseline>
+<character>Benedick </character>
+<prose>I do love nothing in the world so well as you. Is not that strange? </prose>
+<character>Beatrice </character>
+<prose>As strange as the thing I know not. It were as possible for me to say I loved nothing so well as you. But believe me not; and yet I lie not. I confess nothing, nor I deny nothing. I am sorry for my cousin</prose>
+<character>Benedick </character>
+<verseline>By my sword, Beatrice, thou lovest me</verseline>
+<character>Beatrice </character>
+<verseline>Do not swear, and eat it</verseline>
+<character>Benedick </character>
+<prose>I will swear by it that you love me, and I will make him eat it that says I love not you</prose>
+<character>Beatrice </character>
+<verseline>Will you not eat your word? </verseline>
+<character>Benedick </character>
+<prose>With no sauce that can be devised to it. I protest I love thee</prose>
+<character>Beatrice </character>
+<verseline>Why then, God forgive me! </verseline>
+<character>Benedick </character>
+<verseline>What offence, sweet Beatrice? </verseline>
+<character>Beatrice </character>
+<prose>You have stayed me in a happy hour. I was about to protest I loved you</prose>
+<character>Benedick </character>
+<verseline>And do it with all thy heart</verseline>
+<character>Beatrice </character>
+<prose>I love you with so much of my heart that none is left to protest</prose>
+<character>Benedick </character>
+<verseline>Come, bid me do anything for thee</verseline>
+<character>Beatrice </character>
+<verseline>Kill Claudio</verseline>
+<character>Benedick </character>
+<verseline>Ha! not for the wide world! </verseline>
+<character>Beatrice </character>
+<verseline>You kill me to deny it. Farewell</verseline>
+<character>Benedick </character>
+<verseline>Tarry, sweet Beatrice</verseline>
+<character>Beatrice </character>
+<prose>I am gone, though I am here. There is no love in you. Nay, I pray you let me go</prose>
+<character>Benedick </character>
+<verseline>Beatrice-- </verseline>
+<character>Beatrice </character>
+<verseline>In faith, I will go</verseline>
+<character>Benedick </character>
+<verseline>We&#8217;ll be friends first</verseline>
+<character>Beatrice </character>
+<prose>You dare easier be friends with me than fight with mine enemy</prose>
+<character>Benedick </character>
+<verseline>Is Claudio thine enemy? </verseline>
+<character>Beatrice </character>
+<prose>Is &#8216;a not approved in the height a villain, that hath slandered, scorned, dishonoured my kinswoman? O that I were a man! What? bear her in hand until they come to take hands, and then with public accusation, uncover&#8217;d slander, unmitigated rancour--O God, that I were a man! I would eat his heart in the market place</prose>
+<character>Benedick </character>
+<verseline>Hear me, Beatrice! </verseline>
+<character>Beatrice </character>
+<verseline>Talk with a man out at a window!-a proper saying! </verseline>
+<character>Benedick </character>
+<verseline>Nay but Beatrice-- </verseline>
+<character>Beatrice </character>
+<verseline>Sweet Hero! she is wrong&#8217;d, she is sland&#8217;red, she is undone</verseline>
+<character>Benedick </character>
+<verseline>Beat-- </verseline>
+<character>Beatrice </character>
+<prose>Princes and Counties! Surely a princely testimony, a goodly count, Count Comfect, a sweet gallant surely! O that I were a man for his sake! or that I had any friend would be a man for my sake! But manhood is melted into cursies, valour into compliment, and men are only turn&#8217;d into tongue, and trim ones too. He is now as valiant as Hercules that only tells a lie,and swears it. I cannot be a man with wishing; therefore I will die a woman with grieving</prose>
+<character>Benedick </character>
+<verseline>Tarry, good Beatrice. By this hand, I love thee</verseline>
+<character>Beatrice </character>
+<verseline>Use it for my love some other way than swearing by it</verseline>
+<character>Benedick </character>
+<verseline>Think you in your soul the Count Claudio hath wrong&#8217;d Hero? </verseline>
+<character>Beatrice </character>
+<verseline>Yea, as sure is I have a thought or a soul</verseline>
+<character>Benedick </character>
+<prose>Enough, I am engag&#8217;d, I will challenge him. I will kiss your hand, and so I leave you. By this hand, Claudio shall render me a dear account. As you hear of me, so think of me. Go comfort your cousin. I must say she is dead-and so farewell</prose>
+<stage_directions>[Exeunt.] </stage_directions>
+<scene>Scene II</scene>
+<location>A prison</location>
+<stage_directions>Enter the Constables [Dogberry and Verges] and the Sexton, in gowns, [and the Watch, with Conrade and] Borachio</stage_directions>
+<character>Dogberry </character>
+<verseline>Is our whole dissembly appear&#8217;d? </verseline>
+<character>Verges </character>
+<verseline>O, a stool and a cushion for the sexton</verseline>
+<character>A Sexton </character>
+<verseline>Which be the malefactors? </verseline>
+<character>Dogberry </character>
+<verseline>Marry, that am I and my partner</verseline>
+<character>Verges </character>
+<verseline>Nay, that&#8217;s certain. We have the exhibition to examine</verseline>
+<character>A Sexton </character>
+<prose>But which are the offenders that are to be examined? let them come before Master Constable</prose>
+<character>Dogberry </character>
+<prose>Yea, marry, let them come before me. What is your name, friend? </prose>
+<character>Borachio </character>
+<verseline>Borachio</verseline>
+<character>Dogberry </character>
+<verseline>Pray write down Borachio. Yours, sirrah? </verseline>
+<character>Conrade </character>
+<verseline>I am a gentleman, sir, and my name is Conrade</verseline>
+<character>Dogberry </character>
+<verseline>Write down Master Gentleman Conrade. Masters, do you serve God? </verseline>
+<character>Both </character>
+<verseline>Yea, sir, we hope</verseline>
+<character>Dogberry </character>
+<prose>Write down that they hope they serve God; and write God first, for God defend but God should go before such villains! Masters, it is proved already that you are little better than false knaves, and it will go near to be thought so shortly. How answer you for yourselves? </prose>
+<character>Conrade </character>
+<verseline>Marry, sir, we say we are none</verseline>
+<character>Dogberry </character>
+<prose>A marvellous witty fellow, I assure you; but I will go about with him. Come you hither, sirrah. A word in your ear. Sir, I say to you, it is thought you are false knaves</prose>
+<character>Borachio </character>
+<verseline>Sir, I say to you we are none</verseline>
+<character>Dogberry </character>
+<verseline>Well, stand aside. Fore God, they are both in a tale</verseline>
+<verseline>Have you writ down that they are none? </verseline>
+<character>A Sexton </character>
+<prose>Master Constable, you go not the way to examine. You must call forth the watch that are their accusers</prose>
+<character>Dogberry </character>
+<verseline>Yea, marry, that&#8217;s the eftest way. Let the watch come forth. Masters, I charge you in the Prince&#8217;s name accuse these men. I. Watch. This man said, sir, that Don John the Prince&#8217;s brother was a villain</verseline>
+<character>Dogberry </character>
+<prose>Write down Prince John a villain. Why, this is flat perjury, to call a prince&#8217;s brother villain</prose>
+<character>Borachio </character>
+<verseline>Master Constable-- </verseline>
+<character>Dogberry </character>
+<prose>Pray thee, fellow, peace. I do not like thy look, I promise thee</prose>
+<character>A Sexton </character>
+<verseline>What heard you him say else? 2. Watch. Marry, that he had received a thousand ducats of Don John for accusing the Lady Hero wrongfully</verseline>
+<character>Dogberry </character>
+<verseline>Flat burglary as ever was committed</verseline>
+<character>Verges </character>
+<verseline>Yea, by th&#8217; mass, that it is</verseline>
+<character>A Sexton </character>
+<verseline>What else, fellow? 1. Watch. And that Count Claudio did mean, upon his words, to disgrace Hero before the whole assembly, and not marry her</verseline>
+<character>Dogberry </character>
+<prose>O villain! thou wilt be condemn&#8217;d into everlasting redemption for this</prose>
+<character>A Sexton </character>
+<verseline>What else? </verseline>
+<character>Watchmen </character>
+<verseline>This is all</verseline>
+<character>A Sexton </character>
+<prose>And this is more, masters, than you can deny. Prince John is this morning secretly stol&#8217;n away. Hero was in this manner accus&#8217;d, in this manner refus&#8217;d, and upon the grief of this suddenly died. Master Constable, let these men be bound and brought to Leonato&#8217;s. I will go before and show him their examination</prose>
+<stage_directions>[Exit.] </stage_directions>
+<character>Dogberry </character>
+<verseline>Come, let them be opinion&#8217;d</verseline>
+<character>Verges </character>
+<verseline>Let them be in the hands-- </verseline>
+<character>Conrade </character>
+<verseline>Off, coxcomb! </verseline>
+<character>Dogberry </character>
+<verseline>God&#8217;s my life, where&#8217;s the sexton? Let him write down the Prince&#8217;s officer coxcomb. Come, bind them.--Thou naughty varlet! </verseline>
+<character>Conrade </character>
+<verseline>Away! you are an ass, you are an ass</verseline>
+<character>Dogberry </character>
+<prose>Dost thou not suspect my place? Dost thou not suspect my years? O that he were here to write me down an ass! But, masters, remember that I am an ass. Though it be not written down, yet forget not that I am an ass. No, thou villain, thou art full of piety, as shall be prov&#8217;d upon thee by good witness. I am a wise fellow; and which is more, an officer; and which is more, a householder; and which is more, as pretty a piece of flesh as any is in Messina, and one that knows the law, go to! and a rich fellow enough, go to! and a fellow that hath had losses; and one that hath two gowns and everything handsome about him. Bring him away. O that I had been writ down an ass! </prose>
+<stage_directions>Exeunt</stage_directions>
+<act>ACT V</act>
+<firstscene>Scene I</firstscene>
+<location>The street, near Leonato&#8217;s house</location>
+<stage_directions>Enter Leonato and his brother [ Antonio]</stage_directions>
+<character>Antonio </character>
+<verseline>If you go on thus, you will kill yourself, </verseline>
+<verseline>And &#8216;tis not wisdom thus to second grief </verseline>
+<verseline>Against yourself</verseline>
+<character>Leonato </character>
+<verseline>I pray thee cease thy counsel, </verseline>
+<verseline>Which falls into mine ears as profitless </verseline>
+<verseline>As water in a sieve. Give not me counsel, </verseline>
+<verseline>Nor let no comforter delight mine ear </verseline>
+<verseline>But such a one whose wrongs do suit with mine</verseline>
+<verseline>Bring me a father that so lov&#8217;d his child, </verseline>
+<verseline>Whose joy of her is overwhelm&#8217;d like mine, </verseline>
+<verseline>And bid him speak to me of patience</verseline>
+<verseline>Measure his woe the length and breadth of mine, </verseline>
+<verseline>And let it answer every strain for strain, </verseline>
+<verseline>As thus for thus, and such a grief for such, </verseline>
+<verseline>In every lineament, branch, shape, and form</verseline>
+<verseline>If such a one will smile and stroke his beard, </verseline>
+<verseline>Bid sorrow wag, cry &#8216;hem&#8217; when he should groan, </verseline>
+<verseline>Patch grief with proverbs, make misfortune drunk </verseline>
+<verseline>With candle-wasters--bring him yet to me, </verseline>
+<verseline>And I of him will gather patience</verseline>
+<verseline>But there is no such man; for, brother, men </verseline>
+<verseline>Can counsel and speak comfort to that grief </verseline>
+<verseline>Which they themselves not feel; but, tasting it, </verseline>
+<verseline>Their counsel turns to passion, which before </verseline>
+<verseline>Would give preceptial medicine to rage, </verseline>
+<verseline>Fetter strong madness in a silken thread, </verseline>
+<verseline>Charm ache with air and agony with words</verseline>
+<verseline>No, no! &#8216;Tis all men&#8217;s office to speak patience </verseline>
+<verseline>To those that wring under the load of sorrow, </verseline>
+<verseline>But no man&#8217;s virtue nor sufficiency </verseline>
+<verseline>To be so moral when he shall endure </verseline>
+<verseline>The like himself. Therefore give me no counsel</verseline>
+<verseline>My griefs cry louder than advertisement</verseline>
+<character>Antonio </character>
+<verseline>Therein do men from children nothing differ</verseline>
+<character>Leonato </character>
+<verseline>I pray thee peace. I will be flesh and blood; </verseline>
+<verseline>For there was never yet philosopher </verseline>
+<verseline>That could endure the toothache patiently, </verseline>
+<verseline>However they have writ the style of gods </verseline>
+<verseline>And made a push at chance and sufferance</verseline>
+<character>Antonio </character>
+<verseline>Yet bend not all the harm upon yourself</verseline>
+<verseline>Make those that do offend you suffer too</verseline>
+<character>Leonato </character>
+<verseline>There thou speak&#8217;st reason. Nay, I will do so</verseline>
+<verseline>My soul doth tell me Hero is belied; </verseline>
+<verseline>And that shall Claudio know; so shall the Prince, </verseline>
+<verseline>And all of them that thus dishonour her</verseline>
+<stage_directions>Enter Don Pedro and Claudio</stage_directions>
+<character>Antonio </character>
+<verseline>Here comes the Prince and Claudio hastily</verseline>
+<character>Don Pedro </character>
+<verseline>Good den, Good den</verseline>
+<character>Claudio </character>
+<verseline>Good day to both of you</verseline>
+<character>Leonato </character>
+<verseline>Hear you, my lords! </verseline>
+<character>Don Pedro </character>
+<verseline>We have some haste, Leonato</verseline>
+<character>Leonato </character>
+<verseline>Some haste, my lord! well, fare you well, my lord</verseline>
+<verseline>Are you so hasty now? Well, all is one</verseline>
+<character>Don Pedro </character>
+<verseline>Nay, do not quarrel with us, good old man</verseline>
+<character>Antonio </character>
+<verseline>If he could right himself with quarrelling, </verseline>
+<verseline>Some of us would lie low</verseline>
+<character>Claudio </character>
+<verseline>Who wrongs him? </verseline>
+<character>Leonato </character>
+<verseline>Marry, thou dost wrong me, thou dissembler, thou! </verseline>
+<verseline>Nay, never lay thy hand upon thy sword; </verseline>
+<verseline>I fear thee not</verseline>
+<character>Claudio </character>
+<verseline>Mary, beshrew my hand </verseline>
+<verseline>If it should give your age such cause of fear</verseline>
+<verseline>In faith, my hand meant nothing to my sword</verseline>
+<character>Leonato </character>
+<verseline>Tush, tush, man! never fleer and jest at me </verseline>
+<verseline>I speak not like a dotard nor a fool, </verseline>
+<verseline>As under privilege of age to brag </verseline>
+<verseline>What I have done being young, or what would do, </verseline>
+<verseline>Were I not old. Know, Claudio, to thy head, </verseline>
+<verseline>Thou hast so wrong&#8217;d mine innocent child and me </verseline>
+<verseline>That I am forc&#8217;d to lay my reverence by </verseline>
+<verseline>And, with grey hairs and bruise of many days, </verseline>
+<verseline>Do challenge thee to trial of a man</verseline>
+<verseline>I say thou hast belied mine innocent child; </verseline>
+<verseline>Thy slander hath gone through and through her heart, </verseline>
+<verseline>And she lied buried with her ancestors- </verseline>
+<verseline>O, in a tomb where never scandal slept, </verseline>
+<verseline>Save this of hers, fram&#8217;d by thy villany! </verseline>
+<character>Claudio </character>
+<verseline>My villany? </verseline>
+<character>Leonato </character>
+<verseline>Thine, Claudio; thine I say</verseline>
+<character>Don Pedro </character>
+<verseline>You say not right, old man </verseline>
+<character>Leonato </character>
+<verseline>My lord, my lord, </verseline>
+<verseline>I&#8217;ll prove it on his body if he dare, </verseline>
+<verseline>Despite his nice fence and his active practice, </verseline>
+<verseline>His May of youth and bloom of lustihood</verseline>
+<character>Claudio </character>
+<verseline>Away! I will not have to do with you</verseline>
+<character>Leonato </character>
+<verseline>Canst thou so daff me? Thou hast kill&#8217;d my child</verseline>
+<verseline>If thou kill&#8217;st me, boy, thou shalt kill a man</verseline>
+<verseline>And. He shall kill two of us, and men indeed </verseline>
+<verseline>But that&#8217;s no matter; let him kill one first</verseline>
+<verseline>Win me and wear me! Let him answer me</verseline>
+<verseline>Come, follow me, boy,. Come, sir boy, come follow me</verseline>
+<verseline>Sir boy, I&#8217;ll whip you from your foining fence! </verseline>
+<verseline>Nay, as I am a gentleman, I will</verseline>
+<character>Leonato </character>
+<verseline>Brother-- </verseline>
+<character>Antonio </character>
+<verseline>Content yourself. God knows I lov&#8217;d my niece, </verseline>
+<verseline>And she is dead, slander&#8217;d to death by villains, </verseline>
+<verseline>That dare as well answer a man indeed </verseline>
+<verseline>As I dare take a serpent by the tongue</verseline>
+<verseline>Boys, apes, braggarts, jacks, milksops! </verseline>
+<character>Leonato </character>
+<verseline>Brother Anthony-- </verseline>
+<character>Antonio </character>
+<verseline>Hold you content. What, man! I know them, yea, </verseline>
+<verseline>And what they weigh, even to the utmost scruple, </verseline>
+<verseline>Scambling, outfacing, fashion-monging boys, </verseline>
+<verseline>That lie and cog and flout, deprave and slander, </verseline>
+<verseline>Go anticly, show outward hideousness, </verseline>
+<verseline>And speak off half a dozen dang&#8217;rous words, </verseline>
+<verseline>How they might hurt their enemies, if they durst; </verseline>
+<verseline>And this is all</verseline>
+<character>Leonato </character>
+<verseline>But, brother Anthony-- </verseline>
+<character>Antonio </character>
+<verseline>Come, &#8216;tis no matter</verseline>
+<verseline>Do not you meddle; let me deal in this</verseline>
+<character>Don Pedro </character>
+<verseline>Gentlemen both, we will not wake your patience</verseline>
+<verseline>My heart is sorry for your daughter&#8217;s death; </verseline>
+<verseline>But, on my honour, she was charg&#8217;d with nothing </verseline>
+<verseline>But what was true, and very full of proof</verseline>
+<character>Leonato </character>
+<verseline>My lord, my lord-- </verseline>
+<character>Don Pedro </character>
+<verseline>I will not hear you</verseline>
+<character>Leonato </character>
+<verseline>No? Come, brother, away!--I will be heard</verseline>
+<character>Antonio </character>
+<verseline>And shall, or some of us will smart for it</verseline>
+<stage_directions>Exeunt ambo</stage_directions>
+<stage_directions>Enter Benedick</stage_directions>
+<character>Don Pedro </character>
+<verseline>See, see! Here comes the man we went to seek</verseline>
+<character>Claudio </character>
+<verseline>Now, signior, what news? </verseline>
+<character>Benedick </character>
+<verseline>Good day, my lord</verseline>
+<character>Don Pedro </character>
+<verseline>Welcome, signior. You are almost come to part almost a fray</verseline>
+<character>Claudio </character>
+<prose>We had lik&#8217;d to have had our two noses snapp&#8217;d off with two old men without teeth</prose>
+<character>Don Pedro </character>
+<verseline>Leonato and his brother. What think&#8217;st thou? Had we fought, I doubt we should have been too young for them</verseline>
+<character>Benedick </character>
+<prose>In a false quarrel there is no true valour. I came to seek you both</prose>
+<character>Claudio </character>
+<prose>We have been up and down to seek thee; for we are high-proof melancholy, and would fain have it beaten away. Wilt thou use thy wit? </prose>
+<character>Benedick </character>
+<verseline>It is in my scabbard. Shall I draw it? </verseline>
+<character>Don Pedro </character>
+<verseline>Dost thou wear thy wit by thy side? </verseline>
+<character>Claudio </character>
+<prose>Never any did so, though very many have been beside their wit. I will bid thee draw, as we do the minstrel--draw to pleasure us</prose>
+<character>Don Pedro </character>
+<prose>As I am an honest man, he looks pale. Art thou sick or angry? </prose>
+<character>Claudio </character>
+<prose>What, courage, man! What though care kill&#8217;d a cat, thou hast mettle enough in thee to kill care</prose>
+<character>Benedick </character>
+<prose>Sir, I shall meet your wit in the career an you charge it against me. I pray you choose another subject</prose>
+<character>Claudio </character>
+<verseline>Nay then, give him another staff; this last was broke cross</verseline>
+<character>Don Pedro </character>
+<prose>By this light, he changes more and more. I think he be angry indeed</prose>
+<character>Claudio </character>
+<verseline>If he be, he knows how to turn his girdle</verseline>
+<character>Benedick </character>
+<verseline>Shall I speak a word in your ear? </verseline>
+<character>Claudio </character>
+<verseline>God bless me from a challenge! </verseline>
+<character>Benedick </character>
+<prose>[aside to Claudio] You are a villain. I jest not; I will make it good how you dare, with what you dare, and when you dare. Do me right, or I will protest your cowardice. You have kill&#8217;d a sweet lady, and her death shall fall heavy on you. Let me hear from you</prose>
+<character>Claudio </character>
+<verseline>Well, I will meet you, so I may have good cheer</verseline>
+<character>Don Pedro </character>
+<verseline>What, a feast, a feast? </verseline>
+<character>Claudio </character>
+<verseline>I&#8217; faith, I thank him, he hath bid me to a calve&#8217;s head and a capon, the which if I do not carve most curiously, say my knife&#8217;s naught. Shall I not find a woodcock too? </verseline>
+<character>Benedick </character>
+<verseline>Sir, your wit ambles well; it goes easily</verseline>
+<character>Don Pedro </character>
+<prose>I&#8217;ll tell thee how Beatrice prais&#8217;d thy wit the other day. I said thou hadst a fine wit: &#8216;True,&#8217; said she, &#8216;a fine little one.&#8217; &#8216;No,&#8217; said I, &#8216;a great wit.&#8217; &#8216;Right,&#8217; says she, &#8216;a great gross one.&#8217; &#8216;Nay,&#8217; said I, &#8216;a good wit.&#8217; &#8216;Just,&#8217; said she, &#8216;it hurts nobody.&#8217; &#8216;Nay,&#8217; said I, &#8216;the gentleman is wise.&#8217; &#8216;Certain,&#8217; said she, a wise gentleman.&#8217; &#8216;Nay,&#8217; said I, &#8216;he hath the tongues.&#8217; &#8216;That I believe&#8217; said she, &#8216;for he swore a thing to me on Monday night which he forswore on Tuesday morning. There&#8217;s a double tongue; there&#8217;s two tongues.&#8217; Thus did she an hour together transshape thy particular virtues. Yet at last she concluded with a sigh, thou wast the proper&#8217;st man in Italy</prose>
+<character>Claudio </character>
+<verseline>For the which she wept heartily and said she cared not</verseline>
+<character>Don Pedro </character>
+<prose>Yea, that she did; but yet, for all that, an if she did not hate him deadly, she would love him dearly. The old man&#8217;s daughter told us all</prose>
+<character>Claudio </character>
+<prose>All, all! and moreover, God saw him when he was hid in the garden</prose>
+<character>Don Pedro </character>
+<prose>But when shall we set the savage bull&#8217;s horns on the sensible Benedick&#8217;s head? </prose>
+<character>Claudio </character>
+<prose>Yea, and text underneath, &#8216;Here dwells Benedick, the married man&#8217;? </prose>
+<character>Benedick </character>
+<prose>Fare you well, boy; you know my mind. I will leave you now to your gossiplike humour. You break jests as braggards do their blades, which God be thanked hurt not. My lord, for your many courtesies I thank you. I must discontinue your company. Your brother the bastard is fled from Messina. You have among you kill&#8217;d a sweet and innocent lady. For my Lord Lackbeard there, he and I shall meet; and till then peace be with him</prose>
+<stage_directions>[Exit.] </stage_directions>
+<character>Don Pedro </character>
+<verseline>He is in earnest</verseline>
+<character>Claudio </character>
+<prose>In most profound earnest; and, I&#8217;ll warrant you, for the love of Beatrice</prose>
+<character>Don Pedro </character>
+<verseline>And hath challeng&#8217;d thee</verseline>
+<character>Claudio </character>
+<verseline>Most sincerely</verseline>
+<character>Don Pedro </character>
+<prose>What a pretty thing man is when he goes in his doublet and hose and leaves off his wit! </prose>
+<stage_directions>Enter Constables [Dogberry and Verges, with the Watch, leading] Conrade and Borachio</stage_directions>
+<character>Claudio </character>
+<prose>He is then a giant to an ape; but then is an ape a doctor to such a man</prose>
+<character>Don Pedro </character>
+<verseline>But, soft you, let me be! Pluck up, my heart, and be sad! Did he not say my brother was fled? </verseline>
+<character>Dogberry </character>
+<prose>Come you, sir. If justice cannot tame you, she shall ne&#8217;er weigh more reasons in her balance. Nay, an you be a cursing hypocrite once, you must be look&#8217;d to</prose>
+<character>Don Pedro </character>
+<verseline>How now? two of my brother&#8217;s men bound? Borachio one</verseline>
+<character>Claudio </character>
+<verseline>Hearken after their offence, my lord</verseline>
+<character>Don Pedro </character>
+<verseline>Officers, what offence have these men done? </verseline>
+<character>Dogberry </character>
+<prose>Marry, sir, they have committed false report; moreover, they have spoken untruths; secondarily, they are slanders; sixth and lastly, they have belied a lady; thirdly, they have verified unjust things; and to conclude, they are lying knaves</prose>
+<character>Don Pedro </character>
+<prose>First, I ask thee what they have done; thirdly, I ask thee what&#8217;s their offence; sixth and lastly, why they are committed; and to conclude, what you lay to their charge</prose>
+<character>Claudio </character>
+<prose>Rightly reasoned, and in his own division; and by my troth there&#8217;s one meaning well suited</prose>
+<character>Don Pedro </character>
+<prose>Who have you offended, masters, that you are thus bound to your answer? This learned constable is too cunning to be understood. What&#8217;s your offence? </prose>
+<character>Borachio </character>
+<prose>Sweet Prince, let me go no farther to mine answer. Do you hear me, and let this Count kill me. I have deceived even your very eyes. What your wisdoms could not discover, these shallow fools have brought to light, who in the night overheard me confessing to this man, how Don John your brother incensed me to slander the Lady Hero; how you were brought into the orchard and saw me court Margaret in Hero&#8217;s garments; how you disgrac&#8217;d her when you should marry her. My villany they have upon record, which I had rather seal with my death than repeat over to my shame. The lady is dead upon mine and my master&#8217;s false accusation; and briefly, I desire nothing but the reward of a villain</prose>
+<character>Don Pedro </character>
+<verseline>Runs not this speech like iron through your blood? </verseline>
+<character>Claudio </character>
+<verseline>I have drunk poison whiles he utter&#8217;d it</verseline>
+<character>Don Pedro </character>
+<verseline>But did my brother set thee on to this? </verseline>
+<character>Borachio </character>
+<verseline>Yea, and paid me richly for the practice of it</verseline>
+<character>Don Pedro </character>
+<verseline>He is compos&#8217;d and fram&#8217;d of treachery, </verseline>
+<verseline>And fled he is upon this villany</verseline>
+<character>Claudio </character>
+<verseline>Sweet Hero, now thy image doth appear </verseline>
+<verseline>In the rare semblance that I lov&#8217;d it first</verseline>
+<character>Dogberry </character>
+<prose>Come, bring away the plaintiffs. By this time our sexton hath reformed Signior Leonato of the matter. And, masters, do not forget to specify, when time and place shall serve, that I am an ass</prose>
+<character>Verges </character>
+<verseline>Here, here comes Master Signior Leonato, and the sexton too</verseline>
+<stage_directions>Enter Leonato, his brother [Antonio], and the Sexton</stage_directions>
+<character>Leonato </character>
+<verseline>Which is the villain? Let me see his eyes, </verseline>
+<verseline>That, when I note another man like him, </verseline>
+<verseline>I may avoid him. Which of these is he? </verseline>
+<character>Borachio </character>
+<verseline>If you would know your wronger, look on me</verseline>
+<character>Leonato </character>
+<verseline>Art thou the slave that with thy breath hast kill&#8217;d </verseline>
+<verseline>Mine innocent child? </verseline>
+<character>Borachio </character>
+<verseline>Yea, even I alone</verseline>
+<character>Leonato </character>
+<verseline>No, not so, villain! thou beliest thyself</verseline>
+<verseline>Here stand a pair of honourable men-- </verseline>
+<verseline>A third is fled--that had a hand in it</verseline>
+<verseline>I thank you princes for my daughter&#8217;s death</verseline>
+<verseline>Record it with your high and worthy deeds</verseline>
+<verseline>&#8216;Twas bravely done, if you bethink you of it</verseline>
+<character>Claudio </character>
+<verseline>I know not how to pray your patience; </verseline>
+<verseline>Yet I must speak. Choose your revenge yourself; </verseline>
+<verseline>Impose me to what penance your invention </verseline>
+<verseline>Can lay upon my sin. Yet sinn&#8217;d I not </verseline>
+<verseline>But in mistaking</verseline>
+<character>Don Pedro </character>
+<verseline>By my soul, nor I! </verseline>
+<verseline>And yet, to satisfy this good old man, </verseline>
+<verseline>I would bend under any heavy weight </verseline>
+<verseline>That he&#8217;ll enjoin me to</verseline>
+<character>Leonato </character>
+<verseline>I cannot bid you bid my daughter live- </verseline>
+<verseline>That were impossible; but I pray you both, </verseline>
+<verseline>Possess the people in Messina here </verseline>
+<verseline>How innocent she died; and if your love </verseline>
+<verseline>Can labour aught in sad invention, </verseline>
+<verseline>Hang her an epitaph upon her tomb, </verseline>
+<verseline>And sing it to her bones--sing it to-night</verseline>
+<verseline>To-morrow morning come you to my house, </verseline>
+<verseline>And since you could not be my son-in-law, </verseline>
+<verseline>Be yet my nephew. My brother hath a daughter, </verseline>
+<verseline>Almost the copy of my child that&#8217;s dead, </verseline>
+<verseline>And she alone is heir to both of us</verseline>
+<verseline>Give her the right you should have giv&#8217;n her cousin, </verseline>
+<verseline>And so dies my revenge</verseline>
+<character>Claudio </character>
+<verseline>O noble sir! </verseline>
+<verseline>Your over-kindness doth wring tears from me</verseline>
+<verseline>I do embrace your offer; and dispose </verseline>
+<verseline>For henceforth of poor Claudio</verseline>
+<character>Leonato </character>
+<verseline>To-morrow then I will expect your coming; </verseline>
+<verseline>To-night I take my leave. This naughty man </verseline>
+<verseline>Shall fact to face be brought to Margaret, </verseline>
+<verseline>Who I believe was pack&#8217;d in all this wrong, </verseline>
+<verseline>Hir&#8217;d to it by your brother</verseline>
+<character>Borachio </character>
+<verseline>No, by my soul, she was not; </verseline>
+<verseline>Nor knew not what she did when she spoke to me; </verseline>
+<verseline>But always hath been just and virtuous </verseline>
+<verseline>In anything that I do know by her</verseline>
+<character>Dogberry </character>
+<prose>Moreover, sir, which indeed is not under white and black, this plaintiff here, the offender, did call me ass. I beseech you let it be rememb&#8217;red in his punishment. And also the watch heard them talk of one Deformed. They say he wears a key in his ear, and a lock hanging by it, and borrows money in God&#8217;s name, the which he hath us&#8217;d so long and never paid that now men grow hard-hearted and will lend nothing for God&#8217;s sake. Pray you examine him upon that point</prose>
+<character>Leonato </character>
+<verseline>I thank thee for thy care and honest pains</verseline>
+<character>Dogberry </character>
+<prose>Your worship speaks like a most thankful and reverent youth, and I praise God for you</prose>
+<character>Leonato </character>
+<verseline>There&#8217;s for thy pains. <stage_directions_inline>[Gives money.]</stage_directions_inline>
+</verseline>
+<character>Dogberry </character>
+<verseline>God save the foundation! </verseline>
+<character>Leonato </character>
+<verseline>Go, I discharge thee of thy prisoner, and I thank thee</verseline>
+<character>Dogberry </character>
+<prose>I leave an arrant knave with your worship, which I beseech your worship to correct yourself, for the example of others</prose>
+<prose>God keep your worship! I wish your worship well. God restore you to health! I humbly give you leave to depart; and if a merry meeting may be wish&#8217;d, God prohibit it! Come, neighbour</prose>
+<stage_directions>Exeunt [Dogberry and Verges]</stage_directions>
+<character>Leonato </character>
+<verseline>Until to-morrow morning, lords, farewell</verseline>
+<character>Antonio </character>
+<verseline>Farewell, my lords. We look for you to-morrow</verseline>
+<character>Don Pedro </character>
+<verseline>We will not fall</verseline>
+<character>Claudio </character>
+<verseline>To-night I&#8217;ll mourn with Hero</verseline>
+<stage_directions>[Exeunt Don Pedro and Claudio.] </stage_directions>
+<character>Leonato </character>
+<verseline>
+<stage_directions_inline>[to the Watch]</stage_directions_inline> Bring you these fellows on.--We&#8217;ll talk with Margaret, </verseline>
+<verseline>How her acquaintance grew with this lewd fellow</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene II</scene>
+<location>Leonato&#8217;s orchard</location>
+<stage_directions>Enter Benedick and Margaret [meeting]</stage_directions>
+<character>Benedick </character>
+<prose>Pray thee, sweet Mistress Margaret, deserve well at my hands by helping me to the speech of Beatrice</prose>
+<character>Margaret </character>
+<verseline>Will you then write me a sonnet in praise of my beauty? </verseline>
+<character>Benedick </character>
+<prose>In so high a style, Margaret, that no man living shall come over it; for in most comely truth thou deservest it</prose>
+<character>Margaret </character>
+<prose>To have no man come over me? Why, shall I always keep below stairs? </prose>
+<character>Benedick </character>
+<verseline>Thy wit is as quick as the greyhound&#8217;s mouth--it catches</verseline>
+<character>Margaret </character>
+<prose>And yours as blunt as the fencer&#8217;s foils, which hit but hurt not</prose>
+<character>Benedick </character>
+<verseline>A most manly wit, Margaret: it will not hurt a woman</verseline>
+<verseline>And so I pray thee call Beatrice. I give thee the bucklers</verseline>
+<character>Margaret </character>
+<verseline>Give us the swords; we have bucklers of our own</verseline>
+<character>Benedick </character>
+<prose>If you use them, Margaret, you must put in the pikes with a vice, and they are dangerous weapons for maids</prose>
+<character>Margaret </character>
+<verseline>Well, I will call Beatrice to you, who I think hath legs</verseline>
+<character>Benedick </character>
+<verseline>And therefore will come</verseline>
+<stage_directions>Exit Margaret</stage_directions>
+<song>[Sings] The God of love, </song>
+<song>That sits above </song>
+<song>And knows me, and knows me, </song>
+<song>How pitiful I deserve--I mean in singing; but in loving Leander the good swimmer, </song>
+<song>Troilus the first employer of panders, and a whole book full of these quondam carpet-mongers, whose names yet run smoothly in the even road of a blank verse--why, they were never so truly turn&#8217;d over and over as my poor self in love. Marry, I cannot show it in rhyme. I have tried. I can find out no rhyme to &#8216;lady&#8217; but &#8216;baby&#8217;--an innocent rhyme; for &#8216;scorn,&#8217; &#8216;horn&#8217;--a hard rhyme; for &#8216;school&#8217;, &#8216;fool&#8217;--a babbling rhyme: very ominous endings! No, I was not born under a rhyming planet, nor cannot woo in festival terms</song>
+<stage_directions>Enter Beatrice</stage_directions>
+<verseline>Sweet Beatrice, wouldst thou come when I call&#8217;d thee? </verseline>
+<character>Beatrice </character>
+<verseline>Yea, signior, and depart when you bid me</verseline>
+<character>Benedick </character>
+<verseline>O, stay but till then! </verseline>
+<character>Beatrice </character>
+<prose>&#8216;Then&#8217; is spoken. Fare you well now. And yet, ere I go, let me go with that I came for, which is, with knowing what hath pass&#8217;d between you and Claudio</prose>
+<character>Benedick </character>
+<verseline>Only foul words; and thereupon I will kiss thee</verseline>
+<character>Beatrice </character>
+<prose>Foul words is but foul wind, and foul wind is but foul breath, and foul breath is noisome. Therefore I will depart unkiss&#8217;d</prose>
+<character>Benedick </character>
+<prose>Thou hast frighted the word out of his right sense, so forcible is thy wit. But I must tell thee plainly, Claudio undergoes my challenge; and either I must shortly hear from him or I will subscribe him a coward. And I pray thee now tell me, for which of my bad parts didst thou first fall in love with me? </prose>
+<character>Beatrice </character>
+<prose>For them all together, which maintain&#8217;d so politic a state of evil that they will not admit any good part to intermingle with them. But for which of my good parts did you first suffer love for me? </prose>
+<character>Benedick </character>
+<prose>Suffer love!--a good epithet. I do suffer love indeed, for I love thee against my will</prose>
+<character>Beatrice </character>
+<prose>In spite of your heart, I think. Alas, poor heart! If you spite it for my sake, I will spite it for yours, for I will never love that which my friend hates</prose>
+<character>Benedick </character>
+<verseline>Thou and I are too wise to woo peaceably</verseline>
+<character>Beatrice </character>
+<prose>It appears not in this confession. There&#8217;s not one wise man among twenty, that will praise himself</prose>
+<character>Benedick </character>
+<prose>An old, an old instance, Beatrice, that liv&#8217;d in the time of good neighbours. If a man do not erect in this age his own tomb ere he dies, he shall live no longer in monument than the bell rings and the widow weeps</prose>
+<character>Beatrice </character>
+<verseline>And how long is that, think you? </verseline>
+<character>Benedick </character>
+<verseline>Question: why, an hour in clamour and a quarter in rheum. Therefore is it most expedient for the wise, if Don Worm (his conscience) find no impediment to the contrary, to be the trumpet of his own virtues, as I am to myself. So much for praising myself, who, I myself will bear witness, is praiseworthy. And now tell me, how doth your cousin? </verseline>
+<character>Beatrice </character>
+<verseline>Very ill</verseline>
+<character>Benedick </character>
+<verseline>And how do you? </verseline>
+<character>Beatrice </character>
+<verseline>Very ill too</verseline>
+<character>Benedick </character>
+<prose>Serve God, love me, and mend. There will I leave you too, for here comes one in haste</prose>
+<stage_directions>Enter Ursula</stage_directions>
+<character>Ursula </character>
+<verseline>Madam, you must come to your uncle. Yonder&#8217;s old coil at home. It is proved my Lady Hero hath been falsely accus&#8217;d, the Prince and Claudio mightily abus&#8217;d, and Don John is the author of all, who is fled and gone. Will you come presently? </verseline>
+<character>Beatrice </character>
+<verseline>Will you go hear this news, signior? </verseline>
+<character>Benedick </character>
+<prose>I will live in thy heart, die in thy lap, and be buried thy eyes; and moreover, I will go with thee to thy uncle&#8217;s</prose>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene III</scene>
+<location>A churchyard</location>
+<stage_directions>Enter Claudio, Don Pedro, and three or four with tapers, [followed by Musicians]</stage_directions>
+<character>Claudio </character>
+<verseline>Is this the monument of Leonato? </verseline>
+<character>Lord </character>
+<verseline>It is, my lord</verseline>
+<character>Claudio </character>
+<verseline>
+<stage_directions_inline>[reads from a scroll]</stage_directions_inline>
+</verseline>
+<verseline>Epitaph</verseline>
+<verseline>Done to death by slanderous tongues </verseline>
+<verseline>Was the Hero that here lies</verseline>
+<verseline>Death, in guerdon of her wrongs, </verseline>
+<verseline>Gives her fame which never dies</verseline>
+<verseline>So the life that died with shame </verseline>
+<verseline>Lives in death with glorious fame</verseline>
+<verseline>Hang thou there upon the tomb, </verseline>
+<verseline>
+<stage_directions_inline>[Hangs up the scroll.]</stage_directions_inline>
+</verseline>
+<verseline>Praising her when I am dumb</verseline>
+<verseline>Now, music, sound, and sing your solemn hymn</verseline>
+<song>Song</song>
+<song>Pardon, goddess of the night, </song>
+<song>Those that slew thy virgin knight; </song>
+<song>For the which, with songs of woe, </song>
+<song>Round about her tomb they go</song>
+<song>Midnight, assist our moan, </song>
+<song>Help us to sigh and groan </song>
+<song>Heavily, heavily, </song>
+<song>Graves, yawn and yield your dead, </song>
+<song>Till death be uttered </song>
+<song>Heavily, heavily</song>
+<character>Claudio </character>
+<verseline>Now unto thy bones good night! </verseline>
+<verseline>Yearly will I do this rite</verseline>
+<character>Don Pedro </character>
+<verseline>Good morrow, masters. Put your torches out</verseline>
+<verseline>The wolves have prey&#8217;d, and look, the gentle day, </verseline>
+<verseline>Before the wheels of Phoebus, round about </verseline>
+<verseline>Dapples the drowsy east with spots of grey</verseline>
+<verseline>Thanks to you all, and leave us. Fare you well</verseline>
+<character>Claudio </character>
+<verseline>Good morrow, masters. Each his several way</verseline>
+<character>Don Pedro </character>
+<verseline>Come, let us hence and put on other weeds, </verseline>
+<verseline>And then to Leonato&#8217;s we will go</verseline>
+<character>Claudio </character>
+<verseline>And Hymen now with luckier issue speeds </verseline>
+<verseline>Than this for whom we rend&#8217;red up this woe</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene IV </scene>
+<location>The hall in Leonato&#8217;s house</location>
+<stage_directions>Enter Leonato, Benedick, [Beatrice,] Margaret, Ursula, Antonio, Friar [Francis], Hero</stage_directions>
+<character>Friar Francis </character>
+<verseline>Did I not tell you she was innocent? </verseline>
+<character>Leonato </character>
+<verseline>So are the Prince and Claudio, who accus&#8217;d her </verseline>
+<verseline>Upon the error that you heard debated</verseline>
+<verseline>But Margaret was in some fault for this, </verseline>
+<verseline>Although against her will, as it appears </verseline>
+<verseline>In the true course of all the question</verseline>
+<character>Antonio </character>
+<verseline>Well, I am glad that all things sort so well</verseline>
+<character>Benedick </character>
+<verseline>And so am I, being else by faith enforc&#8217;d </verseline>
+<verseline>To call young Claudio to a reckoning for it</verseline>
+<character>Leonato </character>
+<verseline>Well, daughter, and you gentlewomen all, </verseline>
+<verseline>Withdraw into a chamber by yourselves, </verseline>
+<verseline>And when I send for you, come hither mask&#8217;d</verseline>
+<stage_directions>Exeunt Ladies</stage_directions>
+<verseline>The Prince and Claudio promis&#8217;d by this hour </verseline>
+<verseline>To visit me. You know your office, brother: </verseline>
+<verseline>You must be father to your brother&#8217;s daughter, </verseline>
+<verseline>And give her to young Claudio</verseline>
+<character>Antonio </character>
+<verseline>Which I will do with confirm&#8217;d countenance</verseline>
+<character>Benedick </character>
+<verseline>Friar, I must entreat your pains, I think</verseline>
+<character>Friar Francis </character>
+<verseline>To do what, signior? </verseline>
+<character>Benedick </character>
+<verseline>To bind me, or undo me--one of them</verseline>
+<verseline>Signior Leonato, truth it is, good signior, </verseline>
+<verseline>Your niece regards me with an eye of favour</verseline>
+<character>Leonato </character>
+<verseline>That eye my daughter lent her. &#8216;Tis most true</verseline>
+<character>Benedick </character>
+<verseline>And I do with an eye of love requite her</verseline>
+<character>Leonato </character>
+<verseline>The sight whereof I think you had from me, </verseline>
+<verseline>From Claudio, and the Prince; but what&#8217;s your will? </verseline>
+<character>Benedick </character>
+<verseline>Your answer, sir, is enigmatical; </verseline>
+<verseline>But, for my will, my will is, your good will </verseline>
+<verseline>May stand with ours, this day to be conjoin&#8217;d </verseline>
+<verseline>In the state of honourable marriage; </verseline>
+<verseline>In which, good friar, I shall desire your help</verseline>
+<character>Leonato </character>
+<verseline>My heart is with your liking</verseline>
+<character>Friar Francis </character>
+<verseline>And my help</verseline>
+<stage_directions>Enter Don Pedro and Claudio and two or three other</stage_directions>
+<verseline>Here comes the Prince and Claudio</verseline>
+<character>Don Pedro </character>
+<verseline>Good morrow to this fair assembly</verseline>
+<character>Leonato </character>
+<verseline>Good morrow, Prince; good morrow, Claudio</verseline>
+<verseline>We here attend you. Are you yet determin&#8217;d </verseline>
+<verseline>To-day to marry with my brother&#8217;s daughter? </verseline>
+<character>Claudio </character>
+<verseline>I&#8217;ll hold my mind, were she an Ethiope</verseline>
+<character>Leonato </character>
+<verseline>Call her forth, brother. Here&#8217;s the friar ready</verseline>
+<stage_directions>[Exit Antonio.] </stage_directions>
+<character>Don Pedro </character>
+<verseline>Good morrow, Benedick. Why, what&#8217;s the matter </verseline>
+<verseline>That you have such a February face, </verseline>
+<verseline>So full of frost, of storm, and cloudiness? </verseline>
+<character>Claudio </character>
+<verseline>I think he thinks upon the savage bull</verseline>
+<verseline>Tush, fear not, man! We&#8217;ll tip thy horns with gold, </verseline>
+<verseline>And all Europa shall rejoice at thee, </verseline>
+<verseline>As once Europa did at lusty Jove </verseline>
+<verseline>When he would play the noble beast in love</verseline>
+<character>Benedick </character>
+<verseline>Bull Jove, sir, had an amiable low, </verseline>
+<verseline>And some such strange bull leap&#8217;d your father&#8217;s cow </verseline>
+<verseline>And got a calf in that same noble feat </verseline>
+<verseline>Much like to you, for you have just his bleat</verseline>
+<stage_directions>Enter [Leonato&#8217;s] brother [Antonio], Hero, Beatrice, Margaret, Ursula, [the ladies wearing masks]</stage_directions>
+<character>Claudio </character>
+<verseline>For this I owe you. Here comes other reckonings</verseline>
+<verseline>Which is the lady I must seize upon? </verseline>
+<character>Antonio </character>
+<verseline>This same is she, and I do give you her</verseline>
+<character>Claudio </character>
+<verseline>Why then, she&#8217;s mine. Sweet, let me see your face</verseline>
+<character>Leonato </character>
+<verseline>No, that you shall not till you take her hand </verseline>
+<verseline>Before this friar and swear to marry her</verseline>
+<character>Claudio </character>
+<verseline>Give me your hand before this holy friar</verseline>
+<verseline>I am your husband if you like of me</verseline>
+<character>Hero </character>
+<verseline>And when I liv&#8217;d I was your other wife;<stage_directions_inline>[Unmasks.]</stage_directions_inline>
+</verseline>
+<verseline>And when you lov&#8217;d you were my other husband</verseline>
+<character>Claudio </character>
+<verseline>Another Hero! </verseline>
+<character>Hero </character>
+<verseline>Nothing certainer</verseline>
+<verseline>One Hero died defil&#8217;d; but I do live, </verseline>
+<verseline>And surely as I live, I am a maid</verseline>
+<character>Don Pedro </character>
+<verseline>The former Hero! Hero that is dead! </verseline>
+<character>Leonato </character>
+<verseline>She died, my lord, but whiles her slander liv&#8217;d</verseline>
+<character>Friar Francis </character>
+<verseline>All this amazement can I qualify, </verseline>
+<verseline>When, after that the holy rites are ended, </verseline>
+<verseline>I&#8217;ll tell you largely of fair Hero&#8217;s death</verseline>
+<verseline>Meantime let wonder seem familiar, </verseline>
+<verseline>And to the chapel let us presently</verseline>
+<character>Benedick </character>
+<verseline>Soft and fair, friar. Which is Beatrice? </verseline>
+<character>Beatrice </character>
+<verseline>
+<stage_directions_inline>[unmasks] </stage_directions_inline>I answer to that name. What is your will? </verseline>
+<character>Benedick </character>
+<verseline>Do not you love me? </verseline>
+<character>Beatrice </character>
+<verseline>Why, no; no more than reason</verseline>
+<character>Benedick </character>
+<verseline>Why, then your uncle, and the Prince, and Claudio </verseline>
+<verseline>Have been deceived; for they swore you did</verseline>
+<character>Beatrice </character>
+<verseline>Do not you love me? </verseline>
+<character>Benedick </character>
+<verseline>Troth, no; no more than reason</verseline>
+<character>Beatrice </character>
+<verseline>Why, then my cousin, Margaret, and Ursula </verseline>
+<verseline>Are much deceiv&#8217;d; for they did swear you did</verseline>
+<character>Benedick </character>
+<verseline>They swore that you were almost sick for me</verseline>
+<character>Beatrice </character>
+<verseline>They swore that you were well-nigh dead for me</verseline>
+<character>Benedick </character>
+<verseline>&#8216;Tis no such matter. Then you do not love me? </verseline>
+<character>Beatrice </character>
+<verseline>No, truly, but in friendly recompense</verseline>
+<character>Leonato </character>
+<verseline>Come, cousin, I am sure you love the gentleman</verseline>
+<character>Claudio </character>
+<verseline>And I&#8217;ll be sworn upon&#8217;t that he loves her; </verseline>
+<verseline>For here&#8217;s a paper written in his hand, </verseline>
+<verseline>A halting sonnet of his own pure brain, </verseline>
+<verseline>Fashion&#8217;d to Beatrice</verseline>
+<character>Hero </character>
+<verseline>And here&#8217;s another, </verseline>
+<verseline>Writ in my cousin&#8217;s hand, stol&#8217;n from her pocket, </verseline>
+<verseline>Containing her affection unto Benedick</verseline>
+<character>Benedick </character>
+<verseline>A miracle! Here&#8217;s our own hands against our hearts</verseline>
+<verseline>Come, I will have thee; but, by this light, I take thee for pity</verseline>
+<character>Beatrice </character>
+<prose>I would not deny you; but, by this good day, I yield upon great persuasion, and partly to save your life, for I was told you were in a consumption</prose>
+<character>Benedick </character>
+<verseline>Peace! I will stop your mouth.<stage_directions_inline>[Kisses her.]</stage_directions_inline>
+</verseline>
+<character>Beatrice </character>
+<prose>I&#8217;ll tell thee what, Prince: a college of wit-crackers cannot flout me out of my humour. Dost thou think I care for a satire or an epigram? No. If a man will be beaten with brains, &#8216;a shall wear nothing handsome about him. In brief, since I do purpose to marry, I will think nothing to any purpose that the world can say against it; and therefore never flout at me for what I have said against it; for man is a giddy thing, and this is my conclusion. For thy part, Claudio, I did think to have beaten thee; but in that thou art like to be my kinsman, live unbruis&#8217;d, and love my cousin</prose>
+<character>Claudio </character>
+<prose>I had well hop&#8217;d thou wouldst have denied Beatrice, that I might have cudgell&#8217;d thee out of thy single life, to make thee a double-dealer, which out of question thou wilt be if my cousin do not look exceeding narrowly to thee</prose>
+<character>Benedick </character>
+<prose>Come, come, we are friends. Let&#8217;s have a dance ere we are married, that we may lighten our own hearts and our wives&#8217; heels</prose>
+<character>Leonato </character>
+<verseline>We&#8217;ll have dancing afterward</verseline>
+<character>Benedick </character>
+<prose>First, of my word! Therefore play, music. Prince, thou art sad. Get thee a wife, get thee a wife! There is no staff more reverent than one tipp&#8217;d with horn</prose>
+<stage_directions>Enter Messenger</stage_directions>
+<character>Messenger </character>
+<verseline>My lord, your brother John is ta&#8217;en in flight, </verseline>
+<verseline>And brought with armed men back to Messina</verseline>
+<character>Benedick </character>
+<prose>Think not on him till to-morrow. I&#8217;ll devise thee brave punishments for him. Strike up, pipers! </prose>
+<prose>
+<stage_directions_inline>Dance.</stage_directions_inline>
+</prose>
+<stage_directions>[Exeunt.] </stage_directions>-THE END-</play>
+</shakespeareplay>

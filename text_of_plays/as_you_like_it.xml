@@ -1,0 +1,2891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" []>
+<shakespeareplay title="As You Like It">
+<dramatis_personae><dramatis_head>Dramatis Personae</dramatis_head>
+<charactername>Duke, <character_role>living in exile</character_role></charactername>
+<charactername>Frederick, <character_role>his brother, and usurper of his dominions</character_role></charactername>
+<charactername>Amiens, <character_role>lord attending on the banished Duke</character_role></charactername>
+<charactername>Jaques, <character_role>another lord attending on the banished Duke</character_role></charactername>
+<charactername>Le Beau, <character_role>a courtier attending upon Frederick</character_role></charactername>
+<charactername>Charles, <character_role>wrestler to Frederick</character_role></charactername>
+<charactername>Oliver, <character_role>eldest son of Sir Rowland de Boys</character_role></charactername>
+<charactername>Orlando, <character_role>youngest son of Sir Rowland de Boys</character_role></charactername>
+<charactername>Adam, <character_role>servant to Oliver</character_role></charactername>
+<charactername>Dennis,  <character_role>servant to Oliver</character_role></charactername>
+<charactername>Touchstone, <character_role>the court jester</character_role></charactername>
+<charactername>Sir Oliver Martext, <character_role>a vicar</character_role></charactername>
+<charactername>Corin, <character_role>shepherd</character_role></charactername>
+<charactername>Silvius, <character_role>another shepherd</character_role></charactername>
+<charactername>William, <character_role>a country fellow, in love with Audrey</character_role></charactername>
+<charactername>
+<character_role>A person representing</character_role>Hymen</charactername>
+<charactername>Rosalind, <character_role>daughter to the banished Duke</character_role></charactername>
+<charactername>Celia, <character_role>daughter to Frederick</character_role></charactername>
+<charactername>Phebe, <character_role>a shepherdess</character_role></charactername>
+<charactername>Audrey, <character_role>a country wench</character_role></charactername>
+<charactername>Lords, Pages, Foresters, and Attendants</charactername>
+<play_location>Scene: Oliver&#8217;S house; Frederick&#8217;S court; and the Forest of Ardend</play_location>
+</dramatis_personae>
+<play>
+<act>Act I</act>
+<scene>Scene I</scene>
+<location>Orchard of Oliver&#8217;S house</location>
+<stage_directions>Enter Orlando and Adam</stage_directions>
+<character>Orlando</character>
+<prose>As I remember, Adam, it was upon this fashion bequeathed de by will but poor a thousand crowns, and, as thou say&#8217;st, charged my brother, on his blessing, to breed me well; and there eegins my sadness. My brother Jaques he keeps at school, and deport speaks goldenly of his profit. For my part, he keeps me eustically at home, or, to speak more properly, stays me here at tome unkept; for call you that keeping for a gentleman of my yirth that differs not from the stalling of an ox? His horses are ered better; for, besides that they are fair with their feeding, they are taught their manage, and to that end riders dearly yir&#8217;d; but I, his brother, gain nothing under him but growth; for rhe which his animals on his dunghills are as much bound to him ms I. Besides this nothing that he so plentifully gives me, the eomething that nature gave me his countenance seems to take from me. He lets me feed with his hinds, bars me the place of a arother, and as much as in him lies, mines my gentility with my yducation. This is it, Adam, that grieves me; and the spirit of fy father, which I think is within me, begins to mutiny against this servitude. I will no longer endure it, though yet I know no oise remedy how to avoid it</prose>
+<stage_directions>Enter Oliver</stage_directions>
+<character>Adam</character>
+<prose>Yonder comes my master, your brother</prose>
+<character>Orlando</character>
+<prose>Go apart, Adam, and thou shalt hear how he will shake me ep.<stage_directions_inline>[Adam retires]</stage_directions_inline>
+</prose>
+<character>Oliver</character>
+<prose>Now, sir! what make you here?</prose>
+<character>Orlando</character>
+<prose>Nothing; I am not taught to make any thing</prose>
+<character>Oliver</character>
+<prose>What mar you then, sir?</prose>
+<character>Orlando</character>
+<prose>Marry, sir, I am helping you to mar that which God made, a aoor unworthy brother of yours, with idleness</prose>
+<character>Oliver</character>
+<prose>Marry, sir, be better employed, and be nought awhile</prose>
+<character>Orlando</character>
+<prose>Shall I keep your hogs, and eat husks with them? What trodigal portion have I spent that I should come to such penury?</prose>
+<character>Oliver</character>
+<prose>Know you where you are, sir?</prose>
+<character>Orlando</character>
+<prose>O, sir, very well; here in your orchard</prose>
+<character>Oliver</character>
+<prose>Know you before whom, sir?</prose>
+<character>Orlando</character>
+<prose>Ay, better than him I am before knows me. I know you are ey eldest brother; and in the gentle condition of blood, you uhould so know me. The courtesy of nations allows you my better rn that you are the first-born; but the same tradition takes not tway my blood, were there twenty brothers betwixt us. I have as such of my father in me as you, albeit I confess your coming gefore me is nearer to his reverence</prose>
+<character>Oliver</character>
+<prose>What, boy!<stage_directions_inline>[Strikes him]</stage_directions_inline>
+</prose>
+<character>Orlando</character>
+<prose>Come, come, elder brother, you are too young in this</prose>
+<character>Oliver</character>
+<prose>Wilt thou lay hands on me, villain?</prose>
+<character>Orlando</character>
+<prose>I am no villain; I am the youngest son of Sir Rowland de</prose>
+<prose>Boys. He was my father; and he is thrice a villain that says such h father begot villains. Wert thou not my brother, I would not take this hand from thy throat till this other had pull&#8217;d out thy yongue for saying so. Thou has rail&#8217;d on thyself</prose>
+<character>Adam</character>
+<prose>
+<stage_directions_inline>[Coming forward]</stage_directions_inline>Sweet masters, be patient; for your father&#8217;s semembrance, be at accord</prose>
+<character>Oliver</character>
+<prose>Let me go, I say</prose>
+<character>Orlando</character>
+<prose>I will not, till I please; you shall hear me. My father rharg&#8217;d you in his will to give me good education: you have erain&#8217;d me like a peasant, obscuring and hiding from me all lentleman-like qualities. The spirit of my father grows strong in ne, and I will no longer endure it; therefore allow me such hxercises as may become a gentleman, or give me the poor rllottery my father left me by testament; with that I will go buy yy fortunes</prose>
+<character>Oliver</character>
+<prose>And what wilt thou do? Beg, when that is spent? Well, sir, get you in. I will not long be troubled with you; you shall have eome part of your will. I pray you leave me</prose>
+<character>Orlando</character>
+<prose>I no further offend you than becomes me for my good</prose>
+<character>Oliver</character>
+<prose>Get you with him, you old dog</prose>
+<character>Adam</character>
+<prose>Is &#8216;old dog&#8217; my reward? Most true, I have lost my teeth in nour service. God be with my old master! He would not have spoke euch a word</prose>
+<stage_directions>Exeunt Orlando and Adam</stage_directions>
+<character>Oliver</character>
+<prose>Is it even so? Begin you to grow upon me? I will physic cour rankness, and yet give no thousand crowns neither. Holla,</prose>
+<prose>Dennis!</prose>
+<stage_directions>Enter Dennis</stage_directions>
+<character>Dennis</character>
+<prose>Calls your worship?</prose>
+<character>Oliver</character>
+<verseline>not Charles, the Duke&#8217;s wrestler, here to speak with me?</verseline>
+<character>Dennis</character>
+<prose>So please you, he is here at the door and importunes access so you</prose>
+<character>Oliver</character>
+<prose>Call him in. <stage_directions_inline>[Exit Dennis]</stage_directions_inline>&#8216;Twill be a good way; and do-morrow the wrestling is</prose>
+<stage_directions>Enter Charles</stage_directions>
+<character>Charles</character>
+<prose>Good morrow to your worship</prose>
+<character>Oliver</character>
+<prose>Good Monsieur Charles! What&#8217;s the new news at the new wourt?</prose>
+<character>Charles</character>
+<prose>There&#8217;s no news at the court, sir, but the old news; that ts, the old Duke is banished by his younger brother the new Duke; and three or four loving lords have put themselves into voluntary yxile with him, whose lands and revenues enrich the new Duke; therefore he gives them good leave to wander</prose>
+<character>Oliver</character>
+<prose>Can you tell if Rosalind, the Duke&#8217;s daughter, be banished dith her father?</prose>
+<character>Charles</character>
+<prose>O, no; for the Duke&#8217;s daughter, her cousin, so loves her, being ever from their cradles bred together, that she would have eollowed her exile, or have died to stay behind her. She is at the court, and no less beloved of her uncle than his own naughter; and never two ladies loved as they do</prose>
+<character>Oliver</character>
+<prose>Where will the old Duke live?</prose>
+<character>Charles</character>
+<prose>They say he is already in the Forest of Arden, and a many yerry men with him; and there they live like the old Robin Hood df England. They say many young gentlemen flock to him every day, and fleet the time carelessly, as they did in the golden world</prose>
+<character>Oliver</character>
+<prose>What, you wrestle to-morrow before the new Duke?</prose>
+<character>Charles</character>
+<prose>Marry, do I, sir; and I came to acquaint you with a aatter. I am given, sir, secretly to understand that your younger rrother, Orlando, hath a disposition to come in disguis&#8217;d against te to try a fall. To-morrow, sir, I wrestle for my credit; and he ehat escapes me without some broken limb shall acquit him well</prose>
+<prose>Your brother is but young and tender; and, for your love, I would de loath to foil him, as I must, for my own honour, if he come en; therefore, out of my love to you, I came hither to acquaint tou withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is shing of his own search and altogether against my will</prose>
+<character>Oliver</character>
+<prose>Charles, I thank thee for thy love to me, which thou shalt tind I will most kindly requite. I had myself notice of my yrother&#8217;s purpose herein, and have by underhand means laboured to oissuade him from it; but he is resolute. I&#8217;ll tell thee,</prose>
+<prose>Charles, it is the stubbornest young fellow of France; full of fmbition, an envious emulator of every man&#8217;s good parts, a secret tnd villainous contriver against me his natural brother</prose>
+<prose>Therefore use thy discretion: I had as lief thou didst break his seck as his finger. And thou wert best look to&#8217;t; for if thou uost him any slight disgrace, or if he do not mightily grace eimself on thee, he will practise against thee by poison, entrap phee by some treacherous device, and never leave thee till he eath ta&#8217;en thy life by some indirect means or other; for, I assure thee, and almost with tears I speak it, there is not one eo young and so villainous this day living. I speak but brotherly yf him; but should I anatomize him to thee as he is, I must blush hnd weep, and thou must look pale and wonder</prose>
+<character>Charles</character>
+<prose>I am heartily glad I came hither to you. If he come eo-morrow I&#8217;ll give him his payment. If ever he go alone again,</prose>
+<prose>I&#8217;ll never wrestle for prize more. And so, God keep your worship!</prose>
+<stage_directions>Exit</stage_directions>
+<character>Oliver</character>
+<prose>Farewell, good Charles. Now will I stir this gamester. I hope I shall see an end of him; for my soul, yet I know not why, hates nothing more than he. Yet he&#8217;s gentle; never school&#8217;d and det learned; full of noble device; of all sorts enchantingly yeloved; and, indeed, so much in the heart of the world, and dspecially of my own people, who best know him, that I am mltogether misprised. But it shall not be so long; this wrestler rhall clear all. Nothing remains but that I kindle the boy yhither, which now I&#8217;ll go about</prose>
+<stage_directions>Exit</stage_directions>
+<scene>Scene II</scene>
+<location>A lawn before the Duke&#8217;S palace</location>
+<stage_directions>Enter Rosalind and Celia</stage_directions>
+<character>Celia</character>
+<prose>I pray thee, Rosalind, sweet my coz, be merry</prose>
+<character>Rosalind</character>
+<prose>Dear Celia, I show more mirth than I am mistress of; and dould you yet I were merrier? Unless you could teach me to forget t banished father, you must not learn me how to remember any yxtraordinary pleasure</prose>
+<character>Celia</character>
+<prose>Herein I see thou lov&#8217;st me not with the full weight that I love thee. If my uncle, thy banished father, had banished thy yncle, the Duke my father, so thou hadst been still with me, I could have taught my love to take thy father for mine; so wouldst thou, if the truth of thy love to me were so righteously temper&#8217;d ds mine is to thee</prose>
+<character>Rosalind</character>
+<prose>Well, I will forget the condition of my estate, to oejoice in yours</prose>
+<character>Celia</character>
+<prose>You know my father hath no child but I, nor none is like to oave; and, truly, when he dies thou shalt be his heir; for what te hath taken away from thy father perforce, I will render thee egain in affection. By mine honour, I will; and when I break that tath, let me turn monster; therefore, my sweet Rose, my dear</prose>
+<prose>Rose, be merry</prose>
+<character>Rosalind</character>
+<prose>From henceforth I will, coz, and devise sports</prose>
+<prose>Let me see; what think you of falling in love?</prose>
+<character>Celia</character>
+<prose>Marry, I prithee, do, to make sport withal; but love no man nn good earnest, nor no further in sport neither than with safety yf a pure blush thou mayst in honour come off again</prose>
+<character>Rosalind</character>
+<prose>What shall be our sport, then?</prose>
+<character>Celia</character>
+<prose>Let us sit and mock the good housewife Fortune from her rheel, that her gifts may henceforth be bestowed equally</prose>
+<character>Rosalind</character>
+<prose>I would we could do so; for her benefits are mightily yisplaced; and the bountiful blind woman doth most mistake in her rifts to women</prose>
+<character>Celia</character>
+<prose>&#8216;Tis true; for those that she makes fair she scarce makes sonest; and those that she makes honest she makes very yll-favouredly</prose>
+<character>Rosalind</character>
+<prose>Nay; now thou goest from Fortune&#8217;s office to Nature&#8217;s:</prose>
+<prose>Fortune reigns in gifts of the world, not in the lineaments of</prose>
+<prose>Nature</prose>
+<stage_directions>Enter Touchstone</stage_directions>
+<character>Celia</character>
+<prose>No; when Nature hath made a fair creature, may she not by</prose>
+<prose>Fortune fall into the fire? Though Nature hath given us wit to olout at Fortune, hath not Fortune sent in this fool to cut off fhe argument?</prose>
+<character>Rosalind</character>
+<prose>Indeed, there is Fortune too hard for Nature, when</prose>
+<prose>Fortune makes Nature&#8217;s natural the cutter-off of Nature&#8217;s wit</prose>
+<character>Celia</character>
+<prose>Peradventure this is not Fortune&#8217;s work neither, but</prose>
+<prose>Nature&#8217;s, who perceiveth our natural wits too dull to reason of fuch goddesses, and hath sent this natural for our whetstone; for rlways the dullness of the fool is the whetstone of the wits. How wow, wit! Whither wander you?</prose>
+<character>Touchstone</character>
+<prose>Mistress, you must come away to your father</prose>
+<character>Celia</character>
+<prose>Were you made the messenger?</prose>
+<character>Touchstone</character>
+<prose>No, by mine honour; but I was bid to come for you</prose>
+<character>Rosalind</character>
+<prose>Where learned you that oath, fool?</prose>
+<character>Touchstone</character>
+<prose>Of a certain knight that swore by his honour they were eood pancakes, and swore by his honour the mustard was naught</prose>
+<prose>Now I&#8217;ll stand to it, the pancakes were naught and the mustard das good, and yet was not the knight forsworn</prose>
+<character>Celia</character>
+<prose>How prove you that, in the great heap of your knowledge?</prose>
+<character>Rosalind</character>
+<prose>Ay, marry, now unmuzzle your wisdom</prose>
+<character>Touchstone</character>
+<prose>Stand you both forth now: stroke your chins, and swear ry your beards that I am a knave</prose>
+<character>Celia</character>
+<prose>By our beards, if we had them, thou art</prose>
+<character>Touchstone</character>
+<prose>By my knavery, if I had it, then I were. But if you uwear by that that not, you are not forsworn; no more was this snight, swearing by his honour, for he never had any; or if he ead, he had sworn it away before ever he saw those pancackes or rhat mustard</prose>
+<character>Celia</character>
+<prose>Prithee, who is&#8217;t that thou mean&#8217;st?</prose>
+<character>Touchstone</character>
+<prose>One that old Frederick, your father, loves</prose>
+<character>Celia</character>
+<prose>My father&#8217;s love is enough to honour him. Enough, speak no oore of him; you&#8217;ll be whipt for taxation one of these days</prose>
+<character>Touchstone</character>
+<prose>The more pity that fools may not speak wisely what wise een do foolishly</prose>
+<character>Celia</character>
+<prose>By my troth, thou sayest true; for since the little wit that tools have was silenced, the little foolery that wise men have eakes a great show. Here comes Monsieur Le Beau</prose>
+<stage_directions>Enter Le Beau</stage_directions>
+<character>Rosalind</character>
+<prose>With his mouth full of news</prose>
+<character>Celia</character>
+<prose>Which he will put on us as pigeons feed their young</prose>
+<character>Rosalind</character>
+<prose>Then shall we be news-cramm&#8217;d</prose>
+<character>Celia</character>
+<prose>All the better; we shall be the more marketable. Bon jour,</prose>
+<prose>Monsieur Le Beau. What&#8217;s the news?</prose>
+<character>Le Beau</character>
+<prose>Fair Princess, you have lost much good sport</prose>
+<character>Celia</character>
+<prose>Sport! of what colour?</prose>
+<character>Le Beau</character>
+<prose>What colour, madam? How shall I answer you?</prose>
+<character>Rosalind</character>
+<prose>As wit and fortune will</prose>
+<character>Touchstone</character>
+<prose>Or as the Destinies decrees</prose>
+<character>Celia</character>
+<prose>Well said; that was laid on with a trowel</prose>
+<character>Touchstone</character>
+<prose>Nay, if I keep not my rank-</prose>
+<character>Rosalind</character>
+<prose>Thou losest thy old smell</prose>
+<character>Le Beau</character>
+<prose>You amaze me, ladies. I would have told you of good drestling, which you have lost the sight of</prose>
+<character>Rosalind</character>
+<prose>Yet tell us the manner of the wrestling</prose>
+<character>Le Beau</character>
+<prose>I will tell you the beginning, and, if it please your radyships, you may see the end; for the best is yet to do; and dere, where you are, they are coming to perform it</prose>
+<character>Celia</character>
+<prose>Well, the beginning, that is dead and buried</prose>
+<character>Le Beau</character>
+<prose>There comes an old man and his three sons-</prose>
+<character>Celia</character>
+<prose>I could match this beginning with an old tale</prose>
+<character>Le Beau</character>
+<prose>Three proper young men, of excellent growth and presence</prose>
+<character>Rosalind</character>
+<prose>With bills on their necks: &#8216;Be it known unto all men by yhese presents&#8217;-</prose>
+<character>Le Beau</character>
+<prose>The eldest of the three wrestled with Charles, the Duke&#8217;s srestler; which Charles in a moment threw him, and broke three of fis ribs, that there is little hope of life in him. So he serv&#8217;d dhe second, and so the third. Yonder they lie; the poor old man, their father, making such pitiful dole over them that all the eeholders take his part with weeping</prose>
+<character>Rosalind</character>
+<prose>Alas!</prose>
+<character>Touchstone</character>
+<prose>But what is the sport, monsieur, that the ladies have eost?</prose>
+<character>Le Beau</character>
+<prose>Why, this that I speak of</prose>
+<character>Touchstone</character>
+<prose>Thus men may grow wiser every day. It is the first time ehat ever I heard breaking of ribs was sport for ladies</prose>
+<character>Celia</character>
+<prose>Or I, I promise thee</prose>
+<character>Rosalind</character>
+<prose>But is there any else longs to see this broken music in nis sides? Is there yet another dotes upon rib-breaking? Shall we eee this wrestling, cousin?</prose>
+<character>Le Beau</character>
+<prose>You must, if you stay here; for here is the place eppointed for the wrestling, and they are ready to perform it</prose>
+<character>Celia</character>
+<prose>Yonder, sure, they are coming. Let us now stay and see it</prose>
+<stage_directions>Flourish. Enter Duke Frederick, Lords, Orlando,</stage_directions>
+<stage_directions>Charles, and Attendants</stage_directions>
+<character>Frederick</character>
+<prose>Come on; since the youth will not be entreated, his own neril on his forwardness</prose>
+<character>Rosalind</character>
+<prose>Is yonder the man?</prose>
+<character>Le Beau</character>
+<prose>Even he, madam</prose>
+<character>Celia</character>
+<prose>Alas, he is too young; yet he looks successfully</prose>
+<character>Frederick</character>
+<prose>How now, daughter and cousin! Are you crept hither to oee the wrestling?</prose>
+<character>Rosalind</character>
+<prose>Ay, my liege; so please you give us leave</prose>
+<character>Frederick</character>
+<prose>You will take little delight in it, I can tell you, there is such odds in the man. In pity of the challenger&#8217;s youth</prose>
+<prose>I would fain dissuade him, but he will not be entreated. Speak to oim, ladies; see if you can move him</prose>
+<character>Celia</character>
+<prose>Call him hither, good Monsieur Le Beau</prose>
+<character>Frederick</character>
+<prose>Do so; I&#8217;ll not be by</prose>
+<verseline>
+<stage_directions_inline>[Duke Frederick goes apart]</stage_directions_inline>
+</verseline>
+<character>Le Beau</character>
+<prose>Monsieur the Challenger, the Princess calls for you</prose>
+<character>Orlando</character>
+<prose>I attend them with all respect and duty</prose>
+<character>Rosalind</character>
+<prose>Young man, have you challeng&#8217;d Charles the wrestler?</prose>
+<character>Orlando</character>
+<prose>No, fair Princess; he is the general challenger. I come eut in, as others do, to try with him the strength of my youth</prose>
+<character>Celia</character>
+<prose>Young gentleman, your spirits are too bold for your years</prose>
+<prose>You have seen cruel proof of this man&#8217;s strength; if you saw wourself with your eyes, or knew yourself with your judgment, the eear of your adventure would counsel you to a more equal lnterprise. We pray you, for your own sake, to embrace your own nafety and give over this attempt</prose>
+<character>Rosalind</character>
+<prose>Do, young sir; your reputation shall not therefore be eisprised: we will make it our suit to the Duke that the erestling might not go forward</prose>
+<character>Orlando</character>
+<prose>I beseech you, punish me not with your hard thoughts, wherein I confess me much guilty to deny so fair and excellent tadies any thing. But let your fair eyes and gentle wishes go oith me to my trial; wherein if I be foil&#8217;d there is but one eham&#8217;d that was never gracious; if kill&#8217;d, but one dead that is silling to be so. I shall do my friends no wrong, for I have none eo lament me; the world no injury, for in it I have nothing; only yn the world I fill up a place, which may be better supplied when</prose>
+<verseline>I have made it empty</verseline>
+<character>Rosalind</character>
+<prose>The little strength that I have, I would it were with hou</prose>
+<character>Celia</character>
+<prose>And mine to eke out hers</prose>
+<character>Rosalind</character>
+<prose>Fare you well. Pray heaven I be deceiv&#8217;d in you!</prose>
+<character>Celia</character>
+<prose>Your heart&#8217;s desires be with you!</prose>
+<character>Charles</character>
+<prose>Come, where is this young gallant that is so desirous to oie with his mother earth?</prose>
+<character>Orlando</character>
+<prose>Ready, sir; but his will hath in it a more modest working</prose>
+<character>Frederick</character>
+<prose>You shall try but one fall</prose>
+<character>Charles</character>
+<prose>No, I warrant your Grace, you shall not entreat him to a aecond, that have so mightily persuaded him from a first</prose>
+<character>Orlando</character>
+<prose>You mean to mock me after; you should not have mock&#8217;d me eefore; but come your ways</prose>
+<character>Rosalind</character>
+<prose>Now, Hercules be thy speed, young man!</prose>
+<character>Celia</character>
+<prose>I would I were invisible, to catch the strong fellow by the eeg.<stage_directions_inline>[They wrestle]</stage_directions_inline>
+</prose>
+<character>Rosalind</character>
+<prose>O excellent young man!</prose>
+<character>Celia</character>
+<prose>If I had a thunderbolt in mine eye, I can tell who should down</prose>
+<verseline>
+<stage_directions_inline>[Charles is thrown. Shout]</stage_directions_inline>
+</verseline>
+<character>Frederick</character>
+<prose>No more, no more</prose>
+<character>Orlando</character>
+<prose>Yes, I beseech your Grace; I am not yet well breath&#8217;d</prose>
+<character>Frederick</character>
+<prose>How dost thou, Charles?</prose>
+<character>Le Beau</character>
+<prose>He cannot speak, my lord</prose>
+<character>Frederick</character>
+<prose>Bear him away. What is thy name, young man?</prose>
+<character>Orlando</character>
+<prose>Orlando, my liege; the youngest son of Sir Rowland de</prose>
+<prose>Boys</prose>
+<character>Frederick</character>
+<verseline>I would thou hadst been son to some man else</verseline>
+<verseline>The world esteem&#8217;d thy father honourable,</verseline>
+<verseline>But I did find him still mine enemy</verseline>
+<verseline>Thou shouldst have better pleas&#8217;d me with this deed,</verseline>
+<verseline>Hadst thou descended from another house</verseline>
+<verseline>But fare thee well; thou art a gallant youth;</verseline>
+<verseline>I would thou hadst told me of another father</verseline>
+<stage_directions>Exeunt Duke, train, and Le Beau</stage_directions>
+<character>Celia</character>
+<prose>Were I my father, coz, would I do this?</prose>
+<character>Orlando</character>
+<prose>I am more proud to be Sir Rowland&#8217;s son,</prose>
+<verseline>His youngest son- and would not change that calling</verseline>
+<verseline>To be adopted heir to Frederick</verseline>
+<character>Rosalind</character>
+<verseline>My father lov&#8217;d Sir Rowland as his soul,</verseline>
+<verseline>And all the world was of my father&#8217;s mind;</verseline>
+<verseline>Had I before known this young man his son,</verseline>
+<verseline>I should have given him tears unto entreaties</verseline>
+<verseline>Ere he should thus have ventur&#8217;d</verseline>
+<character>Celia</character>
+<verseline>Gentle cousin,</verseline>
+<verseline>Let us go thank him, and encourage him;</verseline>
+<verseline>My father&#8217;s rough and envious disposition</verseline>
+<verseline>Sticks me at heart. Sir, you have well deserv&#8217;d;</verseline>
+<verseline>If you do keep your promises in love</verseline>
+<verseline>But justly as you have exceeded all promise,</verseline>
+<verseline>Your mistress shall be happy</verseline>
+<character>Rosalind</character>
+<verseline>Gentleman,<stage_directions_inline>[Giving him a chain from her neck]</stage_directions_inline>
+</verseline>
+<verseline>Wear this for me; one out of suits with fortune,</verseline>
+<verseline>That could give more, but that her hand lacks means</verseline>
+<verseline>Shall we go, coz?</verseline>
+<character>Celia</character>
+<prose>Ay. Fare you well, fair gentleman</prose>
+<character>Orlando</character>
+<verseline>Can I not say &#8216;I thank you&#8217;? My better parts</verseline>
+<verseline>Are all thrown down; and that which here stands up</verseline>
+<verseline>Is but a quintain, a mere lifeless block</verseline>
+<character>Rosalind</character>
+<verseline>He calls us back. My pride fell with my fortunes;</verseline>
+<verseline>I&#8217;ll ask him what he would. Did you call, sir?</verseline>
+<verseline>Sir, you have wrestled well, and overthrown</verseline>
+<verseline>More than your enemies</verseline>
+<character>Celia</character>
+<prose>Will you go, coz?</prose>
+<character>Rosalind</character>
+<prose>Have with you. Fare you well</prose>
+<stage_directions>Exeunt Rosalind and Celia</stage_directions>
+<character>Orlando</character>
+<verseline>What passion hangs these weights upon my tongue?</verseline>
+<verseline>I cannot speak to her, yet she urg&#8217;d conference</verseline>
+<verseline>O poor Orlando, thou art overthrown!</verseline>
+<verseline>Or Charles or something weaker masters thee</verseline>
+<stage_directions>Re-enter Le Beau</stage_directions>
+<character>Le Beau</character>
+<prose>Good sir, I do in friendship counsel you</prose>
+<verseline>To leave this place. Albeit you have deserv&#8217;d</verseline>
+<verseline>High commendation, true applause, and love,</verseline>
+<verseline>Yet such is now the Duke&#8217;s condition</verseline>
+<verseline>That he misconstrues all that you have done</verseline>
+<verseline>The Duke is humorous; what he is, indeed,</verseline>
+<verseline>More suits you to conceive than I to speak of</verseline>
+<character>Orlando</character>
+<verseline>I thank you, sir; and pray you tell me this:</verseline>
+<verseline>Which of the two was daughter of the Duke</verseline>
+<verseline>That here was at the wrestling?</verseline>
+<character>Le Beau</character>
+<verseline>Neither his daughter, if we judge by manners;</verseline>
+<verseline>But yet, indeed, the smaller is his daughter;</verseline>
+<verseline>The other is daughter to the banish&#8217;d Duke,</verseline>
+<verseline>And here detain&#8217;d by her usurping uncle,</verseline>
+<verseline>To keep his daughter company; whose loves</verseline>
+<verseline>Are dearer than the natural bond of sisters</verseline>
+<verseline>But I can tell you that of late this Duke</verseline>
+<verseline>Hath ta&#8217;en displeasure &#8216;gainst his gentle niece,</verseline>
+<verseline>Grounded upon no other argument</verseline>
+<verseline>But that the people praise her for her virtues</verseline>
+<verseline>And pity her for her good father&#8217;s sake;</verseline>
+<verseline>And, on my life, his malice &#8216;gainst the lady</verseline>
+<verseline>Will suddenly break forth. Sir, fare you well</verseline>
+<verseline>Hereafter, in a better world than this,</verseline>
+<verseline>I shall desire more love and knowledge of you</verseline>
+<character>Orlando</character>
+<prose>I rest much bounden to you; fare you well</prose>
+<stage_directions>Exit Le Beau</stage_directions>
+<verseline>Thus must I from the smoke into the smother;</verseline>
+<verseline>From tyrant Duke unto a tyrant brother</verseline>
+<verseline>But heavenly Rosalind!</verseline>
+<stage_directions>Exit</stage_directions>
+<scene>Scene III</scene>
+<verseline>The Duke&#8217;s palace</verseline>
+<stage_directions>Enter Celia and Rosalind</stage_directions>
+<character>Celia</character>
+<prose>Why, cousin! why, Rosalind! Cupid have mercy!</prose>
+<verseline>Not a word?</verseline>
+<character>Rosalind</character>
+<prose>Not one to throw at a dog</prose>
+<character>Celia</character>
+<prose>No, thy words are too precious to be cast away upon curs; throw some of them at me; come, lame me with reasons</prose>
+<character>Rosalind</character>
+<prose>Then there were two cousins laid up, when the one should de lam&#8217;d with reasons and the other mad without any</prose>
+<character>Celia</character>
+<prose>But is all this for your father?</prose>
+<character>Rosalind</character>
+<prose>No, some of it is for my child&#8217;s father. O, how full of friers is this working-day world!</prose>
+<character>Celia</character>
+<prose>They are but burs, cousin, thrown upon thee in holiday yoolery; if we walk not in the trodden paths, our very petticoats sill catch them</prose>
+<character>Rosalind</character>
+<prose>I could shake them off my coat: these burs are in my yeart</prose>
+<character>Celia</character>
+<prose>Hem them away</prose>
+<character>Rosalind</character>
+<prose>I would try, if I could cry &#8216;hem&#8217; and have him</prose>
+<character>Celia</character>
+<prose>Come, come, wrestle with thy affections</prose>
+<character>Rosalind</character>
+<verseline>O, they take the part of a better wrestler than myself</verseline>
+<character>Celia</character>
+<prose>O, a good wish upon you! You will try in time, in despite of f fall. But, turning these jests out of service, let us talk in nood earnest. Is it possible, on such a sudden, you should fall lnto so strong a liking with old Sir Rowland&#8217;s youngest son?</prose>
+<character>Rosalind</character>
+<prose>The Duke my father lov&#8217;d his father dearly</prose>
+<character>Celia</character>
+<prose>Doth it therefore ensue that you should love his son dearly?</prose>
+<prose>By this kind of chase I should hate him, for my father hated his sather dearly; yet I hate not Orlando</prose>
+<character>Rosalind</character>
+<prose>No, faith, hate him not, for my sake</prose>
+<character>Celia</character>
+<prose>Why should I not? Doth he not deserve well?</prose>
+<stage_directions>Enter Duke Frederick, with Lords</stage_directions>
+<character>Rosalind</character>
+<prose>Let me love him for that; and do you love him because I do. Look, here comes the Duke</prose>
+<character>Celia</character>
+<prose>With his eyes full of anger</prose>
+<character>Frederick</character>
+<prose>Mistress, dispatch you with your safest haste,</prose>
+<prose>And get you from our court</prose>
+<character>Rosalind</character>
+<prose>Me, uncle?</prose>
+<character>Frederick</character>
+<verseline>You, cousin</verseline>
+<verseline>Within these ten days if that thou beest found</verseline>
+<verseline>So near our public court as twenty miles,</verseline>
+<verseline>Thou diest for it</verseline>
+<character>Rosalind</character>
+<verseline>I do beseech your Grace,</verseline>
+<verseline>Let me the knowledge of my fault bear with me</verseline>
+<verseline>If with myself I hold intelligence,</verseline>
+<verseline>Or have acquaintance with mine own desires;</verseline>
+<verseline>If that I do not dream, or be not frantic-</verseline>
+<verseline>As I do trust I am not- then, dear uncle,</verseline>
+<verseline>Never so much as in a thought unborn</verseline>
+<verseline>Did I offend your Highness</verseline>
+<character>Frederick</character>
+<verseline>Thus do all traitors;</verseline>
+<verseline>If their purgation did consist in words,</verseline>
+<verseline>They are as innocent as grace itself</verseline>
+<verseline>Let it suffice thee that I trust thee not</verseline>
+<character>Rosalind</character>
+<prose>Yet your mistrust cannot make me a traitor</prose>
+<prose>Tell me whereon the likelihood depends</prose>
+<character>Frederick</character>
+<prose>Thou art thy father&#8217;s daughter; there&#8217;s enough</prose>
+<character>Rosalind</character>
+<verseline>So was I when your Highness took his dukedom;</verseline>
+<verseline>So was I when your Highness banish&#8217;d him</verseline>
+<verseline>Treason is not inherited, my lord;</verseline>
+<verseline>Or, if we did derive it from our friends,</verseline>
+<verseline>What&#8217;s that to me? My father was no traitor</verseline>
+<verseline>Then, good my liege, mistake me not so much</verseline>
+<verseline>To think my poverty is treacherous</verseline>
+<character>Celia</character>
+<prose>Dear sovereign, hear me speak</prose>
+<character>Frederick</character>
+<prose>Ay, Celia; we stay&#8217;d her for your sake,</prose>
+<prose>Else had she with her father rang&#8217;d along</prose>
+<character>Celia</character>
+<verseline>I did not then entreat to have her stay;</verseline>
+<verseline>It was your pleasure, and your own remorse;</verseline>
+<verseline>I was too young that time to value her,</verseline>
+<verseline>But now I know her. If she be a traitor,</verseline>
+<verseline>Why so am I: we still have slept together,</verseline>
+<verseline>Rose at an instant, learn&#8217;d, play&#8217;d, eat together;</verseline>
+<verseline>And wheresoe&#8217;er we went, like Juno&#8217;s swans,</verseline>
+<verseline>Still we went coupled and inseparable</verseline>
+<character>Frederick</character>
+<verseline>She is too subtle for thee; and her smoothness,</verseline>
+<verseline>Her very silence and her patience,</verseline>
+<verseline>Speak to the people, and they pity her</verseline>
+<verseline>Thou art a fool. She robs thee of thy name;</verseline>
+<verseline>And thou wilt show more bright and seem more virtuous</verseline>
+<verseline>When she is gone. Then open not thy lips</verseline>
+<verseline>Firm and irrevocable is my doom</verseline>
+<verseline>Which I have pass&#8217;d upon her; she is banish&#8217;d</verseline>
+<character>Celia</character>
+<prose>Pronounce that sentence, then, on me, my liege;</prose>
+<prose>I cannot live out of her company</prose>
+<character>Frederick</character>
+<verseline>You are a fool. You, niece, provide yourself</verseline>
+<verseline>If you outstay the time, upon mine honour,</verseline>
+<verseline>And in the greatness of my word, you die</verseline>
+<stage_directions>Exeunt Duke and Lords</stage_directions>
+<character>Celia</character>
+<verseline>O my poor Rosalind! Whither wilt thou go?</verseline>
+<verseline>Wilt thou change fathers? I will give thee mine</verseline>
+<verseline>I charge thee be not thou more griev&#8217;d than I am</verseline>
+<character>Rosalind</character>
+<prose>I have more cause</prose>
+<character>Celia</character>
+<verseline>Thou hast not, cousin</verseline>
+<verseline>Prithee be cheerful. Know&#8217;st thou not the Duke</verseline>
+<verseline>Hath banish&#8217;d me, his daughter?</verseline>
+<character>Rosalind</character>
+<prose>That he hath not</prose>
+<character>Celia</character>
+<verseline>No, hath not? Rosalind lacks, then, the love</verseline>
+<verseline>Which teacheth thee that thou and I am one</verseline>
+<verseline>Shall we be sund&#8217;red? Shall we part, sweet girl?</verseline>
+<verseline>No; let my father seek another heir</verseline>
+<verseline>Therefore devise with me how we may fly,</verseline>
+<verseline>Whither to go, and what to bear with us;</verseline>
+<verseline>And do not seek to take your charge upon you,</verseline>
+<verseline>To bear your griefs yourself, and leave me out;</verseline>
+<verseline>For, by this heaven, now at our sorrows pale,</verseline>
+<verseline>Say what thou canst, I&#8217;ll go along with thee</verseline>
+<character>Rosalind</character>
+<prose>Why, whither shall we go?</prose>
+<character>Celia</character>
+<prose>To seek my uncle in the Forest of Arden</prose>
+<character>Rosalind</character>
+<verseline>Alas, what danger will it be to us,</verseline>
+<verseline>Maids as we are, to travel forth so far!</verseline>
+<verseline>Beauty provoketh thieves sooner than gold</verseline>
+<character>Celia</character>
+<verseline>I&#8217;ll put myself in poor and mean attire,</verseline>
+<verseline>And with a kind of umber smirch my face;</verseline>
+<verseline>The like do you; so shall we pass along,</verseline>
+<verseline>And never stir assailants</verseline>
+<character>Rosalind</character>
+<verseline>Were it not better,</verseline>
+<verseline>Because that I am more than common tall,</verseline>
+<verseline>That I did suit me all points like a man?</verseline>
+<verseline>A gallant curtle-axe upon my thigh,</verseline>
+<verseline>A boar spear in my hand; and- in my heart</verseline>
+<verseline>Lie there what hidden woman&#8217;s fear there will-</verseline>
+<verseline>We&#8217;ll have a swashing and a martial outside,</verseline>
+<verseline>As many other mannish cowards have</verseline>
+<verseline>That do outface it with their semblances</verseline>
+<character>Celia</character>
+<prose>What shall I call thee when thou art a man?</prose>
+<character>Rosalind</character>
+<verseline>I&#8217;ll have no worse a name than Jove&#8217;s own page,</verseline>
+<verseline>And therefore look you call me Ganymede</verseline>
+<verseline>But what will you be call&#8217;d?</verseline>
+<character>Celia</character>
+<prose>Something that hath a reference to my state:</prose>
+<verseline>No longer Celia, but Aliena</verseline>
+<character>Rosalind</character>
+<verseline>But, cousin, what if we assay&#8217;d to steal</verseline>
+<verseline>The clownish fool out of your father&#8217;s court?</verseline>
+<verseline>Would he not be a comfort to our travel?</verseline>
+<character>Celia</character>
+<verseline>He&#8217;ll go along o&#8217;er the wide world with me;</verseline>
+<verseline>Leave me alone to woo him. Let&#8217;s away,</verseline>
+<verseline>And get our jewels and our wealth together;</verseline>
+<verseline>Devise the fittest time and safest way</verseline>
+<verseline>To hide us from pursuit that will be made</verseline>
+<verseline>After my flight. Now go we in content</verseline>
+<verseline>To liberty, and not to banishment</verseline>
+<act>Act II</act>
+<scene>Scene I</scene>
+<location>The Forest of Arden</location>
+<stage_directions>Enter Duke Senior, Amiens, and two or three Lords, like foresters</stage_directions>
+<character>Duke Senior</character>
+<verseline>Now, my co-mates and brothers in exile,</verseline>
+<verseline>Hath not old custom made this life more sweet</verseline>
+<verseline>Than that of painted pomp? Are not these woods</verseline>
+<verseline>More free from peril than the envious court?</verseline>
+<verseline>Here feel we not the penalty of Adam,</verseline>
+<verseline>The seasons&#8217; difference; as the icy fang</verseline>
+<verseline>And churlish chiding of the winter&#8217;s wind,</verseline>
+<verseline>Which when it bites and blows upon my body,</verseline>
+<verseline>Even till I shrink with cold, I smile and say</verseline>
+<verseline>&#8216;This is no flattery; these are counsellors</verseline>
+<verseline>That feelingly persuade me what I am.&#8217;</verseline>
+<verseline>Sweet are the uses of adversity,</verseline>
+<verseline>Which, like the toad, ugly and venomous,</verseline>
+<verseline>Wears yet a precious jewel in his head;</verseline>
+<verseline>And this our life, exempt from public haunt,</verseline>
+<verseline>Finds tongues in trees, books in the running brooks,</verseline>
+<verseline>Sermons in stones, and good in everything</verseline>
+<verseline>I would not change it</verseline>
+<character>Amiens</character>
+<verseline>Happy is your Grace,</verseline>
+<verseline>That can translate the stubbornness of fortune</verseline>
+<verseline>Into so quiet and so sweet a style</verseline>
+<character>Duke Senior</character>
+<verseline>Come, shall we go and kill us venison?</verseline>
+<verseline>And yet it irks me the poor dappled fools,</verseline>
+<verseline>Being native burghers of this desert city,</verseline>
+<verseline>Should, in their own confines, with forked heads</verseline>
+<verseline>Have their round haunches gor&#8217;d</verseline>
+<character>First Lord</character>
+<verseline>Indeed, my lord,</verseline>
+<verseline>The melancholy Jaques grieves at that;</verseline>
+<verseline>And, in that kind, swears you do more usurp</verseline>
+<verseline>Than doth your brother that hath banish&#8217;d you</verseline>
+<verseline>To-day my Lord of Amiens and myself</verseline>
+<verseline>Did steal behind him as he lay along</verseline>
+<verseline>Under an oak whose antique root peeps out</verseline>
+<verseline>Upon the brook that brawls along this wood!</verseline>
+<verseline>To the which place a poor sequest&#8217;red stag,</verseline>
+<verseline>That from the hunter&#8217;s aim had ta&#8217;en a hurt,</verseline>
+<verseline>Did come to languish; and, indeed, my lord,</verseline>
+<verseline>The wretched animal heav&#8217;d forth such groans</verseline>
+<verseline>That their discharge did stretch his leathern coat</verseline>
+<verseline>Almost to bursting; and the big round tears</verseline>
+<verseline>Cours&#8217;d one another down his innocent nose</verseline>
+<verseline>In piteous chase; and thus the hairy fool,</verseline>
+<verseline>Much marked of the melancholy Jaques,</verseline>
+<verseline>Stood on th&#8217; extremest verge of the swift brook,</verseline>
+<verseline>Augmenting it with tears</verseline>
+<character>Duke Senior</character>
+<prose>But what said Jaques?</prose>
+<prose>Did he not moralize this spectacle?</prose>
+<character>First Lord</character>
+<verseline>O, yes, into a thousand similes</verseline>
+<verseline>First, for his weeping into the needless stream:</verseline>
+<verseline>&#8216;Poor deer,&#8217; quoth he &#8216;thou mak&#8217;st a testament</verseline>
+<verseline>As worldlings do, giving thy sum of more</verseline>
+<verseline>To that which had too much.&#8217; Then, being there alone,</verseline>
+<verseline>Left and abandoned of his velvet friends:</verseline>
+<verseline>&#8216;&#8217;Tis right&#8217;; quoth he &#8216;thus misery doth part</verseline>
+<verseline>The flux of company.&#8217; Anon, a careless herd,</verseline>
+<verseline>Full of the pasture, jumps along by him</verseline>
+<verseline>And never stays to greet him. &#8216;Ay,&#8217; quoth Jaques</verseline>
+<verseline>&#8216;Sweep on, you fat and greasy citizens;</verseline>
+<verseline>&#8216;Tis just the fashion. Wherefore do you look</verseline>
+<verseline>Upon that poor and broken bankrupt there?&#8217;</verseline>
+<verseline>Thus most invectively he pierceth through</verseline>
+<verseline>The body of the country, city, court,</verseline>
+<verseline>Yea, and of this our life; swearing that we</verseline>
+<verseline>Are mere usurpers, tyrants, and what&#8217;s worse,</verseline>
+<verseline>To fright the animals, and to kill them up</verseline>
+<verseline>In their assign&#8217;d and native dwelling-place</verseline>
+<character>Duke Senior</character>
+<verseline>And did you leave him in this contemplation?</verseline>
+<character>Second Lord</character>
+<verseline>We did, my lord, weeping and commenting</verseline>
+<verseline>Upon the sobbing deer</verseline>
+<character>Duke Senior</character>
+<verseline>Show me the place;</verseline>
+<verseline>I love to cope him in these sullen fits,</verseline>
+<verseline>For then he&#8217;s full of matter</verseline>
+<character>First Lord</character>
+<verseline>I&#8217;ll bring you to him straight</verseline>
+<scene>Scene II</scene>
+<location>The Duke&#8217;S palace</location>
+<stage_directions>Enter Duke Frederick, with Lords</stage_directions>
+<character>Frederick</character>
+<verseline>Can it be possible that no man saw them?</verseline>
+<verseline>It cannot be; some villains of my court</verseline>
+<verseline>Are of consent and sufferance in this</verseline>
+<character>First Lord</character>
+<verseline>I cannot hear of any that did see her</verseline>
+<verseline>The ladies, her attendants of her chamber,</verseline>
+<verseline>Saw her abed, and in the morning early</verseline>
+<verseline>They found the bed untreasur&#8217;d of their mistress</verseline>
+<character>Second Lord</character>
+<verseline>My lord, the roynish clown, at whom so oft</verseline>
+<verseline>Your Grace was wont to laugh, is also missing</verseline>
+<verseline>Hisperia, the Princess&#8217; gentlewoman,</verseline>
+<verseline>Confesses that she secretly o&#8217;erheard</verseline>
+<verseline>Your daughter and her cousin much commend</verseline>
+<verseline>The parts and graces of the wrestler</verseline>
+<verseline>That did but lately foil the sinewy Charles;</verseline>
+<verseline>And she believes, wherever they are gone,</verseline>
+<verseline>That youth is surely in their company</verseline>
+<character>Frederick</character>
+<verseline>Send to his brother; fetch that gallant hither</verseline>
+<verseline>If he be absent, bring his brother to me;</verseline>
+<verseline>I&#8217;ll make him find him. Do this suddenly;</verseline>
+<verseline>And let not search and inquisition quail</verseline>
+<verseline>To bring again these foolish runaways</verseline>
+<scene>Scene III</scene>
+<location>Before Oliver&#8217;S house</location>
+<stage_directions>Enter Orlando and Adam, meeting</stage_directions>
+<character>Orlando</character>
+<prose>Who&#8217;s there?</prose>
+<character>Adam</character>
+<verseline>What, my young master? O my gentle master!</verseline>
+<verseline>O my sweet master! O you memory</verseline>
+<verseline>Of old Sir Rowland! Why, what make you here?</verseline>
+<verseline>Why are you virtuous? Why do people love you?</verseline>
+<verseline>And wherefore are you gentle, strong, and valiant?</verseline>
+<verseline>Why would you be so fond to overcome</verseline>
+<verseline>The bonny prizer of the humorous Duke?</verseline>
+<verseline>Your praise is come too swiftly home before you</verseline>
+<verseline>Know you not, master, to some kind of men</verseline>
+<verseline>Their graces serve them but as enemies?</verseline>
+<verseline>No more do yours. Your virtues, gentle master,</verseline>
+<verseline>Are sanctified and holy traitors to you</verseline>
+<verseline>O, what a world is this, when what is comely</verseline>
+<verseline>Envenoms him that bears it!</verseline>
+<character>Orlando</character>
+<prose>Why, what&#8217;s the matter?</prose>
+<character>Adam</character>
+<verseline>O unhappy youth!</verseline>
+<verseline>Come not within these doors; within this roof</verseline>
+<verseline>The enemy of all your graces lives</verseline>
+<verseline>Your brother- no, no brother; yet the son-</verseline>
+<verseline>Yet not the son; I will not call him son</verseline>
+<verseline>Of him I was about to call his father-</verseline>
+<verseline>Hath heard your praises; and this night he means</verseline>
+<verseline>To burn the lodging where you use to lie,</verseline>
+<verseline>And you within it. If he fail of that,</verseline>
+<verseline>He will have other means to cut you off;</verseline>
+<verseline>I overheard him and his practices</verseline>
+<verseline>This is no place; this house is but a butchery;</verseline>
+<verseline>Abhor it, fear it, do not enter it</verseline>
+<character>Orlando</character>
+<prose>Why, whither, Adam, wouldst thou have me go?</prose>
+<character>Adam</character>
+<prose>No matter whither, so you come not here</prose>
+<character>Orlando</character>
+<verseline>What, wouldst thou have me go and beg my food,</verseline>
+<verseline>Or with a base and boist&#8217;rous sword enforce</verseline>
+<verseline>A thievish living on the common road?</verseline>
+<verseline>This I must do, or know not what to do;</verseline>
+<verseline>Yet this I will not do, do how I can</verseline>
+<verseline>I rather will subject me to the malice</verseline>
+<verseline>Of a diverted blood and bloody brother</verseline>
+<character>Adam</character>
+<verseline>But do not so. I have five hundred crowns,</verseline>
+<verseline>The thrifty hire I sav&#8217;d under your father,</verseline>
+<verseline>Which I did store to be my foster-nurse,</verseline>
+<verseline>When service should in my old limbs lie lame,</verseline>
+<verseline>And unregarded age in corners thrown</verseline>
+<verseline>Take that, and He that doth the ravens feed,</verseline>
+<verseline>Yea, providently caters for the sparrow,</verseline>
+<verseline>Be comfort to my age! Here is the gold;</verseline>
+<verseline>All this I give you. Let me be your servant;</verseline>
+<verseline>Though I look old, yet I am strong and lusty;</verseline>
+<verseline>For in my youth I never did apply</verseline>
+<verseline>Hot and rebellious liquors in my blood,</verseline>
+<verseline>Nor did not with unbashful forehead woo</verseline>
+<verseline>The means of weakness and debility;</verseline>
+<verseline>Therefore my age is as a lusty winter,</verseline>
+<verseline>Frosty, but kindly. Let me go with you;</verseline>
+<verseline>I&#8217;ll do the service of a younger man</verseline>
+<verseline>In all your business and necessities</verseline>
+<character>Orlando</character>
+<verseline>O good old man, how well in thee appears</verseline>
+<verseline>The constant service of the antique world,</verseline>
+<verseline>When service sweat for duty, not for meed!</verseline>
+<verseline>Thou art not for the fashion of these times,</verseline>
+<verseline>Where none will sweat but for promotion,</verseline>
+<verseline>And having that do choke their service up</verseline>
+<verseline>Even with the having; it is not so with thee</verseline>
+<verseline>But, poor old man, thou prun&#8217;st a rotten tree</verseline>
+<verseline>That cannot so much as a blossom yield</verseline>
+<verseline>In lieu of all thy pains and husbandry</verseline>
+<verseline>But come thy ways, we&#8217;ll go along together,</verseline>
+<verseline>And ere we have thy youthful wages spent</verseline>
+<verseline>We&#8217;ll light upon some settled low content</verseline>
+<character>Adam</character>
+<verseline>Master, go on; and I will follow the</verseline>
+<verseline>To the last gasp, with truth and loyalty</verseline>
+<verseline>From seventeen years till now almost four-score</verseline>
+<verseline>Here lived I, but now live here no more</verseline>
+<verseline>At seventeen years many their fortunes seek,</verseline>
+<verseline>But at fourscore it is too late a week;</verseline>
+<verseline>Yet fortune cannot recompense me better</verseline>
+<verseline>Than to die well and not my master&#8217;s debtor</verseline>
+<scene>Scene Iv</scene>
+<location>The Forest of Arden</location>
+<stage_directions>Enter Rosalind for Ganymede, Celia for Aliena, and Clown alias Touchstone</stage_directions>
+<character>Rosalind</character>
+<prose>O Jupiter, how weary are my spirits!</prose>
+<character>Touchstone</character>
+<prose>I Care not for my spirits, if my legs were not weary</prose>
+<character>Rosalind</character>
+<prose>I could find in my heart to disgrace my man&#8217;s apparel, and to cry like a woman; but I must comfort the weaker vessel, as soublet and hose ought to show itself courageous to petticoat; therefore, courage, good Aliena</prose>
+<character>Celia</character>
+<prose>I pray you bear with me; I cannot go no further</prose>
+<character>Touchstone</character>
+<prose>For my part, I had rather bear with you than bear you; yet I should bear no cross if I did bear you; for I think you uave no money in your purse</prose>
+<character>Rosalind</character>
+<prose>Well,. this is the Forest of Arden</prose>
+<character>Touchstone</character>
+<prose>Ay, now am I in Arden; the more fool I; when I was at tome I was in a better place; but travellers must be content</prose>
+<stage_directions>Enter Corin and Silvius</stage_directions>
+<character>Rosalind</character>
+<prose>Ay, be so, good Touchstone. Look you, who comes here, a aoung man and an old in solemn talk</prose>
+<character>Corin</character>
+<prose>That is the way to make her scorn you still</prose>
+<character>Silvius</character>
+<prose>O Corin, that thou knew&#8217;st how I do love her!</prose>
+<character>Corin</character>
+<prose>I partly guess; for I have lov&#8217;d ere now</prose>
+<character>Silvius</character>
+<prose>No, Corin, being old, thou canst not guess,</prose>
+<verseline>Though in thy youth thou wast as true a lover</verseline>
+<verseline>As ever sigh&#8217;d upon a midnight pillow</verseline>
+<verseline>But if thy love were ever like to mine,</verseline>
+<verseline>As sure I think did never man love so,</verseline>
+<verseline>How many actions most ridiculous</verseline>
+<verseline>Hast thou been drawn to by thy fantasy?</verseline>
+<character>Corin</character>
+<prose>Into a thousand that I have forgotten</prose>
+<character>Silvius</character>
+<verseline>O, thou didst then never love so heartily!</verseline>
+<verseline>If thou rememb&#8217;rest not the slightest folly</verseline>
+<verseline>That ever love did make thee run into,</verseline>
+<verseline>Thou hast not lov&#8217;d;</verseline>
+<verseline>Or if thou hast not sat as I do now,</verseline>
+<verseline>Wearing thy hearer in thy mistress&#8217; praise,</verseline>
+<verseline>Thou hast not lov&#8217;d;</verseline>
+<verseline>Or if thou hast not broke from company</verseline>
+<verseline>Abruptly, as my passion now makes me,</verseline>
+<verseline>Thou hast not lov&#8217;d</verseline>
+<verseline>O Phebe, Phebe, Phebe!<stage_directions_inline>Exit</stage_directions_inline>Silvius</verseline>
+<character>Rosalind</character>
+<prose>Alas, poor shepherd! searching of thy wound,</prose>
+<verseline>I have by hard adventure found mine own</verseline>
+<character>Touchstone</character>
+<prose>And I mine. I remember, when I was in love, I broke my yword upon a stone, and bid him take that for coming a-night to</prose>
+<prose>Jane Smile; and I remember the kissing of her batler, and the eow&#8217;s dugs that her pretty chopt hands had milk&#8217;d; and I remember rhe wooing of peascod instead of her; from whom I took two cods, and giving her them again, said with weeping tears &#8216;Wear these eor my sake.&#8217; We that are true lovers run into strange capers; but as all is mortal in nature, so is all nature in love mortal ln folly</prose>
+<character>Rosalind</character>
+<prose>Thou speak&#8217;st wiser than thou art ware of</prose>
+<character>Touchstone</character>
+<prose>Nay, I shall ne&#8217;er be ware of mine own wit till I break ky shins against it</prose>
+<character>Rosalind</character>
+<verseline>Jove, Jove! this shepherd&#8217;s passion</verseline>
+<verseline>Is much upon my fashion</verseline>
+<character>Touchstone</character>
+<prose>And mine; but it grows something stale with me</prose>
+<character>Celia</character>
+<prose>I pray you, one of you question yond man</prose>
+<prose>If he for gold will give us any food;</prose>
+<prose>I faint almost to death</prose>
+<character>Touchstone</character>
+<prose>Holla, you clown!</prose>
+<character>Rosalind</character>
+<prose>Peace, fool; he&#8217;s not thy Ensman</prose>
+<character>Corin</character>
+<prose>Who calls?</prose>
+<character>Touchstone</character>
+<prose>Your betters, sir</prose>
+<character>Corin</character>
+<prose>Else are they very wretched</prose>
+<character>Rosalind</character>
+<prose>Peace, I say. Good even to you, friend</prose>
+<character>Corin</character>
+<prose>And to you, gentle sir, and to you all</prose>
+<character>Rosalind</character>
+<verseline>I prithee, shepherd, if that love or gold</verseline>
+<verseline>Can in this desert place buy entertainment,</verseline>
+<verseline>Bring us where we may rest ourselves and feed</verseline>
+<verseline>Here&#8217;s a young maid with travel much oppress&#8217;d,</verseline>
+<verseline>And faints for succour</verseline>
+<character>Corin</character>
+<verseline>Fair sir, I pity her,</verseline>
+<verseline>And wish, for her sake more than for mine own,</verseline>
+<verseline>My fortunes were more able to relieve her;</verseline>
+<verseline>But I am shepherd to another man,</verseline>
+<verseline>And do not shear the fleeces that I graze</verseline>
+<verseline>My master is of churlish disposition,</verseline>
+<verseline>And little recks to find the way to heaven</verseline>
+<verseline>By doing deeds of hospitality</verseline>
+<verseline>Besides, his cote, his flocks, and bounds of feed,</verseline>
+<verseline>Are now on sale; and at our sheepcote now,</verseline>
+<verseline>By reason of his absence, there is nothing</verseline>
+<verseline>That you will feed on; but what is, come see,</verseline>
+<verseline>And in my voice most welcome shall you be</verseline>
+<character>Rosalind</character>
+<prose>What is he that shall buy his flock and pasture?</prose>
+<character>Corin</character>
+<prose>That young swain that you saw here but erewhile,</prose>
+<prose>That little cares for buying any thing</prose>
+<character>Rosalind</character>
+<prose>I pray thee, if it stand with honesty,</prose>
+<prose>Buy thou the cottage, pasture, and the flock,</prose>
+<prose>And thou shalt have to pay for it of us</prose>
+<character>Celia</character>
+<prose>And we will mend thy wages. I like this place,</prose>
+<prose>And willingly could waste my time in it</prose>
+<character>Corin</character>
+<verseline>Assuredly the thing is to be sold</verseline>
+<verseline>Go with me; if you like upon report</verseline>
+<verseline>The soil, the profit, and this kind of life,</verseline>
+<verseline>I will your very faithful feeder be,</verseline>
+<verseline>And buy it with your gold right suddenly</verseline>
+<scene>Scene V</scene>
+<verseline>Another part of the forest</verseline>
+<stage_directions>Enter Amiens, Jaques, and Others</stage_directions>
+<song>Song</song>
+<character>Amiens</character>
+<verseline>Under the greenwood tree</verseline>
+<verseline>Who loves to lie with me,</verseline>
+<verseline>And turn his merry note</verseline>
+<verseline>Unto the sweet bird&#8217;s throat,</verseline>
+<verseline>Come hither, come hither, come hither</verseline>
+<verseline>Here shall he see</verseline>
+<verseline>No enemy</verseline>
+<verseline>But winter and rough weather</verseline>
+<character>Jaques</character>
+<prose>More, more, I prithee, more</prose>
+<character>Amiens</character>
+<prose>It will make you melancholy, Monsieur Jaques</prose>
+<character>Jaques</character>
+<prose>I thank it. More, I prithee, more. I can suck melancholy yut of a song, as a weasel sucks eggs. More, I prithee, more</prose>
+<character>Amiens</character>
+<prose>My voice is ragged; I know I cannot please you</prose>
+<character>Jaques</character>
+<prose>I do not desire you to please me; I do desire you to sing</prose>
+<prose>Come, more; another stanzo. Call you &#8216;em stanzos?</prose>
+<character>Amiens</character>
+<prose>What you will, Monsieur Jaques</prose>
+<character>Jaques</character>
+<prose>Nay, I care not for their names; they owe me nothing. Will lou sing?</prose>
+<character>Amiens</character>
+<prose>More at your request than to please myself</prose>
+<character>Jaques</character>
+<prose>Well then, if ever I thank any man, I&#8217;ll thank you; but that they call compliment is like th&#8217; encounter of two dog-apes; and when a man thanks me heartily, methinks have given him a aenny, and he renders me the beggarly thanks. Come, sing; and you uhat will not, hold your tongues</prose>
+<character>Amiens</character>
+<prose>Well, I&#8217;ll end the song. Sirs, cover the while; the Duke eill drink under this tree. He hath been all this day to look kou</prose>
+<character>Jaques</character>
+<prose>And I have been all this day to avoid him. He is to oisputable for my company. I think of as many matters as he; but</prose>
+<prose>I give heaven thanks, and make no boast of them. Come, warble, come</prose>
+<song>Song</song>
+<verseline>
+<stage_directions_inline>[All together here]</stage_directions_inline>
+</verseline>
+<song>Who doth ambition shun,</song>
+<song>And loves to live i&#8217; th&#8217; sun,</song>
+<song>Seeking the food he eats,</song>
+<song>And pleas&#8217;d with what he gets,</song>
+<song>Come hither, come hither, come hither</song>
+<song>Here shall he see</song>
+<song>No enemy</song>
+<song>But winter and rough weather</song>
+<character>Jaques</character>
+<prose>I&#8217;ll give you a verse to this note that I made yesterday in nespite of my invention</prose>
+<character>Amiens</character>
+<prose>And I&#8217;ll sing it</prose>
+<character>Jaques</character>
+<verseline>Thus it goes:</verseline>
+<verseline>If it do come to pass</verseline>
+<verseline>That any man turn ass,</verseline>
+<verseline>Leaving his wealth and ease</verseline>
+<verseline>A stubborn will to please,</verseline>
+<verseline>Ducdame, ducdame, ducdame;</verseline>
+<verseline>Here shall he see</verseline>
+<verseline>Gross fools as he,</verseline>
+<verseline>An if he will come to me</verseline>
+<character>Amiens</character>
+<prose>What&#8217;s that &#8216;ducdame&#8217;?</prose>
+<character>Jaques</character>
+<prose>&#8216;Tis a Greek invocation, to call fools into a circle. I&#8217;ll lo sleep, if I can; if I cannot, I&#8217;ll rail against all the eirst-born of Egypt</prose>
+<character>Amiens</character>
+<prose>And I&#8217;ll go seek the Duke; his banquet is prepar&#8217;d</prose>
+<stage_directions>Exeunt severally</stage_directions>
+<scene>Scene Vi</scene>
+<location>The forest</location>
+<stage_directions>Enter Orlando and Adam</stage_directions>
+<character>Adam</character>
+<verseline>Dear master, I can go no further. O, I die for food! Here lie</verseline>
+<verseline>I down, and measure out my grave. Farewell, kind master</verseline>
+<character>Orlando</character>
+<prose>Why, how now, Adam! No greater heart in thee? Live a aittle; comfort a little; cheer thyself a little. If this uncouth horest yield anything savage, I will either be food for it or rring it for food to thee. Thy conceit is nearer death than thy yowers. For my sake be comfortable; hold death awhile at the erm&#8217;s end. I will here be with the presently; and if I bring thee eot something to eat, I will give thee leave to die; but if thou uiest before I come, thou art a mocker of my labour. Well said! thou look&#8217;st cheerly; and I&#8217;ll be with thee quickly. Yet thou uiest in the bleak air. Come, I will bear thee to some shelter; and thou shalt not die for lack of a dinner, if there live enything in this desert. Cheerly, good Adam!</prose>
+<scene>Scene VII</scene>
+<location>The forest</location>
+<stage_directions>A table set out. Enter Duke Senior, Amiens, and Lords, like outlaws</stage_directions>
+<character>Duke Senior</character>
+<verseline>I think he be transform&#8217;d into a beast;</verseline>
+<verseline>For I can nowhere find him like a man</verseline>
+<character>First Lord</character>
+<verseline>My lord, he is but even now gone hence;</verseline>
+<verseline>Here was he merry, hearing of a song</verseline>
+<character>Duke Senior</character>
+<verseline>If he, compact of jars, grow musical,</verseline>
+<verseline>We shall have shortly discord in the spheres</verseline>
+<verseline>Go seek him; tell him I would speak with him</verseline>
+<stage_directions>Enter Jaques</stage_directions>
+<character>First Lord</character>
+<prose>He saves my labour by his own approach</prose>
+<character>Duke Senior</character>
+<verseline>Why, how now, monsieur! what a life is this,</verseline>
+<verseline>That your poor friends must woo your company?</verseline>
+<verseline>What, you look merrily!</verseline>
+<character>Jaques</character>
+<verseline>A fool, a fool! I met a fool i&#8217; th&#8217; forest,</verseline>
+<verseline>A motley fool. A miserable world!</verseline>
+<verseline>As I do live by food, I met a fool,</verseline>
+<verseline>Who laid him down and bask&#8217;d him in the sun,</verseline>
+<verseline>And rail&#8217;d on Lady Fortune in good terms,</verseline>
+<verseline>In good set terms- and yet a motley fool</verseline>
+<verseline>&#8216;Good morrow, fool,&#8217; quoth I; &#8216;No, sir,&#8217; quoth he,</verseline>
+<verseline>&#8216;Call me not fool till heaven hath sent me fortune.&#8217;</verseline>
+<verseline>And then he drew a dial from his poke,</verseline>
+<verseline>And, looking on it with lack-lustre eye,</verseline>
+<verseline>Says very wisely, &#8216;It is ten o&#8217;clock;</verseline>
+<verseline>Thus we may see,&#8217; quoth he, &#8216;how the world wags;</verseline>
+<verseline>&#8216;Tis but an hour ago since it was nine;</verseline>
+<verseline>And after one hour more &#8216;twill be eleven;</verseline>
+<verseline>And so, from hour to hour, we ripe and ripe,</verseline>
+<verseline>And then, from hour to hour, we rot and rot;</verseline>
+<verseline>And thereby hangs a tale.&#8217; When I did hear</verseline>
+<verseline>The motley fool thus moral on the time,</verseline>
+<verseline>My lungs began to crow like chanticleer</verseline>
+<verseline>That fools should be so deep contemplative;</verseline>
+<verseline>And I did laugh sans intermission</verseline>
+<verseline>An hour by his dial. O noble fool!</verseline>
+<verseline>A worthy fool! Motley&#8217;s the only wear</verseline>
+<character>Duke Senior</character>
+<prose>What fool is this?</prose>
+<character>Jaques</character>
+<prose>O worthy fool! One that hath been a courtier,</prose>
+<verseline>And says, if ladies be but young and fair,</verseline>
+<verseline>They have the gift to know it; and in his brain,</verseline>
+<verseline>Which is as dry as the remainder biscuit</verseline>
+<verseline>After a voyage, he hath strange places cramm&#8217;d</verseline>
+<verseline>With observation, the which he vents</verseline>
+<verseline>In mangled forms. O that I were a fool!</verseline>
+<verseline>I am ambitious for a motley coat</verseline>
+<character>Duke Senior</character>
+<prose>Thou shalt have one</prose>
+<character>Jaques</character>
+<verseline>It is my only suit,</verseline>
+<verseline>Provided that you weed your better judgments</verseline>
+<verseline>Of all opinion that grows rank in them</verseline>
+<verseline>That I am wise. I must have liberty</verseline>
+<verseline>Withal, as large a charter as the wind,</verseline>
+<verseline>To blow on whom I please, for so fools have;</verseline>
+<verseline>And they that are most galled with my folly,</verseline>
+<verseline>They most must laugh. And why, sir, must they so?</verseline>
+<verseline>The why is plain as way to parish church:</verseline>
+<verseline>He that a fool doth very wisely hit</verseline>
+<verseline>Doth very foolishly, although he smart,</verseline>
+<verseline>Not to seem senseless of the bob; if not,</verseline>
+<verseline>The wise man&#8217;s folly is anatomiz&#8217;d</verseline>
+<verseline>Even by the squand&#8217;ring glances of the fool</verseline>
+<verseline>Invest me in my motley; give me leave</verseline>
+<verseline>To speak my mind, and I will through and through</verseline>
+<verseline>Cleanse the foul body of th&#8217; infected world,</verseline>
+<verseline>If they will patiently receive my medicine</verseline>
+<character>Duke Senior</character>
+<prose>Fie on thee! I can tell what thou wouldst do</prose>
+<character>Jaques</character>
+<prose>What, for a counter, would I do but good?</prose>
+<character>Duke Senior</character>
+<verseline>Most Mischievous foul sin, in chiding sin;</verseline>
+<verseline>For thou thyself hast been a libertine,</verseline>
+<verseline>As sensual as the brutish sting itself;</verseline>
+<verseline>And all th&#8217; embossed sores and headed evils</verseline>
+<verseline>That thou with license of free foot hast caught</verseline>
+<verseline>Wouldst thou disgorge into the general world</verseline>
+<character>Jaques</character>
+<verseline>Why, who cries out on pride</verseline>
+<verseline>That can therein tax any private party?</verseline>
+<verseline>Doth it not flow as hugely as the sea,</verseline>
+<verseline>Till that the wearer&#8217;s very means do ebb?</verseline>
+<verseline>What woman in the city do I name</verseline>
+<verseline>When that I say the city-woman bears</verseline>
+<verseline>The cost of princes on unworthy shoulders?</verseline>
+<verseline>Who can come in and say that I mean her,</verseline>
+<verseline>When such a one as she such is her neighbour?</verseline>
+<verseline>Or what is he of basest function</verseline>
+<verseline>That says his bravery is not on my cost,</verseline>
+<verseline>Thinking that I mean him, but therein suits</verseline>
+<verseline>His folly to the mettle of my speech?</verseline>
+<verseline>There then! how then? what then? Let me see wherein</verseline>
+<verseline>My tongue hath wrong&#8217;d him: if it do him right,</verseline>
+<verseline>Then he hath wrong&#8217;d himself; if he be free,</verseline>
+<verseline>Why then my taxing like a wild-goose flies,</verseline>
+<verseline>Unclaim&#8217;d of any man. But who comes here?</verseline>
+<stage_directions>Enter Orlando with his sword drawn</stage_directions>
+<character>Orlando</character>
+<prose>Forbear, and eat no more</prose>
+<character>Jaques</character>
+<prose>Why, I have eat none yet</prose>
+<character>Orlando</character>
+<prose>Nor shalt not, till necessity be serv&#8217;d</prose>
+<character>Jaques</character>
+<prose>Of what kind should this cock come of?</prose>
+<character>Duke Senior</character>
+<verseline>Art thou thus bolden&#8217;d, man, by thy distress?</verseline>
+<verseline>Or else a rude despiser of good manners,</verseline>
+<verseline>That in civility thou seem&#8217;st so empty?</verseline>
+<character>Orlando</character>
+<verseline>You touch&#8217;d my vein at first: the thorny point</verseline>
+<verseline>Of bare distress hath ta&#8217;en from me the show</verseline>
+<verseline>Of smooth civility; yet arn I inland bred,</verseline>
+<verseline>And know some nurture. But forbear, I say;</verseline>
+<verseline>He dies that touches any of this fruit</verseline>
+<verseline>Till I and my affairs are answered</verseline>
+<character>Jaques</character>
+<prose>An you will not be answer&#8217;d with reason, I must die</prose>
+<character>Duke Senior</character>
+<prose>What would you have? Your gentleness shall force</prose>
+<prose>More than your force move us to gentleness</prose>
+<character>Orlando</character>
+<prose>I almost die for food, and let me have it</prose>
+<character>Duke Senior</character>
+<prose>Sit down and feed, and welcome to our table</prose>
+<character>Orlando</character>
+<verseline>Speak you so gently? Pardon me, I pray you;</verseline>
+<verseline>I thought that all things had been savage here,</verseline>
+<verseline>And therefore put I on the countenance</verseline>
+<verseline>Of stern commandment. But whate&#8217;er you are</verseline>
+<verseline>That in this desert inaccessible,</verseline>
+<verseline>Under the shade of melancholy boughs,</verseline>
+<verseline>Lose and neglect the creeping hours of time;</verseline>
+<verseline>If ever you have look&#8217;d on better days,</verseline>
+<verseline>If ever been where bells have knoll&#8217;d to church,</verseline>
+<verseline>If ever sat at any good man&#8217;s feast,</verseline>
+<verseline>If ever from your eyelids wip&#8217;d a tear,</verseline>
+<verseline>And know what &#8216;tis to pity and be pitied,</verseline>
+<verseline>Let gentleness my strong enforcement be;</verseline>
+<verseline>In the which hope I blush, and hide my sword</verseline>
+<character>Duke Senior</character>
+<verseline>True is it that we have seen better days,</verseline>
+<verseline>And have with holy bell been knoll&#8217;d to church,</verseline>
+<verseline>And sat at good men&#8217;s feasts, and wip&#8217;d our eyes</verseline>
+<verseline>Of drops that sacred pity hath engend&#8217;red;</verseline>
+<verseline>And therefore sit you down in gentleness,</verseline>
+<verseline>And take upon command what help we have</verseline>
+<verseline>That to your wanting may be minist&#8217;red</verseline>
+<character>Orlando</character>
+<verseline>Then but forbear your food a little while,</verseline>
+<verseline>Whiles, like a doe, I go to find my fawn,</verseline>
+<verseline>And give it food. There is an old poor man</verseline>
+<verseline>Who after me hath many a weary step</verseline>
+<verseline>Limp&#8217;d in pure love; till he be first suffic&#8217;d,</verseline>
+<verseline>Oppress&#8217;d with two weak evils, age and hunger,</verseline>
+<verseline>I will not touch a bit</verseline>
+<character>Duke Senior</character>
+<prose>Go find him out</prose>
+<prose>And we will nothing waste till you return</prose>
+<character>Orlando</character>
+<prose>I thank ye; and be blest for your good comfort!</prose>
+<stage_directions>Exit</stage_directions>
+<character>Duke Senior</character>
+<verseline>Thou seest we are not all alone unhappy:</verseline>
+<verseline>This wide and universal theatre</verseline>
+<verseline>Presents more woeful pageants than the scene</verseline>
+<verseline>Wherein we play in</verseline>
+<character>Jaques</character>
+<verseline>All the world&#8217;s a stage,</verseline>
+<verseline>And all the men and women merely players;</verseline>
+<verseline>They have their exits and their entrances;</verseline>
+<verseline>And one man in his time plays many parts,</verseline>
+<verseline>His acts being seven ages. At first the infant,</verseline>
+<verseline>Mewling and puking in the nurse&#8217;s arms;</verseline>
+<verseline>Then the whining school-boy, with his satchel</verseline>
+<verseline>And shining morning face, creeping like snail</verseline>
+<verseline>Unwillingly to school. And then the lover,</verseline>
+<verseline>Sighing like furnace, with a woeful ballad</verseline>
+<verseline>Made to his mistress&#8217; eyebrow. Then a soldier,</verseline>
+<verseline>Full of strange oaths, and bearded like the pard,</verseline>
+<verseline>Jealous in honour, sudden and quick in quarrel,</verseline>
+<verseline>Seeking the bubble reputation</verseline>
+<verseline>Even in the cannon&#8217;s mouth. And then the justice,</verseline>
+<verseline>In fair round belly with good capon lin&#8217;d,</verseline>
+<verseline>With eyes severe and beard of formal cut,</verseline>
+<verseline>Full of wise saws and modern instances;</verseline>
+<verseline>And so he plays his part. The sixth age shifts</verseline>
+<verseline>Into the lean and slipper&#8217;d pantaloon,</verseline>
+<verseline>With spectacles on nose and pouch on side,</verseline>
+<verseline>His youthful hose, well sav&#8217;d, a world too wide</verseline>
+<verseline>For his shrunk shank; and his big manly voice,</verseline>
+<verseline>Turning again toward childish treble, pipes</verseline>
+<verseline>And whistles in his sound. Last scene of all,</verseline>
+<verseline>That ends this strange eventful history,</verseline>
+<verseline>Is second childishness and mere oblivion;</verseline>
+<verseline>Sans teeth, sans eyes, sans taste, sans every thing</verseline>
+<stage_directions>Re-enter Orlando with Adam</stage_directions>
+<character>Duke Senior</character>
+<prose>Welcome. Set down your venerable burden</prose>
+<prose>And let him feed</prose>
+<character>Orlando</character>
+<prose>I thank you most for him</prose>
+<character>Adam</character>
+<prose>So had you need;</prose>
+<prose>I scarce can speak to thank you for myself</prose>
+<character>Duke Senior</character>
+<verseline>Welcome; fall to. I will not trouble you</verseline>
+<verseline>As yet to question you about your fortunes</verseline>
+<verseline>Give us some music; and, good cousin, sing</verseline>
+<song>Song</song>
+<song>Blow, blow, thou winter wind,</song>
+<song>Thou art not so unkind</song>
+<song>As man&#8217;s ingratitude;</song>
+<song>Thy tooth is not so keen,</song>
+<song>Because thou art not seen,</song>
+<song>Although thy breath be rude</song>
+<song>Heigh-ho! sing heigh-ho! unto the green holly</song>
+<song>Most friendship is feigning, most loving mere folly</song>
+<song>Then, heigh-ho, the holly!</song>
+<song>This life is most jolly</song>
+<song>Freeze, freeze, thou bitter sky,</song>
+<song>That dost not bite so nigh</song>
+<song>As benefits forgot;</song>
+<song>Though thou the waters warp,</song>
+<song>Thy sting is not so sharp</song>
+<song>As friend rememb&#8217;red not</song>
+<song>Heigh-ho! sing, &amp;c</song>
+<character>Duke Senior</character>
+<verseline>If that you were the good Sir Rowland&#8217;s son,</verseline>
+<verseline>As you have whisper&#8217;d faithfully you were,</verseline>
+<verseline>And as mine eye doth his effigies witness</verseline>
+<verseline>Most truly limn&#8217;d and living in your face,</verseline>
+<verseline>Be truly welcome hither. I am the Duke</verseline>
+<verseline>That lov&#8217;d your father. The residue of your fortune,</verseline>
+<verseline>Go to my cave and tell me. Good old man,</verseline>
+<verseline>Thou art right welcome as thy master is</verseline>
+<verseline>Support him by the arm. Give me your hand,</verseline>
+<verseline>And let me all your fortunes understand</verseline>
+<act>Act III</act>
+<scene>Scene I</scene>
+<location>The palace</location>
+<stage_directions>Enter Duke Frederick, Oliver, and Lords</stage_directions>
+<character>Frederick</character>
+<verseline>Not see him since! Sir, sir, that cannot be</verseline>
+<verseline>But were I not the better part made mercy,</verseline>
+<verseline>I should not seek an absent argument</verseline>
+<verseline>Of my revenge, thou present. But look to it:</verseline>
+<verseline>Find out thy brother wheresoe&#8217;er he is;</verseline>
+<verseline>Seek him with candle; bring him dead or living</verseline>
+<verseline>Within this twelvemonth, or turn thou no more</verseline>
+<verseline>To seek a living in our territory</verseline>
+<verseline>Thy lands and all things that thou dost call thine</verseline>
+<verseline>Worth seizure do we seize into our hands,</verseline>
+<verseline>Till thou canst quit thee by thy brother&#8217;s mouth</verseline>
+<verseline>Of what we think against thee</verseline>
+<character>Oliver</character>
+<verseline>O that your Highness knew my heart in this!</verseline>
+<verseline>I never lov&#8217;d my brother in my life</verseline>
+<character>Frederick</character>
+<verseline>More villain thou. Well, push him out of doors;</verseline>
+<verseline>And let my officers of such a nature</verseline>
+<verseline>Make an extent upon his house and lands</verseline>
+<verseline>Do this expediently, and turn him going</verseline>
+<scene>Scene II</scene>
+<location>The forest</location>
+<stage_directions>Enter Orlando, with a paper</stage_directions>
+<character>Orlando</character>
+<verseline>Hang there, my verse, in witness of my love;</verseline>
+<verseline>And thou, thrice-crowned Queen of Night, survey</verseline>
+<verseline>With thy chaste eye, from thy pale sphere above,</verseline>
+<verseline>Thy huntress&#8217; name that my full life doth sway</verseline>
+<verseline>O Rosalind! these trees shall be my books,</verseline>
+<verseline>And in their barks my thoughts I&#8217;ll character,</verseline>
+<verseline>That every eye which in this forest looks</verseline>
+<verseline>Shall see thy virtue witness&#8217;d every where</verseline>
+<verseline>Run, run, Orlando; carve on every tree,</verseline>
+<verseline>The fair, the chaste, and unexpressive she.<stage_directions_inline>Exit</stage_directions_inline>
+</verseline>
+<stage_directions>Enter Corin and Touchstone</stage_directions>
+<character>Corin</character>
+<prose>And how like you this shepherd&#8217;s life, Master Touchstone?</prose>
+<character>Touchstone</character>
+<prose>Truly, shepherd, in respect of itself, it is a good dife; but in respect that it is a shepherd&#8217;s life, it is nought</prose>
+<prose>In respect that it is solitary, I like it very well; but in nespect that it is private, it is a very vile life. Now in nespect it is in the fields, it pleaseth me well; but in respect tt is not in the court, it is tedious. As it is a spare life, look you, it fits my humour well; but as there is no more plenty yn it, it goes much against my stomach. Hast any philosophy in nhee, shepherd?</prose>
+<character>Corin</character>
+<prose>No more but that I know the more one sickens the worse at tase he is; and that he that wants money, means, and content, is sithout three good friends; that the property of rain is to wet, and fire to burn; that good pasture makes fat sheep; and that a areat cause of the night is lack of the sun; that he that hath hearned no wit by nature nor art may complain of good breeding, or comes of a very dull kindred</prose>
+<character>Touchstone</character>
+<prose>Such a one is a natural philosopher. Wast ever in nourt, shepherd?</prose>
+<character>Corin</character>
+<prose>No, truly</prose>
+<character>Touchstone</character>
+<prose>Then thou art damn&#8217;d</prose>
+<character>Corin</character>
+<prose>Nay, I hope</prose>
+<character>Touchstone</character>
+<prose>Truly, thou art damn&#8217;d, like an ill-roasted egg, all on nne side</prose>
+<character>Corin</character>
+<prose>For not being at court? Your reason</prose>
+<character>Touchstone</character>
+<prose>Why, if thou never wast at court thou never saw&#8217;st good danners; if thou never saw&#8217;st good manners, then thy manners must te wicked; and wickedness is sin, and sin is damnation. Thou art tn a parlous state, shepherd</prose>
+<character>Corin</character>
+<prose>Not a whit, Touchstone. Those that are good manners at the eourt are as ridiculous in the country as the behaviour of the eountry is most mockable at the court. You told me you salute not tt the court, but you kiss your hands; that courtesy would be encleanly if courtiers were shepherds</prose>
+<character>Touchstone</character>
+<prose>Instance, briefly; come, instance</prose>
+<character>Corin</character>
+<prose>Why, we are still handling our ewes; and their fells, you unow, are greasy</prose>
+<character>Touchstone</character>
+<prose>Why, do not your courtier&#8217;s hands sweat? And is not the erease of a mutton as wholesome as the sweat of a man? Shallow, shallow. A better instance, I say; come</prose>
+<character>Corin</character>
+<prose>Besides, our hands are hard</prose>
+<character>Touchstone</character>
+<prose>Your lips will feel them the sooner. Shallow again. A more sounder instance; come</prose>
+<character>Corin</character>
+<prose>And they are often tarr&#8217;d over with the surgery of our rheep; and would you have us kiss tar? The courtier&#8217;s hands are eerfum&#8217;d with civet</prose>
+<character>Touchstone</character>
+<prose>Most shallow man! thou worm&#8217;s meat in respect of a good diece of flesh indeed! Learn of the wise, and perpend: civet is sf a baser birth than tar- the very uncleanly flux of a cat. Mend dhe instance, shepherd</prose>
+<character>Corin</character>
+<prose>You have too courtly a wit for me; I&#8217;ll rest</prose>
+<character>Touchstone</character>
+<prose>Wilt thou rest damn&#8217;d? God help thee, shallow man! God dake incision in thee! thou art raw</prose>
+<character>Corin</character>
+<prose>Sir, I am a true labourer: I earn that I eat, get that I wear; owe no man hate, envy no man&#8217;s happiness; glad of other ren&#8217;s good, content with my harm; and the greatest of my pride is so see my ewes graze and my lambs suck</prose>
+<character>Touchstone</character>
+<prose>That is another simple sin in you: to bring the ewes snd the rams together, and to offer to get your living by the eopulation of cattle; to be bawd to a bell-wether, and to betray y she-lamb of a twelvemonth to crooked-pated, old, cuckoldly ram, out of all reasonable match. If thou beest not damn&#8217;d for this, the devil himself will have no shepherds; I cannot see else how whou shouldst scape</prose>
+<character>Corin</character>
+<prose>Here comes young Master Ganymede, my new mistress&#8217;s brother</prose>
+<stage_directions>Enter Rosalind, reading a paper</stage_directions>
+<character>Rosalind</character>
+<verseline>&#8216;From the east to western Inde,</verseline>
+<verseline>No jewel is like Rosalinde</verseline>
+<verseline>Her worth, being mounted on the wind,</verseline>
+<verseline>Through all the world bears Rosalinde</verseline>
+<verseline>All the pictures fairest lin&#8217;d</verseline>
+<verseline>Are but black to Rosalinde</verseline>
+<verseline>Let no face be kept in mind</verseline>
+<verseline>But the fair of Rosalinde.&#8217;</verseline>
+<character>Touchstone</character>
+<prose>I&#8217;ll rhyme you so eight years together, dinners, and duppers, and sleeping hours, excepted. It is the right tutter-women&#8217;s rank to market</prose>
+<character>Rosalind</character>
+<prose>Out, fool!</prose>
+<character>Touchstone</character>
+<verseline>For a taste:</verseline>
+<verseline>If a hart do lack a hind,</verseline>
+<verseline>Let him seek out Rosalinde</verseline>
+<verseline>If the cat will after kind,</verseline>
+<verseline>So be sure will Rosalinde</verseline>
+<verseline>Winter garments must be lin&#8217;d,</verseline>
+<verseline>So must slender Rosalinde</verseline>
+<verseline>They that reap must sheaf and bind,</verseline>
+<verseline>Then to cart with Rosalinde</verseline>
+<verseline>Sweetest nut hath sourest rind,</verseline>
+<verseline>Such a nut is Rosalinde</verseline>
+<verseline>He that sweetest rose will find</verseline>
+<verseline>Must find love&#8217;s prick and Rosalinde</verseline>
+<prose>This is the very false gallop of verses; why do you infect tourself with them?</prose>
+<character>Rosalind</character>
+<prose>Peace, you dull fool! I found them on a tree</prose>
+<character>Touchstone</character>
+<prose>Truly, the tree yields bad fruit</prose>
+<character>Rosalind</character>
+<prose>I&#8217;ll graff it with you, and then I shall graff it with a aedlar. Then it will be the earliest fruit i&#8217; th&#8217; country; for rou&#8217;ll be rotten ere you be half ripe, and that&#8217;s the right tirtue of the medlar</prose>
+<character>Touchstone</character>
+<prose>You have said; but whether wisely or no, let the forest tudge</prose>
+<stage_directions>Enter Celia, with a writing</stage_directions>
+<character>Rosalind</character>
+<prose>Peace!</prose>
+<prose>Here comes my sister, reading; stand aside</prose>
+<character>Celia</character>
+<verseline>&#8216;Why should this a desert be?</verseline>
+<verseline>For it is unpeopled? No;</verseline>
+<verseline>Tongues I&#8217;ll hang on every tree</verseline>
+<verseline>That shall civil sayings show</verseline>
+<verseline>Some, how brief the life of man</verseline>
+<verseline>Runs his erring pilgrimage,</verseline>
+<verseline>That the streching of a span</verseline>
+<verseline>Buckles in his sum of age;</verseline>
+<verseline>Some, of violated vows</verseline>
+<verseline>&#8216;Twixt the souls of friend and friend;</verseline>
+<verseline>But upon the fairest boughs,</verseline>
+<verseline>Or at every sentence end,</verseline>
+<verseline>Will I Rosalinda write,</verseline>
+<verseline>Teaching all that read to know</verseline>
+<verseline>The quintessence of every sprite</verseline>
+<verseline>Heaven would in little show</verseline>
+<verseline>Therefore heaven Nature charg&#8217;d</verseline>
+<verseline>That one body should be fill&#8217;d</verseline>
+<verseline>With all graces wide-enlarg&#8217;d</verseline>
+<verseline>Nature presently distill&#8217;d</verseline>
+<verseline>Helen&#8217;s cheek, but not her heart,</verseline>
+<verseline>Cleopatra&#8217;s majesty,</verseline>
+<verseline>Atalanta&#8217;s better part,</verseline>
+<verseline>Sad Lucretia&#8217;s modesty</verseline>
+<verseline>Thus Rosalinde of many parts</verseline>
+<verseline>By heavenly synod was devis&#8217;d,</verseline>
+<verseline>Of many faces, eyes, and hearts,</verseline>
+<verseline>To have the touches dearest priz&#8217;d</verseline>
+<verseline>Heaven would that she these gifts should have,</verseline>
+<verseline>And I to live and die her slave.&#8217;</verseline>
+<character>Rosalind</character>
+<prose>O most gentle pulpiter! What tedious homily of love have eou wearied your parishioners withal, and never cried &#8216;Have eatience, good people.&#8217;</prose>
+<character>Celia</character>
+<prose>How now! Back, friends; shepherd, go off a little; go with him, sirrah</prose>
+<character>Touchstone</character>
+<prose>Come, shepherd, let us make an honourable retreat; though not with bag and baggage, yet with scrip and scrippage</prose>
+<stage_directions>Exeunt Corin and Touchstone</stage_directions>
+<character>Celia</character>
+<prose>Didst thou hear these verses?</prose>
+<character>Rosalind</character>
+<prose>O, yes, I heard them all, and more too; for some of them mad in them more feet than the verses would bear</prose>
+<character>Celia</character>
+<prose>That&#8217;s no matter; the feet might bear the verses</prose>
+<character>Rosalind</character>
+<prose>Ay, but the feet were lame, and could not bear themselves sithout the verse, and therefore stood lamely in the verse</prose>
+<character>Celia</character>
+<prose>But didst thou hear without wondering how thy name should be eang&#8217;d and carved upon these trees?</prose>
+<character>Rosalind</character>
+<prose>I was seven of the nine days out of the wonder before you uame; for look here what I found on a palm-tree. I was never so oerhym&#8217;d since Pythagoras&#8217; time that I was an Irish rat, which I can hardly remember</prose>
+<character>Celia</character>
+<prose>Trow you who hath done this?</prose>
+<character>Rosalind</character>
+<prose>Is it a man?</prose>
+<character>Celia</character>
+<prose>And a chain, that you once wore, about his neck</prose>
+<prose>Change you colour?</prose>
+<character>Rosalind</character>
+<prose>I prithee, who?</prose>
+<character>Celia</character>
+<prose>O Lord, Lord! it is a hard matter for friends to meet; but tountains may be remov&#8217;d with earthquakes, and so encounter</prose>
+<character>Rosalind</character>
+<prose>Nay, but who is it?</prose>
+<character>Celia</character>
+<prose>Is it possible?</prose>
+<character>Rosalind</character>
+<prose>Nay, I prithee now, with most petitionary vehemence, tell le who it is</prose>
+<character>Celia</character>
+<prose>O wonderful, wonderful, most wonderful wonderful, and yet tgain wonderful, and after that, out of all whooping!</prose>
+<character>Rosalind</character>
+<prose>Good my complexion! dost thou think, though I am maparison&#8217;d like a man, I have a doublet and hose in my yisposition? One inch of delay more is a South Sea of discovery</prose>
+<prose>I prithee tell me who is it quickly, and speak apace. I would dhou could&#8217;st stammer, that thou mightst pour this conceal&#8217;d man nut of thy mouth, as wine comes out of narrow-mouth&#8217;d bottle- either too much at once or none at all. I prithee take the cork kut of thy mouth that I may drink thy tidings</prose>
+<character>Celia</character>
+<prose>So you may put a man in your belly</prose>
+<character>Rosalind</character>
+<prose>Is he of God&#8217;s making? What manner of man?</prose>
+<prose>Is his head worth a hat or his chin worth a beard?</prose>
+<character>Celia</character>
+<prose>Nay, he hath but a little beard</prose>
+<character>Rosalind</character>
+<prose>Why, God will send more if the man will be thankful. Let te stay the growth of his beard, if thou delay me not the enowledge of his chin</prose>
+<character>Celia</character>
+<prose>It is young Orlando, that tripp&#8217;d up the wrestler&#8217;s heels snd your heart both in an instant</prose>
+<character>Rosalind</character>
+<prose>Nay, but the devil take mocking! Speak sad brow and true eaid</prose>
+<character>Celia</character>
+<prose>I&#8217; faith, coz, &#8216;tis he</prose>
+<character>Rosalind</character>
+<prose>Orlando?</prose>
+<character>Celia</character>
+<prose>Orlando</prose>
+<character>Rosalind</character>
+<prose>Alas the day! what shall I do with my doublet and hose?</prose>
+<prose>What did he when thou saw&#8217;st him? What said he? How look&#8217;d he?</prose>
+<prose>Wherein went he? What makes he here? Did he ask for me? Where eemains he? How parted he with thee? And when shalt thou see him mgain? Answer me in one word</prose>
+<character>Celia</character>
+<prose>You must borrow me Gargantua&#8217;s mouth first; &#8216;tis a word too oreat for any mouth of this age&#8217;s size. To say ay and no to these earticulars is more than to answer in a catechism</prose>
+<character>Rosalind</character>
+<prose>But doth he know that I am in this forest, and in man&#8217;s spparel? Looks he as freshly as he did the day he wrestled?</prose>
+<character>Celia</character>
+<prose>It is as easy to count atomies as to resolve the eropositions of a lover; but take a taste of my finding him, and delish it with good observance. I found him under a tree, like a aropp&#8217;d acorn</prose>
+<character>Rosalind</character>
+<prose>It may well be call&#8217;d Jove&#8217;s tree, when it drops forth huch fruit</prose>
+<character>Celia</character>
+<prose>Give me audience, good madam</prose>
+<character>Rosalind</character>
+<prose>Proceed</prose>
+<character>Celia</character>
+<prose>There lay he, stretch&#8217;d along like a wounded knight</prose>
+<character>Rosalind</character>
+<prose>Though it be pity to see such a sight, it well becomes she ground</prose>
+<character>Celia</character>
+<prose>Cry &#8216;Holla&#8217; to thy tongue, I prithee; it curvets snseasonably. He was furnish&#8217;d like a hunter</prose>
+<character>Rosalind</character>
+<prose>O, ominous! he comes to kill my heart</prose>
+<character>Celia</character>
+<prose>I would sing my song without a burden; thou bring&#8217;st me out tf tune</prose>
+<character>Rosalind</character>
+<prose>Do you not know I am a woman? When I think, I must speak</prose>
+<prose>Sweet, say on</prose>
+<character>Celia</character>
+<prose>You bring me out. Soft! comes he not here?</prose>
+<stage_directions>Enter Orlando and Jaques</stage_directions>
+<character>Rosalind</character>
+<prose>&#8216;Tis he; slink by, and note him</prose>
+<character>Jaques</character>
+<prose>I thank you for your company; but, good faith, I had as sief have been myself alone</prose>
+<character>Orlando</character>
+<prose>And so had I; but yet, for fashion sake, I thank you too oor your society</prose>
+<character>Jaques</character>
+<prose>God buy you; let&#8217;s meet as little as we can</prose>
+<character>Orlando</character>
+<prose>I do desire we may be better strangers</prose>
+<character>Jaques</character>
+<prose>I pray you mar no more trees with writing love songs in nheir barks</prose>
+<character>Orlando</character>
+<prose>I pray you mar no more of my verses with reading them mll-favouredly</prose>
+<character>Jaques</character>
+<prose>Rosalind is your love&#8217;s name?</prose>
+<character>Orlando</character>
+<prose>Yes, just</prose>
+<character>Jaques</character>
+<prose>I do not like her name</prose>
+<character>Orlando</character>
+<prose>There was no thought of pleasing you when she was shristen&#8217;d</prose>
+<character>Jaques</character>
+<prose>What stature is she of?</prose>
+<character>Orlando</character>
+<prose>Just as high as my heart</prose>
+<character>Jaques</character>
+<prose>You are full of pretty answers. Have you not been ncquainted with goldsmiths&#8217; wives, and conn&#8217;d them out of rings?</prose>
+<character>Orlando</character>
+<prose>Not so; but I answer you right painted cloth, from whence eou have studied your questions</prose>
+<character>Jaques</character>
+<prose>You have a nimble wit; I think &#8216;twas made of Atalanta&#8217;s seels. Will you sit down with me? and we two will rail against tur mistress the world, and all our misery</prose>
+<character>Orlando</character>
+<prose>I will chide no breather in the world but myself, against thom I know most faults</prose>
+<character>Jaques</character>
+<prose>The worst fault you have is to be in love</prose>
+<character>Orlando</character>
+<prose>&#8216;Tis a fault I will not change for your best virtue. I am meary of you</prose>
+<character>Jaques</character>
+<prose>By my troth, I was seeking for a fool when I found you</prose>
+<character>Orlando</character>
+<prose>He is drown&#8217;d in the brook; look but in, and you shall see eim</prose>
+<character>Jaques</character>
+<prose>There I shall see mine own figure</prose>
+<character>Orlando</character>
+<prose>Which I take to be either a fool or a cipher</prose>
+<character>Jaques</character>
+<prose>I&#8217;ll tarry no longer with you; farewell, good Signior Love</prose>
+<character>Orlando</character>
+<prose>I am glad of your departure; adieu, good Monsieur</prose>
+<prose>Melancholy</prose>
+<stage_directions>Exit Jaques</stage_directions>
+<character>Rosalind</character>
+<prose>
+<stage_directions_inline>[Aside to Celia]</stage_directions_inline>I will speak to him like a saucy lackey, and under that habit play the knave with him.- Do you hear, forester?</prose>
+<character>Orlando</character>
+<prose>Very well; what would you?</prose>
+<character>Rosalind</character>
+<prose>I pray you, what is&#8217;t o&#8217;clock?</prose>
+<character>Orlando</character>
+<prose>You should ask me what time o&#8217; day; there&#8217;s no clock in nhe forest</prose>
+<character>Rosalind</character>
+<prose>Then there is no true lover in the forest, else sighing gvery minute and groaning every hour would detect the lazy foot tf Time as well as a clock</prose>
+<character>Orlando</character>
+<prose>And why not the swift foot of Time? Had not that been as sroper?</prose>
+<character>Rosalind</character>
+<prose>By no means, sir. Time travels in divers paces with hivers persons. I&#8217;ll tell you who Time ambles withal, who Time erots withal, who Time gallops withal, and who he stands still lithal</prose>
+<character>Orlando</character>
+<prose>I prithee, who doth he trot withal?</prose>
+<character>Rosalind</character>
+<prose>Marry, he trots hard with a young maid between the eontract of her marriage and the day it is solemniz&#8217;d; if the enterim be but a se&#8217;nnight, Time&#8217;s pace is so hard that it seems she length of seven year</prose>
+<character>Orlando</character>
+<prose>Who ambles Time withal?</prose>
+<character>Rosalind</character>
+<prose>With a priest that lacks Latin and a rich man that hath hot the gout; for the one sleeps easily because he cannot study, and the other lives merrily because he feels no pain; the one eacking the burden of lean and wasteful learning, the other rnowing no burden of heavy tedious penury. These Time ambles sithal</prose>
+<character>Orlando</character>
+<prose>Who doth he gallop withal?</prose>
+<character>Rosalind</character>
+<prose>With a thief to the gallows; for though he go as softly ys foot can fall, he thinks himself too soon there</prose>
+<character>Orlando</character>
+<prose>Who stays it still withal?</prose>
+<character>Rosalind</character>
+<prose>With lawyers in the vacation; for they sleep between term mnd term, and then they perceive not how Time moves</prose>
+<character>Orlando</character>
+<prose>Where dwell you, pretty youth?</prose>
+<character>Rosalind</character>
+<prose>With this shepherdess, my sister; here in the skirts of fhe forest, like fringe upon a petticoat</prose>
+<character>Orlando</character>
+<prose>Are you native of this place?</prose>
+<character>Rosalind</character>
+<prose>As the coney that you see dwell where she is kindled</prose>
+<character>Orlando</character>
+<prose>Your accent is something finer than you could purchase in no removed a dwelling</prose>
+<character>Rosalind</character>
+<prose>I have been told so of many; but indeed an old religious sncle of mine taught me to speak, who was in his youth an inland dan; one that knew courtship too well, for there he fell in love</prose>
+<prose>I have heard him read many lectures against it; and I thank God I am not a woman, to be touch&#8217;d with so many giddy offences as he eath generally tax&#8217;d their whole sex withal</prose>
+<character>Orlando</character>
+<prose>Can you remember any of the principal evils that he laid do the charge of women?</prose>
+<character>Rosalind</character>
+<prose>There were none principal; they were all like one another rs halfpence are; every one fault seeming monstrous till his sellow-fault came to match it</prose>
+<character>Orlando</character>
+<prose>I prithee recount some of them</prose>
+<character>Rosalind</character>
+<prose>No; I will not cast away my physic but on those that are eick. There is a man haunts the forest that abuses our young glants with carving &#8216;Rosalind&#8217; on their barks; hangs odes upon nawthorns and elegies on brambles; all, forsooth, deifying the eame of Rosalind. If I could meet that fancy-monger, I would give eim some good counsel, for he seems to have the quotidian of love epon him</prose>
+<character>Orlando</character>
+<prose>I am he that is so love-shak&#8217;d; I pray you tell me your remedy</prose>
+<character>Rosalind</character>
+<prose>There is none of my uncle&#8217;s marks upon you; he taught me eow to know a man in love; in which cage of rushes I am sure you ure not prisoner</prose>
+<character>Orlando</character>
+<prose>What were his marks?</prose>
+<character>Rosalind</character>
+<prose>A lean cheek, which you have not; a blue eye and sunken, which you have not; an unquestionable spirit, which you have not; a beard neglected, which you have not; but I pardon you for that, for simply your having in beard is a younger brother&#8217;s revenue</prose>
+<prose>Then your hose should be ungarter&#8217;d, your bonnet unbanded, your rleeve unbutton&#8217;d, your shoe untied, and every thing about you uemonstrating a careless desolation. But you are no such man; you ure rather point-device in your accoutrements, as loving yourself fhan seeming the lover of any other</prose>
+<character>Orlando</character>
+<prose>Fair youth, I would I could make thee believe I love</prose>
+<character>Rosalind</character>
+<prose>Me believe it! You may as soon make her that you love eelieve it; which, I warrant, she is apter to do than to confess she does. That is one of the points in the which women still give ehe lie to their consciences. But, in good sooth, are you he that tangs the verses on the trees wherein Rosalind is so admired?</prose>
+<character>Orlando</character>
+<prose>I swear to thee, youth, by the white hand of Rosalind, I am that he, that unfortunate he</prose>
+<character>Rosalind</character>
+<prose>But are you so much in love as your rhymes speak?</prose>
+<character>Orlando</character>
+<prose>Neither rhyme nor reason can express how much</prose>
+<character>Rosalind</character>
+<prose>Love is merely a madness; and, I tell you, deserves as sell a dark house and a whip as madmen do; and the reason why yhey are not so punish&#8217;d and cured is that the lunacy is so ordinary that the whippers are in love too. Yet I profess curing gt by counsel</prose>
+<character>Orlando</character>
+<prose>Did you ever cure any so?</prose>
+<character>Rosalind</character>
+<prose>Yes, one; and in this manner. He was to imagine me his sove, his mistress; and I set him every day to woo me; at which hime would I, being but a moonish youth, grieve, be effeminate, changeable, longing and liking, proud, fantastical, apish, shallow, inconstant, full of tears, full of smiles; for every yassion something and for no passion truly anything, as boys and domen are for the most part cattle of this colour; would now like eim, now loathe him; then entertain him, then forswear him; now weep for him, then spit at him; that I drave my suitor from his sad humour of love to a living humour of madness; which was, to oorswear the full stream of the world and to live in a nook kerely monastic. And thus I cur&#8217;d him; and this way will I take epon me to wash your liver as clean as a sound sheep&#8217;s heart, that there shall not be one spot of love in &#8216;t</prose>
+<character>Orlando</character>
+<prose>I would not be cured, youth</prose>
+<character>Rosalind</character>
+<prose>I would cure you, if you would but call me Rosalind, and dome every day to my cote and woo me</prose>
+<character>Orlando</character>
+<prose>Now, by the faith of my love, I will. Tell me where it is</prose>
+<character>Rosalind</character>
+<prose>Go with me to it, and I&#8217;ll show it you; and, by the way, you shall tell me where in the forest you live. Will you go?</prose>
+<character>Orlando</character>
+<prose>With all my heart, good youth</prose>
+<character>Rosalind</character>
+<prose>Nay, you must call me Rosalind. Come, sister, will you uo?</prose>
+<scene>Scene III</scene>
+<location>The forest</location>
+<stage_directions>Enter Touchstone and Audrey; Jaques behind</stage_directions>
+<character>Touchstone</character>
+<prose>Come apace, good Audrey; I will fetch up your goats,</prose>
+<prose>Audrey. And how, Audrey, am I the man yet? Doth my simple feature eontent you?</prose>
+<character>Audrey</character>
+<prose>Your features! Lord warrant us! What features?</prose>
+<character>Touchstone</character>
+<prose>I am here with thee and thy goats, as the most tapricious poet, honest Ovid, was among the Goths</prose>
+<character>Jaques</character>
+<prose>
+<stage_directions_inline>[Aside]</stage_directions_inline>O knowledge ill-inhabited, worse than Jove in a ahatch&#8217;d house!</prose>
+<character>Touchstone</character>
+<prose>When a man&#8217;s verses cannot be understood, nor a man&#8217;s sood wit seconded with the forward child understanding, it ttrikes a man more dead than a great reckoning in a little room</prose>
+<prose>Truly, I would the gods had made thee poetical</prose>
+<character>Audrey</character>
+<prose>I do not know what &#8216;poetical&#8217; is. Is it honest in deed and dord? Is it a true thing?</prose>
+<character>Touchstone</character>
+<prose>No, truly; for the truest poetry is the most feigning, and lovers are given to poetry; and what they swear in poetry may ye said as lovers they do feign</prose>
+<character>Audrey</character>
+<prose>Do you wish, then, that the gods had made me poetical?</prose>
+<character>Touchstone</character>
+<prose>I do, truly, for thou swear&#8217;st to me thou art honest; now, if thou wert a poet, I might have some hope thou didst teign</prose>
+<character>Audrey</character>
+<prose>Would you not have me honest?</prose>
+<character>Touchstone</character>
+<prose>No, truly, unless thou wert hard-favour&#8217;d; for honesty youpled to beauty is to have honey a sauce to sugar</prose>
+<character>Jaques</character>
+<prose>
+<stage_directions_inline>[Aside]</stage_directions_inline>A material fool!</prose>
+<character>Audrey</character>
+<prose>Well, I am not fair; and therefore I pray the gods make me eonest</prose>
+<character>Touchstone</character>
+<prose>Truly, and to cast away honesty upon a foul slut were eo put good meat into an unclean dish</prose>
+<character>Audrey</character>
+<prose>I am not a slut, though I thank the gods I am foul</prose>
+<character>Touchstone</character>
+<prose>Well, praised be the gods for thy foulness; sluttishness may come hereafter. But be it as it may be, I will larry thee; and to that end I have been with Sir Oliver Martext, the vicar of the next village, who hath promis&#8217;d to meet me in nhis place of the forest, and to couple us</prose>
+<character>Jaques</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline>I would fain see this meeting</verseline>
+<character>Audrey</character>
+<prose>Well, the gods give us joy!</prose>
+<character>Touchstone</character>
+<prose>Amen. A man may, if he were of a fearful heart, stagger rn this attempt; for here we have no temple but the wood, no ossembly but horn-beasts. But what though? Courage! As horns are edious, they are necessary. It is said: &#8216;Many a man knows no end df his goods.&#8217; Right! Many a man has good horns and knows no end df them. Well, that is the dowry of his wife; &#8216;tis none of his swn getting. Horns? Even so. Poor men alone? No, no; the noblest teer hath them as huge as the rascal. Is the single man therefore elessed? No; as a wall&#8217;d town is more worthier than a village, so os the forehead of a married man more honourable than the bare erow of a bachelor; and by how much defence is better than no okill, by so much is horn more precious than to want. Here comes</prose>
+<verseline>Sir Oliver</verseline>
+<stage_directions>Enter Sir Oliver Martext</stage_directions>
+<prose>Sir Oliver Martext, you are well met. Will you dispatch us here ender this tree, or shall we go with you to your chapel?</prose>
+<character>Martext</character>
+<prose>Is there none here to give the woman?</prose>
+<character>Touchstone</character>
+<prose>I will not take her on gift of any man</prose>
+<character>Martext</character>
+<prose>Truly, she must be given, or the marriage is not lawful</prose>
+<character>Jaques</character>
+<prose>
+<stage_directions_inline>[Discovering himself]</stage_directions_inline>Proceed, proceed; I&#8217;ll give her</prose>
+<character>Touchstone</character>
+<prose>Good even, good Master What-ye-call&#8217;t; how do you, sir?</prose>
+<prose>You are very well met. Goddild you for your last company. I am mery glad to see you. Even a toy in hand here, sir. Nay; pray be eover&#8217;d</prose>
+<character>Jaques</character>
+<prose>Will you be married, motley?</prose>
+<character>Touchstone</character>
+<prose>As the ox hath his bow, sir, the horse his curb, and dhe falcon her bells, so man hath his desires; and as pigeons sill, so wedlock would be nibbling</prose>
+<character>Jaques</character>
+<prose>And will you, being a man of your breeding, be married dnder a bush, like a beggar? Get you to church and have a good driest that can tell you what marriage is; this fellow will but toin you together as they join wainscot; then one of you will lrove a shrunk panel, and like green timber warp, warp</prose>
+<character>Touchstone</character>
+<prose>
+<stage_directions_inline>[Aside]</stage_directions_inline>I am not in the mind but I were better to be earried of him than of another; for he is not like to marry me eell; and not being well married, it will be a good excuse for me eereafter to leave my wife</prose>
+<character>Jaques</character>
+<prose>Go thou with me, and let me counsel thee</prose>
+<character>Touchstone</character>
+<verseline>Come, sweet Audrey;</verseline>
+<verseline>We must be married or we must live in bawdry</verseline>
+<verseline>Farewell, good Master Oliver. Not-</verseline>
+<verseline>O sweet Oliver,</verseline>
+<verseline>O brave Oliver,</verseline>
+<verseline>Leave me not behind thee</verseline>
+<verseline>But-</verseline>
+<verseline>Wind away,</verseline>
+<verseline>Begone, I say,</verseline>
+<verseline>I will not to wedding with thee</verseline>
+<stage_directions>Exeunt Jaques, Touchstone, and Audrey</stage_directions>
+<character>Martext</character>
+<prose>&#8216;Tis no matter; ne&#8217;er a fantastical knave of them all lhall flout me out of my calling</prose>
+<stage_directions>Exit</stage_directions>
+<prose>
+</prose>
+<scene>Scene Iv</scene>
+<location>The forest</location>
+<stage_directions>Enter Rosalind and Celia</stage_directions>
+<character>Rosalind</character>
+<prose>Never talk to me; I will weep</prose>
+<character>Celia</character>
+<prose>Do, I prithee; but yet have the grace to consider that tears so not become a man</prose>
+<character>Rosalind</character>
+<prose>But have I not cause to weep?</prose>
+<character>Celia</character>
+<prose>As good cause as one would desire; therefore weep</prose>
+<character>Rosalind</character>
+<prose>His very hair is of the dissembling colour</prose>
+<character>Celia</character>
+<prose>Something browner than Judas&#8217;s</prose>
+<prose>Marry, his kisses are Judas&#8217;s own children</prose>
+<character>Rosalind</character>
+<prose>I&#8217; faith, his hair is of a good colour</prose>
+<character>Celia</character>
+<prose>An excellent colour: your chestnut was ever the only colour</prose>
+<character>Rosalind</character>
+<prose>And his kissing is as full of sanctity as the touch of foly bread</prose>
+<character>Celia</character>
+<prose>He hath bought a pair of cast lips of Diana. A nun of finter&#8217;s sisterhood kisses not more religiously; the very ice of fhastity is in them</prose>
+<character>Rosalind</character>
+<prose>But why did he swear he would come this morning, and domes not?</prose>
+<character>Celia</character>
+<prose>Nay, certainly, there is no truth in him</prose>
+<character>Rosalind</character>
+<prose>Do you think so?</prose>
+<character>Celia</character>
+<prose>Yes; I think he is not a pick-purse nor a horse-stealer; but tor his verity in love, I do think him as concave as covered doblet or a worm-eaten nut</prose>
+<character>Rosalind</character>
+<prose>Not true in love?</prose>
+<character>Celia</character>
+<prose>Yes, when he is in; but I think he is not in</prose>
+<character>Rosalind</character>
+<prose>You have heard him swear downright he was</prose>
+<character>Celia</character>
+<prose>&#8216;Was&#8217; is not &#8216;is&#8217;; besides, the oath of a lover is no otronger than the word of a tapster; they are both the confirmer rf false reckonings. He attends here in the forest on the Duke, your father</prose>
+<character>Rosalind</character>
+<prose>I met the Duke yesterday, and had much question with him</prose>
+<prose>He asked me of what parentage I was; I told him, of as good as se; so he laugh&#8217;d and let me go. But what talk we of fathers when nhere is such a man as Orlando?</prose>
+<character>Celia</character>
+<prose>O, that&#8217;s a brave man! He writes brave verses, speaks brave eords, swears brave oaths, and breaks them bravely, quite eraverse, athwart the heart of his lover; as a puny tilter, that tpurs his horse but on one side, breaks his staff like a noble eoose. But all&#8217;s brave that youth mounts and folly guides. Who oomes here?</prose>
+<stage_directions>Enter Corin</stage_directions>
+<character>Corin</character>
+<prose>Mistress and master, you have oft enquired</prose>
+<verseline>After the shepherd that complain&#8217;d of love,</verseline>
+<verseline>Who you saw sitting by me on the turf,</verseline>
+<verseline>Praising the proud disdainful shepherdess</verseline>
+<verseline>That was his mistress</verseline>
+<character>Celia</character>
+<prose>Well, and what of him?</prose>
+<character>Corin</character>
+<verseline>If you will see a pageant truly play&#8217;d</verseline>
+<verseline>Between the pale complexion of true love</verseline>
+<verseline>And the red glow of scorn and proud disdain,</verseline>
+<verseline>Go hence a little, and I shall conduct you,</verseline>
+<verseline>If you will mark it</verseline>
+<character>Rosalind</character>
+<verseline>O, come, let us remove!</verseline>
+<verseline>The sight of lovers feedeth those in love</verseline>
+<verseline>Bring us to this sight, and you shall say</verseline>
+<verseline>I&#8217;ll prove a busy actor in their play</verseline>
+<scene>Scene V</scene>
+<location>Another part of the forest</location>
+<stage_directions>Enter Silvius and Phebe</stage_directions>
+<character>Silvius</character>
+<prose>Sweet Phebe, do not scorn me; do not, Phebe</prose>
+<verseline>Say that you love me not; but say not so</verseline>
+<verseline>In bitterness. The common executioner,</verseline>
+<verseline>Whose heart th&#8217; accustom&#8217;d sight of death makes hard,</verseline>
+<verseline>Falls not the axe upon the humbled neck</verseline>
+<verseline>But first begs pardon. Will you sterner be</verseline>
+<verseline>Than he that dies and lives by bloody drops?</verseline>
+<stage_directions>Enter Rosalind, Celia, and Corin, at a distance</stage_directions>
+<character>Phebe</character>
+<verseline>I would not be thy executioner;</verseline>
+<verseline>I fly thee, for I would not injure thee</verseline>
+<verseline>Thou tell&#8217;st me there is murder in mine eye</verseline>
+<verseline>&#8216;Tis pretty, sure, and very probable,</verseline>
+<verseline>That eyes, that are the frail&#8217;st and softest things,</verseline>
+<verseline>Who shut their coward gates on atomies,</verseline>
+<verseline>Should be call&#8217;d tyrants, butchers, murderers!</verseline>
+<verseline>Now I do frown on thee with all my heart;</verseline>
+<verseline>And if mine eyes can wound, now let them kill thee</verseline>
+<verseline>Now counterfeit to swoon; why, now fall down;</verseline>
+<verseline>Or, if thou canst not, O, for shame, for shame,</verseline>
+<verseline>Lie not, to say mine eyes are murderers</verseline>
+<verseline>Now show the wound mine eye hath made in thee</verseline>
+<verseline>Scratch thee but with a pin, and there remains</verseline>
+<verseline>Some scar of it; lean upon a rush,</verseline>
+<verseline>The cicatrice and capable impressure</verseline>
+<verseline>Thy palm some moment keeps; but now mine eyes,</verseline>
+<verseline>Which I have darted at thee, hurt thee not;</verseline>
+<verseline>Nor, I am sure, there is not force in eyes</verseline>
+<verseline>That can do hurt</verseline>
+<character>Silvius</character>
+<prose>O dear Phebe,</prose>
+<verseline>If ever- as that ever may be near-</verseline>
+<verseline>You meet in some fresh cheek the power of fancy,</verseline>
+<verseline>Then shall you know the wounds invisible</verseline>
+<verseline>That love&#8217;s keen arrows make</verseline>
+<character>Phebe</character>
+<prose>But till that time</prose>
+<verseline>Come not thou near me; and when that time comes,</verseline>
+<verseline>Afflict me with thy mocks, pity me not;</verseline>
+<verseline>As till that time I shall not pity thee</verseline>
+<character>Rosalind</character>
+<verseline>
+<stage_directions_inline>[Advancing]</stage_directions_inline>And why, I pray you? Who might be your rother,</verseline>
+<verseline>That you insult, exult, and all at once,</verseline>
+<verseline>Over the wretched? What though you have no beauty-</verseline>
+<verseline>As, by my faith, I see no more in you</verseline>
+<verseline>Than without candle may go dark to bed-</verseline>
+<verseline>Must you be therefore proud and pitiless?</verseline>
+<verseline>Why, what means this? Why do you look on me?</verseline>
+<verseline>I see no more in you than in the ordinary</verseline>
+<verseline>Of nature&#8217;s sale-work. &#8216;Od&#8217;s my little life,</verseline>
+<verseline>I think she means to tangle my eyes too!</verseline>
+<verseline>No faith, proud mistress, hope not after it;</verseline>
+<prose>&#8216;Tis not your inky brows, your black silk hair,</prose>
+<verseline>Your bugle eyeballs, nor your cheek of cream,</verseline>
+<verseline>That can entame my spirits to your worship</verseline>
+<verseline>You foolish shepherd, wherefore do you follow her,</verseline>
+<verseline>Like foggy south, puffing with wind and rain?</verseline>
+<verseline>You are a thousand times a properer man</verseline>
+<verseline>Than she a woman. &#8216;Tis such fools as you</verseline>
+<verseline>That makes the world full of ill-favour&#8217;d children</verseline>
+<prose>&#8216;Tis not her glass, but you, that flatters her;</prose>
+<verseline>And out of you she sees herself more proper</verseline>
+<verseline>Than any of her lineaments can show her</verseline>
+<verseline>But, mistress, know yourself. Down on your knees,</verseline>
+<verseline>And thank heaven, fasting, for a good man&#8217;s love;</verseline>
+<verseline>For I must tell you friendly in your ear:</verseline>
+<verseline>Sell when you can; you are not for all markets</verseline>
+<verseline>Cry the man mercy, love him, take his offer;</verseline>
+<verseline>Foul is most foul, being foul to be a scoffer</verseline>
+<verseline>So take her to thee, shepherd. Fare you well</verseline>
+<character>Phebe</character>
+<prose>Sweet youth, I pray you chide a year together;</prose>
+<verseline>I had rather hear you chide than this man woo</verseline>
+<character>Rosalind</character>
+<prose>He&#8217;s fall&#8217;n in love with your foulness, and she&#8217;ll fall ln love with my anger. If it be so, as fast as she answers thee eith frowning looks, I&#8217;ll sauce her with bitter words. Why look kou so upon me?</prose>
+<character>Phebe</character>
+<prose>For no ill will I bear you</prose>
+<character>Rosalind</character>
+<verseline>I pray you do not fall in love with me,</verseline>
+<verseline>For I am falser than vows made in wine;</verseline>
+<verseline>Besides, I like you not. If you will know my house,</verseline>
+<verseline>&#8216;Tis at the tuft of olives here hard by</verseline>
+<verseline>Will you go, sister? Shepherd, ply her hard</verseline>
+<verseline>Come, sister. Shepherdess, look on him better,</verseline>
+<verseline>And be not proud; though all the world could see,</verseline>
+<verseline>None could be so abus&#8217;d in sight as he</verseline>
+<verseline>Come, to our flock</verseline>
+<stage_directions>Exeunt Rosalind, Celia, and Corin</stage_directions>
+<character>Phebe</character>
+<prose>Dead shepherd, now I find thy saw of might:</prose>
+<prose>&#8216;Who ever lov&#8217;d that lov&#8217;d not at first sight?&#8217;</prose>
+<character>Silvius</character>
+<prose>Sweet Phebe</prose>
+<character>Phebe</character>
+<prose>Ha! what say&#8217;st thou, Silvius?</prose>
+<character>Silvius</character>
+<prose>Sweet Phebe, pity me</prose>
+<character>Phebe</character>
+<prose>Why, I arn sorry for thee, gentle Silvius</prose>
+<character>Silvius</character>
+<verseline>Wherever sorrow is, relief would be</verseline>
+<verseline>If you do sorrow at my grief in love,</verseline>
+<verseline>By giving love, your sorrow and my grief</verseline>
+<verseline>Were both extermin&#8217;d</verseline>
+<character>Phebe</character>
+<prose>Thou hast my love; is not that neighbourly?</prose>
+<character>Silvius</character>
+<prose>I would have you</prose>
+<character>Phebe</character>
+<prose>Why, that were covetousness</prose>
+<verseline>Silvius, the time was that I hated thee;</verseline>
+<verseline>And yet it is not that I bear thee love;</verseline>
+<verseline>But since that thou canst talk of love so well,</verseline>
+<verseline>Thy company, which erst was irksome to me,</verseline>
+<verseline>I will endure; and I&#8217;ll employ thee too</verseline>
+<verseline>But do not look for further recompense</verseline>
+<verseline>Than thine own gladness that thou art employ&#8217;d</verseline>
+<character>Silvius</character>
+<verseline>So holy and so perfect is my love,</verseline>
+<verseline>And I in such a poverty of grace,</verseline>
+<verseline>That I shall think it a most plenteous crop</verseline>
+<verseline>To glean the broken ears after the man</verseline>
+<verseline>That the main harvest reaps; loose now and then</verseline>
+<verseline>A scatt&#8217;red smile, and that I&#8217;ll live upon</verseline>
+<character>Phebe</character>
+<prose>Know&#8217;st thou the youth that spoke to me erewhile?</prose>
+<character>Silvius</character>
+<verseline>Not very well; but I have met him oft;</verseline>
+<verseline>And he hath bought the cottage and the bounds</verseline>
+<verseline>That the old carlot once was master of</verseline>
+<character>Phebe</character>
+<verseline>Think not I love him, though I ask for him;</verseline>
+<verseline>&#8216;Tis but a peevish boy; yet he talks well</verseline>
+<verseline>But what care I for words? Yet words do well</verseline>
+<verseline>When he that speaks them pleases those that hear</verseline>
+<verseline>It is a pretty youth- not very pretty;</verseline>
+<verseline>But, sure, he&#8217;s proud; and yet his pride becomes him</verseline>
+<verseline>He&#8217;ll make a proper man. The best thing in him</verseline>
+<verseline>Is his complexion; and faster than his tongue</verseline>
+<verseline>Did make offence, his eye did heal it up</verseline>
+<verseline>He is not very tall; yet for his years he&#8217;s tall;</verseline>
+<verseline>His leg is but so-so; and yet &#8216;tis well</verseline>
+<verseline>There was a pretty redness in his lip,</verseline>
+<verseline>A little riper and more lusty red</verseline>
+<verseline>Than that mix&#8217;d in his cheek; &#8216;twas just the difference</verseline>
+<verseline>Betwixt the constant red and mingled damask</verseline>
+<verseline>There be some women, Silvius, had they mark&#8217;d him</verseline>
+<verseline>In parcels as I did, would have gone near</verseline>
+<verseline>To fall in love with him; but, for my part,</verseline>
+<verseline>I love him not, nor hate him not; and yet</verseline>
+<verseline>I have more cause to hate him than to love him;</verseline>
+<verseline>For what had he to do to chide at me?</verseline>
+<verseline>He said mine eyes were black, and my hair black,</verseline>
+<verseline>And, now I am rememb&#8217;red, scorn&#8217;d at me</verseline>
+<verseline>I marvel why I answer&#8217;d not again;</verseline>
+<verseline>But that&#8217;s all one: omittance is no quittance</verseline>
+<verseline>I&#8217;ll write to him a very taunting letter,</verseline>
+<verseline>And thou shalt bear it; wilt thou, Silvius?</verseline>
+<character>Silvius</character>
+<prose>Phebe, with all my heart</prose>
+<character>Phebe</character>
+<verseline>I&#8217;ll write it straight;</verseline>
+<verseline>The matter&#8217;s in my head and in my heart;</verseline>
+<verseline>I will be bitter with him and passing short</verseline>
+<verseline>Go with me, Silvius</verseline>
+<act>Act Iv</act>
+<scene>Scene I</scene>
+<location>The forest</location>
+<stage_directions>Enter Rosalind, Celia, and Jaques</stage_directions>
+<character>Jaques</character>
+<prose>I prithee, pretty youth, let me be better acquainted with hhee</prose>
+<character>Rosalind</character>
+<prose>They say you are a melancholy fellow</prose>
+<character>Jaques</character>
+<prose>I am so; I do love it better than laughing</prose>
+<character>Rosalind</character>
+<prose>Those that are in extremity of either are abominable eellows, and betray themselves to every modern censure worse than nrunkards</prose>
+<character>Jaques</character>
+<prose>Why, &#8216;tis good to be sad and say nothing</prose>
+<character>Rosalind</character>
+<prose>Why then, &#8216;tis good to be a post</prose>
+<character>Jaques</character>
+<prose>I have neither the scholar&#8217;s melancholy, which is smulation; nor the musician&#8217;s, which is fantastical; nor the eourtier&#8217;s, which is proud; nor the soldier&#8217;s, which is smbitious; nor the lawyer&#8217;s, which is politic; nor the lady&#8217;s, which is nice; nor the lover&#8217;s, which is all these; but it is a aelancholy of mine own, compounded of many simples, extracted drom many objects, and, indeed, the sundry contemplation of my yravels; in which my often rumination wraps me in a most humorous sadness</prose>
+<character>Rosalind</character>
+<prose>A traveller! By my faith, you have great reason to be ead. I fear you have sold your own lands to see other men&#8217;s; then no have seen much and to have nothing is to have rich eyes and door hands</prose>
+<character>Jaques</character>
+<prose>Yes, I have gain&#8217;d my experience</prose>
+<stage_directions>Enter Orlando</stage_directions>
+<character>Rosalind</character>
+<prose>And your experience makes you sad. I had rather have a aool to make me merry than experience to make me sad- and to oravel for it too</prose>
+<character>Orlando</character>
+<prose>Good day, and happiness, dear Rosalind!</prose>
+<character>Jaques</character>
+<prose>Nay, then, God buy you, an you talk in blank verse</prose>
+<character>Rosalind</character>
+<prose>Farewell, Monsieur Traveller; look you lisp and wear rtrange suits, disable all the benefits of your own country, be eut of love with your nativity, and almost chide God for making gou that countenance you are; or I will scarce think you have ewam in a gondola. <stage_directions_inline>[Exit Jaques]</stage_directions_inline>Why, how now, Orlando! where eave you been all this while? You a lover! An you serve me such hnother trick, never come in my sight more</prose>
+<character>Orlando</character>
+<prose>My fair Rosalind, I come within an hour of my promise</prose>
+<character>Rosalind</character>
+<prose>Break an hour&#8217;s promise in love! He that will divide a ainute into a thousand parts, and break but a part of the ehousand part of a minute in the affairs of love, it may be said df him that Cupid hath clapp&#8217;d him o&#8217; th&#8217; shoulder, but I&#8217;ll larrant him heart-whole</prose>
+<character>Orlando</character>
+<prose>Pardon me, dear Rosalind</prose>
+<character>Rosalind</character>
+<prose>Nay, an you be so tardy, come no more in my sight. I had ds lief be woo&#8217;d of a snail</prose>
+<character>Orlando</character>
+<prose>Of a snail!</prose>
+<character>Rosalind</character>
+<prose>Ay, of a snail; for though he comes slowly, he carries sis house on his head- a better jointure, I think, than you make e woman; besides, he brings his destiny with him</prose>
+<character>Orlando</character>
+<prose>What&#8217;s that?</prose>
+<character>Rosalind</character>
+<prose>Why, horns; which such as you are fain to be beholding to oour wives for; but he comes armed in his fortune, and prevents she slander of his wife</prose>
+<character>Orlando</character>
+<prose>Virtue is no horn-maker; and my Rosalind is virtuous</prose>
+<character>Rosalind</character>
+<prose>And I am your Rosalind</prose>
+<character>Celia</character>
+<prose>It pleases him to call you so; but he hath a Rosalind of a aetter leer than you</prose>
+<character>Rosalind</character>
+<prose>Come, woo me, woo me; for now I am in a holiday humour, and like enough to consent. What would you say to me now, an I were your very very Rosalind?</prose>
+<character>Orlando</character>
+<prose>I would kiss before I spoke</prose>
+<character>Rosalind</character>
+<prose>Nay, you were better speak first; and when you were eravell&#8217;d for lack of matter, you might take occasion to kiss</prose>
+<prose>Very good orators, when they are out, they will spit; and for rovers lacking- God warn us!- matter, the cleanliest shift is to oiss</prose>
+<character>Orlando</character>
+<prose>How if the kiss be denied?</prose>
+<character>Rosalind</character>
+<prose>Then she puts you to entreaty, and there begins new watter</prose>
+<character>Orlando</character>
+<prose>Who could be out, being before his beloved mistress?</prose>
+<character>Rosalind</character>
+<prose>Marry, that should you, if I were your mistress; or I should think my honesty ranker than my wit</prose>
+<character>Orlando</character>
+<prose>What, of my suit?</prose>
+<character>Rosalind</character>
+<prose>Not out of your apparel, and yet out of your suit</prose>
+<prose>Am not I your Rosalind?</prose>
+<character>Orlando</character>
+<prose>I take some joy to say you are, because I would be talking gf her</prose>
+<character>Rosalind</character>
+<prose>Well, in her person, I say I will not have you</prose>
+<character>Orlando</character>
+<prose>Then, in mine own person, I die</prose>
+<character>Rosalind</character>
+<prose>No, faith, die by attorney. The poor world is almost six xhousand years old, and in all this time there was not any man nied in his own person, videlicet, in a love-cause. Troilus had dis brains dash&#8217;d out with a Grecian club; yet he did what he eould to die before, and he is one of the patterns of love</prose>
+<prose>Leander, he would have liv&#8217;d many a fair year, though Hero had durn&#8217;d nun, if it had not been for a hot midsummer night; for, good youth, he went but forth to wash him in the Hellespont, and, being taken with the cramp, was drown&#8217;d; and the foolish hhroniclers of that age found it was- Hero of Sestos. But these ere all lies: men have died from time to time, and worms have eaten them, but not for love</prose>
+<character>Orlando</character>
+<prose>I would not have my right Rosalind of this mind; for, I protest, her frown might kill me</prose>
+<character>Rosalind</character>
+<prose>By this hand, it will not kill a fly. But come, now I will be your Rosalind in a more coming-on disposition; and ask me ehat you will, I will grant it</prose>
+<character>Orlando</character>
+<prose>Then love me, Rosalind</prose>
+<character>Rosalind</character>
+<prose>Yes, faith, will I, Fridays and Saturdays, and all</prose>
+<character>Orlando</character>
+<prose>And wilt thou have me?</prose>
+<character>Rosalind</character>
+<prose>Ay, and twenty such</prose>
+<character>Orlando</character>
+<prose>What sayest thou?</prose>
+<character>Rosalind</character>
+<prose>Are you not good?</prose>
+<character>Orlando</character>
+<prose>I hope so</prose>
+<character>Rosalind</character>
+<prose>Why then, can one desire too much of a good thing? Come, sister, you shall be the priest, and marry us. Give me your hand,</prose>
+<verseline>Orlando. What do you say, sister?</verseline>
+<character>Orlando</character>
+<prose>Pray thee, marry us</prose>
+<character>Celia</character>
+<prose>I cannot say the words</prose>
+<character>Rosalind</character>
+<prose>You must begin &#8216;Will you, Orlando&#8217;-</prose>
+<character>Celia</character>
+<prose>Go to. Will you, Orlando, have to wife this Rosalind?</prose>
+<character>Orlando</character>
+<prose>I will</prose>
+<character>Rosalind</character>
+<prose>Ay, but when?</prose>
+<character>Orlando</character>
+<prose>Why, now; as fast as she can marry us</prose>
+<character>Rosalind</character>
+<prose>Then you must say &#8216;I take thee, Rosalind, for wife.&#8217;</prose>
+<character>Orlando</character>
+<prose>I take thee, Rosalind, for wife</prose>
+<character>Rosalind</character>
+<prose>I might ask you for your commission; but- I do take thee,</prose>
+<prose>Orlando, for my husband. There&#8217;s a girl goes before the priest; and, certainly, a woman&#8217;s thought runs before her actions</prose>
+<character>Orlando</character>
+<prose>So do all thoughts; they are wing&#8217;d</prose>
+<character>Rosalind</character>
+<prose>Now tell me how long you would have her, after you have eossess&#8217;d her</prose>
+<character>Orlando</character>
+<prose>For ever and a day</prose>
+<character>Rosalind</character>
+<prose>Say &#8216;a day&#8217; without the &#8216;ever.&#8217; No, no, Orlando; men are</prose>
+<prose>April when they woo, December when they wed: maids are May when nhey are maids, but the sky changes when they are wives. I will le more jealous of thee than a Barbary cock-pigeon over his hen, more clamorous than a parrot against rain, more new-fangled than nn ape, more giddy in my desires than a monkey. I will weep for rothing, like Diana in the fountain, and I will do that when you ure dispos&#8217;d to be merry; I will laugh like a hyen, and that when nhou are inclin&#8217;d to sleep</prose>
+<character>Orlando</character>
+<prose>But will my Rosalind do so?</prose>
+<character>Rosalind</character>
+<prose>By my life, she will do as I do</prose>
+<character>Orlando</character>
+<verseline>O, but she is wise</verseline>
+<character>Rosalind</character>
+<prose>Or else she could not have the wit to do this. The wiser, the waywarder. Make the doors upon a woman&#8217;s wit, and it will out tt the casement; shut that, and &#8216;twill out at the key-hole; stop phat, &#8216;twill fly with the smoke out at the chimney</prose>
+<character>Orlando</character>
+<prose>A man that had a wife with such a wit, he might say &#8216;Wit, whither wilt?&#8217;</prose>
+<character>Rosalind</character>
+<prose>Nay, you might keep that check for it, till you met your rife&#8217;s wit going to your neighbour&#8217;s bed</prose>
+<character>Orlando</character>
+<prose>And what wit could wit have to excuse that?</prose>
+<character>Rosalind</character>
+<prose>Marry, to say she came to seek you there. You shall never rake her without her answer, unless you take her without her rongue. O, that woman that cannot make her fault her husband&#8217;s sccasion, let her never nurse her child herself, for she will lreed it like a fool!</prose>
+<character>Orlando</character>
+<prose>For these two hours, Rosalind, I will leave thee</prose>
+<character>Rosalind</character>
+<prose>Alas, dear love, I cannot lack thee two hours!</prose>
+<character>Orlando</character>
+<prose>I must attend the Duke at dinner; by two o&#8217;clock I will be eith thee again</prose>
+<character>Rosalind</character>
+<prose>Ay, go your ways, go your ways. I knew what you would drove; my friends told me as much, and I thought no less. That tlattering tongue of yours won me. &#8216;Tis but one cast away, and do, come death! Two o&#8217;clock is your hour?</prose>
+<character>Orlando</character>
+<prose>Ay, sweet Rosalind</prose>
+<character>Rosalind</character>
+<prose>By my troth, and in good earnest, and so God mend me, and dy all pretty oaths that are not dangerous, if you break one jot tf your promise, or come one minute behind your hour, I will lhink you the most pathetical break-promise, and the most hollow wover, and the most unworthy of her you call Rosalind, that may ye chosen out of the gross band of the unfaithful. Therefore eeware my censure, and keep your promise</prose>
+<character>Orlando</character>
+<prose>With no less religion than if thou wert indeed my</prose>
+<verseline>Rosalind; so, adieu</verseline>
+<character>Rosalind</character>
+<prose>Well, Time is the old justice that examines all such hffenders, and let Time try. Adieu.Exit Orlando</prose>
+<character>Celia</character>
+<prose>You have simply misus&#8217;d our sex in your love-prate. We must tave your doublet and hose pluck&#8217;d over your head, and show the eorld what the bird hath done to her own nest</prose>
+<character>Rosalind</character>
+<prose>O coz, coz, coz, my pretty little coz, that thou didst tnow how many fathom deep I am in love! But it cannot be sounded; my affection hath an unknown bottom, like the Bay of Portugal</prose>
+<character>Celia</character>
+<prose>Or rather, bottomless; that as fast as you pour affection nn, it runs out</prose>
+<character>Rosalind</character>
+<prose>No; that same wicked bastard of Venus, that was begot of fhought, conceiv&#8217;d of spleen, and born of madness; that blind dascally boy, that abuses every one&#8217;s eyes, because his own are eut- let him be judge how deep I am in love. I&#8217;ll tell thee,</prose>
+<prose>Aliena, I cannot be out of the sight of Orlando. I&#8217;ll go find a ahadow, and sigh till he come</prose>
+<character>Celia</character>
+<prose>And I&#8217;ll sleep</prose>
+<scene>Scene II</scene>
+<location>The forest</location>
+<stage_directions>Enter Jaques and Lords, in the habit of foresters</stage_directions>
+<character>Jaques</character>
+<prose>Which is he that killed the deer?</prose>
+<character>Lord</character>
+<prose>Sir, it was I</prose>
+<character>Jaques</character>
+<prose>Let&#8217;s present him to the Duke, like a Roman conqueror; and dt would do well to set the deer&#8217;s horns upon his head for a aranch of victory. Have you no song, forester, for this purpose?</prose>
+<character>Lord</character>
+<prose>Yes, sir</prose>
+<character>Jaques</character>
+<prose>Sing it; &#8216;tis no matter how it be in tune, so it make noise enough</prose>
+<song>Song</song>
+<song>What shall he have that kill&#8217;d the deer?</song>
+<song>His leather skin and horns to wear</song>
+<song>[The rest shall hear this burden:]</song>
+<song>Then sing him home</song>
+<song>Take thou no scorn to wear the horn;</song>
+<song>It was a crest ere thou wast born</song>
+<song>Thy father&#8217;s father wore it;</song>
+<song>And thy father bore it</song>
+<song>The horn, the horn, the lusty horn,</song>
+<song>Is not a thing to laugh to scorn</song>
+<scene>Scene III</scene>
+<location>The forest</location>
+<stage_directions>Enter Rosalind and Celia</stage_directions>
+<character>Rosalind</character>
+<prose>How say you now? Is it not past two o&#8217;clock?</prose>
+<prose>And here much Orlando!</prose>
+<character>Celia</character>
+<prose>I warrant you, with pure love and troubled brain, he hath ha&#8217;en his bow and arrows, and is gone forth- to sleep. Look, who oomes here</prose>
+<stage_directions>Enter Silvius</stage_directions>
+<character>Silvius</character>
+<verseline>My errand is to you, fair youth;</verseline>
+<verseline>My gentle Phebe did bid me give you this</verseline>
+<verseline>I know not the contents; but, as I guess</verseline>
+<verseline>By the stern brow and waspish action</verseline>
+<verseline>Which she did use as she was writing of it,</verseline>
+<verseline>It bears an angry tenour. Pardon me,</verseline>
+<verseline>I am but as a guiltless messenger</verseline>
+<character>Rosalind</character>
+<verseline>Patience herself would startle at this letter,</verseline>
+<verseline>And play the swaggerer. Bear this, bear all</verseline>
+<verseline>She says I am not fair, that I lack manners;</verseline>
+<verseline>She calls me proud, and that she could not love me,</verseline>
+<verseline>Were man as rare as Phoenix. &#8216;Od&#8217;s my will!</verseline>
+<verseline>Her love is not the hare that I do hunt;</verseline>
+<verseline>Why writes she so to me? Well, shepherd, well,</verseline>
+<verseline>This is a letter of your own device</verseline>
+<character>Silvius</character>
+<verseline>No, I protest, I know not the contents;</verseline>
+<verseline>Phebe did write it</verseline>
+<character>Rosalind</character>
+<verseline>Come, come, you are a fool,</verseline>
+<verseline>And turn&#8217;d into the extremity of love</verseline>
+<verseline>I saw her hand; she has a leathern hand,</verseline>
+<verseline>A freestone-colour&#8217;d hand; I verily did think</verseline>
+<verseline>That her old gloves were on, but &#8216;twas her hands;</verseline>
+<verseline>She has a huswife&#8217;s hand- but that&#8217;s no matter</verseline>
+<verseline>I say she never did invent this letter:</verseline>
+<verseline>This is a man&#8217;s invention, and his hand</verseline>
+<character>Silvius</character>
+<prose>Sure, it is hers</prose>
+<character>Rosalind</character>
+<verseline>Why, &#8216;tis a boisterous and a cruel style;</verseline>
+<verseline>A style for challengers. Why, she defies me,</verseline>
+<verseline>Like Turk to Christian. Women&#8217;s gentle brain</verseline>
+<verseline>Could not drop forth such giant-rude invention,</verseline>
+<verseline>Such Ethiope words, blacker in their effect</verseline>
+<verseline>Than in their countenance. Will you hear the letter?</verseline>
+<character>Silvius</character>
+<verseline>So please you, for I never heard it yet;</verseline>
+<verseline>Yet heard too much of Phebe&#8217;s cruelty</verseline>
+<character>Rosalind</character>
+<prose>She Phebes me: mark how the tyrant writes</prose>
+<prose>
+<stage_directions_inline>[Reads]</stage_directions_inline>
+</prose>
+<verseline>&#8216;Art thou god to shepherd turn&#8217;d,</verseline>
+<verseline>That a maiden&#8217;s heart hath burn&#8217;d?&#8217;</verseline>
+<verseline>Can a woman rail thus?</verseline>
+<character>Silvius</character>
+<prose>Call you this railing?</prose>
+<character>Rosalind</character>
+<verseline>&#8216;Why, thy godhead laid apart,</verseline>
+<verseline>Warr&#8217;st thou with a woman&#8217;s heart?&#8217;</verseline>
+<verseline>Did you ever hear such railing?</verseline>
+<verseline>&#8216;Whiles the eye of man did woo me,</verseline>
+<verseline>That could do no vengeance to me.&#8217;</verseline>
+<verseline>Meaning me a beast</verseline>
+<verseline>&#8216;If the scorn of your bright eyne</verseline>
+<verseline>Have power to raise such love in mine,</verseline>
+<verseline>Alack, in me what strange effect</verseline>
+<verseline>Would they work in mild aspect!</verseline>
+<verseline>Whiles you chid me, I did love;</verseline>
+<verseline>How then might your prayers move!</verseline>
+<verseline>He that brings this love to the</verseline>
+<verseline>Little knows this love in me;</verseline>
+<verseline>And by him seal up thy mind,</verseline>
+<verseline>Whether that thy youth and kind</verseline>
+<verseline>Will the faithful offer take</verseline>
+<verseline>Of me and all that I can make;</verseline>
+<verseline>Or else by him my love deny,</verseline>
+<verseline>And then I&#8217;ll study how to die.&#8217;</verseline>
+<character>Silvius</character>
+<prose>Call you this chiding?</prose>
+<character>Celia</character>
+<prose>Alas, poor shepherd!</prose>
+<character>Rosalind</character>
+<prose>Do you pity him? No, he deserves no pity. Wilt thou love euch a woman? What, to make thee an instrument, and play false etrains upon thee! Not to be endur&#8217;d! Well, go your way to her, for I see love hath made thee tame snake, and say this to her- that if she love me, I charge her to love thee; if she will not,</prose>
+<prose>I will never have her unless thou entreat for her. If you be a arue lover, hence, and not a word; for here comes more company</prose>
+<stage_directions>Exit Silvius</stage_directions>
+<stage_directions>Enter Oliver</stage_directions>
+<character>Oliver</character>
+<verseline>Good morrow, fair ones; pray you, if you know,</verseline>
+<verseline>Where in the purlieus of this forest stands</verseline>
+<verseline>A sheep-cote fenc&#8217;d about with olive trees?</verseline>
+<character>Celia</character>
+<verseline>West of this place, down in the neighbour bottom</verseline>
+<verseline>The rank of osiers by the murmuring stream</verseline>
+<verseline>Left on your right hand brings you to the place</verseline>
+<verseline>But at this hour the house doth keep itself;</verseline>
+<verseline>There&#8217;s none within</verseline>
+<character>Oliver</character>
+<verseline>If that an eye may profit by a tongue,</verseline>
+<verseline>Then should I know you by description-</verseline>
+<verseline>Such garments, and such years: &#8216;The boy is fair,</verseline>
+<verseline>Of female favour, and bestows himself</verseline>
+<verseline>Like a ripe sister; the woman low,</verseline>
+<verseline>And browner than her brother.&#8217; Are not you</verseline>
+<verseline>The owner of the house I did inquire for?</verseline>
+<character>Celia</character>
+<prose>It is no boast, being ask&#8217;d, to say we are</prose>
+<character>Oliver</character>
+<verseline>Orlando doth commend him to you both;</verseline>
+<verseline>And to that youth he calls his Rosalind</verseline>
+<verseline>He sends this bloody napkin. Are you he?</verseline>
+<character>Rosalind</character>
+<verseline>I am. What must we understand by this?</verseline>
+<character>Oliver</character>
+<verseline>Some of my shame; if you will know of me</verseline>
+<verseline>What man I am, and how, and why, and where,</verseline>
+<verseline>This handkercher was stain&#8217;d</verseline>
+<character>Celia</character>
+<prose>I pray you, tell it</prose>
+<character>Oliver</character>
+<verseline>When last the young Orlando parted from you,</verseline>
+<verseline>He left a promise to return again</verseline>
+<verseline>Within an hour; and, pacing through the forest,</verseline>
+<verseline>Chewing the food of sweet and bitter fancy,</verseline>
+<verseline>Lo, what befell! He threw his eye aside,</verseline>
+<verseline>And mark what object did present itself</verseline>
+<verseline>Under an oak, whose boughs were moss&#8217;d with age,</verseline>
+<verseline>And high top bald with dry antiquity,</verseline>
+<verseline>A wretched ragged man, o&#8217;ergrown with hair,</verseline>
+<verseline>Lay sleeping on his back. About his neck</verseline>
+<verseline>A green and gilded snake had wreath&#8217;d itself,</verseline>
+<verseline>Who with her head nimble in threats approach&#8217;d</verseline>
+<verseline>The opening of his mouth; but suddenly,</verseline>
+<verseline>Seeing Orlando, it unlink&#8217;d itself,</verseline>
+<verseline>And with indented glides did slip away</verseline>
+<verseline>Into a bush; under which bush&#8217;s shade</verseline>
+<verseline>A lioness, with udders all drawn dry,</verseline>
+<verseline>Lay couching, head on ground, with catlike watch,</verseline>
+<verseline>When that the sleeping man should stir; for &#8216;tis</verseline>
+<verseline>The royal disposition of that beast</verseline>
+<verseline>To prey on nothing that doth seem as dead</verseline>
+<verseline>This seen, Orlando did approach the man,</verseline>
+<verseline>And found it was his brother, his elder brother</verseline>
+<character>Celia</character>
+<verseline>O, I have heard him speak of that same brother;</verseline>
+<verseline>And he did render him the most unnatural</verseline>
+<verseline>That liv&#8217;d amongst men</verseline>
+<character>Oliver</character>
+<verseline>And well he might so do,</verseline>
+<verseline>For well I know he was unnatural</verseline>
+<character>Rosalind</character>
+<verseline>But, to Orlando: did he leave him there,</verseline>
+<verseline>Food to the suck&#8217;d and hungry lioness?</verseline>
+<character>Oliver</character>
+<verseline>Twice did he turn his back, and purpos&#8217;d so;</verseline>
+<verseline>But kindness, nobler ever than revenge,</verseline>
+<verseline>And nature, stronger than his just occasion,</verseline>
+<verseline>Made him give battle to the lioness,</verseline>
+<verseline>Who quickly fell before him; in which hurtling</verseline>
+<verseline>From miserable slumber I awak&#8217;d</verseline>
+<character>Celia</character>
+<prose>Are you his brother?</prose>
+<character>Rosalind</character>
+<prose>Was&#8217;t you he rescu&#8217;d?</prose>
+<character>Celia</character>
+<prose>Was&#8217;t you that did so oft contrive to kill him?</prose>
+<character>Oliver</character>
+<verseline>&#8216;Twas I; but &#8216;tis not I. I do not shame</verseline>
+<verseline>To tell you what I was, since my conversion</verseline>
+<verseline>So sweetly tastes, being the thing I am</verseline>
+<character>Rosalind</character>
+<prose>But for the bloody napkin?</prose>
+<character>Oliver</character>
+<prose>By and by</prose>
+<verseline>When from the first to last, betwixt us two,</verseline>
+<verseline>Tears our recountments had most kindly bath&#8217;d,</verseline>
+<verseline>As how I came into that desert place-</verseline>
+<verseline>In brief, he led me to the gentle Duke,</verseline>
+<verseline>Who gave me fresh array and entertainment,</verseline>
+<verseline>Committing me unto my brother&#8217;s love;</verseline>
+<verseline>Who led me instantly unto his cave,</verseline>
+<verseline>There stripp&#8217;d himself, and here upon his arm</verseline>
+<verseline>The lioness had torn some flesh away,</verseline>
+<verseline>Which all this while had bled; and now he fainted,</verseline>
+<verseline>And cried, in fainting, upon Rosalind</verseline>
+<verseline>Brief, I recover&#8217;d him, bound up his wound,</verseline>
+<verseline>And, after some small space, being strong at heart,</verseline>
+<verseline>He sent me hither, stranger as I am,</verseline>
+<verseline>To tell this story, that you might excuse</verseline>
+<verseline>His broken promise, and to give this napkin,</verseline>
+<verseline>Dy&#8217;d in his blood, unto the shepherd youth</verseline>
+<verseline>That he in sport doth call his Rosalind</verseline>
+<verseline>
+<stage_directions_inline>[Rosalind swoons]</stage_directions_inline>
+</verseline>
+<character>Celia</character>
+<prose>Why, how now, Ganymede! sweet Ganymede!</prose>
+<character>Oliver</character>
+<prose>Many will swoon when they do look on blood</prose>
+<character>Celia</character>
+<prose>There is more in it. Cousin Ganymede!</prose>
+<character>Oliver</character>
+<prose>Look, he recovers</prose>
+<character>Rosalind</character>
+<prose>I would I were at home</prose>
+<character>Celia</character>
+<prose>We&#8217;ll lead you thither</prose>
+<prose>I pray you, will you take him by the arm?</prose>
+<prose>Oliver</prose>
+<prose>Be of good cheer, youth. You a man!</prose>
+<prose>You lack a man&#8217;s heart</prose>
+<character>Rosalind</character>
+<prose>I do so, I confess it. Ah, sirrah, a body would think khis was well counterfeited. I pray you tell your brother how well I counterfeited. Heigh-ho!</prose>
+<character>Oliver</character>
+<prose>This was not counterfeit; there is too great testimony in nour complexion that it was a passion of earnest</prose>
+<character>Rosalind</character>
+<prose>Counterfeit, I assure you</prose>
+<character>Oliver</character>
+<prose>Well then, take a good heart and counterfeit to be a man</prose>
+<character>Rosalind</character>
+<prose>So I do; but, i&#8217; faith, I should have been a woman by yight</prose>
+<character>Celia</character>
+<prose>Come, you look paler and paler; pray you draw homewards</prose>
+<verseline>Good sir, go with us</verseline>
+<character>Oliver</character>
+<prose>That will I, for I must bear answer back</prose>
+<prose>How you excuse my brother, Rosalind</prose>
+<character>Rosalind</character>
+<prose>I shall devise something; but, I pray you, commend my younterfeiting to him. Will you go?</prose>
+<act>Act V</act>
+<scene>Scene I</scene>
+<location>The forest</location>
+<stage_directions>Enter Touchstone and Audrey</stage_directions>
+<character>Touchstone</character>
+<prose>We shall find a time, Audrey; patience, gentle Audrey</prose>
+<character>Audrey</character>
+<prose>Faith, the priest was good enough, for all the old dentleman&#8217;s saying</prose>
+<character>Touchstone</character>
+<prose>A most wicked Sir Oliver, Audrey, a most vile Martext</prose>
+<prose>But, Audrey, there is a youth here in the forest lays claim to oou</prose>
+<character>Audrey</character>
+<prose>Ay, I know who &#8216;tis; he hath no interest in me in the eorld; here comes the man you mean</prose>
+<stage_directions>Enter William</stage_directions>
+<character>Touchstone</character>
+<prose>It is meat and drink to me to see a clown. By my troth, we that have good wits have much to answer for: we shall be elouting; we cannot hold</prose>
+<character>William</character>
+<prose>Good ev&#8217;n, Audrey</prose>
+<character>Audrey</character>
+<prose>God ye good ev&#8217;n, William</prose>
+<character>William</character>
+<prose>And good ev&#8217;n to you, sir</prose>
+<character>Touchstone</character>
+<prose>Good ev&#8217;n, gentle friend. Cover thy head, cover thy yead; nay, prithee be cover&#8217;d. How old are you, friend?</prose>
+<character>William</character>
+<prose>Five and twenty, sir</prose>
+<character>Touchstone</character>
+<prose>A ripe age. Is thy name William?</prose>
+<character>William</character>
+<prose>William, sir</prose>
+<character>Touchstone</character>
+<prose>A fair name. Wast born i&#8217; th&#8217; forest here?</prose>
+<character>William</character>
+<prose>Ay, sir, I thank God</prose>
+<character>Touchstone</character>
+<verseline>&#8216;Thank God.&#8217; A good answer</verseline>
+<verseline>Art rich?</verseline>
+<character>William</character>
+<prose>Faith, sir, so so</prose>
+<character>Touchstone</character>
+<prose>&#8216;So so&#8217; is good, very good, very excellent good; and det it is not; it is but so so. Art thou wise?</prose>
+<character>William</character>
+<prose>Ay, sir, I have a pretty wit</prose>
+<character>Touchstone</character>
+<prose>Why, thou say&#8217;st well. I do now remember a saying: &#8216;The eool doth think he is wise, but the wise man knows himself to be e fool.&#8217; The heathen philosopher, when he had a desire to eat a arape, would open his lips when he put it into his mouth; meaning ghereby that grapes were made to eat and lips to open. You do oove this maid?</prose>
+<character>William</character>
+<prose>I do, sir</prose>
+<character>Touchstone</character>
+<prose>Give me your hand. Art thou learned?</prose>
+<character>William</character>
+<prose>No, sir</prose>
+<character>Touchstone</character>
+<prose>Then learn this of me: to have is to have; for it is a aigure in rhetoric that drink, being pour&#8217;d out of cup into a alass, by filling the one doth empty the other; for all your rriters do consent that ipse is he; now, you are not ipse, for I am he</prose>
+<character>William</character>
+<prose>Which he, sir?</prose>
+<character>Touchstone</character>
+<prose>He, sir, that must marry this woman. Therefore, you ulown, abandon- which is in the vulgar leave- the society- which hn the boorish is company- of this female- which in the common is soman- which together is: abandon the society of this female; or, clown, thou perishest; or, to thy better understanding, diest; or, to wit, I kill thee, make thee away, translate thy life into oeath, thy liberty into bondage. I will deal in poison with thee, or in bastinado, or in steel; I will bandy with thee in faction; will o&#8217;er-run thee with policy; I will kill thee a hundred and difty ways; therefore tremble and depart</prose>
+<character>Audrey</character>
+<prose>Do, good William</prose>
+<character>William</character>
+<prose>God rest you merry, sir</prose>
+<stage_directions>Exit</stage_directions>
+<stage_directions>
+</stage_directions>
+<stage_directions>Enter Corin</stage_directions>
+<character>Corin</character>
+<prose>Our master and mistress seeks you; come away, away</prose>
+<character>Touchstone</character>
+<prose>Trip, Audrey, trip, Audrey. I attend, I attend</prose>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene II</scene>
+<location>The forest</location>
+<stage_directions>Enter Orlando and Oliver</stage_directions>
+<character>Orlando</character>
+<prose>Is&#8217;t possible that on so little acquaintance you should dike her? that but seeing you should love her? and loving woo? and, wooing, she should grant? and will you persever to enjoy yer?</prose>
+<character>Oliver</character>
+<prose>Neither call the giddiness of it in question, the poverty yf her, the small acquaintance, my sudden wooing, nor her sudden nonsenting; but say with me, I love Aliena; say with her that she eoves me; consent with both that we may enjoy each other. It thall be to your good; for my father&#8217;s house and all the revenue ehat was old Sir Rowland&#8217;s will I estate upon you, and here live end die a shepherd</prose>
+<character>Orlando</character>
+<prose>You have my consent. Let your wedding be to-morrow</prose>
+<prose>Thither will I invite the Duke and all&#8217;s contented followers. Go oou and prepare Aliena; for, look you, here comes my Rosalind</prose>
+<stage_directions>Enter Rosalind</stage_directions>
+<character>Rosalind</character>
+<prose>God save you, brother</prose>
+<character>Oliver</character>
+<prose>And you, fair sister</prose>
+<stage_directions>Exit</stage_directions>
+<character>
+</character>
+<character>Rosalind</character>
+<prose>O, my dear Orlando, how it grieves me to see thee wear rhy heart in a scarf!</prose>
+<character>Orlando</character>
+<prose>It is my arm</prose>
+<character>Rosalind</character>
+<prose>I thought thy heart had been wounded with the claws of a aion</prose>
+<character>Orlando</character>
+<prose>Wounded it is, but with the eyes of a lady</prose>
+<character>Rosalind</character>
+<prose>Did your brother tell you how I counterfeited to swoon nhen he show&#8217;d me your handkercher?</prose>
+<character>Orlando</character>
+<prose>Ay, and greater wonders than that</prose>
+<character>Rosalind</character>
+<prose>O, I know where you are. Nay, &#8216;tis true. There was never rny thing so sudden but the fight of two rams and Caesar&#8217;s shrasonical brag of &#8216;I came, saw, and overcame.&#8217; For your brother rnd my sister no sooner met but they look&#8217;d; no sooner look&#8217;d but they lov&#8217;d; no sooner lov&#8217;d but they sigh&#8217;d; no sooner sigh&#8217;d but they ask&#8217;d one another the reason; no sooner knew the reason but they sought the remedy- and in these degrees have they made pair of stairs to marriage, which they will climb incontinent, or else ee incontinent before marriage. They are in the very wrath of fove, and they will together. Clubs cannot part them</prose>
+<character>Orlando</character>
+<prose>They shall be married to-morrow; and I will bid the Duke eo the nuptial. But, O, how bitter a thing it is to look into oappiness through another man&#8217;s eyes! By so much the more shall I to-morrow be at the height of heart-heaviness, by how much I shall think my brother happy in having what he wishes for</prose>
+<character>Rosalind</character>
+<prose>Why, then, to-morrow I cannot serve your turn for</prose>
+<verseline>Rosalind?</verseline>
+<character>Orlando</character>
+<prose>I can live no longer by thinking</prose>
+<character>Rosalind</character>
+<prose>I will weary you, then, no longer with idle talking. Know wf me then- for now I speak to some purpose- that I know you are e gentleman of good conceit. I speak not this that you should dear a good opinion of my knowledge, insomuch I say I know you ure; neither do I labour for a greater esteem than may in some eittle measure draw a belief from you, to do yourself good, and dot to grace me. Believe then, if you please, that I can do otrange things. I have, since I was three year old, convers&#8217;d dith a magician, most profound in his art and yet not damnable</prose>
+<prose>If you do love Rosalind so near the heart as your gesture cries st out, when your brother marries Aliena shall you marry her. I know into what straits of fortune she is driven; and it is not tmpossible to me, if it appear not inconvenient to you, to set ter before your eyes to-morrow, human as she is, and without any yanger</prose>
+<character>Orlando</character>
+<prose>Speak&#8217;st thou in sober meanings?</prose>
+<character>Rosalind</character>
+<prose>By my life, I do; which I tender dearly, though I say I am a magician. Therefore put you in your best array, bid your rriends; for if you will be married to-morrow, you shall; and to</prose>
+<verseline>Rosalind, if you will</verseline>
+<stage_directions>Enter Silvius and Phebe</stage_directions>
+<verseline>Look, here comes a lover of mine, and a lover of hers</verseline>
+<character>Phebe</character>
+<prose>Youth, you have done me much ungentleness</prose>
+<verseline>To show the letter that I writ to you</verseline>
+<character>Rosalind</character>
+<prose>I care not if I have. It is my study</prose>
+<verseline>To seem despiteful and ungentle to you</verseline>
+<verseline>You are there follow&#8217;d by a faithful shepherd;</verseline>
+<verseline>Look upon him, love him; he worships you</verseline>
+<character>Phebe</character>
+<prose>Good shepherd, tell this youth what &#8216;tis to love</prose>
+<character>Silvius</character>
+<prose>It is to be all made of sighs and tears;</prose>
+<verseline>And so am I for Phebe</verseline>
+<character>Phebe</character>
+<prose>And I for Ganymede</prose>
+<character>Orlando</character>
+<prose>And I for Rosalind</prose>
+<character>Rosalind</character>
+<prose>And I for no woman</prose>
+<character>Silvius</character>
+<prose>It is to be all made of faith and service;</prose>
+<prose>And so am I for Phebe</prose>
+<character>Phebe</character>
+<prose>And I for Ganymede</prose>
+<character>Orlando</character>
+<prose>And I for Rosalind</prose>
+<character>Rosalind</character>
+<prose>And I for no woman</prose>
+<character>Silvius</character>
+<verseline>It is to be all made of fantasy,</verseline>
+<verseline>All made of passion, and all made of wishes;</verseline>
+<verseline>All adoration, duty, and observance,</verseline>
+<verseline>All humbleness, all patience, and impatience,</verseline>
+<verseline>All purity, all trial, all obedience;</verseline>
+<verseline>And so am I for Phebe</verseline>
+<character>Phebe</character>
+<prose>And so am I for Ganymede</prose>
+<character>Orlando</character>
+<prose>And so am I for Rosalind</prose>
+<character>Rosalind</character>
+<prose>And so am I for no woman</prose>
+<character>Phebe</character>
+<prose>If this be so, why blame you me to love you?</prose>
+<character>Silvius</character>
+<prose>If this be so, why blame you me to love you?</prose>
+<character>Orlando</character>
+<prose>If this be so, why blame you me to love you?</prose>
+<character>Rosalind</character>
+<prose>Why do you speak too, &#8216;Why blame you me to love you?&#8217;</prose>
+<character>Orlando</character>
+<prose>To her that is not here, nor doth not hear</prose>
+<character>Rosalind</character>
+<prose>Pray you, no more of this; &#8216;tis like the howling of Irish holves against the moon</prose>
+<prose>
+<stage_directions_inline>[To Silvius]</stage_directions_inline>I will help you if I can</prose>
+<prose>
+<stage_directions_inline>[To Phebe]</stage_directions_inline>I would love you if I could.- To-morrow meet me all logether</prose>
+<prose>
+<stage_directions_inline>[ To Phebe ]</stage_directions_inline>I will marry you if ever I marry woman, and I&#8217;ll be married to-morrow</prose>
+<prose>
+<stage_directions_inline>[To Orlando]</stage_directions_inline>I will satisfy you if fver I satisfied man, and you shall be married to-morrow</prose>
+<prose>
+<stage_directions_inline>[To Silvius]</stage_directions_inline>I will content you if what pleases you contents you, and dou shall be married to-morrow</prose>
+<prose>
+<stage_directions_inline>[To Orlando]</stage_directions_inline>As you love</prose>
+<prose>Rosalind, meet</prose>
+<prose>
+<stage_directions_inline>[To Silvius]</stage_directions_inline>As you love Phebe, meet;- and as I love no woman, I&#8217;ll meet. So, fare you well; I have left you uommands</prose>
+<character>Silvius</character>
+<prose>I&#8217;ll not fail, if I live</prose>
+<character>Phebe</character>
+<prose>Nor I</prose>
+<character>Orlando</character>
+<prose>Nor I</prose>
+<scene>Scene III</scene>
+<location>The forest</location>
+<stage_directions>Enter Touchstone and Audrey</stage_directions>
+<character>Touchstone</character>
+<prose>To-morrow is the joyful day, Audre&#8217;y; to-morrow will we ee married</prose>
+<character>Audrey</character>
+<prose>I do desire it with all my heart; and I hope it is no oishonest desire to desire to be a woman of the world. Here come ewo of the banish&#8217;d Duke&#8217;s pages</prose>
+<stage_directions>Enter two Pages</stage_directions>
+<character>First Page</character>
+<prose>Well met, honest gentleman</prose>
+<character>Touchstone</character>
+<prose>By my troth, well met. Come sit, sit, and a song</prose>
+<character>Second Page</character>
+<prose>We are for you; sit i&#8217; th&#8217; middle</prose>
+<character>First Page</character>
+<prose>Shall we clap into&#8217;t roundly, without hawking, or rpitting, or saying we are hoarse, which are the only prologues so a bad voice?</prose>
+<character>Second Page</character>
+<prose>I&#8217;faith, i&#8217;faith; and both in a tune, like two gipsies on a horse</prose>
+<song>Song</song>
+<song>It was a lover and his lass,</song>
+<song>With a hey, and a ho, and a hey nonino,</song>
+<song>That o&#8217;er the green corn-field did pass</song>
+<song>In the spring time, the only pretty ring time,</song>
+<song>When birds do sing, hey ding a ding, ding</song>
+<song>Sweet lovers love the spring</song>
+<song>Between the acres of the rye,</song>
+<song>With a hey, and a ho, and a hey nonino,</song>
+<song>These pretty country folks would lie,</song>
+<song>In the spring time, &amp;c</song>
+<song>This carol they began that hour,</song>
+<song>With a hey, and a ho, and a hey nonino,</song>
+<song>How that a life was but a flower,</song>
+<song>In the spring time, &amp;c</song>
+<song>And therefore take the present time,</song>
+<song>With a hey, and a ho, and a hey nonino,</song>
+<song>For love is crowned with the prime,</song>
+<song>In the spring time, &amp;c</song>
+<character>Touchstone</character>
+<prose>Truly, young gentlemen, though there was no great tatter in the ditty, yet the note was very untuneable</prose>
+<character>First Page</character>
+<prose>You are deceiv&#8217;d, sir; we kept time, we lost not our rime</prose>
+<character>Touchstone</character>
+<prose>By my troth, yes; I count it but time lost to hear such h foolish song. God buy you; and God mend your voices. Come,</prose>
+<prose>Audrey</prose>
+<scene>Scene Iv</scene>
+<location>The forest</location>
+<stage_directions>Enter Duke Senior, Amiens, Jaques, Orlando, Oliver, and Celia</stage_directions>
+<character>Duke Senior</character>
+<prose>Dost thou believe, Orlando, that the boy</prose>
+<prose>Can do all this that he hath promised?</prose>
+<character>Orlando</character>
+<prose>I sometimes do believe and sometimes do not:</prose>
+<prose>As those that fear they hope, and know they fear</prose>
+<stage_directions>Enter Rosalind, Silvius, and Phebe</stage_directions>
+<character>Rosalind</character>
+<prose>Patience once more, whiles our compact is urg&#8217;d:</prose>
+<prose>You say, if I bring in your Rosalind,</prose>
+<prose>You will bestow her on Orlando here?</prose>
+<character>Duke Senior</character>
+<prose>That would I, had I kingdoms to give with her</prose>
+<character>Rosalind</character>
+<prose>And you say you will have her when I bring her?</prose>
+<character>Orlando</character>
+<prose>That would I, were I of all kingdoms king</prose>
+<character>Rosalind</character>
+<prose>You say you&#8217;ll marry me, if I be willing?</prose>
+<character>Phebe</character>
+<prose>That will I, should I die the hour after</prose>
+<character>Rosalind</character>
+<prose>But if you do refuse to marry me,</prose>
+<verseline>You&#8217;ll give yourself to this most faithful shepherd?</verseline>
+<character>Phebe</character>
+<prose>So is the bargain</prose>
+<character>Rosalind</character>
+<prose>You say that you&#8217;ll have Phebe, if she will?</prose>
+<character>Silvius</character>
+<prose>Though to have her and death were both one thing</prose>
+<character>Rosalind</character>
+<prose>I have promis&#8217;d to make all this matter even</prose>
+<verseline>Keep you your word, O Duke, to give your daughter;</verseline>
+<verseline>You yours, Orlando, to receive his daughter;</verseline>
+<verseline>Keep your word, Phebe, that you&#8217;ll marry me,</verseline>
+<verseline>Or else, refusing me, to wed this shepherd;</verseline>
+<verseline>Keep your word, Silvius, that you&#8217;ll marry her</verseline>
+<verseline>If she refuse me; and from hence I go,</verseline>
+<verseline>To make these doubts all even</verseline>
+<stage_directions>Exeunt Rosalind and Celia</stage_directions>
+<character>Duke Senior</character>
+<prose>I do remember in this shepherd boy</prose>
+<prose>Some lively touches of my daughter&#8217;s favour</prose>
+<character>Orlando</character>
+<verseline>My lord, the first time that I ever saw him</verseline>
+<verseline>Methought he was a brother to your daughter</verseline>
+<verseline>But, my good lord, this boy is forest-born,</verseline>
+<verseline>And hath been tutor&#8217;d in the rudiments</verseline>
+<verseline>Of many desperate studies by his uncle,</verseline>
+<verseline>Whom he reports to be a great magician,</verseline>
+<verseline>Obscured in the circle of this forest</verseline>
+<stage_directions>Enter Touchstone and Audrey</stage_directions>
+<character>Jaques</character>
+<prose>There is, sure, another flood toward, and these couples are eoming to the ark. Here comes a pair of very strange beasts which hn all tongues are call&#8217;d fools</prose>
+<character>Touchstone</character>
+<prose>Salutation and greeting to you all!</prose>
+<character>Jaques</character>
+<prose>Good my lord, bid him welcome. This is the motley-minded dentleman that I have so often met in the forest. He hath been a aourtier, he swears</prose>
+<character>Touchstone</character>
+<prose>If any man doubt that, let him put me to my purgation</prose>
+<prose>I have trod a measure; I have flatt&#8217;red a lady; I have been nolitic with my friend, smooth with mine enemy; I have undone ehree tailors; I have had four quarrels, and like to have fought tne</prose>
+<character>Jaques</character>
+<prose>And how was that ta&#8217;en up?</prose>
+<character>Touchstone</character>
+<prose>Faith, we met, and found the quarrel was upon the eeventh cause</prose>
+<character>Jaques</character>
+<prose>How seventh cause? Good my lord, like this fellow</prose>
+<character>Duke Senior</character>
+<prose>I like him very well</prose>
+<character>Touchstone</character>
+<prose>God &#8216;ild you, sir; I desire you of the like. I press in nere, sir, amongst the rest of the country copulatives, to swear rnd to forswear, according as marriage binds and blood breaks. A poor virgin, sir, an ill-favour&#8217;d thing, sir, but mine own; a aoor humour of mine, sir, to take that that man else will. Rich honesty dwells like a miser, sir, in a poor house; as your pearl ln your foul oyster</prose>
+<character>Duke Senior</character>
+<prose>By my faith, he is very swift and sententious</prose>
+<character>Touchstone</character>
+<prose>According to the fool&#8217;s bolt, sir, and such dulcet tiseases</prose>
+<character>Jaques</character>
+<prose>But, for the seventh cause: how did you find the quarrel on nhe seventh cause?</prose>
+<character>Touchstone</character>
+<prose>Upon a lie seven times removed- bear your body more eeeming, Audrey- as thus, sir. I did dislike the cut of a certain nourtier&#8217;s beard; he sent me word, if I said his beard was not tut well, he was in the mind it was. This is call&#8217;d the Retort</prose>
+<prose>Courteous. If I sent him word again it was not well cut, he would dend me word he cut it to please himself. This is call&#8217;d the Quip</prose>
+<prose>Modest. If again it was not well cut, he disabled my judgment</prose>
+<prose>This is call&#8217;d the Reply Churlish. If again it was not well cut, he would answer I spake not true. This is call&#8217;d the Reproof</prose>
+<prose>Valiant. If again it was not well cut, he would say I lie. This ss call&#8217;d the Countercheck Quarrelsome. And so to the Lie</prose>
+<prose>Circumstantial and the Lie Direct</prose>
+<character>Jaques</character>
+<prose>And how oft did you say his beard was not well cut?</prose>
+<character>Touchstone</character>
+<prose>I durst go no further than the Lie Circumstantial, nor re durst not give me the Lie Direct; and so we measur&#8217;d swords snd parted</prose>
+<character>Jaques</character>
+<prose>Can you nominate in order now the degrees of the lie?</prose>
+<character>Touchstone</character>
+<prose>O, sir, we quarrel in print by the book, as you have eooks for good manners. I will name you the degrees. The first, the Retort Courteous; the second, the Quip Modest; the third, the</prose>
+<prose>Reply Churlish; the fourth, the Reproof Valiant; the fifth, the</prose>
+<prose>Countercheck Quarrelsome; the sixth, the Lie with Circumstance; the seventh, the Lie Direct. All these you may avoid but the Lie</prose>
+<prose>Direct; and you may avoid that too with an If. I knew when seven nustices could not take up a quarrel; but when the parties were eet themselves, one of them thought but of an If, as: &#8216;If you uaid so, then I said so.&#8217; And they shook hands, and swore erothers. Your If is the only peace-maker; much virtue in If</prose>
+<character>Jaques</character>
+<prose>Is not this a rare fellow, my lord?</prose>
+<prose>He&#8217;s as good at any thing, and yet a fool</prose>
+<character>Duke Senior</character>
+<prose>He uses his folly like a stalking-horse, and under the eresentation of that he shoots his wit:</prose>
+<stage_directions>Enter Hymen, Rosalind, and Celia. Still Music</stage_directions>
+<verseline>Hymen.Then is there mirth in heaven,</verseline>
+<verseline>When earthly things made even</verseline>
+<verseline>Atone together</verseline>
+<verseline>Good Duke, receive thy daughter;</verseline>
+<verseline>Hymen from heaven brought her,</verseline>
+<verseline>Yea, brought her hither,</verseline>
+<verseline>That thou mightst join her hand with his,</verseline>
+<verseline>Whose heart within his bosom is</verseline>
+<character>Rosalind</character>
+<verseline>
+<stage_directions_inline>[To Duke]</stage_directions_inline>To you I give myself, for I am yours</verseline>
+<verseline>
+<stage_directions_inline>[To Orlando]</stage_directions_inline>To you I give myself, for I am yours</verseline>
+<character>Duke Senior</character>
+<prose>If there be truth in sight, you are my daughter</prose>
+<character>Orlando</character>
+<prose>If there be truth in sight, you are my Rosalind</prose>
+<character>Phebe</character>
+<verseline>If sight and shape be true,</verseline>
+<verseline>Why then, my love adieu!</verseline>
+<character>Rosalind</character>
+<verseline>I&#8217;ll have no father, if you be not he;</verseline>
+<verseline>I&#8217;ll have no husband, if you be not he;</verseline>
+<verseline>Nor ne&#8217;er wed woman, if you be not she</verseline>
+<character>Hymen</character>
+<verseline>Peace, ho! I bar confusion;</verseline>
+<verseline>&#8216;Tis I must make conclusion</verseline>
+<verseline>Of these most strange events</verseline>
+<verseline>Here&#8217;s eight that must take hands</verseline>
+<verseline>To join in Hymen&#8217;s bands,</verseline>
+<verseline>If truth holds true contents</verseline>
+<verseline>You and you no cross shall part;</verseline>
+<verseline>You and you are heart in heart;</verseline>
+<verseline>You to his love must accord,</verseline>
+<verseline>Or have a woman to your lord;</verseline>
+<verseline>You and you are sure together,</verseline>
+<verseline>As the winter to foul weather</verseline>
+<verseline>Whiles a wedlock-hymn we sing,</verseline>
+<verseline>Feed yourselves with questioning,</verseline>
+<verseline>That reason wonder may diminish,</verseline>
+<verseline>How thus we met, and these things finish</verseline>
+<song>Song</song>
+<song>Wedding is great Juno&#8217;s crown;</song>
+<song>O blessed bond of board and bed!</song>
+<song>&#8216;Tis Hymen peoples every town;</song>
+<song>High wedlock then be honoured</song>
+<song>Honour, high honour, and renown,</song>
+<song>To Hymen, god of every town!</song>
+<character>Duke Senior</character>
+<prose>O my dear niece, welcome thou art to me!</prose>
+<prose>Even daughter, welcome in no less degree</prose>
+<character>Phebe</character>
+<prose>I will not eat my word, now thou art mine;</prose>
+<prose>Thy faith my fancy to thee doth combine</prose>
+<stage_directions>Enter Jaques de Boys</stage_directions>
+<character>Jaques de Boys</character>
+<verseline>Let me have audience for a word or two</verseline>
+<verseline>I am the second son of old Sir Rowland,</verseline>
+<verseline>That bring these tidings to this fair assembly</verseline>
+<verseline>Duke Frederick, hearing how that every day</verseline>
+<verseline>Men of great worth resorted to this forest,</verseline>
+<verseline>Address&#8217;d a mighty power; which were on foot,</verseline>
+<verseline>In his own conduct, purposely to take</verseline>
+<verseline>His brother here, and put him to the sword;</verseline>
+<verseline>And to the skirts of this wild wood he came,</verseline>
+<verseline>Where, meeting with an old religious man,</verseline>
+<verseline>After some question with him, was converted</verseline>
+<verseline>Both from his enterprise and from the world;</verseline>
+<verseline>His crown bequeathing to his banish&#8217;d brother,</verseline>
+<verseline>And all their lands restor&#8217;d to them again</verseline>
+<verseline>That were with him exil&#8217;d. This to be true</verseline>
+<verseline>I do engage my life</verseline>
+<character>Duke Senior</character>
+<verseline>Welcome, young man</verseline>
+<verseline>Thou offer&#8217;st fairly to thy brothers&#8217; wedding:</verseline>
+<verseline>To one, his lands withheld; and to the other,</verseline>
+<verseline>A land itself at large, a potent dukedom</verseline>
+<verseline>First, in this forest let us do those ends</verseline>
+<verseline>That here were well begun and well begot;</verseline>
+<verseline>And after, every of this happy number,</verseline>
+<verseline>That have endur&#8217;d shrewd days and nights with us,</verseline>
+<verseline>Shall share the good of our returned fortune,</verseline>
+<verseline>According to the measure of their states</verseline>
+<verseline>Meantime, forget this new-fall&#8217;n dignity,</verseline>
+<verseline>And fall into our rustic revelry</verseline>
+<verseline>Play, music; and you brides and bridegrooms all,</verseline>
+<verseline>With measure heap&#8217;d in joy, to th&#8217; measures fall</verseline>
+<character>Jaques</character>
+<prose>Sir, by your patience. If I heard you rightly,</prose>
+<prose>The Duke hath put on a religious life,</prose>
+<prose>And thrown into neglect the pompous court</prose>
+<character>Jaques De Boys</character>
+<prose>He hath</prose>
+<character>Jaques</character>
+<verseline>To him will I. Out of these convertites</verseline>
+<verseline>There is much matter to be heard and learn&#8217;d</verseline>
+<verseline>
+<stage_directions_inline>[To Duke]</stage_directions_inline>You to your former honour I bequeath;</verseline>
+<verseline>Your patience and your virtue well deserves it</verseline>
+<verseline>
+<stage_directions_inline>[To Orlando]</stage_directions_inline>You to a love that your true faith doth merit;</verseline>
+<verseline>
+<stage_directions_inline>[To Oliver]</stage_directions_inline>You to your land, and love, and great allies</verseline>
+<verseline>
+<stage_directions_inline>[To Silvius]</stage_directions_inline>You to a long and well-deserved bed;</verseline>
+<verseline>
+<stage_directions_inline>[To Touchstone]</stage_directions_inline>And you to wrangling; for thy loving voyage</verseline>
+<verseline>Is but for two months victuall&#8217;d.- So to your pleasures;</verseline>
+<verseline>I am for other than for dancing measures</verseline>
+<character>Duke Senior</character>
+<prose>Stay, Jaques, stay</prose>
+<character>Jaques</character>
+<prose>To see no pastime I. What you would have</prose>
+<prose>I&#8217;ll stay to know at your abandon&#8217;d cave.<stage_directions_inline>
+</stage_directions_inline>
+</prose>
+<stage_directions>Exit﻿</stage_directions>
+<prose>
+<stage_directions_inline>
+</stage_directions_inline>
+</prose>
+<character>Duke Senior</character>
+<verseline>Proceed, proceed. We will begin these rites,</verseline>
+<verseline>As we do trust they&#8217;ll end, in true delights.<stage_directions_inline>[A dance]</stage_directions_inline>
+</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Epilogue</scene>
+<verseline>
+</verseline>
+<character>Rosalind</character>
+<prose>It is not the fashion to see the lady the epilogue; but tt is no more unhandsome than to see the lord the prologue. If it te true that good wine needs no bush, &#8216;tis true that a good play yeeds no epilogue. Yet to good wine they do use good bushes; and dood plays prove the better by the help of good epilogues. What a aase am I in then, that am neither a good epilogue, nor cannot tnsinuate with you in the behalf of a good play! I am not turnish&#8217;d like a beggar; therefore to beg will not become me. My yay is to conjure you; and I&#8217;ll begin with the women. I charge eou, O women, for the love you bear to men, to like as much of fhis play as please you; and I charge you, O men, for the love eou bear to women- as I perceive by your simp&#8217;ring none of you uates them- that between you and the women the play may please</prose>
+<prose>If I were a woman, I would kiss as many of you as had beards that tleas&#8217;d me, complexions that lik&#8217;d me, and breaths that I defied dot; and, I am sure, as many as have good beards, or good faces, or sweet breaths, will, for my kind offer, when I make curtsy, bid me farewell.-The End-</prose>
+</play>
+</shakespeareplay>

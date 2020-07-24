@@ -14,15 +14,7 @@ The text includes a basic structure, with headings and some inline styles (*ital
 This is totally optional. You **do not need to edit** this text for this first part of the assignment. **If you do want** to make changes to the text, you can follow these steps:
 
  - Download the zip file
- - Locate the file 'Outline-of-his-life.md'
- - Right click this file and select 'open with ...'
- - Choose **BBedit**
- - You will see that the text is in *Markdown*. Read about this here: [Markdown Tutorial](http://www.markdowntutorial.com)
- - Make your changes and save
- - Still in BBedit locate the scripts menu
- - Click here and select BBpandoc-master> Pandoc-icml.
- - This will then save a new copy of *Outline-of-his-life.icml*
- - This is the file that you should place into the InDesign template
+ - Locate the file 'Outline-of-his-life.icml'
 
 **Note**: The `ICML` file is provided already so you you do not need to convert the `markdown` file.
 
@@ -30,6 +22,6 @@ This is totally optional. You **do not need to edit** this text for this first p
 Apart from the text described above, you have also been provided with a selection of images and some InDesign templates. The templates are explained in the Readme file in the resources folder and the images are available for preview in the images folder.
 
 ### The Play texts
-All available play texts from the public domain are in the *text_of_plays* folder.
+All available play texts from the public domain are in the *text_of_plays* folder. These are in XML format and the markup will match the styles in the _play.indt_ template for InDesign.
 
 All of the plays have a synopsis provided in the file called `allplaysynopsis.md`.

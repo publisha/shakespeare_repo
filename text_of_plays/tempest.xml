@@ -1,0 +1,2913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" []>
+<shakespeareplay title="The Tempest">
+<dramatis_personae>
+<dramatis_head>Dramatis Personae</dramatis_head>
+<charactername>Alonso, <character_role>King of Naples</character_role>
+</charactername>
+<charactername>Sebastian, <character_role>his brother</character_role></charactername>
+<charactername>Prospero, <character_role>the right Duke of Milan</character_role></charactername>
+<charactername>Antonio, <character_role>his brother, the usurping Duke of Milan</character_role></charactername>
+<charactername>Ferdinand, <character_role>son to the King of Naples</character_role></charactername>
+<charactername>Gonzalo, <character_role>an honest old counsellor</character_role></charactername>
+<charactername>Adrian</charactername>
+<charactername>Francisco</charactername>
+<charactername>Caliban, <character_role>a savage and deformed slave</character_role></charactername>
+<charactername>Trinculo, <character_role>a jester</character_role></charactername>
+<charactername>Stephano, <character_role>a drunken butler</character_role></charactername>
+<charactername>Master Of A Ship</charactername>
+<charactername>Boatswain</charactername>
+<charactername>Mariners</charactername>
+<charactername>Miranda, <character_role>daughter to Prospero</character_role></charactername>
+<charactername>Ariel, <character_role>an airy spirit</character_role></charactername>
+<charactername>Iris</charactername>
+<charactername>Ceres</charactername>
+<charactername>Juno</charactername>
+<charactername>Nymphs</charactername>
+<charactername>Reapers</charactername>
+<charactername>Other Spirits attending on Prospero</charactername>
+<play_location>Scene:  A ship at sea; afterwards an uninhabited island</play_location>
+</dramatis_personae>
+<play>
+<act>Act I</act>
+<firstscene>Scene 1</firstscene>
+<location>On a ship at sea; a tempestuous noise of thunder and lightning heard</location>
+<stage_directions>Enter a Shipmaster and a Boatswain</stage_directions>
+<character>Master</character>
+<prose>Boatswain!</prose>
+<character>Boatswain</character>
+<prose>Here, master; what cheer?</prose>
+<character>Master</character>
+<prose>Good! Speak to th&#8217; mariners; fall to&#8217;t yarely, or we run ourselves aground; bestir, bestir. <stage_directions_inline>Exit</stage_directions_inline></prose>
+<stage_directions>Enter Mariners</stage_directions>
+<character>Boatswain</character>
+<prose>Heigh, my hearts! cheerly, cheerly, my hearts! yare, yare! Take in the topsail. Tend to th&#8217; master&#8217;s whistle. Blow till thou burst thy wind, if room enough.</prose>
+<stage_directions>Enter Alonso, Sebastian, Antonio, Ferdinand, Gonzalo, and Others</stage_directions>
+<character>Alonso</character>
+<prose>Good boatswain, have care. Where&#8217;s the master? Play the men.</prose>
+<character>Boatswain</character>
+<prose>I pray now, keep below.</prose>
+<character>Antonio</character>
+<prose>Where is the master, boson?</prose>
+<character>Boatswain</character>
+<prose>Do you not hear him? You mar our labour; keep your cabins; you do assist the storm.</prose>
+<character>Gonzalo</character>
+<prose>Nay, good, be patient.</prose>
+<character>Boatswain</character>
+<prose>When the sea is. Hence! What cares these roarers for the name of king? To cabin! silence! Trouble us not.</prose>
+<character>Gonzalo</character>
+<prose>Good, yet remember whom thou hast aboard.</prose>
+<character>Boatswain</character>
+<prose>None that I more love than myself. You are counsellor; if you can command these elements to silence, and work the peace of the present, we will not hand a rope more. Use your authority; if you cannot, give thanks you have liv&#8217;d so long, and make yourself ready in your cabin for the mischance of the hour, if it so hap.-Cheerly, good hearts!-Out of our way, I say. <stage_directions_inline>Exit</stage_directions_inline></prose>
+<character>Gonzalo</character>
+<prose>I have great comfort from this fellow. Methinks he hath no drowning mark upon him; his complexion is perfect gallows. Stand fast, good Fate, to his hanging; make the rope of his destiny our cable, for our own doth little advantage. If he be not born to be hang&#8217;d, our case is miserable. <stage_directions_inline>Exeunt</stage_directions_inline></prose>
+<stage_directions>Re-enter Boatswain</stage_directions>
+<character>Boatswain</character>
+<prose>Down with the topmast. Yare, lower, lower! Bring her to try wi&#8217; th&#8217; maincourse. <stage_directions_inline>[A cry within]</stage_directions_inline> A plague upon this howling! They are louder than the weather or our office.</prose>
+<stage_directions>Re-enter Sebastian, Antonio, and Gonzalo</stage_directions>
+<prose>Yet again! What do you here? Shall we give o&#8217;er, and drown? Have you a mind to sink?</prose>
+<character>Sebastian</character>
+<prose>A pox o&#8217; your throat, you bawling, blasphemous, incharitable dog!</prose>
+<character>Boatswain</character>
+<prose>Work you, then.</prose>
+<character>Antonio</character>
+<prose>Hang, cur; hang, you whoreson, insolent noisemaker; we are less afraid to be drown&#8217;d than thou art.</prose>
+<character>Gonzalo</character>
+<prose>I&#8217;ll warrant him for drowning, though the ship were no stronger than a nutshell, and as leaky as an unstanched wench.</prose>
+<character>Boatswain</character>
+<prose>Lay her a-hold, a-hold; set her two courses; off to sea again; lay her off.</prose>
+<stage_directions>Enter Mariners, Wet</stage_directions>
+<character>Mariners</character>
+<prose>All lost! to prayers, to prayers! all lost!</prose>
+<stage_directions>Exeunt</stage_directions>
+<character>Boatswain</character>
+<prose>What, must our mouths be cold?</prose>
+<character>Gonzalo</character>
+<prose>The King and Prince at prayers!</prose>
+<prose>Let&#8217;s assist them,</prose>
+<prose>For our case is as theirs.</prose>
+<character>Sebastian</character>
+<prose>I am out of patience.</prose>
+<character>Antonio</character>
+<prose>We are merely cheated of our lives by drunkards.</prose>
+<prose>This wide-chopp&#8217;d rascal-would thou mightst lie drowning</prose>
+<prose>The washing of ten tides!</prose>
+<character>Gonzalo</character>
+<prose>He&#8217;ll be hang&#8217;d yet,</prose>
+<prose>Though every drop of water swear against it,</prose>
+<prose>And gape at wid&#8217;st to glut him.</prose>
+<prose>
+<stage_directions_inline>[A confused noise within: Mercy on us!</stage_directions_inline></prose>
+<prose>
+<stage_directions_inline>We split, we split! Farewell, my wife and children!</stage_directions_inline></prose>
+<prose>
+<stage_directions_inline>Farewell, brother! We split, we split, we split!]</stage_directions_inline></prose>
+<character>Antonio</character>
+<prose>Let&#8217;s all sink wi&#8217; th&#8217; King.</prose>
+<character>Sebastian</character>
+<prose>Let&#8217;s take leave of him.</prose>
+<stage_directions>Exeunt Antonio and Sebastian</stage_directions>
+<character>Gonzalo</character>
+<prose>Now would I give a thousand furlongs of sea for an acre of barren ground-long heath, brown furze, any thing. The wills above be done, but I would fain die dry death.</prose>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene 2</scene>
+<location>The Island. Before Prospero&#8217;s cell</location>
+<stage_directions>Enter Prospero and Miranda</stage_directions>
+<character>Miranda</character>
+<verseline>If by your art, my dearest father, you have</verseline>
+<verseline>Put the wild waters in this roar, allay them.</verseline>
+<verseline>The sky, it seems, would pour down stinking pitch,</verseline>
+<verseline>But that the sea, mounting to th&#8217; welkin&#8217;s cheek,</verseline>
+<verseline>Dashes the fire out. O, I have suffered</verseline>
+<verseline>With those that I saw suffer! A brave vessel,</verseline>
+<verseline>Who had no doubt some noble creature in her,</verseline>
+<verseline>Dash&#8217;d all to pieces! O, the cry did knock</verseline>
+<verseline>Against my very heart! Poor souls, they perish&#8217;d.</verseline>
+<verseline>Had I been any god of power, I would</verseline>
+<verseline>Have sunk the sea within the earth or ere</verseline>
+<verseline>It should the good ship so have swallow&#8217;d and</verseline>
+<verseline>The fraughting souls within her.</verseline>
+<character>Prospero</character>
+<verseline>Be conected;</verseline>
+<verseline>No more amazement; tell your piteous heart</verseline>
+<verseline>There&#8217;s no harm done.</verseline>
+<character>Miranda</character>
+<verseline>O, woe the day!</verseline>
+<character>Prospero</character>
+<verseline>No harm.</verseline>
+<verseline>I have done nothing but in care of thee,</verseline>
+<verseline>Of thee, my dear one, thee, my daughter, who</verseline>
+<verseline>Art ignorant of what thou art, nought knowing</verseline>
+<verseline>Of whence I am, nor that I am more better</verseline>
+<verseline>Than Prospero, master of a full poor cell,</verseline>
+<verseline>And thy no greater father.</verseline>
+<character>Miranda</character>
+<verseline>More to know</verseline>
+<verseline>Did never meddle with my thoughts.</verseline>
+<character>Prospero</character>
+<verseline>&#8216;Tis time</verseline>
+<verseline>I should inform thee farther. Lend thy hand,</verseline>
+<verseline>And pluck my magic garment from me. So,</verseline>
+<verseline>
+<stage_directions_inline>[Lays down his mantle]</stage_directions_inline>
+</verseline>
+<verseline>Lie there my art. Wipe thou thine eyes; have comfort.</verseline>
+<verseline>The direful spectacle of the wreck, which touch&#8217;d</verseline>
+<verseline>The very virtue of compassion in thee,</verseline>
+<verseline>I have with such provision in mine art</verseline>
+<verseline>So safely ordered that there is no soul-</verseline>
+<verseline>No, not so much perdition as an hair</verseline>
+<verseline>Betid to any creature in the vessel</verseline>
+<verseline>Which thou heard&#8217;st cry, which thou saw&#8217;st sink.</verseline>
+<verseline>Sit down, for thou must now know farther.</verseline>
+<character>Miranda</character>
+<verseline>You have often</verseline>
+<verseline>Begun to tell me what I am; but stopp&#8217;d,</verseline>
+<verseline>And left me to a bootless inquisition,</verseline>
+<verseline>Concluding &#8216;Stay; not yet.&#8217;</verseline>
+<character>Prospero</character>
+<verseline>The hour&#8217;s now come;</verseline>
+<verseline>The very minute bids thee ope thine ear.</verseline>
+<verseline>Obey, and be attentive. Canst thou remember</verseline>
+<verseline>A time before we came unto this cell?</verseline>
+<verseline>I do not think thou canst; for then thou wast not</verseline>
+<verseline>Out three years old.</verseline>
+<character>Miranda</character>
+<verseline>Certainly, sir, I can.</verseline>
+<character>Prospero</character>
+<verseline>By what? By any other house, or person?</verseline>
+<verseline>Of any thing the image, tell me, that</verseline>
+<verseline>Hath kept with thy remembrance?</verseline>
+<character>Miranda</character>
+<verseline>&#8216;Tis far off,</verseline>
+<verseline>And rather like a dream than an assurance</verseline>
+<verseline>That my remembrance warrants. Had I not</verseline>
+<verseline>Four, or five, women once, that tended me?</verseline>
+<character>Prospero</character>
+<verseline>Thou hadst, and more, Miranda. But how is it</verseline>
+<verseline>That this lives in thy mind? What seest thou else</verseline>
+<verseline>In the dark backward and abysm of time?</verseline>
+<verseline>If thou rememb&#8217;rest aught, ere thou cam&#8217;st here,</verseline>
+<verseline>How thou cam&#8217;st here thou mayst.</verseline>
+<character>Miranda</character>
+<verseline>But that I do not.</verseline>
+<character>Prospero</character>
+<verseline>Twelve year since, Miranda, twelve year since,</verseline>
+<verseline>Thy father was the Duke of Milan, and</verseline>
+<verseline>A prince of power.</verseline>
+<character>Miranda</character>
+<verseline>Sir, are not you my father?</verseline>
+<character>Prospero</character>
+<verseline>Thy mother was a piece of virtue, and</verseline>
+<verseline>She said thou wast my daughter; and thy father</verseline>
+<verseline>Was Duke of Milan, and his only heir</verseline>
+<verseline>And princess no worse issued.</verseline>
+<character>Miranda</character>
+<verseline>O, the heavens!</verseline>
+<verseline>What foul play had we that we came from thence?</verseline>
+<verseline>Or blessed was&#8217;t we did?</verseline>
+<character>Prospero</character>
+<verseline>Both, both, my girl.</verseline>
+<verseline>By foul play, as thou say&#8217;st, were we heav&#8217;d thence;</verseline>
+<verseline>But blessedly holp hither.</verseline>
+<character>Miranda</character>
+<verseline>O, my heart bleeds</verseline>
+<verseline>To think o&#8217; th&#8217; teen that I have turn&#8217;d you to,</verseline>
+<verseline>Which is from my remembrance. Please you, farther.</verseline>
+<character>Prospero</character>
+<verseline>My brother and thy uncle, call&#8217;d Antonio-</verseline>
+<verseline>I pray thee, mark me that a brother should</verseline>
+<verseline>Be so perfidious. He, whom next thyself</verseline>
+<verseline>Of all the world I lov&#8217;d, and to him put</verseline>
+<verseline>The manage of my state; as at that time</verseline>
+<verseline>Through all the signories it was the first,</verseline>
+<verseline>And Prospero the prime duke, being so reputed</verseline>
+<verseline>In dignity, and for the liberal arts</verseline>
+<verseline>Without a parallel, those being all my study-</verseline>
+<verseline>The government I cast upon my brother</verseline>
+<verseline>And to my state grew stranger, being transported</verseline>
+<verseline>And rapt in secret studies. Thy false uncle-</verseline>
+<verseline>Dost thou attend me?</verseline>
+<character>Miranda</character>
+<verseline>Sir, most heedfully.</verseline>
+<character>Prospero</character>
+<verseline>Being once perfected how to grant suits,</verseline>
+<verseline>How to deny them, who t&#8217; advance, and who</verseline>
+<verseline>To trash for over-topping, new created</verseline>
+<verseline>The creatures that were mine, I say, or chang&#8217;d &#8216;em,</verseline>
+<verseline>Or else new form&#8217;d &#8216;em; having both the key</verseline>
+<verseline>Of officer and office, set all hearts i&#8217; th&#8217; state</verseline>
+<verseline>To what tune pleas&#8217;d his ear; that now he was</verseline>
+<verseline>The ivy which had hid my princely trunk</verseline>
+<verseline>And suck&#8217;d my verdure out on&#8217;t. Thou attend&#8217;st not.</verseline>
+<character>Miranda</character>
+<verseline>O, good sir, I do!</verseline>
+<character>Prospero</character>
+<verseline>I pray thee, mark me.</verseline>
+<verseline>I thus neglecting worldly ends, all dedicated</verseline>
+<verseline>To closeness and the bettering of my mind</verseline>
+<verseline>With that which, but by being so retir&#8217;d,</verseline>
+<verseline>O&#8217;er-priz&#8217;d all popular rate, in my false brother</verseline>
+<verseline>Awak&#8217;d an evil nature; and my trust,</verseline>
+<verseline>Like a good parent, did beget of him</verseline>
+<verseline>A falsehood, in its contrary as great</verseline>
+<verseline>As my trust was; which had indeed no limit,</verseline>
+<verseline>A confidence sans bound. He being thus lorded,</verseline>
+<verseline>Not only with what my revenue yielded,</verseline>
+<verseline>But what my power might else exact, like one</verseline>
+<verseline>Who having into truth, by telling of it,</verseline>
+<verseline>Made such a sinner of his memory,</verseline>
+<verseline>To credit his own lie-he did believe</verseline>
+<verseline>He was indeed the Duke; out o&#8217; th&#8217; substitution,</verseline>
+<verseline>And executing th&#8217; outward face of royalty</verseline>
+<verseline>With all prerogative. Hence his ambition growing-</verseline>
+<verseline>Dost thou hear?</verseline>
+<character>Miranda</character>
+<verseline>Your tale, sir, would cure deafness.</verseline>
+<character>Prospero</character>
+<verseline>To have no screen between this part he play&#8217;d</verseline>
+<verseline>And him he play&#8217;d it for, he needs will be</verseline>
+<verseline>Absolute Milan. Me, poor man-my library</verseline>
+<verseline>Was dukedom large enough-of temporal royalties</verseline>
+<verseline>He thinks me now incapable; confederates,</verseline>
+<verseline>So dry he was for sway, wi&#8217; th&#8217; King of Naples,</verseline>
+<verseline>To give him annual tribute, do him homage,</verseline>
+<verseline>Subject his coronet to his crown, and bend</verseline>
+<verseline>The dukedom, yet unbow&#8217;d-alas, poor Milan!-</verseline>
+<verseline>To most ignoble stooping.</verseline>
+<character>Miranda</character>
+<verseline>O the heavens!</verseline>
+<character>Prospero</character>
+<verseline>Mark his condition, and th&#8217; event, then tell me</verseline>
+<verseline>If this might be a brother.</verseline>
+<character>Miranda</character>
+<verseline>I should sin</verseline>
+<verseline>To think but nobly of my grandmother:</verseline>
+<verseline>Good wombs have borne bad sons.</verseline>
+<character>Prospero</character>
+<verseline>Now the condition:</verseline>
+<verseline>This King of Naples, being an enemy</verseline>
+<verseline>To me inveterate, hearkens my brother&#8217;s suit;</verseline>
+<verseline>Which was, that he, in lieu o&#8217; th&#8217; premises,</verseline>
+<verseline>Of homage, and I know not how much tribute,</verseline>
+<verseline>Should presently extirpate me and mine</verseline>
+<verseline>Out of the dukedom, and confer fair Milan</verseline>
+<verseline>With all the honours on my brother. Whereon,</verseline>
+<verseline>A treacherous army levied, one midnight</verseline>
+<verseline>Fated to th&#8217; purpose, did Antonio open</verseline>
+<verseline>The gates of Milan; and, i&#8217; th&#8217; dead of darkness,</verseline>
+<verseline>The ministers for th&#8217; purpose hurried thence</verseline>
+<verseline>Me and thy crying self.</verseline>
+<character>Miranda</character>
+<verseline>Alack, for pity!</verseline>
+<verseline>I, not rememb&#8217;ring how I cried out then,</verseline>
+<verseline>Will cry it o&#8217;er again; it is a hint</verseline>
+<verseline>That wrings mine eyes to&#8217;t.</verseline>
+<character>Prospero</character>
+<verseline>Hear a little further,</verseline>
+<verseline>And then I&#8217;ll bring thee to the present busines</verseline>
+<verseline>Which now&#8217;s upon &#8216;s; without the which this story</verseline>
+<verseline>Were most impertinent.</verseline>
+<character>Miranda</character>
+<verseline>Wherefore did they not</verseline>
+<verseline>That hour destroy us?</verseline>
+<character>Prospero</character>
+<verseline>Well demanded, wench!</verseline>
+<verseline>My tale provokes that question. Dear, they durst not,</verseline>
+<verseline>So dear the love my people bore me; nor set</verseline>
+<verseline>A mark so bloody on the business; but</verseline>
+<verseline>With colours fairer painted their foul ends.</verseline>
+<verseline>In few, they hurried us aboard a bark;</verseline>
+<verseline>Bore us some leagues to sea, where they prepared</verseline>
+<verseline>A rotten carcass of a butt, not rigg&#8217;d,</verseline>
+<verseline>Nor tackle, sail, nor mast; the very rats</verseline>
+<verseline>Instinctively have quit it. There they hoist us,</verseline>
+<verseline>To cry to th&#8217; sea, that roar&#8217;d to us; to sigh</verseline>
+<verseline>To th&#8217; winds, whose pity, sighing back again,</verseline>
+<verseline>Did us but loving wrong.</verseline>
+<character>Miranda</character>
+<verseline>Alack, what trouble</verseline>
+<verseline>Was I then to you!</verseline>
+<character>Prospero</character>
+<verseline>O, a cherubin</verseline>
+<verseline>Thou wast that did preserve me! Thou didst smile,</verseline>
+<verseline>Infused with a fortitude from heaven,</verseline>
+<verseline>When I have deck&#8217;d the sea with drops full salt,</verseline>
+<verseline>Under my burden groan&#8217;d; which rais&#8217;d in me</verseline>
+<verseline>An undergoing stomach, to bear up</verseline>
+<verseline>Against what should ensue.</verseline>
+<character>Miranda</character>
+<verseline>How came we ashore?</verseline>
+<character>Prospero</character>
+<verseline>By Providence divine.</verseline>
+<verseline>Some food we had and some fresh water that</verseline>
+<verseline>A noble Neapolitan, Gonzalo,</verseline>
+<verseline>Out of his charity, who being then appointed</verseline>
+<verseline>Master of this design, did give us, with</verseline>
+<verseline>Rich garments, linens, stuffs, and necessaries,</verseline>
+<verseline>Which since have steaded much; so, of his gentleness,</verseline>
+<verseline>Knowing I lov&#8217;d my books, he furnish&#8217;d me</verseline>
+<verseline>From mine own library with volumes that</verseline>
+<verseline>I prize above my dukedom.</verseline>
+<character>Miranda</character>
+<verseline>Would I might</verseline>
+<verseline>But ever see that man!</verseline>
+<character>Prospero</character>
+<verseline>Now I arise.<stage_directions_inline>[Puts on his mantle]</stage_directions_inline>
+</verseline>
+<verseline>Sit still, and hear the last of our sea-sorrow.</verseline>
+<verseline>Here in this island we arriv&#8217;d; and here</verseline>
+<verseline>Have I, thy schoolmaster, made thee more profit</verseline>
+<verseline>Than other princess&#8217; can, that have more time</verseline>
+<verseline>For vainer hours, and tutors not so careful.</verseline>
+<character>Miranda</character>
+<verseline>Heavens thank you for&#8217;t! And now, I pray you, sir,</verseline>
+<verseline>For still &#8216;tis beating in my mind, your reason</verseline>
+<verseline>For raising this sea-storm?</verseline>
+<character>Prospero</character>
+<verseline>Know thus far forth:</verseline>
+<verseline>By accident most strange, bountiful Fortune,</verseline>
+<verseline>Now my dear lady, hath mine enemies</verseline>
+<verseline>Brought to this shore; and by my prescience</verseline>
+<verseline>I find my zenith doth depend upon</verseline>
+<verseline>A most auspicious star, whose influence</verseline>
+<verseline>If now I court not, but omit, my fortunes</verseline>
+<verseline>Will ever after droop. Here cease more questions;</verseline>
+<verseline>Thou art inclin&#8217;d to sleep; &#8216;tis a good dullness,</verseline>
+<verseline>And give it way. I know thou canst not choose.</verseline>
+<verseline>
+<stage_directions_inline>[Miranda sleeps]</stage_directions_inline>
+</verseline>
+<verseline>Come away, servant; come; I am ready now.</verseline>
+<verseline>Approach, my Ariel. Come.</verseline>
+<stage_directions>Enter Ariel</stage_directions>
+<character>Ariel</character>
+<verseline>All hail, great master! grave sir, hail! I come</verseline>
+<verseline>To answer thy best pleasure; be&#8217;t to fly,</verseline>
+<verseline>To swim, to dive into the fire, to ride</verseline>
+<verseline>On the curl&#8217;d clouds. To thy strong bidding task</verseline>
+<verseline>Ariel and all his quality.</verseline>
+<character>Prospero</character>
+<verseline>Hast thou, spirit,</verseline>
+<verseline>Perform&#8217;d to point the tempest that I bade thee?</verseline>
+<character>Ariel</character>
+<verseline>To every article.</verseline>
+<verseline>I boarded the King&#8217;s ship; now on the beak,</verseline>
+<verseline>Now in the waist, the deck, in every cabin,</verseline>
+<verseline>I flam&#8217;d amazement. Sometime I&#8217;d divide,</verseline>
+<verseline>And burn in many places; on the topmast,</verseline>
+<verseline>The yards, and bowsprit, would I flame distinctly,</verseline>
+<verseline>Then meet and join Jove&#8217;s lightning, the precursors</verseline>
+<verseline>O&#8217; th&#8217; dreadful thunder-claps, more momentary</verseline>
+<verseline>And sight-outrunning were not; the fire and cracks</verseline>
+<verseline>Of sulphurous roaring the most mighty Neptune</verseline>
+<verseline>Seem to besiege, and make his bold waves tremble,</verseline>
+<verseline>Yea, his dread trident shake.</verseline>
+<character>Prospero</character>
+<verseline>My brave spirit!</verseline>
+<verseline>Who was so firm, so constant, that this coil</verseline>
+<verseline>Would not infect his reason?</verseline>
+<character>Ariel</character>
+<verseline>Not a soul</verseline>
+<verseline>But felt a fever of the mad, and play&#8217;d</verseline>
+<verseline>Some tricks of desperation. All but mariners</verseline>
+<verseline>Plung&#8217;d in the foaming brine, and quit the vessel,</verseline>
+<verseline>Then all afire with me; the King&#8217;s son, Ferdinand,</verseline>
+<verseline>With hair up-staring-then like reeds, not hair-</verseline>
+<verseline>Was the first man that leapt; cried &#8216;Hell is empty,</verseline>
+<verseline>And all the devils are here.&#8217;</verseline>
+<character>Prospero</character>
+<verseline>Why, that&#8217;s my spirit!</verseline>
+<verseline>But was not this nigh shore?</verseline>
+<character>Ariel</character>
+<verseline>Close by, my master.</verseline>
+<character>Prospero</character>
+<verseline>But are they, Ariel, safe?</verseline>
+<character>Ariel</character>
+<verseline>Not a hair perish&#8217;d;</verseline>
+<verseline>On their sustaining garments not a blemish,</verseline>
+<verseline>But fresher than before; and, as thou bad&#8217;st me,</verseline>
+<verseline>In troops I have dispers&#8217;d them &#8216;bout the isle.</verseline>
+<verseline>The King&#8217;s son have I landed by himself,</verseline>
+<verseline>Whom I left cooling of the air with sighs</verseline>
+<verseline>In an odd angle of the isle, and sitting,</verseline>
+<verseline>His arms in this sad knot.</verseline>
+<character>Prospero</character>
+<verseline>Of the King&#8217;s ship,</verseline>
+<verseline>The mariners, say how thou hast dispos&#8217;d,</verseline>
+<verseline>And all the rest o&#8217; th&#8217; fleet?</verseline>
+<character>Ariel</character>
+<verseline>Safely in harbour</verseline>
+<verseline>Is the King&#8217;s ship; in the deep nook, where once</verseline>
+<verseline>Thou call&#8217;dst me up at midnight to fetch dew</verseline>
+<verseline>From the still-vex&#8217;d Bermoothes, there she&#8217;s hid;</verseline>
+<verseline>The mariners all under hatches stowed,</verseline>
+<verseline>Who, with a charm join&#8217;d to their suff&#8217;red labour,</verseline>
+<verseline>I have left asleep; and for the rest o&#8217; th&#8217; fleet,</verseline>
+<verseline>Which I dispers&#8217;d, they all have met again,</verseline>
+<verseline>And are upon the Mediterranean flote</verseline>
+<verseline>Bound sadly home for Naples,</verseline>
+<verseline>Supposing that they saw the King&#8217;s ship wreck&#8217;d,</verseline>
+<verseline>And his great person perish.</verseline>
+<character>Prospero</character>
+<verseline>Ariel, thy charge</verseline>
+<verseline>Exactly is perform&#8217;d; but there&#8217;s more work.</verseline>
+<verseline>What is the time o&#8217; th&#8217; day?</verseline>
+<character>Ariel</character>
+<verseline>Past the mid season.</verseline>
+<character>Prospero</character>
+<verseline>At least two glasses. The time &#8216;twixt six and now</verseline>
+<verseline>Must by us both be spent most preciously.</verseline>
+<character>Ariel</character>
+<verseline>Is there more toil? Since thou dost give me pains,</verseline>
+<verseline>Let me remember thee what thou hast promis&#8217;d,</verseline>
+<verseline>Which is not yet perform&#8217;d me.</verseline>
+<character>Prospero</character>
+<verseline>How now, moody?</verseline>
+<verseline>What is&#8217;t thou canst demand?</verseline>
+<character>Ariel</character>
+<verseline>My liberty.</verseline>
+<character>Prospero</character>
+<verseline>Before the time be out? No more!</verseline>
+<character>Ariel</character>
+<verseline>I prithee,</verseline>
+<verseline>Remember I have done thee worthy service,</verseline>
+<verseline>Told thee no lies, made thee no mistakings, serv&#8217;d</verseline>
+<verseline>Without or grudge or grumblings. Thou didst promise</verseline>
+<verseline>To bate me a full year.</verseline>
+<character>Prospero</character>
+<verseline>Dost thou forget</verseline>
+<verseline>From what a torment I did free thee?</verseline>
+<character>Ariel</character>
+<verseline>No.</verseline>
+<character>Prospero</character>
+<verseline>Thou dost; and think&#8217;st it much to tread the ooze</verseline>
+<verseline>Of the salt deep,</verseline>
+<verseline>To run upon the sharp wind of the north,</verseline>
+<verseline>To do me business in the veins o&#8217; th&#8217; earth</verseline>
+<verseline>When it is bak&#8217;d with frost.</verseline>
+<character>Ariel</character>
+<verseline>I do not, sir.</verseline>
+<character>Prospero</character>
+<verseline>Thou liest, malignant thing. Hast thou forgot</verseline>
+<verseline>The foul witch Sycorax, who with age and envy</verseline>
+<verseline>Was grown into a hoop? Hast thou forgot her?</verseline>
+<character>Ariel</character>
+<verseline>No, sir.</verseline>
+<character>Prospero</character>
+<verseline>Thou hast. Where was she born?</verseline>
+<verseline>Speak; tell me.</verseline>
+<character>Ariel</character>
+<verseline>Sir, in Argier.</verseline>
+<character>Prospero</character>
+<verseline>O, was she so? I must</verseline>
+<verseline>Once in a month recount what thou hast been,</verseline>
+<verseline>Which thou forget&#8217;st. This damn&#8217;d witch Sycorax,</verseline>
+<verseline>For mischiefs manifold, and sorceries terrible</verseline>
+<verseline>To enter human hearing, from Argier</verseline>
+<verseline>Thou know&#8217;st was banish&#8217;d; for one thing she did</verseline>
+<verseline>They would not take her life. Is not this true?</verseline>
+<character>Ariel</character>
+<verseline>Ay, sir.</verseline>
+<character>Prospero</character>
+<verseline>This blue-ey&#8217;d hag was hither brought with child,</verseline>
+<verseline>And here was left by th&#8217;sailors. Thou, my slave,</verseline>
+<verseline>As thou report&#8217;st thyself, wast then her servant;</verseline>
+<verseline>And, for thou wast a spirit too delicate</verseline>
+<verseline>To act her earthy and abhorr&#8217;d commands,</verseline>
+<verseline>Refusing her grand hests, she did confine thee,</verseline>
+<verseline>By help of her more potent ministers,</verseline>
+<verseline>And in her most unmitigable rage,</verseline>
+<verseline>Into a cloven pine; within which rift</verseline>
+<verseline>Imprison&#8217;d thou didst painfully remain</verseline>
+<verseline>A dozen years; within which space she died,</verseline>
+<verseline>And left thee there, where thou didst vent thy groans</verseline>
+<verseline>As fast as mill-wheels strike. Then was this island-</verseline>
+<verseline>Save for the son that she did litter here,</verseline>
+<verseline>A freckl&#8217;d whelp, hag-born-not honour&#8217;d with</verseline>
+<verseline>A human shape.</verseline>
+<character>Ariel</character>
+<verseline>Yes, Caliban her son.</verseline>
+<character>Prospero</character>
+<verseline>Dull thing, I say so; he, that Caliban</verseline>
+<verseline>Whom now I keep in service. Thou best know&#8217;st</verseline>
+<verseline>What torment I did find thee in; thy groans</verseline>
+<verseline>Did make wolves howl, and penetrate the breasts</verseline>
+<verseline>Of ever-angry bears; it was a torment</verseline>
+<verseline>To lay upon the damn&#8217;d, which Sycorax</verseline>
+<verseline>Could not again undo. It was mine art,</verseline>
+<verseline>When I arriv&#8217;d and heard thee, that made gape</verseline>
+<verseline>The pine, and let thee out.</verseline>
+<character>Ariel</character>
+<verseline>I thank thee, master.</verseline>
+<character>Prospero</character>
+<verseline>If thou more murmur&#8217;st, I will rend an oak</verseline>
+<verseline>And peg thee in his knotty entrails, till</verseline>
+<verseline>Thou hast howl&#8217;d away twelve winters.</verseline>
+<character>Ariel</character>
+<verseline>Pardon, master;</verseline>
+<verseline>I will be correspondent to command,</verseline>
+<verseline>And do my spriting gently.</verseline>
+<character>Prospero</character>
+<verseline>Do so; and after two days</verseline>
+<verseline>I will discharge thee.</verseline>
+<character>Ariel</character>
+<verseline>That&#8217;s my noble master!</verseline>
+<verseline>What shall I do? Say what. What shall I do?</verseline>
+<character>Prospero</character>
+<verseline>Go make thyself like a nymph o&#8217; th&#8217; sea; be subject</verseline>
+<verseline>To no sight but thine and mine, invisible</verseline>
+<verseline>To every eyeball else. Go take this shape,</verseline>
+<verseline>And hither come in &#8216;t. Go, hence with diligence!</verseline>
+<verseline>
+<stage_directions_inline>Exit Ariel</stage_directions_inline>
+</verseline>
+<verseline>Awake, dear heart, awake; thou hast slept well;</verseline>
+<verseline>Awake.</verseline>
+<character>Miranda</character>
+<verseline>The strangeness of your story put</verseline>
+<verseline>Heaviness in me.</verseline>
+<character>Prospero</character>
+<verseline>Shake it off. Come on,</verseline>
+<verseline>We&#8217;ll visit Caliban, my slave, who never</verseline>
+<verseline>Yields us kind answer.</verseline>
+<character>Miranda</character>
+<verseline>&#8216;Tis a villain, sir,</verseline>
+<verseline>I do not love to look on.</verseline>
+<character>Prospero</character>
+<verseline>But as &#8216;tis,</verseline>
+<verseline>We cannot miss him: he does make our fire,</verseline>
+<verseline>Fetch in our wood, and serves in offices</verseline>
+<verseline>That profit us. What ho! slave! Caliban!</verseline>
+<verseline>Thou earth, thou! Speak.</verseline>
+<character>Caliban</character>
+<verseline>
+<stage_directions_inline>[ Within]</stage_directions_inline> There&#8217;s wood enough within.</verseline>
+<character>Prospero</character>
+<verseline>Come forth, I say; there&#8217;s other business for thee.</verseline>
+<verseline>Come, thou tortoise! when?</verseline>
+<stage_directions>Re-enter Ariel like a water-nymph</stage_directions>
+<verseline>Fine apparition! My quaint Ariel,</verseline>
+<verseline>Hark in thine ear.</verseline>
+<character>Ariel</character>
+<verseline>My lord, it shall be done.</verseline>
+<verseline>
+<stage_directions_inline>Exit</stage_directions_inline>
+</verseline>
+<character>Prospero</character>
+<verseline>Thou poisonous slave, got by the devil himself</verseline>
+<verseline>Upon thy wicked dam, come forth!</verseline>
+<stage_directions>Enter Caliban</stage_directions>
+<character>Caliban</character>
+<verseline>As wicked dew as e&#8217;er my mother brush&#8217;d</verseline>
+<verseline>With raven&#8217;s feather from unwholesome fen</verseline>
+<verseline>Drop on you both! A south-west blow on ye</verseline>
+<verseline>And blister you all o&#8217;er!</verseline>
+<character>Prospero</character>
+<verseline>For this, be sure, to-night thou shalt have cramps,</verseline>
+<verseline>Side-stitches that shall pen thy breath up; urchins</verseline>
+<verseline>Shall, for that vast of night that they may work,</verseline>
+<verseline>All exercise on thee; thou shalt be pinch&#8217;d</verseline>
+<verseline>As thick as honeycomb, each pinch more stinging</verseline>
+<verseline>Than bees that made &#8216;em.</verseline>
+<character>Caliban</character>
+<verseline>I must eat my dinner.</verseline>
+<verseline>This island&#8217;s mine, by Sycorax my mother,</verseline>
+<verseline>Which thou tak&#8217;st from me. When thou cam&#8217;st first,</verseline>
+<verseline>Thou strok&#8217;st me and made much of me, wouldst give me</verseline>
+<verseline>Water with berries in&#8217;t, and teach me how</verseline>
+<verseline>To name the bigger light, and how the less,</verseline>
+<verseline>That burn by day and night; and then I lov&#8217;d thee,</verseline>
+<verseline>And show&#8217;d thee all the qualities o&#8217; th&#8217; isle,</verseline>
+<verseline>The fresh springs, brine-pits, barren place and fertile.</verseline>
+<verseline>Curs&#8217;d be I that did so! All the charms</verseline>
+<verseline>Of Sycorax, toads, beetles, bats, light on you!</verseline>
+<verseline>For I am all the subjects that you have,</verseline>
+<verseline>Which first was mine own king; and here you sty me</verseline>
+<verseline>In this hard rock, whiles you do keep from me</verseline>
+<verseline>The rest o&#8217; th&#8217; island.</verseline>
+<character>Prospero</character>
+<verseline>Thou most lying slave,</verseline>
+<verseline>Whom stripes may move, not kindness! I have us&#8217;d thee,</verseline>
+<verseline>Filth as thou art, with human care, and lodg&#8217;d thee</verseline>
+<verseline>In mine own cell, till thou didst seek to violate</verseline>
+<verseline>The honour of my child.</verseline>
+<character>Caliban</character>
+<verseline>O ho, O ho! Would&#8217;t had been done.</verseline>
+<verseline>Thou didst prevent me; I had peopl&#8217;d else</verseline>
+<verseline>This isle with Calibans.</verseline>
+<character>Miranda</character>
+<verseline>Abhorred slave,</verseline>
+<verseline>Which any print of goodness wilt not take,</verseline>
+<verseline>Being capable of all ill! I pitied thee,</verseline>
+<verseline>Took pains to make thee speak, taught thee each hour</verseline>
+<verseline>One thing or other. When thou didst not, savage,</verseline>
+<verseline>Know thine own meaning, but wouldst gabble like</verseline>
+<verseline>A thing most brutish, I endow&#8217;d thy purposes</verseline>
+<verseline>With words that made them known. But thy vile race,</verseline>
+<verseline>Though thou didst learn, had that in&#8217;t which good natures</verseline>
+<verseline>Could not abide to be with; therefore wast thou</verseline>
+<verseline>Deservedly confin&#8217;d into this rock, who hadst</verseline>
+<verseline>Deserv&#8217;d more than a prison.</verseline>
+<character>Caliban</character>
+<verseline>You taught me language, and my profit on&#8217;t</verseline>
+<verseline>Is, I know how to curse. The red plague rid you</verseline>
+<verseline>For learning me your language!</verseline>
+<character>Prospero</character>
+<verseline>Hag-seed, hence!</verseline>
+<verseline>Fetch us in fuel. And be quick, thou &#8216;rt best,</verseline>
+<verseline>To answer other business. Shrug&#8217;st thou, malice?</verseline>
+<verseline>If thou neglect&#8217;st, or dost unwillingly</verseline>
+<verseline>What I command, I&#8217;ll rack thee with old cramps,</verseline>
+<verseline>Fill all thy bones with aches, make thee roar,</verseline>
+<verseline>That beasts shall tremble at thy din.</verseline>
+<character>Caliban</character>
+<verseline>No, pray thee.</verseline>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> I must obey. His art is of such pow&#8217;r,</verseline>
+<verseline>It would control my dam&#8217;s god, Setebos,</verseline>
+<verseline>And make a vassal of him.</verseline>
+<character>Prospero</character>
+<verseline>So, slave; hence! <stage_directions_inline>Exit Caliban</stage_directions_inline>
+</verseline>
+<stage_directions>Re-enter Ariel invisible, playing and singing; Ferdinand following Ariel&#8217;s Song.</stage_directions>
+<song>Come unto these yellow sands,</song>
+<song>And then take hands;</song>
+<song>Curtsied when you have and kiss&#8217;d,</song>
+<song>The wild waves whist,</song>
+<song>Foot it featly here and there,</song>
+<song>And, sweet sprites, the burden bear.</song>
+<song>Hark, hark!</song>
+<song>[Burden dispersedly: Bow-wow.]</song>
+<song>The watch dogs bark.</song>
+<song>[Burden dispersedly: Bow-wow.]</song>
+<song>Hark, hark! I hear</song>
+<song>The strain of strutting chanticleer</song>
+<song>Cry, Cock-a-diddle-dow.</song>
+<character>Ferdinand</character>
+<verseline>Where should this music be? I&#8217; th&#8217; air or th&#8217; earth?</verseline>
+<verseline>It sounds no more; and sure it waits upon</verseline>
+<verseline>Some god o&#8217; th&#8217; island. Sitting on a bank,</verseline>
+<verseline>Weeping again the King my father&#8217;s wreck,</verseline>
+<verseline>This music crept by me upon the waters,</verseline>
+<verseline>Allaying both their fury and my passion</verseline>
+<verseline>With its sweet air; thence I have follow&#8217;d it,</verseline>
+<verseline>Or it hath drawn me rather. But &#8216;tis gone.</verseline>
+<verseline>No, it begins again.</verseline>
+<stage_directions>Ariel&#8217;s Song</stage_directions>
+<song>Full fathom five thy father lies;</song>
+<song>Of his bones are coral made;</song>
+<song>Those are pearls that were his eyes;</song>
+<song>Nothing of him that doth fade</song>
+<song>But doth suffer a sea-change</song>
+<song>Into something rich and strange.</song>
+<song>Sea-nymphs hourly ring his knell:</song>
+<song>[Burden: Ding-dong.]</song>
+<song>Hark! now I hear them-Ding-dong bell.</song>
+<character>Ferdinand</character>
+<verseline>The ditty does remember my drown&#8217;d father.</verseline>
+<verseline>This is no mortal business, nor no sound</verseline>
+<verseline>That the earth owes. I hear it now above me.</verseline>
+<character>Prospero</character>
+<verseline>The fringed curtains of thine eye advance,</verseline>
+<verseline>And say what thou seest yond.</verseline>
+<character>Miranda</character>
+<verseline>What is&#8217;t? a spirit?</verseline>
+<verseline>Lord, how it looks about! Believe me, sir,</verseline>
+<verseline>It carries a brave form. But &#8216;tis a spirit.</verseline>
+<character>Prospero</character>
+<verseline>No, wench; it eats and sleeps and hath such senses</verseline>
+<verseline>As we have, such. This gallant which thou seest</verseline>
+<verseline>Was in the wreck; and but he&#8217;s something stain&#8217;d</verseline>
+<verseline>With grief, that&#8217;s beauty&#8217;s canker, thou mightst call him</verseline>
+<verseline>A goodly person. He hath lost his fellows,</verseline>
+<verseline>And strays about to find &#8216;em.</verseline>
+<character>Miranda</character>
+<verseline>I might call him</verseline>
+<verseline>A thing divine; for nothing natural</verseline>
+<verseline>I ever saw so noble.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> It goes on, I see,</verseline>
+<verseline>As my soul prompts it. Spirit, fine spirit! I&#8217;ll free thee</verseline>
+<verseline>Within two days for this.</verseline>
+<character>Ferdinand</character>
+<verseline>Most sure, the goddess</verseline>
+<verseline>On whom these airs attend! Vouchsafe my pray&#8217;r</verseline>
+<verseline>May know if you remain upon this island;</verseline>
+<verseline>And that you will some good instruction give</verseline>
+<verseline>How I may bear me here. My prime request,</verseline>
+<verseline>Which I do last pronounce, is, O you wonder!</verseline>
+<verseline>If you be maid or no?</verseline>
+<character>Miranda</character>
+<verseline>No wonder, sir;</verseline>
+<verseline>But certainly a maid.</verseline>
+<character>Ferdinand</character>
+<verseline>My language? Heavens!</verseline>
+<verseline>I am the best of them that speak this speech,</verseline>
+<verseline>Were I but where &#8216;tis spoken.</verseline>
+<character>Prospero</character>
+<verseline>How? the best?</verseline>
+<verseline>What wert thou, if the King of Naples heard thee?</verseline>
+<character>Ferdinand</character>
+<verseline>A single thing, as I am now, that wonders</verseline>
+<verseline>To hear thee speak of Naples. He does hear me;</verseline>
+<verseline>And that he does I weep. Myself am Naples,</verseline>
+<verseline>Who with mine eyes, never since at ebb, beheld</verseline>
+<verseline>The King my father wreck&#8217;d.</verseline>
+<character>Miranda</character>
+<verseline>Alack, for mercy!</verseline>
+<character>Ferdinand</character>
+<verseline>Yes, faith, and all his lords, the Duke of Milan</verseline>
+<verseline>And his brave son being twain.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> The Duke of Milan</verseline>
+<verseline>And his more braver daughter could control thee,</verseline>
+<verseline>If now &#8216;twere fit to do&#8217;t. At the first sight</verseline>
+<verseline>They have chang&#8217;d eyes. Delicate Ariel,</verseline>
+<verseline>I&#8217;ll set thee free for this. <stage_directions_inline>[To Ferdinand]</stage_directions_inline> A word, good sir;</verseline>
+<verseline>I fear you have done yourself some wrong; a word.</verseline>
+<character>Miranda</character>
+<verseline>Why speaks my father so ungently? This</verseline>
+<verseline>Is the third man that e&#8217;er I saw; the first</verseline>
+<verseline>That e&#8217;er I sigh&#8217;d for. Pity move my father</verseline>
+<verseline>To be inclin&#8217;d my way!</verseline>
+<character>Ferdinand</character>
+<verseline>O, if a virgin,</verseline>
+<verseline>And your affection not gone forth, I&#8217;ll make you</verseline>
+<verseline>The Queen of Naples.</verseline>
+<character>Prospero</character>
+<verseline>Soft, Sir! one word more.</verseline>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> They are both in either&#8217;s pow&#8217;rs; but this swift busines</verseline>
+<verseline>I must uneasy make, lest too light winning</verseline>
+<verseline>Make the prize light. <stage_directions_inline>[To Ferdinand]</stage_directions_inline> One word more; I charge thee</verseline>
+<verseline>That thou attend me; thou dost here usurp</verseline>
+<verseline>The name thou ow&#8217;st not; and hast put thyself</verseline>
+<verseline>Upon this island as a spy, to win it</verseline>
+<verseline>From me, the lord on&#8217;t.</verseline>
+<character>Ferdinand</character>
+<verseline>No, as I am a man.</verseline>
+<character>Miranda</character>
+<verseline>There&#8217;s nothing ill can dwell in such a temple.</verseline>
+<verseline>If the ill spirit have so fair a house,</verseline>
+<verseline>Good things will strive to dwell with&#8217;t.</verseline>
+<character>Prospero</character>
+<verseline>Follow me.</verseline>
+<verseline>Speak not you for him; he&#8217;s a traitor. Come;</verseline>
+<verseline>I&#8217;ll manacle thy neck and feet together.</verseline>
+<verseline>Sea-water shalt thou drink; thy food shall be</verseline>
+<verseline>The fresh-brook mussels, wither&#8217;d roots, and husks</verseline>
+<verseline>Wherein the acorn cradled. Follow.</verseline>
+<character>Ferdinand</character>
+<verseline>No;</verseline>
+<verseline>I will resist such entertainment till</verseline>
+<verseline>Mine enemy has more power.</verseline>
+<verseline>
+<stage_directions_inline>[He draws, and is charmed from moving]</stage_directions_inline>
+</verseline>
+<character>Miranda</character>
+<verseline>O dear father,</verseline>
+<verseline>Make not too rash a trial of him, for</verseline>
+<verseline>He&#8217;s gentle, and not fearful.</verseline>
+<character>Prospero</character>
+<verseline>What, I say,</verseline>
+<verseline>My foot my tutor? Put thy sword up, traitor;</verseline>
+<verseline>Who mak&#8217;st a show but dar&#8217;st not strike, thy conscience</verseline>
+<verseline>Is so possess&#8217;d with guilt. Come from thy ward;</verseline>
+<verseline>For I can here disarm thee with this stick</verseline>
+<verseline>And make thy weapon drop.</verseline>
+<character>Miranda</character>
+<verseline>Beseech you, father!</verseline>
+<character>Prospero</character>
+<verseline>Hence! Hang not on my garments.</verseline>
+<character>Miranda</character>
+<verseline>Sir, have pity;</verseline>
+<verseline>I&#8217;ll be his surety.</verseline>
+<character>Prospero</character>
+<verseline>Silence! One word more</verseline>
+<verseline>Shall make me chide thee, if not hate thee. What!</verseline>
+<verseline>An advocate for an impostor! hush!</verseline>
+<verseline>Thou think&#8217;st there is no more such shapes as he,</verseline>
+<verseline>Having seen but him and Caliban. Foolish wench!</verseline>
+<verseline>To th&#8217; most of men this is a Caliban,</verseline>
+<verseline>And they to him are angels.</verseline>
+<character>Miranda</character>
+<verseline>My affections</verseline>
+<verseline>Are then most humble; I have no ambition</verseline>
+<verseline>To see a goodlier man.</verseline>
+<character>Prospero</character>
+<verseline>Come on; obey.</verseline>
+<verseline>Thy nerves are in their infancy again,</verseline>
+<verseline>And have no vigour in them.</verseline>
+<character>Ferdinand</character>
+<verseline>So they are;</verseline>
+<verseline>My spirits, as in a dream, are all bound up.</verseline>
+<verseline>My father&#8217;s loss, the weakness which I feel,</verseline>
+<verseline>The wreck of all my friends, nor this man&#8217;s threats</verseline>
+<verseline>To whom I am subdu&#8217;d, are but light to me,</verseline>
+<verseline>Might I but through my prison once a day</verseline>
+<verseline>Behold this maid. All corners else o&#8217; th&#8217; earth</verseline>
+<verseline>Let liberty make use of; space enough</verseline>
+<verseline>Have I in such a prison.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> It works. <stage_directions_inline>[To Ferdinand]</stage_directions_inline> Come on.-</verseline>
+<verseline>Thou hast done well, fine Ariel! <stage_directions_inline>[To Ferdinand]</stage_directions_inline> Follow me.</verseline>
+<verseline>
+<stage_directions_inline>[To Ariel]</stage_directions_inline> Hark what thou else shalt do me.</verseline>
+<character>Miranda</character>
+<verseline>Be of comfort;</verseline>
+<verseline>My father&#8217;s of a better nature, sir,</verseline>
+<verseline>Than he appears by speech; this is unwonted</verseline>
+<verseline>Which now came from him.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[To Ariel]</stage_directions_inline> Thou shalt be as free</verseline>
+<verseline>As mountain winds; but then exactly do</verseline>
+<verseline>All points of my command.</verseline>
+<character>Ariel</character>
+<verseline>To th&#8217; syllable.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[To Ferdinand]</stage_directions_inline> Come, follow. <stage_directions_inline>[To Miranda]</stage_directions_inline>
+</verseline>
+<verseline>Speak not for him</verseline>
+<stage_directions>Exeunt</stage_directions>
+<act>Act II</act>
+<firstscene>Scene 1</firstscene>
+<location>Another part of the island</location>
+<stage_directions>Enter Alonso, Sebastian, Antonio, Gonzalo, Adrian, Francisco, and Others</stage_directions>
+<character>Gonzalo</character>
+<verseline>Beseech you, sir, be merry; you have cause,</verseline>
+<verseline>So have we all, of joy; for our escape</verseline>
+<verseline>Is much beyond our loss. Our hint of woe</verseline>
+<verseline>Is common; every day, some sailor&#8217;s wife,</verseline>
+<verseline>The masters of some merchant, and the merchant,</verseline>
+<verseline>Have just our theme of woe; but for the miracle,</verseline>
+<verseline>I mean our preservation, few in millions</verseline>
+<verseline>Can speak like us. Then wisely, good sir, weigh</verseline>
+<verseline>Our sorrow with our comfort.</verseline>
+<character>Alonso</character>
+<verseline>Prithee, peace.</verseline>
+<character>Sebastian</character>
+<prose>He receives comfort like cold porridge.</prose>
+<character>Antonio</character>
+<prose>The visitor will not give him o&#8217;er so.</prose>
+<character>Sebastian</character>
+<prose>Look, he&#8217;s winding up the watch of his wit; by and by it will strike.</prose>
+<character>Gonzalo</character>
+<prose>Sir-</prose>
+<character>Sebastian</character>
+<prose>One-Tell.</prose>
+<character>Gonzalo</character>
+<prose>When every grief is entertain&#8217;d that&#8217;s offer&#8217;d,</prose>
+<prose>Comes to th&#8217; entertainer-</prose>
+<character>Sebastian</character>
+<prose>A dollar.</prose>
+<character>Gonzalo</character>
+<prose>Dolour comes to him, indeed; you have spoken truer than you purpos&#8217;d.</prose>
+<character>Sebastian</character>
+<prose>You have taken it wiselier than I meant you should.</prose>
+<character>Gonzalo</character>
+<prose>Therefore, my lord-</prose>
+<character>Antonio</character>
+<prose>Fie, what a spendthrift is he of his tongue!</prose>
+<character>Alonso</character>
+<prose>I prithee, spare.</prose>
+<character>Gonzalo</character>
+<prose>Well, I have done; but yet-</prose>
+<character>Sebastian</character>
+<prose>He will be talking.</prose>
+<character>Antonio</character>
+<prose>Which, of he or Adrian, for a good wager, first begins to crow?</prose>
+<character>Sebastian</character>
+<prose>The old cock.</prose>
+<character>Antonio</character>
+<prose>The cock&#8217;rel.</prose>
+<character>Sebastian</character>
+<prose>Done. The wager?</prose>
+<character>Antonio</character>
+<prose>A laughter.</prose>
+<character>Sebastian</character>
+<prose>A match!</prose>
+<character>Adrian</character>
+<prose>Though this island seem to be desert-</prose>
+<character>Antonio</character>
+<prose>Ha, ha, ha!</prose>
+<character>Sebastian</character>
+<prose>So, you&#8217;re paid.</prose>
+<character>Adrian</character>
+<prose>Uninhabitable, and almost inaccessible-</prose>
+<character>Sebastian</character>
+<prose>Yet-</prose>
+<character>Adrian</character>
+<prose>Yet-</prose>
+<character>Antonio</character>
+<prose>He could not miss&#8217;t.</prose>
+<character>Adrian</character>
+<prose>It must needs be of subtle, tender, and delicate temperance.</prose>
+<character>Antonio</character>
+<prose>Temperance was a delicate wench.</prose>
+<character>Sebastian</character>
+<prose>Ay, and a subtle; as he most learnedly deliver&#8217;d.</prose>
+<character>Adrian</character>
+<prose>The air breathes upon us here most sweetly.</prose>
+<character>Sebastian</character>
+<prose>As if it had lungs, and rotten ones.</prose>
+<character>Antonio</character>
+<prose>Or, as &#8216;twere perfum&#8217;d by a fen.</prose>
+<character>Gonzalo</character>
+<prose>Here is everything advantageous to life.</prose>
+<character>Antonio</character>
+<prose>True; save means to live.</prose>
+<character>Sebastian</character>
+<prose>Of that there&#8217;s none, or little.</prose>
+<character>Gonzalo</character>
+<prose>How lush and lusty the grass looks! how green!</prose>
+<character>Antonio</character>
+<prose>The ground indeed is tawny.</prose>
+<character>Sebastian</character>
+<prose>With an eye of green in&#8217;t.</prose>
+<character>Antonio</character>
+<prose>He misses not much.</prose>
+<character>Sebastian</character>
+<prose>No; he doth but mistake the truth totally.</prose>
+<character>Gonzalo</character>
+<prose>But the rarity of it is, which is indeed almost beyond credit-</prose>
+<character>Sebastian</character>
+<prose>As many vouch&#8217;d rarities are.</prose>
+<character>Gonzalo</character>
+<prose>That our garments, being, as they were, drench&#8217;d in the sea, hold, notwithstanding, their freshness and glosses, being rather new-dy&#8217;d, than stain&#8217;d with salt water.</prose>
+<character>Antonio</character>
+<prose>If but one of his pockets could speak, would it not say he lies?</prose>
+<character>Sebastian</character>
+<prose>Ay, or very falsely pocket up his report.</prose>
+<character>Gonzalo</character>
+<prose>Methinks our garments are now as fresh as when we put them on first in Afric, at the marriage of the King&#8217;s fair daughter Claribel to the King of Tunis.</prose>
+<character>Sebastian</character>
+<prose>&#8216;Twas a sweet marriage, and we prosper well in our return.</prose>
+<character>Adrian</character>
+<prose>Tunis was never grac&#8217;d before with such a paragon to their queen.</prose>
+<character>Gonzalo</character>
+<prose>Not since widow Dido&#8217;s time.</prose>
+<character>Antonio</character>
+<prose>Widow! a pox o&#8217; that! How came that &#8216;widow&#8217; in? Widow Dido!</prose>
+<character>Sebastian</character>
+<prose>What if he had said &#8216;widower Aeneas&#8217; too? Good Lord, how you take it!</prose>
+<character>Adrian</character>
+<prose>&#8216;Widow Dido&#8217; said you? You make me study of that. She was of Carthage, not of Tunis.</prose>
+<character>Gonzalo</character>
+<prose>This Tunis, sir, was Carthage.</prose>
+<character>Adrian</character>
+<prose>Carthage?</prose>
+<character>Gonzalo</character>
+<prose>I assure you, Carthage.</prose>
+<character>Antonio</character>
+<prose>His word is more than the miraculous harp.</prose>
+<character>Sebastian</character>
+<prose>He hath rais&#8217;d the wall, and houses too.</prose>
+<character>Antonio</character>
+<prose>What impossible matter will he make easy next?</prose>
+<character>Sebastian</character>
+<prose>I think he will carry this island home in his pocket, and give it his son for an apple.</prose>
+<character>Antonio</character>
+<prose>And, sowing the kernels of it in the sea, bring forth more islands.</prose>
+<character>Gonzalo</character>
+<prose>Ay.</prose>
+<character>Antonio</character>
+<prose>Why, in good time.</prose>
+<character>Gonzalo</character>
+<prose>Sir, we were talking that our garments seem now as fresh as when we were at Tunis at the marriage of your daughter, who is now Queen.</prose>
+<character>Antonio</character>
+<prose>And the rarest that e&#8217;er came there.</prose>
+<character>Sebastian</character>
+<prose>Bate, I beseech you, widow Dido.</prose>
+<character>Antonio</character>
+<prose>O, widow Dido! Ay, widow Dido.</prose>
+<character>Gonzalo</character>
+<prose>Is not, sir, my doublet as fresh as the first day I wore it? I mean, in a sort.</prose>
+<character>Antonio</character>
+<prose>That &#8216;sort&#8217; was well fish&#8217;d for.</prose>
+<character>Gonzalo</character>
+<prose>When I wore it at your daughter&#8217;s marriage?</prose>
+<character>Alonso</character>
+<verseline>You cram these words into mine ears against</verseline>
+<verseline>The stomach of my sense. Would I had never</verseline>
+<verseline>Married my daughter there; for, coming thence,</verseline>
+<verseline>My son is lost; and, in my rate, she too,</verseline>
+<verseline>Who is so far from Italy removed</verseline>
+<verseline>I ne&#8217;er again shall see her. O thou mine heir</verseline>
+<verseline>Of Naples and of Milan, what strange fish</verseline>
+<verseline>Hath made his meal on thee?</verseline>
+<character>Francisco</character>
+<verseline>Sir, he may live;</verseline>
+<verseline>I saw him beat the surges under him,</verseline>
+<verseline>And ride upon their backs; he trod the water,</verseline>
+<verseline>Whose enmity he flung aside, and breasted</verseline>
+<verseline>The surge most swoln that met him; his bold head</verseline>
+<verseline>&#8216;Bove the contentious waves he kept, and oared</verseline>
+<verseline>Himself with his good arms in lusty stroke</verseline>
+<verseline>To th&#8217; shore, that o&#8217;er his wave-worn basis bowed,</verseline>
+<verseline>As stooping to relieve him. I not doubt</verseline>
+<verseline>He came alive to land.</verseline>
+<character>Alonso</character>
+<verseline>No, no, he&#8217;s gone.</verseline>
+<character>Sebastian</character>
+<verseline>Sir, you may thank yourself for this great loss,</verseline>
+<verseline>That would not bless our Europe with your daughter,</verseline>
+<verseline>But rather lose her to an African;</verseline>
+<verseline>Where she, at least, is banish&#8217;d from your eye,</verseline>
+<verseline>Who hath cause to wet the grief on&#8217;t.</verseline>
+<character>Alonso</character>
+<verseline>Prithee, peace.</verseline>
+<character>Sebastian</character>
+<verseline>You were kneel&#8217;d to, and importun&#8217;d otherwise</verseline>
+<verseline>By all of us; and the fair soul herself</verseline>
+<verseline>Weigh&#8217;d between loathness and obedience at</verseline>
+<verseline>Which end o&#8217; th&#8217; beam should bow. We have lost your son,</verseline>
+<verseline>I fear, for ever. Milan and Naples have</verseline>
+<verseline>Moe widows in them of this business&#8217; making,</verseline>
+<verseline>Than we bring men to comfort them;</verseline>
+<verseline>The fault&#8217;s your own.</verseline>
+<character>Alonso</character>
+<verseline>So is the dear&#8217;st o&#8217; th&#8217; loss.</verseline>
+<character>Gonzalo</character>
+<prose>My lord Sebastian,</prose>
+<verseline>The truth you speak doth lack some gentleness,</verseline>
+<verseline>And time to speak it in; you rub the sore,</verseline>
+<verseline>When you should bring the plaster.</verseline>
+<character>Sebastian</character>
+<verseline>Very well.</verseline>
+<character>Antonio</character>
+<prose>And most chirurgeonly.</prose>
+<character>Gonzalo</character>
+<verseline>It is foul weather in us all, good sir,</verseline>
+<verseline>When you are cloudy.</verseline>
+<character>Sebastian</character>
+<verseline>Foul weather?</verseline>
+<character>Antonio</character>
+<verseline>Very foul.</verseline>
+<character>Gonzalo</character>
+<verseline>Had I plantation of this isle, my lord-</verseline>
+<character>Antonio</character>
+<verseline>He&#8217;d sow &#8216;t with nettle-seed.</verseline>
+<character>Sebastian</character>
+<verseline>Or docks, or mallows.</verseline>
+<character>Gonzalo</character>
+<verseline>And were the king on&#8217;t, what would I do?</verseline>
+<character>Sebastian</character>
+<prose>Scape being drunk for want of wine.</prose>
+<character>Gonzalo</character>
+<verseline>I&#8217; th&#8217; commonwealth I would by contraries</verseline>
+<verseline>Execute all things; for no kind of traffic</verseline>
+<verseline>Would I admit; no name of magistrate;</verseline>
+<verseline>Letters should not be known; riches, poverty,</verseline>
+<verseline>And use of service, none; contract, succession,</verseline>
+<verseline>Bourn, bound of land, tilth, vineyard, none;</verseline>
+<verseline>No use of metal, corn, or wine, or oil;</verseline>
+<verseline>No occupation; all men idle, all;</verseline>
+<verseline>And women too, but innocent and pure;</verseline>
+<verseline>No sovereignty-</verseline>
+<character>Sebastian</character>
+<verseline>Yet he would be king on&#8217;t.</verseline>
+<character>Antonio</character>
+<prose>The latter end of his commonwealth forgets the beginning.</prose>
+<character>Gonzalo</character>
+<verseline>All things in common nature should produce</verseline>
+<verseline>Without sweat or endeavour. Treason, felony,</verseline>
+<verseline>Sword, pike, knife, gun, or need of any engine,</verseline>
+<verseline>Would I not have; but nature should bring forth,</verseline>
+<verseline>Of it own kind, all foison, all abundance,</verseline>
+<verseline>To feed my innocent people.</verseline>
+<character>Sebastian</character>
+<prose>No marrying &#8216;mong his subjects?</prose>
+<character>Antonio</character>
+<prose>None, man; all idle; whores and knaves.</prose>
+<character>Gonzalo</character>
+<verseline>I would with such perfection govern, sir,</verseline>
+<verseline>T&#8217; excel the golden age.</verseline>
+<character>Sebastian</character>
+<verseline>Save his Majesty!</verseline>
+<character>Antonio</character>
+<verseline>Long live Gonzalo!</verseline>
+<character>Gonzalo</character>
+<verseline>And-do you mark me, sir?</verseline>
+<character>Alonso</character>
+<verseline>Prithee, no more; thou dost talk nothing to me.</verseline>
+<character>Gonzalo</character>
+<prose>I do well believe your Highness; and did it to minister occasion to these gentlemen, who are of such sensible and nimble lungs that they always use to laugh at nothing.</prose>
+<character>Antonio</character>
+<prose>&#8216;Twas you we laugh&#8217;d at.</prose>
+<character>Gonzalo</character>
+<prose>Who in this kind of merry fooling am nothing to you; so you may continue, and laugh at nothing still.</prose>
+<character>Antonio</character>
+<prose>What a blow was there given!</prose>
+<character>Sebastian</character>
+<prose>An it had not fall&#8217;n flat-long.</prose>
+<character>Gonzalo</character>
+<prose>You are gentlemen of brave mettle; you would lift the moon out of her sphere, if she would continue in it five weeks without changing.</prose>
+<stage_directions>Enter Ariel, invisible, playing solemn music</stage_directions>
+<character>Sebastian</character>
+<prose>We would so, and then go a-bat-fowling.</prose>
+<character>Antonio</character>
+<prose>Nay, good my lord, be not angry.</prose>
+<character>Gonzalo</character>
+<prose>No, I warrant you; I will not adventure my discretion so weakly. Will you laugh me asleep, for I am very heavy?</prose>
+<character>Antonio</character>
+<prose>Go sleep, and hear us</prose>
+<stage_directions>[All sleep but Alonso, Sebastian and Antonio]</stage_directions>
+<character>Alonso</character>
+<verseline>What, all so soon asleep! I wish mine eyes</verseline>
+<verseline>Would, with themselves, shut up my thoughts; I find</verseline>
+<verseline>They are inclin&#8217;d to do so.</verseline>
+<character>Sebastian</character>
+<verseline>Please you, sir,</verseline>
+<verseline>Do not omit the heavy offer of it:</verseline>
+<verseline>It seldom visits sorrow; when it doth,</verseline>
+<verseline>It is a comforter.</verseline>
+<character>Antonio</character>
+<verseline>We two, my lord,</verseline>
+<verseline>Will guard your person while you take your rest,</verseline>
+<verseline>And watch your safety.</verseline>
+<character>Alonso</character>
+<verseline>Thank you-wondrous heavy!</verseline>
+<verseline>
+<stage_directions_inline>[Alonso sleeps. Exit Ariel]</stage_directions_inline>
+</verseline>
+<character>Sebastian</character>
+<verseline>What a strange drowsiness possesses them!</verseline>
+<character>Antonio</character>
+<verseline>It is the quality o&#8217; th&#8217; climate.</verseline>
+<character>Sebastian</character>
+<verseline>Why</verseline>
+<verseline>Doth it not then our eyelids sink? I find not</verseline>
+<verseline>Myself dispos&#8217;d to sleep.</verseline>
+<character>Antonio</character>
+<verseline>Nor I; my spirits are nimble.</verseline>
+<verseline>They fell together all, as by consent;</verseline>
+<verseline>They dropp&#8217;d, as by a thunder-stroke. What might,</verseline>
+<verseline>Worthy Sebastian? O, what might! No more!</verseline>
+<verseline>And yet methinks I see it in thy face,</verseline>
+<verseline>What thou shouldst be; th&#8217; occasion speaks thee; and</verseline>
+<verseline>My strong imagination sees a crown</verseline>
+<verseline>Dropping upon thy head.</verseline>
+<character>Sebastian</character>
+<verseline>What, art thou waking?</verseline>
+<character>Antonio</character>
+<verseline>Do you not hear me speak?</verseline>
+<character>Sebastian</character>
+<verseline>I do; and surely</verseline>
+<verseline>It is a sleepy language, and thou speak&#8217;st</verseline>
+<verseline>Out of thy sleep. What is it thou didst say?</verseline>
+<verseline>This is a strange repose, to be asleep</verseline>
+<verseline>With eyes wide open; standing, speaking, moving,</verseline>
+<verseline>And yet so fast asleep.</verseline>
+<character>Antonio</character>
+<verseline>Noble Sebastian,</verseline>
+<verseline>Thou let&#8217;st thy fortune sleep-die rather; wink&#8217;st</verseline>
+<verseline>Whiles thou art waking.</verseline>
+<character>Sebastian</character>
+<verseline>Thou dost snore distinctly;</verseline>
+<verseline>There&#8217;s meaning in thy snores.</verseline>
+<character>Antonio</character>
+<verseline>I am more serious than my custom; you</verseline>
+<verseline>Must be so too, if heed me; which to do</verseline>
+<verseline>Trebles thee o&#8217;er.</verseline>
+<character>Sebastian</character>
+<verseline>Well, I am standing water.</verseline>
+<character>Antonio</character>
+<verseline>I&#8217;ll teach you how to flow.</verseline>
+<character>Sebastian</character>
+<verseline>Do so: to ebb,</verseline>
+<verseline>Hereditary sloth instructs me.</verseline>
+<character>Antonio</character>
+<verseline>O,</verseline>
+<verseline>If you but knew how you the purpose cherish,</verseline>
+<verseline>Whiles thus you mock it! how, in stripping it,</verseline>
+<verseline>You more invest it! Ebbing men indeed,</verseline>
+<verseline>Most often, do so near the bottom run</verseline>
+<verseline>By their own fear or sloth.</verseline>
+<character>Sebastian</character>
+<verseline>Prithee say on.</verseline>
+<verseline>The setting of thine eye and cheek proclaim</verseline>
+<verseline>A matter from thee; and a birth, indeed,</verseline>
+<verseline>Which throes thee much to yield.</verseline>
+<character>Antonio</character>
+<verseline>Thus, sir:</verseline>
+<verseline>Although this lord of weak remembrance, this</verseline>
+<verseline>Who shall be of as little memory</verseline>
+<verseline>When he is earth&#8217;d, hath here almost persuaded-</verseline>
+<verseline>For he&#8217;s a spirit of persuasion, only</verseline>
+<verseline>Professes to persuade-the King his son&#8217;s alive,</verseline>
+<verseline>&#8216;Tis as impossible that he&#8217;s undrown&#8217;d</verseline>
+<verseline>As he that sleeps here swims.</verseline>
+<character>Sebastian</character>
+<verseline>I have no hope</verseline>
+<verseline>That he&#8217;s undrown&#8217;d.</verseline>
+<character>Antonio</character>
+<verseline>O, out of that &#8216;no hope&#8217;</verseline>
+<verseline>What great hope have you! No hope that way is</verseline>
+<verseline>Another way so high a hope, that even</verseline>
+<verseline>Ambition cannot pierce a wink beyond,</verseline>
+<verseline>But doubt discovery there. Will you grant with me</verseline>
+<verseline>That Ferdinand is drown&#8217;d?</verseline>
+<character>Sebastian</character>
+<verseline>He&#8217;s gone.</verseline>
+<character>Antonio</character>
+<verseline>Then tell me,</verseline>
+<verseline>Who&#8217;s the next heir of Naples?</verseline>
+<character>Sebastian</character>
+<verseline>Claribel.</verseline>
+<character>Antonio</character>
+<verseline>She that is Queen of Tunis; she that dwells</verseline>
+<verseline>Ten leagues beyond man&#8217;s life; she that from Naples</verseline>
+<verseline>Can have no note, unless the sun were post,</verseline>
+<verseline>The Man i&#8217; th&#8217; Moon&#8217;s too slow, till newborn chins</verseline>
+<verseline>Be rough and razorable; she that from whom</verseline>
+<verseline>We all were sea-swallow&#8217;d, though some cast again,</verseline>
+<verseline>And by that destiny, to perform an act</verseline>
+<verseline>Whereof what&#8217;s past is prologue, what to come</verseline>
+<verseline>In yours and my discharge.</verseline>
+<character>Sebastian</character>
+<verseline>What stuff is this! How say you?</verseline>
+<verseline>&#8216;Tis true, my brother&#8217;s daughter&#8217;s Queen of Tunis;</verseline>
+<verseline>So is she heir of Naples; &#8216;twixt which regions</verseline>
+<verseline>There is some space.</verseline>
+<character>Antonio</character>
+<verseline>A space whose ev&#8217;ry cubit</verseline>
+<verseline>Seems to cry out &#8216;How shall that Claribel</verseline>
+<verseline>Measure us back to Naples? Keep in Tunis,</verseline>
+<verseline>And let Sebastian wake.&#8217; Say this were death</verseline>
+<verseline>That now hath seiz&#8217;d them; why, they were no worse</verseline>
+<verseline>Than now they are. There be that can rule Naples</verseline>
+<verseline>As well as he that sleeps; lords that can prate</verseline>
+<verseline>As amply and unnecessarily</verseline>
+<verseline>As this Gonzalo; I myself could make</verseline>
+<verseline>A chough of as deep chat. O, that you bore</verseline>
+<verseline>The mind that I do! What a sleep were this</verseline>
+<verseline>For your advancement! Do you understand me?</verseline>
+<character>Sebastian</character>
+<verseline>Methinks I do.</verseline>
+<character>Antonio</character>
+<verseline>And how does your content</verseline>
+<verseline>Tender your own good fortune?</verseline>
+<character>Sebastian</character>
+<verseline>I remember</verseline>
+<verseline>You did supplant your brother Prospero.</verseline>
+<character>Antonio</character>
+<verseline>True.</verseline>
+<verseline>And look how well my garments sit upon me,</verseline>
+<verseline>Much feater than before. My brother&#8217;s servants</verseline>
+<verseline>Were then my fellows; now they are my men.</verseline>
+<character>Sebastian</character>
+<prose>But, for your conscience-</prose>
+<character>Antonio</character>
+<verseline>Ay, sir; where lies that? If &#8216;twere a kibe,</verseline>
+<verseline>&#8216;Twould put me to my slipper; but I feel not</verseline>
+<verseline>This deity in my bosom; twenty consciences</verseline>
+<verseline>That stand &#8216;twixt me and Milan, candied be they</verseline>
+<verseline>And melt, ere they molest! Here lies your brother,</verseline>
+<verseline>No better than the earth he lies upon,</verseline>
+<verseline>If he were that which now he&#8217;s like-that&#8217;s dead;</verseline>
+<verseline>Whom I with this obedient steel, three inches of it,</verseline>
+<verseline>Can lay to bed for ever; whiles you, doing thus,</verseline>
+<verseline>To the perpetual wink for aye might put</verseline>
+<verseline>This ancient morsel, this Sir Prudence, who</verseline>
+<verseline>Should not upbraid our course. For all the rest,</verseline>
+<verseline>They&#8217;ll take suggestion as a cat laps milk;</verseline>
+<verseline>They&#8217;ll tell the clock to any business that</verseline>
+<verseline>We say befits the hour.</verseline>
+<character>Sebastian</character>
+<verseline>Thy case, dear friend,</verseline>
+<verseline>Shall be my precedent; as thou got&#8217;st Milan,</verseline>
+<verseline>I&#8217;ll come by Naples. Draw thy sword. One stroke</verseline>
+<verseline>Shall free thee from the tribute which thou payest;</verseline>
+<verseline>And I the King shall love thee.</verseline>
+<character>Antonio</character>
+<verseline>Draw together;</verseline>
+<verseline>And when I rear my hand, do you the like,</verseline>
+<verseline>To fall it on Gonzalo.</verseline>
+<character>Sebastian</character>
+<verseline>O, but one word.<stage_directions_inline>[They talk apart]</stage_directions_inline>
+</verseline>
+<stage_directions>Re-enter Ariel, invisible, with music and song</stage_directions>
+<character>Ariel</character>
+<verseline>My master through his art foresees the danger</verseline>
+<verseline>That you, his friend, are in; and sends me forth-</verseline>
+<verseline>For else his project dies-to keep them living.</verseline>
+<verseline>
+<stage_directions_inline>[Sings in Gonzalo&#8217;s ear]</stage_directions_inline>
+</verseline>
+<song>While you here do snoring lie,</song>
+<song>Open-ey&#8217;d conspiracy</song>
+<song>His time doth take.</song>
+<song>If of life you keep a care,</song>
+<song>Shake off slumber, and beware.</song>
+<song>Awake, awake!</song>
+<character>Antonio</character>
+<prose>Then let us both be sudden.</prose>
+<character>Gonzalo</character>
+<prose>Now, good angels</prose>
+<prose>Preserve the King! <stage_directions_inline>[They wake]</stage_directions_inline>
+</prose>
+<character>Alonso</character>
+<prose>Why, how now?-Ho, awake!-Why are you drawn? Wherefore this ghastly looking?</prose>
+<character>Gonzalo</character>
+<prose>What&#8217;s the matter?</prose>
+<character>Sebastian</character>
+<verseline>Whiles we stood here securing your repose,</verseline>
+<verseline>Even now, we heard a hollow burst of bellowing</verseline>
+<verseline>Like bulls, or rather lions; did&#8217;t not wake you?</verseline>
+<verseline>It struck mine ear most terribly.</verseline>
+<character>Alonso</character>
+<verseline>I heard nothing.</verseline>
+<character>Antonio</character>
+<verseline>O, &#8216;twas a din to fright a monster&#8217;s ear,</verseline>
+<verseline>To make an earthquake! Sure it was the roar</verseline>
+<verseline>Of a whole herd of lions.</verseline>
+<character>Alonso</character>
+<prose>Heard you this, Gonzalo?</prose>
+<character>Gonzalo</character>
+<verseline>Upon mine honour, sir, I heard a humming,</verseline>
+<verseline>And that a strange one too, which did awake me;</verseline>
+<verseline>I shak&#8217;d you, sir, and cried; as mine eyes open&#8217;d,</verseline>
+<verseline>I saw their weapons drawn-there was a noise,</verseline>
+<verseline>That&#8217;s verily. &#8216;Tis best we stand upon our guard,</verseline>
+<verseline>Or that we quit this place. Let&#8217;s draw our weapons.</verseline>
+<character>Alonso</character>
+<verseline>Lead off this ground; and let&#8217;s make further search</verseline>
+<verseline>For my poor son.</verseline>
+<character>Gonzalo</character>
+<verseline>Heavens keep him from these beasts!</verseline>
+<verseline>For he is, sure, i&#8217; th&#8217; island.</verseline>
+<character>Alonso</character>
+<verseline>Lead away.</verseline>
+<character>Ariel</character>
+<verseline>Prospero my lord shall know what I have done;</verseline>
+<verseline>So, King, go safely on to seek thy son. <stage_directions_inline>Exeunt</stage_directions_inline>
+</verseline>
+<scene>Scene 2</scene>
+<location>Another part of the island</location>
+<stage_directions>Enter Caliban, with a burden of wood. A noise of thunder heard</stage_directions>
+<character>Caliban</character>
+<verseline>All the infections that the sun sucks up</verseline>
+<verseline>From bogs, fens, flats, on Prosper fall, and make him</verseline>
+<verseline>By inch-meal a disease! His spirits hear me,</verseline>
+<verseline>And yet I needs must curse. But they&#8217;ll nor pinch,</verseline>
+<verseline>Fright me with urchin-shows, pitch me i&#8217; th&#8217; mire,</verseline>
+<verseline>Nor lead me, like a firebrand, in the dark</verseline>
+<verseline>Out of my way, unless he bid &#8216;em; but</verseline>
+<verseline>For every trifle are they set upon me;</verseline>
+<verseline>Sometime like apes that mow and chatter at me,</verseline>
+<verseline>And after bite me; then like hedgehogs which</verseline>
+<verseline>Lie tumbling in my barefoot way, and mount</verseline>
+<verseline>Their pricks at my footfall; sometime am I</verseline>
+<verseline>All wound with adders, who with cloven tongues</verseline>
+<verseline>Do hiss me into madness.</verseline>
+<stage_directions>Enter Trinculo</stage_directions>
+<verseline>Lo, now, lo!</verseline>
+<verseline>Here comes a spirit of his, and to torment me</verseline>
+<verseline>For bringing wood in slowly. I&#8217;ll fall flat;</verseline>
+<verseline>Perchance he will not mind me.</verseline>
+<character>Trinculo</character>
+<prose>Here&#8217;s neither bush nor shrub to bear off any weather at all, and another storm brewing; I hear it sing i&#8217; th&#8217; wind. Yond same black cloud, yond huge one, looks like a foul bombard that would shed his liquor. If it should thunder as it did before, I know not where to hide my head. Yond same cloud cannot choose but fall by pailfuls. What have we here? a man or a fish? dead or alive? A fish: he smells like a fish; a very ancient and fish-like smell; kind of not-of-the-newest Poor-John. A strange fish! Were I in England now, as once I was, and had but this fish painted, not a holiday fool there but would give a piece of silver. There would this monster make a man; any strange beast there makes a man; when they will not give a doit to relieve a lame beggar, they will lay out ten to see a dead Indian. Legg&#8217;d like a man, and his fins like arms! Warm, o&#8217; my troth! I do now let loose my opinion; hold it no longer: this is no fish, but an islander, that hath lately suffered by thunderbolt. <stage_directions_inline>[Thunder]</stage_directions_inline> Alas, the storm is come again! My best way is to creep under his gaberdine; there is no other shelter hereabout. Misery acquaints a man with strange bed-fellows. I will here shroud till the dregs of the storm be past.</prose>
+<stage_directions>Enter Stephano singing; a bottle in his hand</stage_directions>
+<character>Stephano</character>
+<song>I shall no more to sea, to sea,</song>
+<song>Here shall I die ashore-</song>
+<prose>This is a very scurvy tune to sing at a man&#8217;s funeral; well, here&#8217;s my comfort. <stage_directions_inline>[Drinks]</stage_directions_inline>
+</prose>
+<song>The master, the swabber, the boatswain, and I,</song>
+<song>The gunner, and his mate,</song>
+<song>Lov&#8217;d Mall, Meg, and Marian, and Margery,</song>
+<song>But none of us car&#8217;d for Kate;</song>
+<song>For she had a tongue with a tang,</song>
+<song>Would cry to a sailor &#8216;Go hang!&#8217;</song>
+<song>She lov&#8217;d not the savour of tar nor of pitch,</song>
+<song>Yet a tailor might scratch her where&#8217;er she did itch.</song>
+<song>Then to sea, boys, and let her go hang!</song>
+<song>This is a scurvy tune too; but here&#8217;s my comfort.</song>
+<verseline>
+<stage_directions_inline>[Drinks]</stage_directions_inline>
+</verseline>
+<character>Caliban</character>
+<prose>Do not torment me. O!</prose>
+<character>Stephano</character>
+<prose>What&#8217;s the matter? Have we devils here? Do you put tricks upon &#8216;s with savages and men of Ind? Ha! I have not scap&#8217;d drowning to be afeard now of your four legs; for it hath been said: As proper a man as ever went on four legs cannot make him give ground; and it shall be said so again, while Stephano breathes at nostrils.</prose>
+<character>Caliban</character>
+<prose>The spirit torments me. O!</prose>
+<character>Stephano</character>
+<prose>This is some monster of the isle with four legs, who hath got, as I take it, an ague. Where the devil should he learn our language? I will give him some relief, if it be but for that. If I can recover him, and keep him tame, and get to Naples with him, he&#8217;s a present for any emperor that ever trod on neat&#8217;s leather.</prose>
+<character>Caliban</character>
+<prose>Do not torment me, prithee; I&#8217;ll bring my wood home faster.</prose>
+<character>Stephano</character>
+<prose>He&#8217;s in his fit now, and does not talk after the wisest. He shall taste of my bottle; if he have never drunk wine afore, it will go near to remove his fit. If I can recover him, and keep him tame, I will not take too much for him; he shall pay for him that hath him, and that soundly.</prose>
+<character>Caliban</character>
+<prose>Thou dost me yet but little hurt; thou wilt anon, I know it by thy trembling; now Prosper works upon thee.</prose>
+<character>Stephano</character>
+<prose>Come on your ways; open your mouth; here is that which will give language to you, cat. Open your mouth; this will shake your shaking, I can tell you, and that soundly; you cannot tell who&#8217;s your friend. Open your chaps again.</prose>
+<character>Trinculo</character>
+<prose>I should know that voice; it should be-but he is drown&#8217;d; and these are devils. O, defend me!</prose>
+<character>Stephano</character>
+<prose>Four legs and two voices; a most delicate monster! His forward voice, now, is to speak well of his friend; his backward voice is to utter foul speeches and to detract. If all the wine in my bottle will recover him, I will help his ague. Come-Amen! I will pour some in thy other mouth.</prose>
+<character>Trinculo</character>
+<prose>Stephano!</prose>
+<character>Stephano</character>
+<prose>Doth thy other mouth call me? Mercy, mercy!</prose>
+<prose>This is a devil, and no monster; I will leave him; I have no long spoon.</prose>
+<character>Trinculo</character>
+<prose>Stephano! If thou beest Stephano, touch me, and speak to me; for I am Trinculo-be not afeard-thy good friend Trinculo.</prose>
+<character>Stephano</character>
+<prose>If thou beest Trinculo, come forth; I&#8217;ll pull the by the lesser legs; if any be Trinculo&#8217;s legs, these are they. Thou art very Trinculo indeed! How cam&#8217;st thou to be the siege of this moon-calf? Can he vent</prose>
+<prose>Trinculos?</prose>
+<character>Trinculo</character>
+<prose>I took him to be kill&#8217;d with a thunderstroke. But art thou not drown&#8217;d, Stephano? I hope now thou are not drown&#8217;d. Is the storm overblown? I hid me under the dead moon-calf&#8217;s gaberdine for fear of the storm. And art thou living, Stephano? O Stephano, two Neapolitans scap&#8217;d!</prose>
+<character>Stephano</character>
+<prose>Prithee, do not turn me about; my stomach is not constant.</prose>
+<character>Caliban</character>
+<prose>
+<stage_directions_inline>[Aside]</stage_directions_inline> These be fine things, an if they be not sprites.</prose>
+<prose>That&#8217;s a brave god, and bears celestial liquor. I will kneel to him.</prose>
+<character>Stephano</character>
+<prose>How didst thou scape? How cam&#8217;st thou hither? Swear by this bottle how thou cam&#8217;st hither-I escap&#8217;d upon a butt of sack, which the sailors heaved o&#8217;erboard- by this bottle, which I made of the bark of a tree, with mine own hands, since I was cast ashore.</prose>
+<character>Caliban</character>
+<prose>I&#8217;ll swear upon that bottle to be thy true subject, for the liquor is not earthly.</prose>
+<character>Stephano</character>
+<prose>Here; swear then how thou escap&#8217;dst.</prose>
+<character>Trinculo</character>
+<prose>Swum ashore, man, like a duck; I can swim like a duck, I&#8217;ll be sworn.</prose>
+<character>Stephano</character>
+<prose>
+<stage_directions_inline>[Passing the bottle]</stage_directions_inline> Here, kiss the book. Though thou canst swim like a duck, thou art made like a goose.</prose>
+<character>Trinculo</character>
+<prose>O Stephano, hast any more of this?</prose>
+<character>Stephano</character>
+<prose>The whole butt, man; my cellar is in a rock by th&#8217; seaside, where my wine is hid. How now, moon-calf! How does thine ague?</prose>
+<character>Caliban</character>
+<prose>Hast thou not dropp&#8217;d from heaven?</prose>
+<character>Stephano</character>
+<prose>Out o&#8217; th&#8217; moon, I do assure thee; I was the Man i&#8217; th&#8217; Moon, when time was.</prose>
+<character>Caliban</character>
+<prose>I have seen thee in her, and I do adore thee. My mistress show&#8217;d me thee, and thy dog and thy bush.</prose>
+<character>Stephano</character>
+<prose>Come, swear to that; kiss the book. I will furnish it anon with new contents. Swear.</prose>
+<verseline>
+<stage_directions_inline>[Caliban drinks]</stage_directions_inline>
+</verseline>
+<character>Trinculo</character>
+<prose>By this good light, this is a very shallow monster! I afeard of him! A very weak monster! The Man i&#8217; th&#8217; Moon! A most poor credulous monster! Well drawn, monster, in good sooth!</prose>
+<character>Caliban</character>
+<prose>I&#8217;ll show thee every fertile inch o&#8217; th&#8217; island; and will kiss thy foot. I prithee be my god.</prose>
+<character>Trinculo</character>
+<prose>By this light, a most perfidious and drunken monster! When&#8217;s god&#8217;s asleep he&#8217;ll rob his bottle.</prose>
+<character>Caliban</character>
+<prose>I&#8217;ll kiss thy foot; I&#8217;ll swear myself thy subject.</prose>
+<character>Stephano</character>
+<prose>Come on, then; down, and swear.</prose>
+<character>Trinculo</character>
+<prose>I shall laugh myself to death at this puppy- headed monster. A most scurvy monster! I could find in my heart to beat him-</prose>
+<character>Stephano</character>
+<prose>Come, kiss.</prose>
+<character>Trinculo</character>
+<prose>But that the poor monster&#8217;s in drink. An abominable monster!</prose>
+<character>Caliban</character>
+<verseline>I&#8217;ll show thee the best springs; I&#8217;ll pluck thee berries;</verseline>
+<verseline>I&#8217;ll fish for thee, and get thee wood enough.</verseline>
+<verseline>A plague upon the tyrant that I serve!</verseline>
+<verseline>I&#8217;ll bear him no more sticks, but follow thee,</verseline>
+<verseline>Thou wondrous man.</verseline>
+<character>Trinculo</character>
+<prose>A most ridiculous monster, to make a wonder of a poor drunkard!</prose>
+<character>Caliban</character>
+<verseline>I prithee let me bring thee where crabs grow;</verseline>
+<verseline>And I with my long nails will dig thee pig-nuts;</verseline>
+<verseline>Show thee a jay&#8217;s nest, and instruct thee how</verseline>
+<verseline>To snare the nimble marmoset; I&#8217;ll bring thee</verseline>
+<verseline>To clust&#8217;ring filberts, and sometimes I&#8217;ll get thee</verseline>
+<verseline>Young scamels from the rock. Wilt thou go with me?</verseline>
+<character>Stephano</character>
+<prose>I prithee now, lead the way without any more talking. Trinculo, the King and all our company else being drown&#8217;d, we will inherit here. Here, bear my bottle. Fellow Trinculo, we&#8217;ll fill him by and by again.</prose>
+<character>Caliban</character>
+<prose>
+<stage_directions_inline>[Sings drunkenly]</stage_directions_inline>
+</prose>
+<song>Farewell, master; farewell, farewell!</song>
+<character>Trinculo</character>
+<prose>A howling monster; a drunken monster!</prose>
+<character>Caliban</character>
+<song>No more dams I&#8217;ll make for fish;</song>
+<song>Nor fetch in firing</song>
+<song>At requiring,</song>
+<song>Nor scrape trenchering, nor wash dish.</song>
+<song>&#8216;Ban &#8216;Ban, Ca-Caliban,</song>
+<song>Has a new master-Get a new man.</song>
+<song>Freedom, high-day! high-day, freedom! freedom, high- day, freedom!</song>
+<character>Stephano</character>
+<verseline>O brave monster! Lead the way. <stage_directions_inline>Exeunt</stage_directions_inline>
+</verseline>
+<act>Act III</act>
+<firstscene>Scene 1</firstscene>
+<location>Before Prospero&#8217;s cell</location>
+<stage_directions>Enter Ferdinand, hearing a log</stage_directions>
+<character>Ferdinand</character>
+<verseline>There be some sports are painful, and their labour</verseline>
+<verseline>Delight in them sets off; some kinds of baseness</verseline>
+<verseline>Are nobly undergone, and most poor matters</verseline>
+<verseline>Point to rich ends. This my mean task</verseline>
+<verseline>Would be as heavy to me as odious, but</verseline>
+<verseline>The mistress which I serve quickens what&#8217;s dead,</verseline>
+<verseline>And makes my labours pleasures. O, she is</verseline>
+<verseline>Ten times more gentle than her father&#8217;s crabbed;</verseline>
+<verseline>And he&#8217;s compos&#8217;d of harshness. I must remove</verseline>
+<verseline>Some thousands of these logs, and pile them up,</verseline>
+<verseline>Upon a sore injunction; my sweet mistress</verseline>
+<verseline>Weeps when she sees me work, and says such baseness</verseline>
+<verseline>Had never like executor. I forget;</verseline>
+<verseline>But these sweet thoughts do even refresh my labours,</verseline>
+<verseline>Most busy, least when I do it.</verseline>
+<stage_directions>Enter Miranda; and Prospero at a distance, unseen</stage_directions>
+<character>Miranda</character>
+<verseline>Alas, now; pray you,</verseline>
+<verseline>Work not so hard; I would the lightning had</verseline>
+<verseline>Burnt up those logs that you are enjoin&#8217;d to pile.</verseline>
+<verseline>Pray, set it down and rest you; when this burns,</verseline>
+<verseline>&#8216;Twill weep for having wearied you. My father</verseline>
+<verseline>Is hard at study; pray, now, rest yourself;</verseline>
+<verseline>He&#8217;s safe for these three hours.</verseline>
+<character>Ferdinand</character>
+<verseline>O most dear mistress,</verseline>
+<verseline>The sun will set before I shall discharge</verseline>
+<verseline>What I must strive to do.</verseline>
+<character>Miranda</character>
+<verseline>If you&#8217;ll sit down,</verseline>
+<verseline>I&#8217;ll bear your logs the while; pray give me that;</verseline>
+<verseline>I&#8217;ll carry it to the pile.</verseline>
+<character>Ferdinand</character>
+<verseline>No, precious creature;</verseline>
+<verseline>I had rather crack my sinews, break my back,</verseline>
+<verseline>Than you should such dishonour undergo,</verseline>
+<verseline>While I sit lazy by.</verseline>
+<character>Miranda</character>
+<verseline>It would become me</verseline>
+<verseline>As well as it does you; and I should do it</verseline>
+<verseline>With much more ease; for my good will is to it,</verseline>
+<verseline>And yours it is against.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> Poor worm, thou art infected!</verseline>
+<verseline>This visitation shows it.</verseline>
+<character>Miranda</character>
+<verseline>You look wearily.</verseline>
+<character>Ferdinand</character>
+<verseline>No, noble mistress; &#8216;tis fresh morning with me</verseline>
+<verseline>When you are by at night. I do beseech you,</verseline>
+<verseline>Chiefly that I might set it in my prayers,</verseline>
+<verseline>What is your name?</verseline>
+<character>Miranda</character>
+<verseline>Miranda-O my father,</verseline>
+<verseline>I have broke your hest to say so!</verseline>
+<character>Ferdinand</character>
+<verseline>Admir&#8217;d Miranda!</verseline>
+<verseline>What&#8217;s dearest to the world! Full many a lady</verseline>
+<verseline>I have ey&#8217;d with best regard; and many a time</verseline>
+<verseline>Th&#8217; harmony of their tongues hath into bondage</verseline>
+<verseline>Brought my too diligent ear; for several virtues</verseline>
+<verseline>Have I lik&#8217;d several women, never any</verseline>
+<verseline>With so full soul, but some defect in her</verseline>
+<verseline>Did quarrel with the noblest grace she ow&#8217;d,</verseline>
+<verseline>And put it to the foil; but you, O you,</verseline>
+<verseline>So perfect and so peerless, are created</verseline>
+<verseline>Of every creature&#8217;s best!</verseline>
+<character>Miranda</character>
+<verseline>I do not know</verseline>
+<verseline>One of my sex; no woman&#8217;s face remember,</verseline>
+<verseline>Save, from my glass, mine own; nor have I seen</verseline>
+<verseline>More that I may call men than you, good friend,</verseline>
+<verseline>And my dear father. How features are abroad,</verseline>
+<verseline>I am skilless of; but, by my modesty,</verseline>
+<verseline>The jewel in my dower, I would not wish</verseline>
+<verseline>Any companion in the world but you;</verseline>
+<verseline>Nor can imagination form a shape,</verseline>
+<verseline>Besides yourself, to like of. But I prattle</verseline>
+<verseline>Something too wildly, and my father&#8217;s precepts</verseline>
+<verseline>I therein do forget.</verseline>
+<character>Ferdinand</character>
+<verseline>I am, in my condition,</verseline>
+<verseline>A prince, Miranda; I do think, a king-</verseline>
+<verseline>I would not so!-and would no more endure</verseline>
+<verseline>This wooden slavery than to suffer</verseline>
+<verseline>The flesh-fly blow my mouth. Hear my soul speak:</verseline>
+<verseline>The very instant that I saw you, did</verseline>
+<verseline>My heart fly to your service; there resides</verseline>
+<verseline>To make me slave to it; and for your sake</verseline>
+<verseline>Am I this patient log-man.</verseline>
+<character>Miranda</character>
+<verseline>Do you love me?</verseline>
+<character>Ferdinand</character>
+<verseline>O heaven, O earth, bear witness to this sound,</verseline>
+<verseline>And crown what I profess with kind event,</verseline>
+<verseline>If I speak true! If hollowly, invert</verseline>
+<verseline>What best is boded me to mischief! I,</verseline>
+<verseline>Beyond all limit of what else i&#8217; th&#8217; world,</verseline>
+<verseline>Do love, prize, honour you.</verseline>
+<character>Miranda</character>
+<verseline>I am a fool</verseline>
+<verseline>To weep at what I am glad of.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> Fair encounter</verseline>
+<verseline>Of two most rare affections! Heavens rain grace</verseline>
+<verseline>On that which breeds between &#8216;em!</verseline>
+<character>Ferdinand</character>
+<verseline>Wherefore weep you?</verseline>
+<character>Miranda</character>
+<verseline>At mine unworthiness, that dare not offer</verseline>
+<verseline>What I desire to give, and much less take</verseline>
+<verseline>What I shall die to want. But this is trifling;</verseline>
+<verseline>And all the more it seeks to hide itself,</verseline>
+<verseline>The bigger bulk it shows. Hence, bashful cunning!</verseline>
+<verseline>And prompt me, plain and holy innocence!</verseline>
+<verseline>I am your wife, if you will marry me;</verseline>
+<verseline>If not, I&#8217;ll die your maid. To be your fellow</verseline>
+<verseline>You may deny me; but I&#8217;ll be your servant,</verseline>
+<verseline>Whether you will or no.</verseline>
+<character>Ferdinand</character>
+<verseline>My mistress, dearest;</verseline>
+<verseline>And I thus humble ever.</verseline>
+<character>Miranda</character>
+<verseline>My husband, then?</verseline>
+<character>Ferdinand</character>
+<verseline>Ay, with a heart as willing</verseline>
+<verseline>As bondage e&#8217;er of freedom. Here&#8217;s my hand.</verseline>
+<character>Miranda</character>
+<verseline>And mine, with my heart in&#8217;t. And now farewell</verseline>
+<verseline>Till half an hour hence.</verseline>
+<character>Ferdinand</character>
+<verseline>A thousand thousand!</verseline>
+<stage_directions>Exeunt Ferdinand and Miranda severally</stage_directions>
+<character>Prospero</character>
+<verseline>So glad of this as they I cannot be,</verseline>
+<verseline>Who are surpris&#8217;d withal; but my rejoicing</verseline>
+<verseline>At nothing can be more. I&#8217;ll to my book;</verseline>
+<verseline>For yet ere supper time must I perform</verseline>
+<verseline>Much business appertaining. <stage_directions_inline>Exit</stage_directions_inline>
+</verseline>
+<scene>Scene 2</scene>
+<location>Another part of the island</location>
+<stage_directions>Enter Caliban, Stephano, and Trinculo</stage_directions>
+<character>Stephano</character>
+<prose>Tell not me-when the butt is out we will drink water, not a drop before; therefore bear up, and board &#8216;em. Servant-monster, drink to me.</prose>
+<character>Trinculo</character>
+<prose>Servant-monster! The folly of this island! They say there&#8217;s but five upon this isle: we are three of them; if th&#8217; other two be brain&#8217;d like us, the state totters.</prose>
+<character>Stephano</character>
+<prose>Drink, servant-monster, when I bid thee; thy eyes are almost set in thy head.</prose>
+<character>Trinculo</character>
+<prose>Where should they be set else? He were a brave monster indeed, if they were set in his tail.</prose>
+<character>Stephano</character>
+<prose>My man-monster hath drown&#8217;d his tongue in sack. For my part, the sea cannot drown me; I swam, ere</prose>
+<prose>I could recover the shore, five and thirty leagues, off and on. By this light, thou shalt be my lieutenant, monster, or my standard.</prose>
+<character>Trinculo</character>
+<prose>Your lieutenant, if you list; he&#8217;s no standard.</prose>
+<character>Stephano</character>
+<prose>We&#8217;ll not run, Monsieur Monster.</prose>
+<character>Trinculo</character>
+<prose>Nor go neither; but you&#8217;ll lie like dogs, and yet say nothing neither.</prose>
+<character>Stephano</character>
+<prose>Moon-calf, speak once in thy life, if thou beest a good moon-calf.</prose>
+<character>Caliban</character>
+<prose>How does thy honour? Let me lick thy shoe. I&#8217;ll not serve him; he is not valiant.</prose>
+<character>Trinculo</character>
+<prose>Thou liest, most ignorant monster: I am in case to justle a constable. Why, thou debosh&#8217;d fish, thou, was there ever man a coward that hath drunk so much sack as I to-day? Wilt thou tell a monstrous lie, being but half fish and half a monster?</prose>
+<character>Caliban</character>
+<prose>Lo, how he mocks me! Wilt thou let him, my lord?</prose>
+<character>Trinculo</character>
+<prose>&#8216;Lord&#8217; quoth he! That a monster should be such a natural!</prose>
+<character>Caliban</character>
+<prose>Lo, lo again! Bite him to death, I prithee.</prose>
+<character>Stephano</character>
+<prose>Trinculo, keep a good tongue in your head; if you prove a mutineer-the next tree! The poor monster&#8217;s my subject, and he shall not suffer indignity.</prose>
+<character>Caliban</character>
+<prose>I thank my noble lord. Wilt thou be pleas&#8217;d to hearken once again to the suit I made to thee?</prose>
+<character>Stephano</character>
+<prose>Marry will I; kneel and repeat it; I will stand, and so shall Trinculo.</prose>
+<stage_directions>Enter Ariel, invisible</stage_directions>
+<character>Caliban</character>
+<prose>As I told thee before, I am subject to a tyrant, sorcerer, that by his cunning hath cheated me of the island.</prose>
+<character>Ariel</character>
+<prose>Thou liest.</prose>
+<character>Caliban</character>
+<prose>Thou liest, thou jesting monkey, thou; I would my valiant master would destroy thee. I do not lie.</prose>
+<character>Stephano</character>
+<prose>Trinculo, if you trouble him any more in&#8217;s tale, by this hand, I will supplant some of your teeth.</prose>
+<character>Trinculo</character>
+<prose>Why, I said nothing.</prose>
+<character>Stephano</character>
+<prose>Mum, then, and no more. Proceed.</prose>
+<character>Caliban</character>
+<verseline>I say, by sorcery he got this isle;</verseline>
+<verseline>From me he got it. If thy greatness will</verseline>
+<verseline>Revenge it on him-for I know thou dar&#8217;st,</verseline>
+<verseline>But this thing dare not-</verseline>
+<character>Stephano</character>
+<prose>That&#8217;s most certain.</prose>
+<character>Caliban</character>
+<verseline>Thou shalt be lord of it, and I&#8217;ll serve thee.</verseline>
+<character>Stephano</character>
+<prose>How now shall this be compass&#8217;d? Canst thou bring me to the party?</prose>
+<character>Caliban</character>
+<verseline>Yea, yea, my lord; I&#8217;ll yield him thee asleep,</verseline>
+<verseline>Where thou mayst knock a nail into his head.</verseline>
+<character>Ariel</character>
+<prose>Thou liest; thou canst not.</prose>
+<character>Caliban</character>
+<verseline>What a pied ninny&#8217;s this! Thou scurvy patch!</verseline>
+<verseline>I do beseech thy greatness, give him blows,</verseline>
+<verseline>And take his bottle from him. When that&#8217;s gone</verseline>
+<verseline>He shall drink nought but brine; for I&#8217;ll not show him</verseline>
+<verseline>Where the quick freshes are.</verseline>
+<character>Stephano</character>
+<prose>Trinculo, run into no further danger; interrupt the monster one word further and, by this hand, I&#8217;ll turn my mercy out o&#8217; doors, and make a stock-fish of thee.</prose>
+<character>Trinculo</character>
+<prose>Why, what did I? I did nothing. I&#8217;ll go farther off.</prose>
+<character>Stephano</character>
+<prose>Didst thou not say he lied?</prose>
+<character>Ariel</character>
+<prose>Thou liest.</prose>
+<character>Stephano</character>
+<prose>Do I so? Take thou that. <stage_directions_inline>[Beats him]</stage_directions_inline> As you like this, give me the lie another time.</prose>
+<character>Trinculo</character>
+<prose>I did not give the lie. Out o&#8217; your wits and hearing too? A pox o&#8217; your bottle! This can sack and drinking do. A murrain on your monster, and the devil take your fingers!</prose>
+<character>Caliban</character>
+<prose>Ha, ha, ha!</prose>
+<character>Stephano</character>
+<prose>Now, forward with your tale.-Prithee stand further off.</prose>
+<character>Caliban</character>
+<prose>Beat him enough; after a little time, I&#8217;ll beat him too.</prose>
+<character>Stephano</character>
+<prose>Stand farther. Come, proceed.</prose>
+<character>Caliban</character>
+<verseline>Why, as I told thee, &#8216;tis a custom with him</verseline>
+<verseline>I&#8217; th&#8217; afternoon to sleep; there thou mayst brain him,</verseline>
+<verseline>Having first seiz&#8217;d his books; or with a log</verseline>
+<verseline>Batter his skull, or paunch him with a stake,</verseline>
+<verseline>Or cut his wezand with thy knife. Remember</verseline>
+<verseline>First to possess his books; for without them</verseline>
+<verseline>He&#8217;s but a sot, as I am, nor hath not</verseline>
+<verseline>One spirit to command; they all do hate him</verseline>
+<verseline>As rootedly as I. Burn but his books.</verseline>
+<verseline>He has brave utensils-for so he calls them-</verseline>
+<verseline>Which, when he has a house, he&#8217;ll deck withal.</verseline>
+<verseline>And that most deeply to consider is</verseline>
+<verseline>The beauty of his daughter; he himself</verseline>
+<verseline>Calls her a nonpareil. I never saw a woman</verseline>
+<verseline>But only Sycorax my dam and she;</verseline>
+<verseline>But she as far surpasseth Sycorax</verseline>
+<verseline>As great&#8217;st does least.</verseline>
+<character>Stephano</character>
+<verseline>Is it so brave a lass?</verseline>
+<character>Caliban</character>
+<verseline>Ay, lord; she will become thy bed, I warrant,</verseline>
+<verseline>And bring thee forth brave brood.</verseline>
+<character>Stephano</character>
+<prose>Monster, I will kill this man; his daughter and I will be King and Queen-save our Graces!-and Trinculo and thyself shall be viceroys. Dost thou like the plot, Trinculo?</prose>
+<character>Trinculo</character>
+<prose>Excellent.</prose>
+<character>Stephano</character>
+<prose>Give me thy hand; I am sorry I beat thee; but while thou liv&#8217;st, keep a good tongue in thy head.</prose>
+<character>Caliban</character>
+<verseline>Within this half hour will he be asleep.</verseline>
+<verseline>Wilt thou destroy him then?</verseline>
+<character>Stephano</character>
+<verseline>Ay, on mine honour.</verseline>
+<character>Ariel</character>
+<prose>This will I tell my master.</prose>
+<character>Caliban</character>
+<verseline>Thou mak&#8217;st me merry; I am full of pleasure.</verseline>
+<verseline>Let us be jocund; will you troll the catch</verseline>
+<verseline>You taught me but while-ere?</verseline>
+<character>Stephano</character>
+<prose>At thy request, monster, I will do reason, any reason. Come on, Trinculo, let us sing. <stage_directions_inline>[Sings]</stage_directions_inline>
+</prose>
+<song>Flout &#8216;em and scout &#8216;em,</song>
+<song>And scout &#8216;em and flout &#8216;em;</song>
+<song>Thought is free.</song>
+<character>Caliban</character>
+<prose>That&#8217;s not the tune.</prose>
+<verseline>
+<stage_directions_inline>[Ariel plays the tune on a tabor and pipe]</stage_directions_inline>
+</verseline>
+<character>Stephano</character>
+<prose>What is this same?</prose>
+<character>Trinculo</character>
+<prose>This is the tune of our catch, play&#8217;d by the picture of Nobody.</prose>
+<character>Stephano</character>
+<prose>If thou beest a man, show thyself in thy likeness; if thou beest a devil, take&#8217;t as thou list.</prose>
+<character>Trinculo</character>
+<prose>O, forgive me my sins!</prose>
+<character>Stephano</character>
+<prose>He that dies pays all debts. I defy thee. Mercy upon us!</prose>
+<character>Caliban</character>
+<prose>Art thou afeard?</prose>
+<character>Stephano</character>
+<prose>No, monster, not I.</prose>
+<character>Caliban</character>
+<verseline>Be not afeard. The isle is full of noises,</verseline>
+<verseline>Sounds, and sweet airs, that give delight, and hurt not.</verseline>
+<verseline>Sometimes a thousand twangling instruments</verseline>
+<verseline>Will hum about mine ears; and sometimes voices,</verseline>
+<verseline>That, if I then had wak&#8217;d after long sleep,</verseline>
+<verseline>Will make me sleep again; and then, in dreaming,</verseline>
+<verseline>The clouds methought would open and show riches</verseline>
+<verseline>Ready to drop upon me, that, when I wak&#8217;d,</verseline>
+<verseline>I cried to dream again.</verseline>
+<character>Stephano</character>
+<prose>This will prove a brave kingdom to me, where I shall have my music for nothing.</prose>
+<character>Caliban</character>
+<prose>When Prospero is destroy&#8217;d.</prose>
+<character>Stephano</character>
+<prose>That shall be by and by; I remember the story.</prose>
+<character>Trinculo</character>
+<prose>The sound is going away; let&#8217;s follow it, and after do our work.</prose>
+<character>Stephano</character>
+<prose>Lead, monster; we&#8217;ll follow. I would I could see this taborer; he lays it on.</prose>
+<character>Trinculo</character>
+<prose>Wilt come? I&#8217;ll follow, Stephano. <stage_directions_inline>Exeunt</stage_directions_inline>
+</prose>
+<scene>Scene 3</scene>
+<location>Another part of the island</location>
+<stage_directions>Enter Alonso, Sebastian, Antonio, Gonzalo, Adrianfrancisco, and Others</stage_directions>
+<character>Gonzalo</character>
+<verseline>By&#8217;r lakin, I can go no further, sir;</verseline>
+<verseline>My old bones ache. Here&#8217;s a maze trod, indeed,</verseline>
+<verseline>Through forth-rights and meanders! By your patience,</verseline>
+<verseline>I needs must rest me.</verseline>
+<character>Alonso</character>
+<verseline>Old lord, I cannot blame thee,</verseline>
+<verseline>Who am myself attach&#8217;d with weariness</verseline>
+<verseline>To th&#8217; dulling of my spirits; sit down and rest.</verseline>
+<verseline>Even here I will put off my hope, and keep it</verseline>
+<verseline>No longer for my flatterer; he is drown&#8217;d</verseline>
+<verseline>Whom thus we stray to find, and the sea mocks</verseline>
+<verseline>Our frustrate search on land. Well, let him go.</verseline>
+<character>Antonio</character>
+<verseline>
+<stage_directions_inline>[Aside to Sebastian]</stage_directions_inline> I am right glad that he&#8217;s so out of hope.</verseline>
+<verseline>Do not, for one repulse, forgo the purpose</verseline>
+<verseline>That you resolv&#8217;d t&#8217; effect.</verseline>
+<character>Sebastian</character>
+<verseline>
+<stage_directions_inline>[Aside to Antonio]</stage_directions_inline> The next advantage</verseline>
+<verseline>Will we take throughly.</verseline>
+<character>Antonio</character>
+<verseline>
+<stage_directions_inline>[Aside to Sebastian]</stage_directions_inline> Let it be to-night;</verseline>
+<verseline>For, now they are oppress&#8217;d with travel, they</verseline>
+<verseline>Will not, nor cannot, use such vigilance</verseline>
+<verseline>As when they are fresh.</verseline>
+<character>Sebastian</character>
+<verseline>
+<stage_directions_inline>[Aside to Antonio]</stage_directions_inline> I say, to-night; no more.</verseline>
+<stage_directions>Solemn and strange music; and Prospero on thetop, invisible. Enter several strange Shapes,bringing in a banquet; and dance about it withgentle actions of salutations; and inviting theking, etc., to eat, they depart</stage_directions>
+<character>Alonso</character>
+<verseline>What harmony is this? My good friends, hark!</verseline>
+<character>Gonzalo</character>
+<prose>Marvellous sweet music!</prose>
+<character>Alonso</character>
+<verseline>Give us kind keepers, heavens! What were these?</verseline>
+<character>Sebastian</character>
+<verseline>A living drollery. Now I will believe</verseline>
+<verseline>That there are unicorns; that in Arabia</verseline>
+<verseline>There is one tree, the phoenix&#8217; throne, one phoenix</verseline>
+<verseline>At this hour reigning-there.</verseline>
+<character>Antonio</character>
+<verseline>I&#8217;ll believe both;</verseline>
+<verseline>And what does else want credit, come to me,</verseline>
+<verseline>And I&#8217;ll be sworn &#8216;tis true; travellers ne&#8217;er did lie,</verseline>
+<verseline>Though fools at home condemn &#8216;em.</verseline>
+<character>Gonzalo</character>
+<verseline>If in Naples</verseline>
+<verseline>I should report this now, would they believe me?</verseline>
+<verseline>If I should say, I saw such islanders,</verseline>
+<verseline>For certes these are people of the island,</verseline>
+<verseline>Who though they are of monstrous shape yet, note,</verseline>
+<verseline>Their manners are more gentle-kind than of</verseline>
+<verseline>Our human generation you shall find</verseline>
+<verseline>Many, nay, almost any.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> Honest lord,</verseline>
+<verseline>Thou hast said well; for some of you there present</verseline>
+<verseline>Are worse than devils.</verseline>
+<character>Alonso</character>
+<verseline>I cannot too much muse</verseline>
+<verseline>Such shapes, such gesture, and such sound, expressing,</verseline>
+<verseline>Although they want the use of tongue, a kind</verseline>
+<verseline>Of excellent dumb discourse.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> Praise in departing.</verseline>
+<character>Francisco</character>
+<verseline>They vanish&#8217;d strangely.</verseline>
+<character>Sebastian</character>
+<verseline>No matter, since</verseline>
+<verseline>They have left their viands behind; for we have stomachs.</verseline>
+<verseline>Will&#8217;t please you taste of what is here?</verseline>
+<character>Alonso</character>
+<verseline>Not I.</verseline>
+<character>Gonzalo</character>
+<verseline>Faith, sir, you need not fear. When we were boys,</verseline>
+<verseline>Who would believe that there were mountaineers,</verseline>
+<verseline>Dewlapp&#8217;d like bulls, whose throats had hanging at &#8216;em</verseline>
+<verseline>Wallets of flesh? or that there were such men</verseline>
+<verseline>Whose heads stood in their breasts? which now we find</verseline>
+<verseline>Each putter-out of five for one will bring us</verseline>
+<verseline>Good warrant of.</verseline>
+<character>Alonso</character>
+<verseline>I will stand to, and feed,</verseline>
+<verseline>Although my last; no matter, since I feel</verseline>
+<verseline>The best is past. Brother, my lord the Duke,</verseline>
+<verseline>Stand to, and do as we.</verseline>
+<stage_directions>Thunder and lightning. Enter Ariel, like a harpy; claps his wings upon the table; and, with a quaint device, the banquet vanishes</stage_directions>
+<character>Ariel</character>
+<verseline>You are three men of sin, whom Destiny,</verseline>
+<verseline>That hath to instrument this lower world</verseline>
+<verseline>And what is in&#8217;t, the never-surfeited sea</verseline>
+<verseline>Hath caus&#8217;d to belch up you; and on this island</verseline>
+<verseline>Where man doth not inhabit-you &#8216;mongst men</verseline>
+<verseline>Being most unfit to live. I have made you mad;</verseline>
+<verseline>And even with such-like valour men hang and drown</verseline>
+<verseline>Their proper selves.</verseline>
+<verseline>
+<stage_directions_inline>[Alonso, Sebastian etc., draw their swords]</stage_directions_inline>
+</verseline>
+<verseline>You fools! I and my fellows</verseline>
+<verseline>Are ministers of Fate; the elements</verseline>
+<verseline>Of whom your swords are temper&#8217;d may as well</verseline>
+<verseline>Wound the loud winds, or with bemock&#8217;d-at stabs</verseline>
+<verseline>Kill the still-closing waters, as diminish</verseline>
+<verseline>One dowle that&#8217;s in my plume; my fellow-ministers</verseline>
+<verseline>Are like invulnerable. If you could hurt,</verseline>
+<verseline>Your swords are now too massy for your strengths</verseline>
+<verseline>And will not be uplifted. But remember-</verseline>
+<verseline>For that&#8217;s my business to you-that you three</verseline>
+<verseline>From Milan did supplant good Prospero;</verseline>
+<verseline>Expos&#8217;d unto the sea, which hath requit it,</verseline>
+<verseline>Him, and his innocent child; for which foul deed</verseline>
+<verseline>The pow&#8217;rs, delaying, not forgetting, have</verseline>
+<verseline>Incens&#8217;d the seas and shores, yea, all the creatures,</verseline>
+<verseline>Against your peace. Thee of thy son, Alonso,</verseline>
+<verseline>They have bereft; and do pronounce by me</verseline>
+<verseline>Ling&#8217;ring perdition, worse than any death</verseline>
+<verseline>Can be at once, shall step by step attend</verseline>
+<verseline>You and your ways; whose wraths to guard you from-</verseline>
+<verseline>Which here, in this most desolate isle, else falls</verseline>
+<verseline>Upon your heads-is nothing but heart&#8217;s sorrow,</verseline>
+<verseline>And a clear life ensuing.</verseline>
+<verseline>He vanishes in thunder; then, to soft music, enter</verseline>
+<verseline>the Shapes again, and dance, with mocks and mows,</verseline>
+<verseline>and carrying out the table</verseline>
+<character>Prospero</character>
+<verseline>Bravely the figure of this harpy hast thou</verseline>
+<verseline>Perform&#8217;d, my Ariel; a grace it had, devouring.</verseline>
+<verseline>Of my instruction hast thou nothing bated</verseline>
+<verseline>In what thou hadst to say; so, with good life</verseline>
+<verseline>And observation strange, my meaner ministers</verseline>
+<verseline>Their several kinds have done. My high charms work,</verseline>
+<verseline>And these mine enemies are all knit up</verseline>
+<verseline>In their distractions. They now are in my pow&#8217;r;</verseline>
+<verseline>And in these fits I leave them, while I visit</verseline>
+<verseline>Young Ferdinand, whom they suppose is drown&#8217;d,</verseline>
+<verseline>And his and mine lov&#8217;d darling. <stage_directions_inline>Exit above</stage_directions_inline>
+</verseline>
+<character>Gonzalo</character>
+<verseline>I&#8217; th&#8217; name of something holy, sir, why stand you</verseline>
+<verseline>In this strange stare?</verseline>
+<character>Alonso</character>
+<verseline>O, it is monstrous, monstrous!</verseline>
+<verseline>Methought the billows spoke, and told me of it;</verseline>
+<verseline>The winds did sing it to me; and the thunder,</verseline>
+<verseline>That deep and dreadful organ-pipe, pronounc&#8217;d</verseline>
+<verseline>The name of Prosper; it did bass my trespass.</verseline>
+<verseline>Therefore my son i&#8217; th&#8217; ooze is bedded; and</verseline>
+<verseline>I&#8217;ll seek him deeper than e&#8217;er plummet sounded,</verseline>
+<verseline>And with him there lie mudded. <stage_directions_inline>Exit</stage_directions_inline>
+</verseline>
+<character>Sebastian</character>
+<verseline>But one fiend at a time,</verseline>
+<verseline>I&#8217;ll fight their legions o&#8217;er.</verseline>
+<character>Antonio</character>
+<verseline>I&#8217;ll be thy second. <stage_directions_inline>Exeunt Sebastian and Antonio</stage_directions_inline>
+</verseline>
+<character>Gonzalo</character>
+<verseline>All three of them are desperate; their great guilt,</verseline>
+<verseline>Like poison given to work a great time after,</verseline>
+<verseline>Now gins to bite the spirits. I do beseech you,</verseline>
+<verseline>That are of suppler joints, follow them swiftly,</verseline>
+<verseline>And hinder them from what this ecstasy</verseline>
+<verseline>May now provoke them to.</verseline>
+<character>Adrian</character>
+<verseline>Follow, I pray you. <stage_directions_inline>Exeunt</stage_directions_inline>
+</verseline>
+<act>Act IV</act>
+<firstscene>Scene 1</firstscene>
+<location>Before Prospero&#8217;s cell</location>
+<stage_directions>Enter Prospero, Ferdinand, and Miranda</stage_directions>
+<character>Prospero</character>
+<verseline>If I have too austerely punish&#8217;d you,</verseline>
+<verseline>Your compensation makes amends; for</verseline>
+<verseline>Have given you here a third of mine own life,</verseline>
+<verseline>Or that for which I live; who once again</verseline>
+<verseline>I tender to thy hand. All thy vexations</verseline>
+<verseline>Were but my trials of thy love, and thou</verseline>
+<verseline>Hast strangely stood the test; here, afore heaven,</verseline>
+<verseline>I ratify this my rich gift. O Ferdinand!</verseline>
+<verseline>Do not smile at me that I boast her off,</verseline>
+<verseline>For thou shalt find she will outstrip all praise,</verseline>
+<verseline>And make it halt behind her.</verseline>
+<character>Ferdinand</character>
+<verseline>I do believe it</verseline>
+<verseline>Against an oracle.</verseline>
+<character>Prospero</character>
+<verseline>Then, as my gift, and thine own acquisition</verseline>
+<verseline>Wort&#8217;hily purchas&#8217;d, take my daughter. But</verseline>
+<verseline>If thou dost break her virgin-knot before</verseline>
+<verseline>All sanctimonious ceremonies may</verseline>
+<verseline>With full and holy rite be minist&#8217;red,</verseline>
+<verseline>No sweet aspersion shall the heavens let fall</verseline>
+<verseline>To make this contract grow; but barren hate,</verseline>
+<verseline>Sour-ey&#8217;d disdain, and discord, shall bestrew</verseline>
+<verseline>The union of your bed with weeds so loathly</verseline>
+<verseline>That you shall hate it both. Therefore take heed,</verseline>
+<verseline>As Hymen&#8217;s lamps shall light you.</verseline>
+<character>Ferdinand</character>
+<verseline>As I hope</verseline>
+<verseline>For quiet days, fair issue, and long life,</verseline>
+<verseline>With such love as &#8216;tis now, the murkiest den,</verseline>
+<verseline>The most opportune place, the strong&#8217;st suggestion</verseline>
+<verseline>Our worser genius can, shall never melt</verseline>
+<verseline>Mine honour into lust, to take away</verseline>
+<verseline>The edge of that day&#8217;s celebration,</verseline>
+<verseline>When I shall think or Phoebus&#8217; steeds are founder&#8217;d</verseline>
+<verseline>Or Night kept chain&#8217;d below.</verseline>
+<character>Prospero</character>
+<verseline>Fairly spoke.</verseline>
+<verseline>Sit, then, and talk with her; she is thine own.</verseline>
+<verseline>What, Ariel! my industrious servant, Ariel!</verseline>
+<stage_directions>Enter Ariel</stage_directions>
+<character>Ariel</character>
+<verseline>What would my potent master? Here I am.</verseline>
+<character>Prospero</character>
+<verseline>Thou and thy meaner fellows your last service</verseline>
+<verseline>Did worthily perform; and I must use you</verseline>
+<verseline>In such another trick. Go bring the rabble,</verseline>
+<verseline>O&#8217;er whom I give thee pow&#8217;r, here to this place.</verseline>
+<verseline>Incite them to quick motion; for I must</verseline>
+<verseline>Bestow upon the eyes of this young couple</verseline>
+<verseline>Some vanity of mine art; it is my promise,</verseline>
+<verseline>And they expect it from me.</verseline>
+<character>Ariel</character>
+<verseline>Presently?</verseline>
+<character>Prospero</character>
+<verseline>Ay, with a twink.</verseline>
+<character>Ariel</character>
+<verseline>Before you can say &#8216;come&#8217; and &#8216;go,&#8217;</verseline>
+<verseline>And breathe twice, and cry &#8216;so, so,&#8217;</verseline>
+<verseline>Each one, tripping on his toe,</verseline>
+<verseline>Will be here with mop and mow.</verseline>
+<verseline>Do you love me, master? No?</verseline>
+<character>Prospero</character>
+<verseline>Dearly, my delicate Ariel. Do not approach</verseline>
+<verseline>Till thou dost hear me call.</verseline>
+<character>Ariel</character>
+<verseline>Well! I conceive. <stage_directions_inline>Exit</stage_directions_inline>
+</verseline>
+<character>Prospero</character>
+<verseline>Look thou be true; do not give dalliance</verseline>
+<verseline>Too much the rein; the strongest oaths are straw</verseline>
+<verseline>To th&#8217; fire i&#8217; th&#8217; blood. Be more abstemious,</verseline>
+<verseline>Or else good night your vow!</verseline>
+<character>Ferdinand</character>
+<verseline>I warrant you, sir,</verseline>
+<verseline>The white cold virgin snow upon my heart</verseline>
+<verseline>Abates the ardour of my liver.</verseline>
+<character>Prospero</character>
+<verseline>Well!</verseline>
+<verseline>Now come, my Ariel, bring a corollary,</verseline>
+<verseline>Rather than want a spirit; appear, and pertly.</verseline>
+<verseline>No tongue! All eyes! Be silent.<stage_directions_inline>[Soft music]</stage_directions_inline>
+</verseline>
+<stage_directions>Enter Iris</stage_directions>
+<character>Iris</character>
+<verseline>Ceres, most bounteous lady, thy rich leas</verseline>
+<verseline>Of wheat, rye, barley, vetches, oats, and pease;</verseline>
+<verseline>Thy turfy mountains, where live nibbling sheep,</verseline>
+<verseline>And flat meads thatch&#8217;d with stover, them to keep;</verseline>
+<verseline>Thy banks with pioned and twilled brims,</verseline>
+<verseline>Which spongy April at thy hest betrims,</verseline>
+<verseline>To make cold nymphs chaste crowns; and thy broom groves,</verseline>
+<verseline>Whose shadow the dismissed bachelor loves,</verseline>
+<verseline>Being lass-lorn; thy pole-clipt vineyard;</verseline>
+<verseline>And thy sea-marge, sterile and rocky hard,</verseline>
+<verseline>Where thou thyself dost air-the Queen o&#8217; th&#8217; sky,</verseline>
+<verseline>Whose wat&#8217;ry arch and messenger am I,</verseline>
+<verseline>Bids thee leave these; and with her sovereign grace,</verseline>
+<verseline>Here on this grass-plot, in this very place,</verseline>
+<verseline>To come and sport. Her peacocks fly amain.</verseline>
+<verseline>
+<stage_directions_inline>[Juno descends in her car]</stage_directions_inline>
+</verseline>
+<verseline>Approach, rich Ceres, her to entertain.</verseline>
+<stage_directions>Enter Ceres</stage_directions>
+<character>Ceres</character>
+<verseline>Hail, many-coloured messenger, that ne&#8217;er</verseline>
+<verseline>Dost disobey the wife of Jupiter;</verseline>
+<verseline>Who, with thy saffron wings, upon my flow&#8217;rs</verseline>
+<verseline>Diffusest honey drops, refreshing show&#8217;rs;</verseline>
+<verseline>And with each end of thy blue bow dost crown</verseline>
+<verseline>My bosky acres and my unshrubb&#8217;d down,</verseline>
+<verseline>Rich scarf to my proud earth-why hath thy Queen</verseline>
+<verseline>Summon&#8217;d me hither to this short-grass&#8217;d green?</verseline>
+<character>Iris</character>
+<verseline>A contract of true love to celebrate,</verseline>
+<verseline>And some donation freely to estate</verseline>
+<verseline>On the blest lovers.</verseline>
+<character>Ceres</character>
+<verseline>Tell me, heavenly bow,</verseline>
+<verseline>If Venus or her son, as thou dost know,</verseline>
+<verseline>Do now attend the Queen? Since they did plot</verseline>
+<verseline>The means that dusky Dis my daughter got,</verseline>
+<verseline>Her and her blind boy&#8217;s scandal&#8217;d company</verseline>
+<verseline>I have forsworn.</verseline>
+<character>Iris</character>
+<verseline>Of her society</verseline>
+<verseline>Be not afraid. I met her Deity</verseline>
+<verseline>Cutting the clouds towards Paphos, and her son</verseline>
+<verseline>Dove-drawn with her. Here thought they to have done</verseline>
+<verseline>Some wanton charm upon this man and maid,</verseline>
+<verseline>Whose vows are that no bed-rite shall be paid</verseline>
+<verseline>Till Hymen&#8217;s torch be lighted; but in vain.</verseline>
+<verseline>Mars&#8217;s hot minion is return&#8217;d again;</verseline>
+<verseline>Her waspish-headed son has broke his arrows,</verseline>
+<verseline>Swears he will shoot no more, but play with sparrows,</verseline>
+<verseline>And be a boy right out. <stage_directions_inline>[Juno alights]</stage_directions_inline>
+</verseline>
+<character>Ceres</character>
+<verseline>Highest Queen of State,</verseline>
+<verseline>Great Juno, comes; I know her by her gait.</verseline>
+<character>Juno</character>
+<verseline>How does my bounteous sister? Go with me</verseline>
+<verseline>To bless this twain, that they may prosperous be,</verseline>
+<verseline>And honour&#8217;d in their issue. <stage_directions_inline>[They sing]</stage_directions_inline>
+</verseline>
+<character>Juno</character>
+<verseline>Honour, riches, marriage-blessing,</verseline>
+<verseline>Long continuance, and increasing,</verseline>
+<verseline>Hourly joys be still upon you!</verseline>
+<verseline>Juno sings her blessings on you.</verseline>
+<character>Ceres</character>
+<verseline>Earth&#8217;s increase, foison plenty,</verseline>
+<verseline>Barns and gamers never empty;</verseline>
+<verseline>Vines with clust&#8217;ring bunches growing,</verseline>
+<verseline>Plants with goodly burden bowing;</verseline>
+<verseline>Spring come to you at the farthest,</verseline>
+<verseline>In the very end of harvest!</verseline>
+<verseline>Scarcity and want shall shun you,</verseline>
+<verseline>Ceres&#8217; blessing so is on you.</verseline>
+<character>Ferdinand</character>
+<verseline>This is a most majestic vision, and</verseline>
+<verseline>Harmonious charmingly. May I be bold</verseline>
+<verseline>To think these spirits?</verseline>
+<character>Prospero</character>
+<verseline>Spirits, which by mine art</verseline>
+<verseline>I have from their confines call&#8217;d to enact</verseline>
+<verseline>My present fancies.</verseline>
+<character>Ferdinand</character>
+<verseline>Let me live here ever;</verseline>
+<verseline>So rare a wond&#8217;red father and a wise</verseline>
+<verseline>Makes this place Paradise.</verseline>
+<verseline>
+<stage_directions_inline>[Juno and Ceres whisper, and send Iris on employment]</stage_directions_inline>
+</verseline>
+<character>Prospero</character>
+<verseline>Sweet now, silence;</verseline>
+<verseline>Juno and Ceres whisper seriously.</verseline>
+<verseline>There&#8217;s something else to do; hush, and be mute,</verseline>
+<verseline>Or else our spell is marr&#8217;d.</verseline>
+<character>Iris</character>
+<verseline>You nymphs, call&#8217;d Naiads, of the wind&#8217;ring brooks,</verseline>
+<verseline>With your sedg&#8217;d crowns and ever harmless looks,</verseline>
+<verseline>Leave your crisp channels, and on this green land</verseline>
+<verseline>Answer your summons; Juno does command.</verseline>
+<verseline>Come, temperate nymphs, and help to celebrate</verseline>
+<verseline>A contract of true love; be not too late.</verseline>
+<stage_directions>Enter certain Nymphs</stage_directions>
+<verseline>You sun-burnt sicklemen, of August weary,</verseline>
+<verseline>Come hither from the furrow, and be merry;</verseline>
+<verseline>Make holiday; your rye-straw hats put on,</verseline>
+<verseline>And these fresh nymphs encounter every one</verseline>
+<verseline>In country footing.</verseline>
+<stage_directions>Enter certain Reapers, properly habited; they join with the Nymphs in a graceful dance; towards the end whereof Prospero starts suddenly, and speaks, after which, to a strange, hollow, and confused noise, they heavily vanish</stage_directions>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> I had forgot that foul conspiracy</verseline>
+<verseline>Of the beast Caliban and his confederates</verseline>
+<verseline>Against my life; the minute of their plot</verseline>
+<verseline>Is almost come. <stage_directions_inline>[To the Spirits]</stage_directions_inline> Well done; avoid; no more!</verseline>
+<character>Ferdinand</character>
+<verseline>This is strange; your father&#8217;s in some passion</verseline>
+<verseline>That works him strongly.</verseline>
+<character>Miranda</character>
+<verseline>Never till this day</verseline>
+<verseline>Saw I him touch&#8217;d with anger so distemper&#8217;d.</verseline>
+<character>Prospero</character>
+<verseline>You do look, my son, in a mov&#8217;d sort,</verseline>
+<verseline>As if you were dismay&#8217;d; be cheerful, sir.</verseline>
+<verseline>Our revels now are ended. These our actors,</verseline>
+<verseline>As I foretold you, were all spirits, and</verseline>
+<verseline>Are melted into air, into thin air;</verseline>
+<verseline>And, like the baseless fabric of this vision,</verseline>
+<verseline>The cloud-capp&#8217;d towers, the gorgeous palaces,</verseline>
+<verseline>The solemn temples, the great globe itself,</verseline>
+<verseline>Yea, all which it inherit, shall dissolve,</verseline>
+<verseline>And, like this insubstantial pageant faded,</verseline>
+<verseline>Leave not a rack behind. We are such stuff</verseline>
+<verseline>As dreams are made on; and our little life</verseline>
+<verseline>Is rounded with a sleep. Sir, I am vex&#8217;d;</verseline>
+<verseline>Bear with my weakness; my old brain is troubled;</verseline>
+<verseline>Be not disturb&#8217;d with my infirmity.</verseline>
+<verseline>If you be pleas&#8217;d, retire into my cell</verseline>
+<verseline>And there repose; a turn or two I&#8217;ll walk</verseline>
+<verseline>To still my beating mind.</verseline>
+<character>Ferdinand, Miranda</character>
+<verseline>We wish your peace. <stage_directions_inline>Exeunt</stage_directions_inline>
+</verseline>
+<character>Prospero</character>
+<verseline>Come, with a thought. I thank thee, Ariel; come.</verseline>
+<stage_directions>Enter Ariel</stage_directions>
+<character>Ariel</character>
+<verseline>Thy thoughts I cleave to. What&#8217;s thy pleasure?</verseline>
+<character>Prospero</character>
+<verseline>Spirit,</verseline>
+<verseline>We must prepare to meet with Caliban.</verseline>
+<character>Ariel</character>
+<verseline>Ay, my commander. When I presented &#8216;Ceres.&#8217;</verseline>
+<verseline>I thought to have told thee of it; but I fear&#8217;d</verseline>
+<verseline>Lest I might anger thee.</verseline>
+<character>Prospero</character>
+<verseline>Say again, where didst thou leave these varlets?</verseline>
+<character>Ariel</character>
+<verseline>I told you, sir, they were red-hot with drinking;</verseline>
+<verseline>So full of valour that they smote the air</verseline>
+<verseline>For breathing in their faces; beat the ground</verseline>
+<verseline>For kissing of their feet; yet always bending</verseline>
+<verseline>Towards their project. Then I beat my tabor,</verseline>
+<verseline>At which like unback&#8217;d colts they prick&#8217;d their ears,</verseline>
+<verseline>Advanc&#8217;d their eyelids, lifted up their noses</verseline>
+<verseline>As they smelt music; so I charm&#8217;d their cars,</verseline>
+<verseline>That calf-like they my lowing follow&#8217;d through</verseline>
+<verseline>Tooth&#8217;d briers, sharp furzes, pricking goss, and thorns,</verseline>
+<verseline>Which ent&#8217;red their frail shins. At last I left them</verseline>
+<verseline>I&#8217; th&#8217; filthy mantled pool beyond your cell,</verseline>
+<verseline>There dancing up to th&#8217; chins, that the foul lake</verseline>
+<verseline>O&#8217;erstunk their feet.</verseline>
+<character>Prospero</character>
+<verseline>This was well done, my bird.</verseline>
+<verseline>Thy shape invisible retain thou still.</verseline>
+<verseline>The trumpery in my house, go bring it hither</verseline>
+<verseline>For stale to catch these thieves.</verseline>
+<character>Ariel</character>
+<verseline>I go, I go. <stage_directions_inline>Exit</stage_directions_inline>
+</verseline>
+<character>Prospero</character>
+<verseline>A devil, a born devil, on whose nature</verseline>
+<verseline>Nurture can never stick; on whom my pains,</verseline>
+<verseline>Humanely taken, all, all lost, quite lost;</verseline>
+<verseline>And as with age his body uglier grows,</verseline>
+<verseline>So his mind cankers. I will plague them all,</verseline>
+<verseline>Even to roaring.</verseline>
+<stage_directions>Re-enter Ariel, loaden with glistering apparel, &amp;c.</stage_directions>
+<verseline>Come, hang them on this line.</verseline>
+<verseline>
+<stage_directions_inline>[Prospero and Ariel remain, invisible]</stage_directions_inline>
+</verseline>
+<stage_directions>Enter Caliban, Stephano, and Trinculo, all wet</stage_directions>
+<character>Caliban</character>
+<verseline>Pray you, tread softly, that the blind mole may not</verseline>
+<verseline>Hear a foot fall; we now are near his cell.</verseline>
+<character>Stephano</character>
+<prose>Monster, your fairy, which you say is a harmless fairy, has done little better than play&#8217;d the Jack with us.</prose>
+<character>Trinculo</character>
+<prose>Monster, I do smell all horse-piss at which my nose is in great indignation.</prose>
+<character>Stephano</character>
+<prose>So is mine. Do you hear, monster? If I should take a displeasure against you, look you-</prose>
+<character>Trinculo</character>
+<verseline>Thou wert but a lost monster.</verseline>
+<character>Caliban</character>
+<verseline>Good my lord, give me thy favour still.</verseline>
+<verseline>Be patient, for the prize I&#8217;ll bring thee to</verseline>
+<verseline>Shall hoodwink this mischance; therefore speak softly.</verseline>
+<verseline>All&#8217;s hush&#8217;d as midnight yet.</verseline>
+<character>Trinculo</character>
+<verseline>Ay, but to lose our bottles in the pool!</verseline>
+<character>Stephano</character>
+<prose>There is not only disgrace and dishonour in that, monster, but an infinite loss.</prose>
+<character>Trinculo</character>
+<prose>That&#8217;s more to me than my wetting; yet this is your harmless fairy, monster.</prose>
+<character>Stephano</character>
+<prose>I will fetch off my bottle, though I be o&#8217;er ears for my labour.</prose>
+<character>Caliban</character>
+<verseline>Prithee, my king, be quiet. Seest thou here,</verseline>
+<verseline>This is the mouth o&#8217; th&#8217; cell; no noise, and enter.</verseline>
+<verseline>Do that good mischief which may make this island</verseline>
+<verseline>Thine own for ever, and I, thy Caliban,</verseline>
+<verseline>For aye thy foot-licker.</verseline>
+<character>Stephano</character>
+<prose>Give me thy hand. I do begin to have bloody thoughts.</prose>
+<character>Trinculo</character>
+<verseline>O King Stephano! O peer! O worthy Stephano!</verseline>
+<verseline>Look what a wardrobe here is for thee!</verseline>
+<character>Caliban</character>
+<verseline>Let it alone, thou fool; it is but trash.</verseline>
+<character>Trinculo</character>
+<prose>O, ho, monster; we know what belongs to a frippery. O King Stephano!</prose>
+<character>Stephano</character>
+<prose>Put off that gown, Trinculo; by this hand, I&#8217;ll have that gown.</prose>
+<character>Trinculo</character>
+<verseline>Thy Grace shall have it.</verseline>
+<character>Caliban</character>
+<verseline>The dropsy drown this fool! What do you mean</verseline>
+<verseline>To dote thus on such luggage? Let &#8216;t alone,</verseline>
+<verseline>And do the murder first. If he awake,</verseline>
+<verseline>From toe to crown he&#8217;ll fill our skins with pinches;</verseline>
+<verseline>Make us strange stuff.</verseline>
+<character>Stephano</character>
+<prose>Be you quiet, monster. Mistress line, is not this my jerkin? Now is the jerkin under the line; now, jerkin, you are like to lose your hair, and prove a bald jerkin.</prose>
+<character>Trinculo</character>
+<prose>Do, do. We steal by line and level, an&#8217;t like your Grace.</prose>
+<character>Stephano</character>
+<prose>I thank thee for that jest; here&#8217;s a garment for&#8217;t. Wit shall not go unrewarded while I am king of this country. &#8216;Steal by line and level&#8217; is an excellent pass of pate; there&#8217;s another garmet for&#8217;t.</prose>
+<character>Trinculo</character>
+<prose>Monster, come, put some lime upon your fingers, and away with the rest.</prose>
+<character>Caliban</character>
+<verseline>I will have none on&#8217;t. We shall lose our time,</verseline>
+<verseline>And all be turn&#8217;d to barnacles, or to apes</verseline>
+<verseline>With foreheads villainous low.</verseline>
+<character>Stephano</character>
+<prose>Monster, lay-to your fingers; help to bear this away where my hogshead of wine is, or I&#8217;ll turn you out of my kingdom. Go to, carry this.</prose>
+<character>Trinculo</character>
+<verseline>And this.</verseline>
+<character>Stephano</character>
+<verseline>Ay, and this.</verseline>
+<verseline>A noise of hunters beard. Enter divers Spirits, in</verseline>
+<verseline>shape of dogs and hounds, bunting them about;</verseline>
+<verseline>Prospero and Ariel setting them on</verseline>
+<character>Prospero</character>
+<verseline>Hey, Mountain, hey!</verseline>
+<character>Ariel</character>
+<verseline>Silver! there it goes, Silver!</verseline>
+<character>Prospero</character>
+<verseline>Fury, Fury! There, Tyrant, there! Hark, hark!</verseline>
+<verseline>
+<stage_directions_inline>[Caliban, Stephano, and Trinculo are driven out]</stage_directions_inline>
+</verseline>
+<verseline>Go charge my goblins that they grind their joints</verseline>
+<verseline>With dry convulsions, shorten up their sinews</verseline>
+<verseline>With aged cramps, and more pinch-spotted make them</verseline>
+<verseline>Than pard or cat o&#8217; mountain.</verseline>
+<character>Ariel</character>
+<verseline>Hark, they roar.</verseline>
+<character>Prospero</character>
+<verseline>Let them be hunted soundly. At this hour</verseline>
+<verseline>Lies at my mercy all mine enemies.</verseline>
+<verseline>Shortly shall all my labours end, and thou</verseline>
+<verseline>Shalt have the air at freedom; for a little</verseline>
+<verseline>Follow, and do me service. <stage_directions_inline>Exeunt</stage_directions_inline>
+</verseline>
+<act>Act V</act>
+<firstscene>Scene 1</firstscene>
+<location>Before Prospero&#8217;s cell</location>
+<stage_directions>Enter Prospero in his magic robes, and Ariel</stage_directions>
+<character>Prospero</character>
+<verseline>Now does my project gather to a head;</verseline>
+<verseline>My charms crack not, my spirits obey; and time</verseline>
+<verseline>Goes upright with his carriage. How&#8217;s the day?</verseline>
+<character>Ariel</character>
+<verseline>On the sixth hour; at which time, my lord,</verseline>
+<verseline>You said our work should cease.</verseline>
+<character>Prospero</character>
+<verseline>I did say so,</verseline>
+<verseline>When first I rais&#8217;d the tempest. Say, my spirit,</verseline>
+<verseline>How fares the King and &#8216;s followers?</verseline>
+<character>Ariel</character>
+<verseline>Confin&#8217;d together</verseline>
+<verseline>In the same fashion as you gave in charge;</verseline>
+<verseline>Just as you left them; all prisoners, sir,</verseline>
+<verseline>In the line-grove which weather-fends your cell;</verseline>
+<verseline>They cannot budge till your release. The King,</verseline>
+<verseline>His brother, and yours, abide all three distracted,</verseline>
+<verseline>And the remainder mourning over them,</verseline>
+<verseline>Brim full of sorrow and dismay; but chiefly</verseline>
+<verseline>Him you term&#8217;d, sir, &#8216;the good old lord, Gonzalo&#8217;;</verseline>
+<verseline>His tears run down his beard, like winter&#8217;s drops</verseline>
+<verseline>From eaves of reeds. Your charm so strongly works &#8216;em</verseline>
+<verseline>That if you now beheld them your affections</verseline>
+<verseline>Would become tender.</verseline>
+<character>Prospero</character>
+<verseline>Dost thou think so, spirit?</verseline>
+<character>Ariel</character>
+<verseline>Mine would, sir, were I human.</verseline>
+<character>Prospero</character>
+<verseline>And mine shall.</verseline>
+<verseline>Hast thou, which art but air, a touch, a feeling</verseline>
+<verseline>Of their afflictions, and shall not myself,</verseline>
+<verseline>One of their kind, that relish all as sharply,</verseline>
+<verseline>Passion as they, be kindlier mov&#8217;d than thou art?</verseline>
+<verseline>Though with their high wrongs I am struck to th&#8217; quick,</verseline>
+<verseline>Yet with my nobler reason &#8216;gainst my fury</verseline>
+<verseline>Do I take part; the rarer action is</verseline>
+<verseline>In virtue than in vengeance; they being penitent,</verseline>
+<verseline>The sole drift of my purpose doth extend</verseline>
+<verseline>Not a frown further. Go release them, Ariel;</verseline>
+<verseline>My charms I&#8217;ll break, their senses I&#8217;ll restore,</verseline>
+<verseline>And they shall be themselves.</verseline>
+<character>Ariel</character>
+<verseline>I&#8217;ll fetch them, sir. <stage_directions_inline>Exit</stage_directions_inline>
+</verseline>
+<character>Prospero</character>
+<verseline>Ye elves of hills, brooks, standing lakes, and groves;</verseline>
+<verseline>And ye that on the sands with printless foot</verseline>
+<verseline>Do chase the ebbing Neptune, and do fly him</verseline>
+<verseline>When he comes back; you demi-puppets that</verseline>
+<verseline>By moonshine do the green sour ringlets make,</verseline>
+<verseline>Whereof the ewe not bites; and you whose pastime</verseline>
+<verseline>Is to make midnight mushrooms, that rejoice</verseline>
+<verseline>To hear the solemn curfew; by whose aid-</verseline>
+<verseline>Weak masters though ye be-I have be-dimm&#8217;d</verseline>
+<verseline>The noontide sun, call&#8217;d forth the mutinous winds,</verseline>
+<verseline>And &#8216;twixt the green sea and the azur&#8217;d vault</verseline>
+<verseline>Set roaring war. To the dread rattling thunder</verseline>
+<verseline>Have I given fire, and rifted Jove&#8217;s stout oak</verseline>
+<verseline>With his own bolt; the strong-bas&#8217;d promontory</verseline>
+<verseline>Have I made shake, and by the spurs pluck&#8217;d up</verseline>
+<verseline>The pine and cedar. Graves at my command</verseline>
+<verseline>Have wak&#8217;d their sleepers, op&#8217;d, and let &#8216;em forth,</verseline>
+<verseline>By my so potent art. But this rough magic</verseline>
+<verseline>I here abjure; and, when I have requir&#8217;d</verseline>
+<verseline>Some heavenly music-which even now I do-</verseline>
+<verseline>To work mine end upon their senses that</verseline>
+<verseline>This airy charm is for, I&#8217;ll break my staff,</verseline>
+<verseline>Bury it certain fathoms in the earth,</verseline>
+<verseline>And deeper than did ever plummet sound</verseline>
+<verseline>I&#8217;ll drown my book. <stage_directions_inline>[Solem music]</stage_directions_inline>
+</verseline>
+<stage_directions>Here enters Ariel before; then Alonso, with frantic gesture, attended by Gonzalo; Sebastian and Antonio in like manner, attended by Adrian and Francisco. They all enter the circle which Prospero had made, and there stand charm&#8217;d; which Prospero observing, speaks</stage_directions>
+<verseline>A solemn air, and the best comforter</verseline>
+<verseline>To an unsettled fancy, cure thy brains,</verseline>
+<verseline>Now useless, boil&#8217;d within thy skull! There stand,</verseline>
+<verseline>For you are spell-stopp&#8217;d.</verseline>
+<verseline>Holy Gonzalo, honourable man,</verseline>
+<verseline>Mine eyes, ev&#8217;n sociable to the show of thine,</verseline>
+<verseline>Fall fellowly drops. The charm dissolves apace,</verseline>
+<verseline>And as the morning steals upon the night,</verseline>
+<verseline>Melting the darkness, so their rising senses</verseline>
+<verseline>Begin to chase the ignorant fumes that mantle</verseline>
+<verseline>Their clearer reason. O good Gonzalo,</verseline>
+<verseline>My true preserver, and a loyal sir</verseline>
+<verseline>To him thou follow&#8217;st! I will pay thy graces</verseline>
+<verseline>Home both in word and deed. Most cruelly</verseline>
+<verseline>Didst thou, Alonso, use me and my daughter;</verseline>
+<verseline>Thy brother was a furtherer in the act.</verseline>
+<verseline>Thou art pinch&#8217;d for&#8217;t now, Sebastian. Flesh and blood,</verseline>
+<verseline>You, brother mine, that entertain&#8217;d ambition,</verseline>
+<verseline>Expell&#8217;d remorse and nature, who, with Sebastian-</verseline>
+<verseline>Whose inward pinches therefore are most strong-</verseline>
+<verseline>Would here have kill&#8217;d your king, I do forgive thee,</verseline>
+<verseline>Unnatural though thou art. Their understanding</verseline>
+<verseline>Begins to swell, and the approaching tide</verseline>
+<verseline>Will shortly fill the reasonable shore</verseline>
+<verseline>That now lies foul and muddy. Not one of them</verseline>
+<verseline>That yet looks on me, or would know me. Ariel,</verseline>
+<verseline>Fetch me the hat and rapier in my cell;</verseline>
+<verseline>
+<stage_directions_inline>Exit Ariel</stage_directions_inline>
+</verseline>
+<verseline>I will discase me, and myself present</verseline>
+<verseline>As I was sometime Milan. Quickly, spirit</verseline>
+<verseline>Thou shalt ere long be free.</verseline>
+<verseline>Ariel, on returning, sings and helps to attire him</verseline>
+<verseline>Where the bee sucks, there suck I;</verseline>
+<verseline>In a cowslip&#8217;s bell I lie;</verseline>
+<verseline>There I couch when owls do cry.</verseline>
+<verseline>On the bat&#8217;s back I do fly</verseline>
+<verseline>After summer merrily.</verseline>
+<verseline>Merrily, merrily shall I live now</verseline>
+<verseline>Under the blossom that hangs on the bough.</verseline>
+<character>Prospero</character>
+<verseline>Why, that&#8217;s my dainty Ariel! I shall miss thee;</verseline>
+<verseline>But yet thou shalt have freedom. So, so, so.</verseline>
+<verseline>To the King&#8217;s ship, invisible as thou art;</verseline>
+<verseline>There shalt thou find the mariners asleep</verseline>
+<verseline>Under the hatches; the master and the boatswain</verseline>
+<verseline>Being awake, enforce them to this place;</verseline>
+<verseline>And presently, I prithee.</verseline>
+<character>Ariel</character>
+<verseline>I drink the air before me, and return</verseline>
+<verseline>Or ere your pulse twice beat.</verseline>
+<verseline>
+<stage_directions_inline>Exit</stage_directions_inline>
+</verseline>
+<character>Gonzalo</character>
+<verseline>All torment, trouble, wonder and amazement,</verseline>
+<verseline>Inhabits here. Some heavenly power guide us</verseline>
+<verseline>Out of this fearful country!</verseline>
+<character>Prospero</character>
+<verseline>Behold, Sir King,</verseline>
+<verseline>The wronged Duke of Milan, Prospero.</verseline>
+<verseline>For more assurance that a living prince</verseline>
+<verseline>Does now speak to thee, I embrace thy body;</verseline>
+<verseline>And to thee and thy company I bid</verseline>
+<verseline>A hearty welcome.</verseline>
+<character>Alonso</character>
+<verseline>Whe&#8217;er thou be&#8217;st he or no,</verseline>
+<verseline>Or some enchanted trifle to abuse me,</verseline>
+<verseline>As late I have been, I not know. Thy pulse</verseline>
+<verseline>Beats, as of flesh and blood; and, since I saw thee,</verseline>
+<verseline>Th&#8217; affliction of my mind amends, with which,</verseline>
+<verseline>I fear, a madness held me. This must crave-</verseline>
+<verseline>An if this be at all-a most strange story.</verseline>
+<verseline>Thy dukedom I resign, and do entreat</verseline>
+<verseline>Thou pardon me my wrongs. But how should Prospero</verseline>
+<verseline>Be living and be here?</verseline>
+<character>Prospero</character>
+<verseline>First, noble friend,</verseline>
+<verseline>Let me embrace thine age, whose honour cannot</verseline>
+<verseline>Be measur&#8217;d or confin&#8217;d.</verseline>
+<character>Gonzalo</character>
+<verseline>Whether this be</verseline>
+<verseline>Or be not, I&#8217;ll not swear.</verseline>
+<character>Prospero</character>
+<verseline>You do yet taste</verseline>
+<verseline>Some subtleties o&#8217; th&#8217; isle, that will not let you</verseline>
+<verseline>Believe things certain. Welcome, my friends all!</verseline>
+<verseline>
+<stage_directions_inline>[Aside to Sebastian and Antonio]</stage_directions_inline> But you, my brace of lords, were I so minded,</verseline>
+<verseline>I here could pluck his Highness&#8217; frown upon you,</verseline>
+<verseline>And justify you traitors; at this time</verseline>
+<verseline>I will tell no tales.</verseline>
+<character>Sebastian</character>
+<verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> The devil speaks in him.</verseline>
+<character>Prospero</character>
+<verseline>No.</verseline>
+<verseline>For you, most wicked sir, whom to call brother</verseline>
+<verseline>Would even infect my mouth, I do forgive</verseline>
+<verseline>Thy rankest fault-all of them; and require</verseline>
+<verseline>My dukedom of thee, which perforce I know</verseline>
+<verseline>Thou must restore.</verseline>
+<character>Alonso</character>
+<verseline>If thou beest Prospero,</verseline>
+<verseline>Give us particulars of thy preservation;</verseline>
+<verseline>How thou hast met us here, whom three hours since</verseline>
+<verseline>Were wreck&#8217;d upon this shore; where I have lost-</verseline>
+<verseline>How sharp the point of this remembrance is!-</verseline>
+<verseline>My dear son Ferdinand.</verseline>
+<character>Prospero</character>
+<verseline>I am woe for&#8217;t, sir.</verseline>
+<character>Alonso</character>
+<verseline>Irreparable is the loss; and patience</verseline>
+<verseline>Says it is past her cure.</verseline>
+<character>Prospero</character>
+<verseline>I rather think</verseline>
+<verseline>You have not sought her help, of whose soft grace</verseline>
+<verseline>For the like loss I have her sovereign aid,</verseline>
+<verseline>And rest myself content.</verseline>
+<character>Alonso</character>
+<verseline>You the like loss!</verseline>
+<character>Prospero</character>
+<verseline>As great to me as late; and, supportable</verseline>
+<verseline>To make the dear loss, have I means much weaker</verseline>
+<verseline>Than you may call to comfort you, for I</verseline>
+<verseline>Have lost my daughter.</verseline>
+<character>Alonso</character>
+<verseline>A daughter!</verseline>
+<verseline>O heavens, that they were living both in Naples,</verseline>
+<verseline>The King and Queen there! That they were, I wish</verseline>
+<verseline>Myself were mudded in that oozy bed</verseline>
+<verseline>Where my son lies. When did you lose your daughter?</verseline>
+<character>Prospero</character>
+<verseline>In this last tempest. I perceive these lords</verseline>
+<verseline>At this encounter do so much admire</verseline>
+<verseline>That they devour their reason, and scarce think</verseline>
+<verseline>Their eyes do offices of truth, their words</verseline>
+<verseline>Are natural breath; but, howsoe&#8217;er you have</verseline>
+<verseline>Been justled from your senses, know for certain</verseline>
+<verseline>That I am Prospero, and that very duke</verseline>
+<verseline>Which was thrust forth of Milan; who most strangely</verseline>
+<verseline>Upon this shore, where you were wrecked, was landed</verseline>
+<verseline>To be the lord on&#8217;t. No more yet of this;</verseline>
+<verseline>For &#8216;tis a chronicle of day by day,</verseline>
+<verseline>Not a relation for a breakfast, nor</verseline>
+<verseline>Befitting this first meeting. Welcome, sir;</verseline>
+<verseline>This cell&#8217;s my court; here have I few attendants,</verseline>
+<verseline>And subjects none abroad; pray you, look in.</verseline>
+<verseline>My dukedom since you have given me again,</verseline>
+<verseline>I will requite you with as good a thing;</verseline>
+<verseline>At least bring forth a wonder, to content ye</verseline>
+<verseline>As much as me my dukedom.</verseline>
+<verseline>Here Prospero discovers Ferdinand and Miranda,</verseline>
+<verseline>playing at chess</verseline>
+<character>Miranda</character>
+<verseline>Sweet lord, you play me false.</verseline>
+<character>Ferdinand</character>
+<verseline>No, my dearest love,</verseline>
+<verseline>I would not for the world.</verseline>
+<character>Miranda</character>
+<verseline>Yes, for a score of kingdoms you should wrangle</verseline>
+<verseline>And I would call it fair play.</verseline>
+<character>Alonso</character>
+<verseline>If this prove</verseline>
+<verseline>A vision of the island, one dear son</verseline>
+<verseline>Shall I twice lose.</verseline>
+<character>Sebastian</character>
+<verseline>A most high miracle!</verseline>
+<character>Ferdinand</character>
+<verseline>Though the seas threaten, they are merciful;</verseline>
+<verseline>I have curs&#8217;d them without cause. <stage_directions_inline>[Kneels]</stage_directions_inline>
+</verseline>
+<character>Alonso</character>
+<verseline>Now all the blessings</verseline>
+<verseline>Of a glad father compass thee about!</verseline>
+<verseline>Arise, and say how thou cam&#8217;st here.</verseline>
+<character>Miranda</character>
+<verseline>O, wonder!</verseline>
+<verseline>How many goodly creatures are there here!</verseline>
+<verseline>How beauteous mankind is! O brave new world</verseline>
+<verseline>That has such people in&#8217;t!</verseline>
+<character>Prospero</character>
+<verseline>&#8216;Tis new to thee.</verseline>
+<character>Alonso</character>
+<verseline>What is this maid with whom thou wast at play?</verseline>
+<verseline>Your eld&#8217;st acquaintance cannot be three hours;</verseline>
+<verseline>Is she the goddess that hath sever&#8217;d us,</verseline>
+<verseline>And brought us thus together?</verseline>
+<character>Ferdinand</character>
+<verseline>Sir, she is mortal;</verseline>
+<verseline>But by immortal Providence she&#8217;s mine.</verseline>
+<verseline>I chose her when I could not ask my father</verseline>
+<verseline>For his advice, nor thought I had one. She</verseline>
+<verseline>Is daughter to this famous Duke of Milan,</verseline>
+<verseline>Of whom so often I have heard renown</verseline>
+<verseline>But never saw before; of whom I have</verseline>
+<verseline>Receiv&#8217;d a second life; and second father</verseline>
+<verseline>This lady makes him to me.</verseline>
+<character>Alonso</character>
+<verseline>I am hers.</verseline>
+<verseline>But, O, how oddly will it sound that I</verseline>
+<verseline>Must ask my child forgiveness!</verseline>
+<character>Prospero</character>
+<verseline>There, sir, stop;</verseline>
+<verseline>Let us not burden our remembrances with</verseline>
+<verseline>A heaviness that&#8217;s gone.</verseline>
+<character>Gonzalo</character>
+<verseline>I have inly wept,</verseline>
+<verseline>Or should have spoke ere this. Look down, you gods,</verseline>
+<verseline>And on this couple drop a blessed crown;</verseline>
+<verseline>For it is you that have chalk&#8217;d forth the way</verseline>
+<verseline>Which brought us hither.</verseline>
+<character>Alonso</character>
+<verseline>I say, Amen, Gonzalo!</verseline>
+<character>Gonzalo</character>
+<verseline>Was Milan thrust from Milan, that his issue</verseline>
+<verseline>Should become Kings of Naples? O, rejoice</verseline>
+<verseline>Beyond a common joy, and set it down</verseline>
+<verseline>With gold on lasting pillars: in one voyage</verseline>
+<verseline>Did Claribel her husband find at Tunis;</verseline>
+<verseline>And Ferdinand, her brother, found a wife</verseline>
+<verseline>Where he himself was lost; Prospero his dukedom</verseline>
+<verseline>In a poor isle; and all of us ourselves</verseline>
+<verseline>When no man was his own.</verseline>
+<character>Alonso</character>
+<verseline>
+<stage_directions_inline>[To Ferdinand and Miranda]</stage_directions_inline> Give me your hands.</verseline>
+<verseline>Let grief and sorrow still embrace his heart</verseline>
+<verseline>That doth not wish you joy.</verseline>
+<character>Gonzalo</character>
+<verseline>Be it so. Amen!</verseline>
+<stage_directions>Re-enter Ariel, with the Master and Boatswain</stage_directions>
+<verseline>amazedly following</verseline>
+<verseline>O look, sir; look, sir! Here is more of us!</verseline>
+<verseline>I prophesied, if a gallows were on land,</verseline>
+<verseline>This fellow could not drown. Now, blasphemy,</verseline>
+<verseline>That swear&#8217;st grace o&#8217;erboard, not an oath on shore?</verseline>
+<verseline>Hast thou no mouth by land? What is the news?</verseline>
+<character>Boatswain</character>
+<verseline>The best news is that we have safely found</verseline>
+<verseline>Our King and company; the next, our ship-</verseline>
+<verseline>Which but three glasses since we gave out split-</verseline>
+<verseline>Is tight and yare, and bravely rigg&#8217;d, as when</verseline>
+<verseline>We first put out to sea.</verseline>
+<character>Ariel</character>
+<verseline>
+<stage_directions_inline>[Aside to Prospero]</stage_directions_inline> Sir, all this service</verseline>
+<verseline>Have I done since I went.</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside to Ariel]</stage_directions_inline> My tricksy spirit!</verseline>
+<character>Alonso</character>
+<verseline>These are not natural events; they strengthen</verseline>
+<verseline>From strange to stranger. Say, how came you hither?</verseline>
+<character>Boatswain</character>
+<verseline>If I did think, sir, I were well awake,</verseline>
+<verseline>I&#8217;d strive to tell you. We were dead of sleep,</verseline>
+<verseline>And-how, we know not-all clapp&#8217;d under hatches;</verseline>
+<verseline>Where, but even now, with strange and several noises</verseline>
+<verseline>Of roaring, shrieking, howling, jingling chains,</verseline>
+<verseline>And moe diversity of sounds, all horrible,</verseline>
+<verseline>We were awak&#8217;d; straightway at liberty;</verseline>
+<verseline>Where we, in all her trim, freshly beheld</verseline>
+<verseline>Our royal, good, and gallant ship; our master</verseline>
+<verseline>Cap&#8217;ring to eye her. On a trice, so please you,</verseline>
+<verseline>Even in a dream, were we divided from them,</verseline>
+<verseline>And were brought moping hither.</verseline>
+<character>Ariel</character>
+<verseline>
+<stage_directions_inline>[Aside to Prospero]</stage_directions_inline> Was&#8217;t well done?</verseline>
+<character>Prospero</character>
+<verseline>
+<stage_directions_inline>[Aside to Ariel]</stage_directions_inline> Bravely, my diligence. Thou shalt be free.</verseline>
+<character>Alonso</character>
+<verseline>This is as strange a maze as e&#8217;er men trod;</verseline>
+<verseline>And there is in this business more than nature</verseline>
+<verseline>Was ever conduct of. Some oracle</verseline>
+<verseline>Must rectify our knowledge.</verseline>
+<character>Prospero</character>
+<verseline>Sir, my liege,</verseline>
+<verseline>Do not infest your mind with beating on</verseline>
+<verseline>The strangeness of this business; at pick&#8217;d leisure,</verseline>
+<verseline>Which shall be shortly, single I&#8217;ll resolve you,</verseline>
+<verseline>Which to you shall seem probable, of every</verseline>
+<verseline>These happen&#8217;d accidents; till when, be cheerful</verseline>
+<verseline>And think of each thing well. <stage_directions_inline>[Aside to Ariel]</stage_directions_inline> Come hither, spirit;</verseline>
+<verseline>Set Caliban and his companions free;</verseline>
+<verseline>Untie the spell. <stage_directions_inline>[Exit Ariel]</stage_directions_inline> How fares my gracious sir?</verseline>
+<verseline>There are yet missing of your company</verseline>
+<verseline>Some few odd lads that you remember not.</verseline>
+<stage_directions>Re-enter Ariel, driving in Caliban, Stephano, and Trinculo, in their stolen apparel</stage_directions>
+<character>Stephano</character>
+<prose>Every man shift for all the rest, and let no man take care for himself; for all is but fortune. Coragio, bully-monster, coragio!</prose>
+<character>Trinculo</character>
+<prose>If these be true spies which I wear in my head, here&#8217;s a goodly sight.</prose>
+<character>Caliban</character>
+<verseline>O Setebos, these be brave spirits indeed!</verseline>
+<verseline>How fine my master is! I am afraid</verseline>
+<verseline>He will chastise me.</verseline>
+<character>Sebastian</character>
+<verseline>Ha, ha!</verseline>
+<verseline>What things are these, my lord Antonio?</verseline>
+<verseline>Will money buy&#8217;em?</verseline>
+<character>Antonio</character>
+<verseline>Very like; one of them</verseline>
+<verseline>Is a plain fish, and no doubt marketable.</verseline>
+<character>Prospero</character>
+<verseline>Mark but the badges of these men, my lords,</verseline>
+<verseline>Then say if they be true. This mis-shapen knave-</verseline>
+<verseline>His mother was a witch, and one so strong</verseline>
+<verseline>That could control the moon, make flows and ebbs,</verseline>
+<verseline>And deal in her command without her power.</verseline>
+<verseline>These three have robb&#8217;d me; and this demi-devil-</verseline>
+<verseline>For he&#8217;s a bastard one-had plotted with them</verseline>
+<verseline>To take my life. Two of these fellows you</verseline>
+<verseline>Must know and own; this thing of darkness I</verseline>
+<verseline>Acknowledge mine.</verseline>
+<character>Caliban</character>
+<verseline>I shall be pinch&#8217;d to death.</verseline>
+<character>Alonso</character>
+<verseline>Is not this Stephano, my drunken butler?</verseline>
+<character>Sebastian</character>
+<verseline>He is drunk now; where had he wine?</verseline>
+<character>Alonso</character>
+<verseline>And Trinculo is reeling ripe; where should they</verseline>
+<verseline>Find this grand liquor that hath gilded &#8216;em?</verseline>
+<verseline>How cam&#8217;st thou in this pickle?</verseline>
+<character>Trinculo</character>
+<prose>I have been in such a pickle since I saw you last that, I fear me, will never out of my bones. I shall not fear fly-blowing.</prose>
+<character>Sebastian</character>
+<verseline>Why, how now, Stephano!</verseline>
+<character>Stephano</character>
+<prose>O, touch me not; I am not Stephano, but a cramp.</prose>
+<character>Prospero</character>
+<prose>You&#8217;d be king o&#8217; the isle, sirrah?</prose>
+<character>Stephano</character>
+<prose>I should have been a sore one, then.</prose>
+<character>Alonso</character>
+<prose>
+<stage_directions_inline>[Pointing to Caliban]</stage_directions_inline> This is as strange a thing as e&#8217;er I look&#8217;d on.</prose>
+<character>Prospero</character>
+<verseline>He is as disproportioned in his manners</verseline>
+<verseline>As in his shape. Go, sirrah, to my cell;</verseline>
+<verseline>Take with you your companions; as you look</verseline>
+<verseline>To have my pardon, trim it handsomely.</verseline>
+<character>Caliban</character>
+<verseline>Ay, that I will; and I&#8217;ll be wise hereafter,</verseline>
+<verseline>And seek for grace. What a thrice-double ass</verseline>
+<verseline>Was I to take this drunkard for a god,</verseline>
+<verseline>And worship this dull fool!</verseline>
+<character>Prospero</character>
+<verseline>Go to; away!</verseline>
+<character>Alonso</character>
+<verseline>Hence, and bestow your luggage where you found it.</verseline>
+<character>Sebastian</character>
+<verseline>Or stole it, rather.</verseline>
+<stage_directions>Exeunt Caliban, Stephano, and Trinculo</stage_directions>
+<character>Prospero</character>
+<verseline>Sir, I invite your Highness and your train</verseline>
+<verseline>To my poor cell, where you shall take your rest</verseline>
+<verseline>For this one night; which, part of it, I&#8217;ll waste</verseline>
+<verseline>With such discourse as, I not doubt, shall make it</verseline>
+<verseline>Go quick away-the story of my life,</verseline>
+<verseline>And the particular accidents gone by</verseline>
+<verseline>Since I came to this isle. And in the morn</verseline>
+<verseline>I&#8217;ll bring you to your ship, and so to Naples,</verseline>
+<verseline>Where I have hope to see the nuptial</verseline>
+<verseline>Of these our dear-belov&#8217;d solemnized,</verseline>
+<verseline>And thence retire me to my Milan, where</verseline>
+<verseline>Every third thought shall be my grave.</verseline>
+<character>Alonso</character>
+<verseline>I long</verseline>
+<verseline>To hear the story of your life, which must</verseline>
+<verseline>Take the ear strangely.</verseline>
+<character>Prospero</character>
+<verseline>I&#8217;ll deliver all;</verseline>
+<verseline>And promise you calm seas, auspicious gales,</verseline>
+<verseline>And sail so expeditious that shall catch</verseline>
+<verseline>Your royal fleet far off. <stage_directions_inline>[Aside to Ariel]</stage_directions_inline> My Ariel, chick,</verseline>
+<verseline>That is thy charge. Then to the elements</verseline>
+<verseline>Be free, and fare thou well!-Please you, draw near.</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Epilogue</scene>
+<stage_directions>Spoken by Prospero</stage_directions>
+<verseline>Now my charms are all o&#8217;erthrown,</verseline>
+<verseline>And what strength I have&#8217;s mine own,</verseline>
+<verseline>Which is most faint. Now &#8216;tis true,</verseline>
+<verseline>I must be here confin&#8217;d by you,</verseline>
+<verseline>Or sent to Naples. Let me not,</verseline>
+<verseline>Since I have my dukedom got,</verseline>
+<verseline>And pardon&#8217;d the deceiver, dwell</verseline>
+<verseline>In this bare island by your spell;</verseline>
+<verseline>But release me from my bands</verseline>
+<verseline>With the help of your good hands.</verseline>
+<verseline>Gentle breath of yours my sails</verseline>
+<verseline>Must fill, or else my project fails,</verseline>
+<verseline>Which was to please. Now I want</verseline>
+<verseline>Spirits to enforce, art to enchant;</verseline>
+<verseline>And my ending is despair</verseline>
+<verseline>Unless I be reliev&#8217;d by prayer,</verseline>
+<verseline>Which pierces so that it assaults</verseline>
+<verseline>Mercy itself, and frees all faults.</verseline>
+<verseline>As you from crimes would pardon&#8217;d be,</verseline>
+<verseline>Let your indulgence set me free.</verseline>
+<stage_directions>The End</stage_directions>
+</play>
+</shakespeareplay>

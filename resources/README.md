@@ -7,9 +7,12 @@ You will need these resources to work on your InDesign documents.
 > This is the template for the first pages of the book. The page size is set to 129mm x 198mm. You can change the margins.
 
 - play.indt
->This is another template to help you set up the play. It includes the style names for the various components of the play.
+> This is another template to help you set up the play. It includes the style names for the various components of the play.
 
-- cover.indt
+- frontcover.indt
+> This is the InDesign template that gives you a single portrait document. This is to help you develop the ideas for the design of the front of the book.
+
+- fullcover.indt
 > This is the InDesign template that gives you a single landscape document with a back, spine and front. The spine width is based on a book with 200 pages. You can only guess the spine width for the initial design, since the number of pages will be finalised when you have completed the inner pages of the book. The weight of the paper will also be a factor in determining the spine width.
 
 > The cover dimensions are calculated as follows:

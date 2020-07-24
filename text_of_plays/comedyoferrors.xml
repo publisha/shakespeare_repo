@@ -1,0 +1,2423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" []>
+<shakespeareplay title="The Comedy of Errors">
+<dramatis_personae>
+<dramatis_head>Dramatis Personae</dramatis_head>
+<charactername>Solinus, <character_role>Duke of Ephesus</character_role>
+</charactername>
+<charactername>Aegeon, <character_role>a merchant of Syracuse</character_role></charactername>
+<charactername>Antipholus Of Ephesus, <character_role>twin brothers and sons to</character_role></charactername>
+<charactername>Antipholus Of Syracuse, <character_role>Aegion and Aemelia</character_role></charactername>
+<charactername>Dromio Of Ephesus, <character_role>twin brothers, and attendants on</character_role></charactername>
+<charactername>Dromio Of Syracuse, <character_role>the two Antipholuses</character_role></charactername>
+<charactername>Balthazar, <character_role>a merchant</character_role></charactername>
+<charactername>Angelo,<character_role> a goldsmith</character_role></charactername>
+<charactername>First Merchant, <character_role>friend to Antipholus of Syracuse</character_role></charactername>
+<charactername>Second Merchant, <character_role>to whom Angelo is a debtor</character_role></charactername>
+<charactername>Pinch, <character_role>a schoolmaster</character_role></charactername>
+<charactername>Aemilia, <character_role>wife to Aegeon; an abbess at Ephesus</character_role></charactername>
+<charactername>Adriana, <character_role>wife to Antipholus of Ephesus</character_role></charactername>
+<charactername>Luciana, <character_role>her sister</character_role></charactername>
+<charactername>Luce, <character_role>servant to Adriana</character_role></charactername>
+<charactername>A Courtezan</charactername>
+<charactername>Gaoler, Officers, Attendants</charactername>
+<play_location>Scene: Ephesus</play_location>
+</dramatis_personae>
+<play>
+<act>Act I</act>
+<firstscene>Scene 1</firstscene>
+<location>A hall in the Duke&#8217;S palace</location>
+<stage_directions>Enter the Duke Of Ephesus, Aegeon, the Merchant of Syracuse, Gaoler, Officers, and other Attendants</stage_directions>
+<character>Aegeon</character>
+<verseline>Proceed, Solinus, to procure my fall,</verseline>
+<verseline>And by the doom of death end woes and all.</verseline>
+<character>Duke</character>
+<verseline>Merchant of Syracuse, plead no more;</verseline>
+<verseline>I am not partial to infringe our laws.</verseline>
+<verseline>The enmity and discord which of late</verseline>
+<verseline>Sprung from the rancorous outrage of your duke</verseline>
+<verseline>To merchants, our well-dealing countrymen,</verseline>
+<verseline>Who, wanting guilders to redeem their lives,</verseline>
+<verseline>Have seal&#8217;d his rigorous statutes with their bloods,</verseline>
+<verseline>Excludes all pity from our threat&#8217;ning looks.</verseline>
+<verseline>For, since the mortal and intestine jars</verseline>
+<verseline>&#8216;Twixt thy seditious countrymen and us,</verseline>
+<verseline>It hath in solemn synods been decreed,</verseline>
+<verseline>Both by the Syracusians and ourselves,</verseline>
+<verseline>To admit no traffic to our adverse towns;</verseline>
+<verseline>Nay, more: if any born at Ephesus</verseline>
+<verseline>Be seen at any Syracusian marts and fairs;</verseline>
+<verseline>Again, if any Syracusian born</verseline>
+<verseline>Come to the bay of Ephesus-he dies,</verseline>
+<verseline>His goods confiscate to the Duke&#8217;s dispose,</verseline>
+<verseline>Unless a thousand marks be levied,</verseline>
+<verseline>To quit the penalty and to ransom him.</verseline>
+<verseline>Thy substance, valued at the highest rate,</verseline>
+<verseline>Cannot amount unto a hundred marks;</verseline>
+<verseline>Therefore by law thou art condemn&#8217;d to die.</verseline>
+<character>Aegeon</character>
+<verseline>Yet this my comfort: when your words are done,</verseline>
+<verseline>My woes end likewise with the evening sun.</verseline>
+<character>Duke</character>
+<verseline>Well, Syracusian, say in brief the cause</verseline>
+<verseline>Why thou departed&#8217;st from thy native home,</verseline>
+<verseline>And for what cause thou cam&#8217;st to Ephesus.</verseline>
+<character>Aegeon</character>
+<verseline>A heavier task could not have been impos&#8217;d</verseline>
+<verseline>Than I to speak my griefs unspeakable;</verseline>
+<verseline>Yet, that the world may witness that my end</verseline>
+<verseline>Was wrought by nature, not by vile offence,</verseline>
+<verseline>I&#8217;ll utter what my sorrow gives me leave.</verseline>
+<verseline>In Syracuse was I born, and wed</verseline>
+<verseline>Unto a woman, happy but for me,</verseline>
+<verseline>And by me, had not our hap been bad.</verseline>
+<verseline>With her I liv&#8217;d in joy; our wealth increas&#8217;d</verseline>
+<verseline>By prosperous voyages I often made</verseline>
+<verseline>To Epidamnum; till my factor&#8217;s death,</verseline>
+<verseline>And the great care of goods at random left,</verseline>
+<verseline>Drew me from kind embracements of my spouse:</verseline>
+<verseline>From whom my absence was not six months old,</verseline>
+<verseline>Before herself, almost at fainting under</verseline>
+<verseline>The pleasing punishment that women bear,</verseline>
+<verseline>Had made provision for her following me,</verseline>
+<verseline>And soon and safe arrived where I was.</verseline>
+<verseline>There had she not been long but she became</verseline>
+<verseline>A joyful mother of two goodly sons;</verseline>
+<verseline>And, which was strange, the one so like the other</verseline>
+<verseline>As could not be disdnguish&#8217;d but by names.</verseline>
+<verseline>That very hour, and in the self-same inn,</verseline>
+<verseline>A mean woman was delivered</verseline>
+<verseline>Of such a burden, male twins, both alike.</verseline>
+<verseline>Those, for their parents were exceeding poor,</verseline>
+<verseline>I bought, and brought up to attend my sons.</verseline>
+<verseline>My wife, not meanly proud of two such boys,</verseline>
+<verseline>Made daily motions for our home return;</verseline>
+<verseline>Unwilling, I agreed. Alas! too soon</verseline>
+<verseline>We came aboard.</verseline>
+<verseline>A league from Epidamnum had we sail&#8217;d</verseline>
+<verseline>Before the always-wind-obeying deep</verseline>
+<verseline>Gave any tragic instance of our harm:</verseline>
+<verseline>But longer did we not retain much hope,</verseline>
+<verseline>For what obscured light the heavens did grant</verseline>
+<verseline>Did but convey unto our fearful minds</verseline>
+<verseline>A doubtful warrant of immediate death;</verseline>
+<verseline>Which though myself would gladly have embrac&#8217;d,</verseline>
+<verseline>Yet the incessant weepings of my wife,</verseline>
+<verseline>Weeping before for what she saw must come,</verseline>
+<verseline>And piteous plainings of the pretty babes,</verseline>
+<verseline>That mourn&#8217;d for fashion, ignorant what to fear,</verseline>
+<verseline>Forc&#8217;d me to seek delays for them and me.</verseline>
+<verseline>And this it was, for other means was none:</verseline>
+<verseline>The sailors sought for safety by our boat,</verseline>
+<verseline>And left the ship, then sinking-ripe, to us;</verseline>
+<verseline>My wife, more careful for the latter-born,</verseline>
+<verseline>Had fast&#8217;ned him unto a small spare mast,</verseline>
+<verseline>Such as sea-faring men provide for storms;</verseline>
+<verseline>To him one of the other twins was bound,</verseline>
+<verseline>Whilst I had been like heedful of the other.</verseline>
+<verseline>The children thus dispos&#8217;d, my wife and I,</verseline>
+<verseline>Fixing our eyes on whom our care was fix&#8217;d,</verseline>
+<verseline>Fast&#8217;ned ourselves at either end the mast,</verseline>
+<verseline>And, floating straight, obedient to the stream,</verseline>
+<verseline>Was carried towards Corinth, as we thought.</verseline>
+<verseline>At length the sun, gazing upon the earth,</verseline>
+<verseline>Dispers&#8217;d those vapours that offended us;</verseline>
+<verseline>And, by the benefit of his wished light,</verseline>
+<verseline>The seas wax&#8217;d calm, and we discovered</verseline>
+<verseline>Two ships from far making amain to us-</verseline>
+<verseline>Of Corinth that, of Epidaurus this.</verseline>
+<verseline>But ere they came-O, let me say no more!</verseline>
+<verseline>Gather the sequel by that went before.</verseline>
+<character>Duke</character>
+<verseline>Nay, forward, old man, do not break off so; </verseline>
+<verseline>For we may pity, though not pardon thee.</verseline>
+<character>Aegeon</character>
+<verseline>O, had the gods done so, I had not now</verseline>
+<verseline>Worthily term&#8217;d them merciless to us!</verseline>
+<verseline>For, ere the ships could meet by twice five leagues,</verseline>
+<verseline>We were encount&#8217;red by a mighty rock,</verseline>
+<verseline>Which being violently borne upon,</verseline>
+<verseline>Our helpful ship was splitted in the midst;</verseline>
+<verseline>So that, in this unjust divorce of us,</verseline>
+<verseline>Fortune had left to both of us alike</verseline>
+<verseline>What to delight in, what to sorrow for.</verseline>
+<verseline>Her part, poor soul, seeming as burdened</verseline>
+<verseline>With lesser weight, but not with lesser woe,</verseline>
+<verseline>Was carried with more speed before the wind;</verseline>
+<verseline>And in our sight they three were taken up</verseline>
+<verseline>By fishermen of Corinth, as we thought.</verseline>
+<verseline>At length another ship had seiz&#8217;d on us;</verseline>
+<verseline>And, knowing whom it was their hap to save,</verseline>
+<verseline>Gave healthful welcome to their ship-wreck&#8217;d guests,</verseline>
+<verseline>And would have reft the fishers of their prey,</verseline>
+<verseline>Had not their bark been very slow of sail;</verseline>
+<verseline>And therefore homeward did they bend their course.</verseline>
+<verseline>Thus have you heard me sever&#8217;d from my bliss,</verseline>
+<verseline>That by misfortunes was my life prolong&#8217;d,</verseline>
+<verseline>To tell sad stories of my own mishaps.</verseline>
+<character>Duke</character>
+<verseline>And, for the sake of them thou sorrowest for,</verseline>
+<verseline>Do me the favour to dilate at full</verseline>
+<verseline>What have befall&#8217;n of them and thee till now.</verseline>
+<character>Aegeon</character>
+<verseline>My youngest boy, and yet my eldest care,</verseline>
+<verseline>At eighteen years became inquisitive</verseline>
+<verseline>After his brother, and importun&#8217;d me</verseline>
+<verseline>That his attendant-so his case was like,</verseline>
+<verseline>Reft of his brother, but retain&#8217;d his name-</verseline>
+<verseline>Might bear him company in the quest of him;</verseline>
+<verseline>Whom whilst I laboured of a love to see,</verseline>
+<verseline>I hazarded the loss of whom I lov&#8217;d.</verseline>
+<verseline>Five summers have I spent in farthest Greece,</verseline>
+<verseline>Roaming clean through the bounds of Asia,</verseline>
+<verseline>And, coasting homeward, came to Ephesus;</verseline>
+<verseline>Hopeless to find, yet loath to leave unsought</verseline>
+<verseline>Or that or any place that harbours men.</verseline>
+<verseline>But here must end the story of my life;</verseline>
+<verseline>And happy were I in my timely death,</verseline>
+<verseline>Could all my travels warrant me they live.</verseline>
+<character>Duke</character>
+<verseline>Hapless, Aegeon, whom the fates have mark&#8217;d</verseline>
+<verseline>To bear the extremity of dire mishap!</verseline>
+<verseline>Now, trust me, were it not against our laws,</verseline>
+<verseline>Against my crown, my oath, my dignity,</verseline>
+<verseline>Which princes, would they, may not disannul,</verseline>
+<verseline>My soul should sue as advocate for thee.</verseline>
+<verseline>But though thou art adjudged to the death,</verseline>
+<verseline>And passed sentence may not be recall&#8217;d</verseline>
+<verseline>But to our honour&#8217;s great disparagement,</verseline>
+<verseline>Yet will I favour thee in what I can.</verseline>
+<verseline>Therefore, merchant, I&#8217;ll limit thee this day</verseline>
+<verseline>To seek thy help by beneficial hap.</verseline>
+<verseline>Try all the friends thou hast in Ephesus;</verseline>
+<verseline>Beg thou, or borrow, to make up the sum,</verseline>
+<verseline>And live; if no, then thou art doom&#8217;d to die.</verseline>
+<verseline>Gaoler, take him to thy custody.</verseline>
+<character>Gaoler</character>
+<prose>I will, my lord.</prose>
+<character>Aegeon</character>
+<verseline>Hopeless and helpless doth Aegeon wend,</verseline>
+<verseline>But to procrastinate his lifeless end.</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene 2</scene>
+<location>The mart</location>
+<stage_directions>Enter Antipholus Of Syracuse, Dromio Of Syracuse, and First Merchant</stage_directions>
+<character>First Merchant</character>
+<verseline>Therefore, give out you are of Epidamnum,</verseline>
+<verseline>Lest that your goods too soon be confiscate.</verseline>
+<verseline>This very day a Syracusian merchant</verseline>
+<verseline>Is apprehended for arrival here;</verseline>
+<verseline>And, not being able to buy out his life,</verseline>
+<verseline>According to the statute of the town,</verseline>
+<verseline>Dies ere the weary sun set in the west.</verseline>
+<verseline>There is your money that I had to keep.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Go bear it to the Centaur, where we host.</verseline>
+<verseline>And stay there, Dromio, till I come to thee.</verseline>
+<verseline>Within this hour it will be dinner-time;</verseline>
+<verseline>Till that, I&#8217;ll view the manners of the town,</verseline>
+<verseline>Peruse the traders, gaze upon the buildings,</verseline>
+<verseline>And then return and sleep within mine inn;</verseline>
+<verseline>For with long travel I am stiff and weary.</verseline>
+<verseline>Get thee away.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Many a man would take you at your word, </verseline>
+<verseline>And go indeed, having so good a mean.</verseline>
+<stage_directions>Exit</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>A trusty villain, sir, that very oft,</verseline>
+<verseline>When I am dull with care and melancholy,</verseline>
+<verseline>Lightens my humour with his merry jests.</verseline>
+<verseline>What, will you walk with me about the town,</verseline>
+<verseline>And then go to my inn and dine with me?</verseline>
+<character>First Merchant</character>
+<verseline>I am invited, sir, to certain merchants,</verseline>
+<verseline>Of whom I hope to make much benefit;</verseline>
+<verseline>I crave your pardon. Soon at five o&#8217;clock,</verseline>
+<verseline>Please you, I&#8217;ll meet with you upon the mart,</verseline>
+<verseline>And afterward consort you till bed time.</verseline>
+<verseline>My present business calls me from you now.</verseline>
+<character>Antipholus Of Syracuse</character>
+<prose>Farewell till then. I will go lose myself,</prose>
+<prose>And wander up and down to view the city.</prose>
+<character>First Merchant</character>
+<prose>Sir, I commend you to your own content.</prose>
+<stage_directions>Exit First Merchant</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>He that commends me to mine own content</verseline>
+<verseline>Commends me to the thing I cannot get.</verseline>
+<verseline>I to the world am like a drop of water</verseline>
+<verseline>That in the ocean seeks another drop,</verseline>
+<verseline>Who, falling there to find his fellow forth,</verseline>
+<verseline>Unseen, inquisitive, confounds himself.</verseline>
+<verseline>So I, to find a mother and a brother,</verseline>
+<verseline>In quest of them, unhappy, lose myself.</verseline>
+<stage_directions>Enter Dromio Of Ephesus</stage_directions>
+<verseline>Here comes the almanac of my true date.</verseline>
+<verseline>What now? How chance thou art return&#8217;d so soon?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Return&#8217;d so soon! rather approach&#8217;d too late.</verseline>
+<verseline>The capon burns, the pig falls from the spit;</verseline>
+<verseline>The clock hath strucken twelve upon the bell-</verseline>
+<verseline>My mistress made it one upon my cheek;</verseline>
+<verseline>She is so hot because the meat is cold,</verseline>
+<verseline>The meat is cold because you come not home,</verseline>
+<verseline>You come not home because you have no stomach,</verseline>
+<verseline>You have no stomach, having broke your fast;</verseline>
+<verseline>But we, that know what &#8216;tis to fast and pray,</verseline>
+<verseline>Are penitent for your default to-day.</verseline>
+<character>Antipholus Of Syracuse</character>
+<prose>Stop in your wind, sir; tell me this, I pray:</prose>
+<prose>Where have you left the money that I gave you?</prose>
+<character>Dromio Of Ephesus</character>
+<prose>O-Sixpence that I had a Wednesday last to pay the saddler for my mistress&#8217; crupper? </prose>
+<prose>The saddler had it, sir; I kept it not.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>I am not in a sportive humour now;</verseline>
+<verseline>Tell me, and dally not, where is the money?</verseline>
+<verseline>We being strangers here, how dar&#8217;st thou trust</verseline>
+<verseline>So great a charge from thine own custody?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>I pray you jest, sir, as you sit at dinner.</verseline>
+<verseline>I from my mistress come to you in post;</verseline>
+<verseline>If I return, I shall be post indeed,</verseline>
+<verseline>For she will score your fault upon my pate.</verseline>
+<verseline>Methinks your maw, like mine, should be your clock,</verseline>
+<verseline>And strike you home without a messenger.</verseline>
+<character>Antipholus Of Syracuse</character>
+<prose>Come, Dromio, come, these jests are out of season; reserve them till a merrier hour than this.</prose>
+<prose>Where is the gold I gave in charge to thee?</prose>
+<character>Dromio Of Ephesus</character>
+<prose>To me, sir? Why, you gave no gold to me.</prose>
+<character>Antipholus Of Syracuse. </character>
+<prose>Come on, sir knave, have done your foolishness, and tell me how thou hast dispos&#8217;d thy charge.</prose>
+<character>Dromio Of Ephesus</character>
+<prose>My charge was but to fetch you from the mart home to your house, the Phoenix, sir, to dinner.</prose>
+<prose>My mistress and her sister stays for you.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>Now, as I am a Christian, answer me</verseline>
+<verseline>In what safe place you have bestow&#8217;d my money,</verseline>
+<verseline>Or I shall break that merry sconce of yours,</verseline>
+<verseline>That stands on tricks when I am undispos&#8217;d.</verseline>
+<verseline>Where is the thousand marks thou hadst of me?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>I have some marks of yours upon my pate,</verseline>
+<verseline>Some of my mistress&#8217; marks upon my shoulders,</verseline>
+<verseline>But not a thousand marks between you both.</verseline>
+<verseline>If I should pay your worship those again,</verseline>
+<verseline>Perchance you will not bear them patiently.</verseline>
+<character>Antipholus Of Syracuse</character>
+<prose>Thy mistress&#8217; marks! What mistress, slave, hast thou?</prose>
+<character>Dromio Of Ephesus</character>
+<prose>Your worship&#8217;s wife, my mistress at the Phoenix; she that doth fast till you come home to dinner, and prays that you will hie you home to dinner.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>What, wilt thou flout me thus unto my face, being forbid? There, take you that, sir knave.  <stage_directions_inline>[Beats him]</stage_directions_inline>
+</prose>
+<character>Dromio Of Ephesus</character>
+<prose>What mean you, sir? For God&#8217;s sake hold your hands! Nay, an you will not, sir, I&#8217;ll take my heels.</prose>
+<stage_directions>Exit</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>Upon my life, by some device or other</verseline>
+<verseline>The villain is o&#8217;erraught of all my money.</verseline>
+<verseline>They say this town is full of cozenage;</verseline>
+<verseline>As, nimble jugglers that deceive the eye,</verseline>
+<verseline>Dark-working sorcerers that change the mind,</verseline>
+<verseline>Soul-killing witches that deform the body,</verseline>
+<verseline>Disguised cheaters, prating mountebanks,</verseline>
+<verseline>And many such-like liberties of sin;</verseline>
+<verseline>If it prove so, I will be gone the sooner.</verseline>
+<verseline>I&#8217;ll to the Centaur to go seek this slave.</verseline>
+<verseline>I greatly fear my money is not safe.	</verseline>
+<stage_directions>Exit</stage_directions>
+<act>Act II</act>
+<firstscene>Scene 1</firstscene>
+<location>The house of Antipholus Of Ephesus</location>
+<stage_directions>Enter Adriana, wife to Antipholus Of Ephesus, with Luciana, her sister</stage_directions>
+<character>Adriana</character>
+<prose>Neither my husband nor the slave return&#8217;d that in such haste I sent to seek his master!</prose>
+<prose>Sure, Luciana, it is two o&#8217;clock.</prose>
+<character>Luciana</character>
+<verseline>Perhaps some merchant hath invited him,</verseline>
+<verseline>And from the mart he&#8217;s somewhere gone to dinner;</verseline>
+<verseline>Good sister, let us dine, and never fret.</verseline>
+<verseline>A man is master of his liberty; time is their master, </verseline>
+<verseline>And when they see time,</verseline>
+<verseline>They&#8217;ll go or come. If so, be patient, sister.</verseline>
+<character>Adriana</character>
+<verseline>Why should their liberty than ours be more?</verseline>
+<character>Luciana</character>
+<verseline>Because their business still lies out o&#8217; door.</verseline>
+<character>Adriana</character>
+<verseline>Look when I serve him so, he takes it ill.</verseline>
+<character>Luciana</character>
+<verseline>O, know he is the bridle of your will.</verseline>
+<character>Adriana</character>
+<verseline>There&#8217;s none but asses will be bridled so.</verseline>
+<character>Luciana</character>
+<verseline>Why, headstrong liberty is lash&#8217;d with woe.</verseline>
+<verseline>There&#8217;s nothing situate under heaven&#8217;s eye</verseline>
+<verseline>But hath his bound, in earth, in sea, in sky.</verseline>
+<verseline>The beasts, the fishes, and the winged fowls,</verseline>
+<verseline>Are their males&#8217; subjects, and at their controls.</verseline>
+<verseline>Man, more divine, the master of all these,</verseline>
+<verseline>Lord of the wide world and wild wat&#8217;ry seas,</verseline>
+<verseline>Indu&#8217;d with intellectual sense and souls,</verseline>
+<verseline>Of more pre-eminence than fish and fowls,</verseline>
+<verseline>Are masters to their females, and their lords;</verseline>
+<verseline>Then let your will attend on their accords.</verseline>
+<character>Adriana</character>
+<verseline>This servitude makes you to keep unwed.</verseline>
+<character>Luciana</character>
+<verseline>Not this, but troubles of the marriage-bed.</verseline>
+<character>Adriana</character>
+<verseline>But, were you wedded, you would bear some sway.</verseline>
+<character>Luciana</character>
+<verseline>Ere I learn love, I&#8217;ll practise to obey.</verseline>
+<character>Adriana</character>
+<verseline>How if your husband start some other where?</verseline>
+<character>Luciana</character>
+<verseline>Till he come home again, I would forbear.</verseline>
+<character>Adriana</character>
+<verseline>Patience unmov&#8217;d! no marvel though she pause:</verseline>
+<verseline>They can be meek that have no other cause.</verseline>
+<verseline>A wretched soul, bruis&#8217;d with adversity,</verseline>
+<verseline>We bid be quiet when we hear it cry;</verseline>
+<verseline>But were we burd&#8217;ned with like weight of pain,</verseline>
+<verseline>As much, or more, we should ourselves complain.</verseline>
+<verseline>So thou, that hast no unkind mate to grieve thee,</verseline>
+<verseline>With urging helpless patience would relieve me;</verseline>
+<verseline>But if thou live to see like right bereft,</verseline>
+<verseline>This fool-begg&#8217;d patience in thee will be left.</verseline>
+<character>Luciana</character>
+<verseline>Well, I will marry one day, but to try.</verseline>
+<verseline>Here comes your man, now is your husband nigh.</verseline>
+<stage_directions>Enter Dromio Of Ephesus</stage_directions>
+<character>Adriana</character>
+<verseline>Say, is your tardy master now at hand?</verseline>
+<character>Dromio Of Ephesus</character>
+<prose>Nay, he&#8217;s at two hands with me, and that my two ears can witness.</prose>
+<character>Adriana</character>
+<prose>Say, didst thou speak with him? Know&#8217;st thou his mind?</prose>
+<character>Dromio Of Ephesus</character>
+<prose>Ay, ay, he told his mind upon mine ear.</prose>
+<prose>Beshrew his hand, I scarce could understand it.</prose>
+<character>Luciana</character>
+<prose>Spake he so doubtfully thou could&#8217;st not feel his meaning?</prose>
+<character>Dromio Of Ephesus</character>
+<prose>Nay, he struck so plainly I could to well feel his blows; and withal so doubtfully that I could</prose>
+<prose>scarce understand them.</prose>
+<character>Adriana</character>
+<verseline>But say, I prithee, is he coming home?</verseline>
+<verseline>It seems he hath great care to please his wife.</verseline>
+<character>Dromio Of Ephesus</character>
+<prose>Why, mistress, sure my master is horn-mad.</prose>
+<character>Adriana</character>
+<prose>Horn-mad, thou villain!</prose>
+<character>Dromio Of Ephesus</character>
+<verseline>I mean not cuckold-mad;</verseline>
+<verseline>But, sure, he is stark mad.</verseline>
+<verseline>When I desir&#8217;d him to come home to dinner,</verseline>
+<verseline>He ask&#8217;d me for a thousand marks in gold.</verseline>
+<verseline>&#8220;Tis dinner time&#8217; quoth I; &#8216;My gold!&#8217; quoth he.</verseline>
+<verseline>&#8216;Your meat doth burn&#8217; quoth I; &#8216;My gold!&#8217; quoth he.</verseline>
+<verseline>&#8216;Will you come home?&#8217; quoth I; &#8216;My gold!&#8217; quoth he.</verseline>
+<verseline>&#8216;Where is the thousand marks I gave thee, villain?&#8217;</verseline>
+<verseline>&#8216;The pig&#8217; quoth I &#8216;is burn&#8217;d&#8217;; &#8216;My gold!&#8217; quoth he.</verseline>
+<verseline>&#8216;My mistress, sir,&#8217; quoth I; &#8216;Hang up thy mistress;</verseline>
+<verseline>I know not thy mistress; out on thy mistress.&#8217;</verseline>
+<character>Luciana</character>
+<prose>Quoth who?</prose>
+<character>Dromio Of Ephesus</character>
+<prose>Quoth my master.</prose>
+<prose>&#8216;I know&#8217; quoth he &#8216;no house, no wife, no mistress.&#8217;</prose>
+<prose>So that my errand, due unto my tongue,</prose>
+<prose>I thank him, I bare home upon my shoulders;</prose>
+<prose>For, in conclusion, he did beat me there.</prose>
+<character>Adriana</character>
+<prose>Go back again, thou slave, and fetch him home.</prose>
+<character>Dromio Of Ephesus</character>
+<verseline>Go back again, and be new beaten home?</verseline>
+<verseline>For God&#8217;s sake, send some other messenger.</verseline>
+<character>Adriana</character>
+<prose>Back, slave, or I will break thy pate across.</prose>
+<character>Dromio Of Ephesus</character>
+<verseline>And he will bless that cross with other beating;</verseline>
+<verseline>Between you I shall have a holy head.</verseline>
+<character>Adriana</character>
+<prose>Hence, prating peasant! Fetch thy master home.</prose>
+<character>Dromio Of Ephesus</character>
+<verseline>Am I so round with you, as you with me,</verseline>
+<verseline>That like a football you do spurn me thus?</verseline>
+<verseline>You spurn me hence, and he will spurn me hither;</verseline>
+<verseline>If I last in this service, you must case me in leather</verseline>
+<stage_directions>Exit</stage_directions>
+<character>Luciana</character>
+<prose>Fie, how impatience loureth in your face!</prose>
+<character>Adriana</character>
+<verseline>His company must do his minions grace,</verseline>
+<verseline>Whilst I at home starve for a merry look.</verseline>
+<verseline>Hath homely age th&#8217; alluring beauty took</verseline>
+<verseline>From my poor cheek? Then he hath wasted it.</verseline>
+<verseline>Are my discourses dull? Barren my wit?</verseline>
+<verseline>If voluble and sharp discourse be marr&#8217;d,</verseline>
+<verseline>Unkindness blunts it more than marble hard.</verseline>
+<verseline>Do their gay vestments his affections bait?</verseline>
+<verseline>That&#8217;s not my fault; he&#8217;s master of my state.</verseline>
+<verseline>What ruins are in me that can be found</verseline>
+<verseline>By him not ruin&#8217;d? Then is he the ground</verseline>
+<verseline>Of my defeatures. My decayed fair</verseline>
+<verseline>A sunny look of his would soon repair.</verseline>
+<verseline>But, too unruly deer, he breaks the pale,</verseline>
+<verseline>And feeds from home; poor I am but his stale.</verseline>
+<character>Luciana</character>
+<prose>Self-harming jealousy! fie, beat it hence.</prose>
+<character>Adriana</character>
+<verseline>Unfeeling fools can with such wrongs dispense.</verseline>
+<verseline>I know his eye doth homage otherwhere;</verseline>
+<verseline>Or else what lets it but he would be here?</verseline>
+<verseline>Sister, you know he promis&#8217;d me a chain;</verseline>
+<verseline>Would that alone a love he would detain,</verseline>
+<verseline>So he would keep fair quarter with his bed!</verseline>
+<verseline>I see the jewel best enamelled</verseline>
+<verseline>Will lose his beauty; yet the gold bides still</verseline>
+<verseline>That others touch and, often touching, will</verseline>
+<verseline>Where gold; and no man that hath a name</verseline>
+<verseline>By falsehood and corruption doth it shame.</verseline>
+<verseline>Since that my beauty cannot please his eye,</verseline>
+<verseline>I&#8217;ll weep what&#8217;s left away, and weeping die.</verseline>
+<character>Luciana</character>
+<prose>How many fond fools serve mad jealousy!</prose>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene 2</scene>
+<location>The mart</location>
+<stage_directions>Enter Antipholus Of Syracuse</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>The gold I gave to Dromio is laid up</verseline>
+<verseline>Safe at the Centaur, and the heedful slave</verseline>
+<verseline>Is wand&#8217;red forth in care to seek me out.</verseline>
+<verseline>By computation and mine host&#8217;s report</verseline>
+<verseline>I could not speak with Dromio since at first</verseline>
+<verseline>I sent him from the mart. See, here he comes.</verseline>
+<stage_directions>Enter Dromio Of Syracuse</stage_directions>
+<stage_directions>           How now, sir, is your merry humour alter&#8217;d?</stage_directions>
+<verseline>As you love strokes, so jest with me again.</verseline>
+<verseline>You know no Centaur! You receiv&#8217;d no gold!</verseline>
+<verseline>Your mistress sent to have me home to dinner!</verseline>
+<verseline>My house was at the Phoenix! Wast thou mad,</verseline>
+<verseline>That thus so madly thou didst answer me?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>What answer, sir? When spake I such a word?</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Even now, even here, not half an hour since.</prose>
+<character>Dromio Of Syracuse</character>
+<verseline>I did not see you since you sent me hence,</verseline>
+<verseline>Home to the Centaur, with the gold you gave me.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Villain, thou didst deny the gold&#8217;s receipt,</verseline>
+<verseline>And told&#8217;st me of a mistress and a dinner;</verseline>
+<verseline>For which, I hope, thou felt&#8217;st I was displeas&#8217;d.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>I am glad to see you in this merry vein.</verseline>
+<verseline>What means this jest? I pray you, master, tell me.</verseline>
+<character>Antipholus Of Syracuse</character>
+<prose>Yea, dost thou jeer and flout me in the teeth?</prose>
+<prose>Think&#8217;st thou I jest? Hold, take thou that, and that</prose>
+<stage_directions>[Beating him]</stage_directions>
+<character>Dromio Of Syracuse</character>
+<prose>Hold, sir, for God&#8217;s sake! Now your jest is earnest.</prose>
+<prose>Upon what bargain do you give it me?</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>Because that I familiarly sometimes</verseline>
+<verseline>Do use you for my fool and chat with you,</verseline>
+<verseline>Your sauciness will jest upon my love,</verseline>
+<verseline>And make a common of my serious hours.</verseline>
+<verseline>When the sun shines let foolish gnats make sport,</verseline>
+<verseline>But creep in crannies when he hides his beams.</verseline>
+<verseline>If you will jest with me, know my aspect,</verseline>
+<verseline>And fashion your demeanour to my looks,</verseline>
+<verseline>Or I will beat this method in your sconce.</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Sconce, call you it? So you would leave battering, I had rather have it a head. An you use these blows long, I must get a sconce for my head, and insconce it too; or else I shall seek my wit in my shoulders.</prose>
+<prose>But I pray, sir, why am I beaten?</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>Dost thou not know?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Nothing, sir, but that I am beaten.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Shall I tell you why?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Ay, sir, and wherefore; for they say</verseline>
+<verseline>    every why hath a wherefore.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Why, first for flouting me; and then</verseline>
+<verseline>      wherefore,</verseline>
+<verseline>For urging it the second time to me.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Was there ever any man thus beaten out of season,</verseline>
+<verseline>When in the why and the wherefore is neither rhyme nor reason?</verseline>
+<verseline>Well, sir, I thank you.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Thank me, sir! for what?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Marry, sir, for this something that you gave me for nothing.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>I&#8217;ll make you amends next, to give you nothing for something. But say, sir, is it dinnertime?</prose>
+<character>Dromio Of Syracuse</character>
+<verseline>No, sir; I think the meat wants that I have.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>In good time, sir, what&#8217;s that?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Basting.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Well, sir, then &#8216;twill be dry.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>If it be, sir, I pray you eat none of it.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Your reason?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Lest it make you choleric, and purchase me another dry basting.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Well, sir, learn to jest in good time; there&#8217;s a time for all things.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>I durst have denied that, before you were so choleric.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>By what rule, sir?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Marry, sir, by a rule as plain as the plain bald pate of Father Time himself.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Let&#8217;s hear it.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>There&#8217;s no time for a man to recover his hair that grows bald by nature.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>May he not do it by fine and recovery?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Yes, to pay a fine for a periwig, and recover the lost hair of another man.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Why is Time such a niggard of hair, being, as it is, so plentiful an excrement?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Because it is a blessing that he bestows on beasts, and what he hath scanted men in hair he hath given them in wit.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Why, but there&#8217;s many a man hath more hair than wit.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Not a man of those but he hath the wit to lose his hair.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Why, thou didst conclude hairy men plain dealers without wit.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>The plainer dealer, the sooner lost; yet he loseth it in a kind of jollity.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>For what reason?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>For two; and sound ones too.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Nay, not sound I pray you.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Sure ones, then.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Nay, not sure, in a thing falsing.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Certain ones, then.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Name them.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>The one, to save the money that he spends in tiring; the other, that at dinner they should not drop in his</prose>
+<prose>porridge.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>You would all this time have prov&#8217;d there is no time for all things.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Marry, and did, sir; namely, no time to recover hair lost by nature.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>But your reason was not substantial, why there is no time to recover.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Thus I mend it: Time himself is bald, and therefore to the world&#8217;s end will have bald followers.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>I knew &#8216;t&#8217;would be a bald conclusion. But, soft, who wafts us yonder?</prose>
+<stage_directions>Enter Adriana and Luciana</stage_directions>
+<character>Adriana</character>
+<verseline>Ay, ay, Antipholus, look strange and frown.</verseline>
+<verseline>Some other mistress hath thy sweet aspects;</verseline>
+<verseline>I am not Adriana, nor thy wife.</verseline>
+<verseline>The time was once when thou unurg&#8217;d wouldst vow</verseline>
+<verseline>That never words were music to thine ear,</verseline>
+<verseline>That never object pleasing in thine eye,</verseline>
+<verseline>That never touch well welcome to thy hand,</verseline>
+<verseline>That never meat sweet-savour&#8217;d in thy taste,</verseline>
+<verseline>Unless I spake, or look&#8217;d, or touch&#8217;d, or carv&#8217;d to thee.</verseline>
+<verseline>How comes it now, my husband, O, how comes it,</verseline>
+<verseline>That thou art then estranged from thyself?</verseline>
+<verseline>Thyself I call it, being strange to me,</verseline>
+<verseline>That, undividable, incorporate,</verseline>
+<verseline>Am better than thy dear self&#8217;s better part.</verseline>
+<verseline>Ah, do not tear away thyself from me;</verseline>
+<verseline>For know, my love, as easy mayst thou fall</verseline>
+<verseline>A drop of water in the breaking gulf,</verseline>
+<verseline>And take unmingled thence that drop again</verseline>
+<verseline>Without addition or diminishing,</verseline>
+<verseline>As take from me thyself, and not me too.</verseline>
+<verseline>How dearly would it touch thee to the quick,</verseline>
+<verseline>Should&#8217;st thou but hear I were licentious,</verseline>
+<verseline>And that this body, consecrate to thee,</verseline>
+<verseline>By ruffian lust should be contaminate!</verseline>
+<verseline>Wouldst thou not spit at me and spurn at me,</verseline>
+<verseline>And hurl the name of husband in my face,</verseline>
+<verseline>And tear the stain&#8217;d skin off my harlot-brow,</verseline>
+<verseline>And from my false hand cut the wedding-ring,</verseline>
+<verseline>And break it with a deep-divorcing vow?</verseline>
+<verseline>I know thou canst, and therefore see thou do it.</verseline>
+<verseline>I am possess&#8217;d with an adulterate blot;</verseline>
+<verseline>My blood is mingled with the crime of lust;</verseline>
+<verseline>For if we two be one, and thou play false,</verseline>
+<verseline>I do digest the poison of thy flesh,</verseline>
+<verseline>Being strumpeted by thy contagion.</verseline>
+<verseline>Keep then fair league and truce with thy true bed;</verseline>
+<verseline>I live dis-stain&#8217;d, thou undishonoured.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Plead you to me, fair dame? I know you not:</verseline>
+<verseline>In Ephesus I am but two hours old,</verseline>
+<verseline>As strange unto your town as to your talk,</verseline>
+<verseline>Who, every word by all my wit being scann&#8217;d,</verseline>
+<verseline>Wants wit in all one word to understand.</verseline>
+<character>Luciana</character>
+<verseline>Fie, brother, how the world is chang&#8217;d with you!</verseline>
+<verseline>When were you wont to use my sister thus?</verseline>
+<verseline>She sent for you by Dromio home to dinner.</verseline>
+<character>Antipholus Of Syracuse</character>
+<prose>By Dromio?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>By me?</prose>
+<character>Adriana</character>
+<verseline>By thee; and this thou didst return from him-</verseline>
+<verseline>That he did buffet thee, and in his blows</verseline>
+<verseline>Denied my house for his, me for his wife.</verseline>
+<character>Antipholus Of Syracuse</character>
+<prose>Did you converse, sir, with this gentlewoman?</prose>
+<prose>What is the course and drift of your compact?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>I, Sir? I never saw her till this time.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>Villain, thou liest; for even her very words</verseline>
+<verseline>Didst thou deliver to me on the mart.</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>I never spake with her in all my life.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>How can she thus, then, call us by our names, unless it be by inspiration?</prose>
+<character>Adriana</character>
+<verseline>How ill agrees it with your gravity</verseline>
+<verseline>To counterfeit thus grossly with your slave,</verseline>
+<verseline>Abetting him to thwart me in my mood!</verseline>
+<verseline>Be it my wrong you are from me exempt,</verseline>
+<verseline>But wrong not that wrong with a more contempt.</verseline>
+<verseline>Come, I will fasten on this sleeve of thine;</verseline>
+<verseline>Thou art an elm, my husband, I a vine,</verseline>
+<verseline>Whose weakness, married to thy stronger state,</verseline>
+<verseline>Makes me with thy strength to communicate.</verseline>
+<verseline>If aught possess thee from me, it is dross,</verseline>
+<verseline>Usurping ivy, brier, or idle moss;</verseline>
+<verseline>Who all, for want of pruning, with intrusion</verseline>
+<verseline>Infect thy sap, and live on thy confusion.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>To me she speaks; she moves me for her theme.</verseline>
+<verseline>What, was I married to her in my dream?</verseline>
+<verseline>Or sleep I now, and think I hear all this?</verseline>
+<verseline>What error drives our eyes and ears amiss?</verseline>
+<verseline>Until I know this sure uncertainty,</verseline>
+<verseline>I&#8217;ll entertain the offer&#8217;d fallacy.</verseline>
+<character>Luciana</character>
+<prose>Dromio, go bid the servants spread for dinner.</prose>
+<character>Dromio Of Syracuse</character>
+<verseline>O, for my beads! I cross me for sinner.</verseline>
+<verseline>This is the fairy land. O spite of spites!</verseline>
+<verseline>We talk with goblins, owls, and sprites.</verseline>
+<verseline>If we obey them not, this will ensue:</verseline>
+<verseline>They&#8217;ll suck our breath, or pinch us black and blue.</verseline>
+<character>Luciana</character>
+<verseline>Why prat&#8217;st thou to thyself, and answer&#8217;st not?</verseline>
+<verseline>Dromio, thou drone, thou snail, thou slug, thou sot!</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>I am transformed, master, am not I?</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>I think thou art in mind, and so am I.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Nay, master, both in mind and in my shape.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Thou hast thine own form.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>No, I am an ape.</verseline>
+<character>Luciana</character>
+<verseline>If thou art chang&#8217;d to aught, &#8216;tis to an ass.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>&#8216;Tis true; she rides me, and I long for grass.</verseline>
+<verseline>&#8216;Tis so, I am an ass; else it could never be</verseline>
+<verseline>But I should know her as well as she knows me.</verseline>
+<character>Adriana</character>
+<verseline>Come, come, no longer will I be a fool,</verseline>
+<verseline>To put the finger in the eye and weep,</verseline>
+<verseline>Whilst man and master laughs my woes to scorn.</verseline>
+<verseline>Come, sir, to dinner. Dromio, keep the gate.</verseline>
+<verseline>Husband, I&#8217;ll dine above with you to-day,</verseline>
+<verseline>And shrive you of a thousand idle pranks.</verseline>
+<verseline>Sirrah, if any ask you for your master,</verseline>
+<verseline>Say he dines forth, and let no creature enter.</verseline>
+<verseline>Come, sister. Dromio, play the porter well.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Am I in earth, in heaven, or in hell?</verseline>
+<verseline>Sleeping or waking, mad or well-advis&#8217;d?</verseline>
+<verseline>Known unto these, and to myself disguis&#8217;d!</verseline>
+<verseline>I&#8217;ll say as they say, and persever so,</verseline>
+<verseline>And in this mist at all adventures go.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Master, shall I be porter at the gate?</verseline>
+<character>Adriana</character>
+<verseline>Ay; and let none enter, lest I break your pate.</verseline>
+<character>Luciana</character>
+<verseline>Come, come, Antipholus, we dine too late.</verseline>
+<verseline>Exeunt</verseline>
+<act>Act 111</act>
+<firstscene>Scene 1</firstscene>
+<location>Before the house of Antipholus Of Ephesus</location>
+<stage_directions>Enter Antipholus Of Ephesus, Dromio Of Ephesus, Angelo, and Balthazar</stage_directions>
+<character>Antipholus Of Ephesus</character>
+<verseline>Good Signior Angelo, you must excuse us all;</verseline>
+<verseline>My wife is shrewish when I keep not hours.</verseline>
+<verseline>Say that I linger&#8217;d with you at your shop</verseline>
+<verseline>To see the making of her carcanet,</verseline>
+<verseline>And that to-morrow you will bring it home.</verseline>
+<verseline>But here&#8217;s a villain that would face me down</verseline>
+<verseline>He met me on the mart, and that I beat him,</verseline>
+<verseline>And charg&#8217;d him with a thousand marks in gold,</verseline>
+<verseline>And that I did deny my wife and house.</verseline>
+<verseline>Thou drunkard, thou, what didst thou mean by this?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Say what you will, sir, but I know what I know.</verseline>
+<verseline>That you beat me at the mart I have your hand to show;</verseline>
+<verseline>If the skin were parchment, and the blows you gave were ink,</verseline>
+<verseline>Your own handwriting would tell you what I think.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>I think thou art an ass.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Marry, so it doth appear</verseline>
+<verseline>By the wrongs I suffer and the blows I bear.</verseline>
+<verseline>I should kick, being kick&#8217;d; and being at that pass,</verseline>
+<verseline>You would keep from my heels, and beware of an ass.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Y&#8217;are sad, Signior Balthazar; pray God our cheer</verseline>
+<verseline>May answer my good will and your good welcome here.</verseline>
+<character>Balthazar</character>
+<verseline>I hold your dainties cheap, sir, and your welcome dear.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>O, Signior Balthazar, either at flesh or fish,</verseline>
+<verseline>A table full of welcome makes scarce one dainty dish.</verseline>
+<character>Balthazar</character>
+<verseline>Good meat, sir, is common; that every churl affords.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>And welcome more common; for that&#8217;s nothing but words.</verseline>
+<character>Balthazar</character>
+<verseline>Small cheer and great welcome makes a merry feast.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Ay, to a niggardly host and more sparing guest.</verseline>
+<verseline>But though my cates be mean, take them in good part;</verseline>
+<verseline>Better cheer may you have, but not with better heart.</verseline>
+<verseline>But, soft, my door is lock&#8217;d; go bid them let us in.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Maud, Bridget, Marian, Cicely, Gillian, Ginn!</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline> [Within]</stage_directions_inline> Mome, malt-horse, capon, coxcomb,</verseline>
+<verseline>idiot, patch!</verseline>
+<verseline>Either get thee from the door, or sit down at the hatch.</verseline>
+<verseline>Dost thou conjure for wenches, that thou call&#8217;st for such store,</verseline>
+<verseline>When one is one too many? Go get thee from the door.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>What patch is made our porter? My master stays in</verseline>
+<verseline>the street.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline> [Within]</stage_directions_inline>  Let him walk from whence he came,</verseline>
+<verseline>lest he catch cold on&#8217;s feet.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Who talks within there? Ho, open the door!</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Right, sir; I&#8217;ll tell you when, an you&#8217;ll tell me wherefore.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Wherefore? For my dinner; I have not din&#8217;d to-day.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Nor to-day here you must not; come again when you may.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>What art thou that keep&#8217;st me out from the house I owe?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  The porter for this time, sir, and my name is Dromio.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>O Villain, thou hast stol&#8217;n both mine office and my name!</verseline>
+<verseline>The one ne&#8217;er got me credit, the other mickle blame.</verseline>
+<verseline>If thou hadst been Dromio to-day in my place,</verseline>
+<verseline>Thou wouldst have chang&#8217;d thy face for a name, or thy name for an ass.</verseline>
+<stage_directions>Enter Luce, within</stage_directions>
+<character>Luce</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  What a coil is there, Dromio? </verseline>
+<verseline>Who are those at the gate?</verseline>
+<character>Dromio Of Ephesus</character>
+<prose>Let my master in, Luce.</prose>
+<character>Luce</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Faith, no, he comes too late;</verseline>
+<verseline>And so tell your master.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>O Lord, I must laugh!</verseline>
+<verseline>Have at you with a proverb: Shall I set in my staff?</verseline>
+<character>Luce</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Have at you with another: that&#8217;s-when? can you tell?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline> [Within]</stage_directions_inline>  If thy name be called Luce</verseline>
+<verseline>-Luce, thou hast answer&#8217;d him well.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Do you hear, you minion? You&#8217;ll let us in, I hope?</verseline>
+<character>Luce</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  I thought to have ask&#8217;d you.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline> [Within]</stage_directions_inline>  And you said no.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>So, Come, help: well struck! there was blow for blow.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Thou baggage, let me in.</verseline>
+<character>Luce</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Can you tell for whose sake?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Master, knock the door hard.</verseline>
+<character>Luce</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Let him knock till it ache.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>You&#8217;ll cry for this, minion, if beat the door down.</verseline>
+<character>Luce</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline> What needs all that, and a pair of stocks in the</verseline>
+<verseline>      town?</verseline>
+<stage_directions>Enter Adriana, within</stage_directions>
+<character>Adriana</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Who is that at the door, that keeps all</verseline>
+<verseline>      this noise?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  By my troth, your town is</verseline>
+<verseline>      troubled with unruly boys.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Are you there, wife? You might have come before.</verseline>
+<character>Adriana</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Your wife, sir knave! Go get you from the door.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>If You went in pain, master, this &#8216;knave&#8217; would go sore.</verseline>
+<character>Angelo</character>
+<verseline>Here is neither cheer, sir, nor welcome; we would fain have either.</verseline>
+<character>Balthazar</character>
+<verseline>In debating which was best, we shall part with neither.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>They stand at the door, master; bid them welcome hither.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>There is something in the wind,</verseline>
+<verseline>That we cannot get in.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>You would say so, master, if your garments were thin.</verseline>
+<verseline>Your cake here is warm within; you stand here in the cold;</verseline>
+<verseline>It would make a man mad as a buck to be so bought and sold.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Go fetch me something; I&#8217;ll break ope the gate.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline> [Within]</stage_directions_inline>  Break any breaking here, and I&#8217;ll break your knave&#8217;s pate.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>A man may break a word with you, sir; and words are but wind;</verseline>
+<verseline>Ay, and break it in your face, so he break it not behind.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  It seems thou want&#8217;st breaking; out</verseline>
+<verseline>      upon thee, hind!</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Here&#8217;s too much &#8216;out upon thee!&#8217; pray thee let me in.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>
+<stage_directions_inline>[Within]</stage_directions_inline>  Ay, when fowls have no feathers and fish have no fin.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Well, I&#8217;ll break in; go borrow me a crow.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>A crow without feather? Master, mean you so?</verseline>
+<verseline>For a fish without a fin, there&#8217;s a fowl without a feather;</verseline>
+<verseline>If a crow help us in, sirrah, we&#8217;ll pluck a crow together.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Go get thee gone; fetch me an iron crow.</verseline>
+<character>Balthazar</character>
+<verseline>Have patience, sir; O, let it not be so!</verseline>
+<verseline>Herein you war against your reputation,</verseline>
+<verseline>And draw within the compass of suspect</verseline>
+<verseline>Th&#8217; unviolated honour of your wife.</verseline>
+<verseline>Once this-your long experience of her wisdom,</verseline>
+<verseline>Her sober virtue, years, and modesty,</verseline>
+<verseline>Plead on her part some cause to you unknown;</verseline>
+<verseline>And doubt not, sir, but she will well excuse</verseline>
+<verseline>Why at this time the doors are made against you.</verseline>
+<verseline>Be rul&#8217;d by me: depart in patience,</verseline>
+<verseline>And let us to the Tiger all to dinner;</verseline>
+<verseline>And, about evening, come yourself alone</verseline>
+<verseline>To know the reason of this strange restraint.</verseline>
+<verseline>If by strong hand you offer to break in</verseline>
+<verseline>Now in the stirring passage of the day,</verseline>
+<verseline>A vulgar comment will be made of it,</verseline>
+<verseline>And that supposed by the common rout</verseline>
+<verseline>Against your yet ungalled estimation</verseline>
+<verseline>That may with foul intrusion enter in</verseline>
+<verseline>And dwell upon your grave when you are dead;</verseline>
+<verseline>For slander lives upon succession,</verseline>
+<verseline>For ever hous&#8217;d where it gets possession.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>You have prevail&#8217;d. I will depart in quiet,</verseline>
+<verseline>And in despite of mirth mean to be merry.</verseline>
+<verseline>I know a wench of excellent discourse,</verseline>
+<verseline>Pretty and witty; wild, and yet, too, gentle;</verseline>
+<verseline>There will we dine. This woman that I mean,</verseline>
+<verseline>My wife-but, I protest, without desert-</verseline>
+<verseline>Hath oftentimes upbraided me withal;</verseline>
+<verseline>To her will we to dinner.  <stage_directions_inline>[To Angelo]</stage_directions_inline>  Get you home</verseline>
+<verseline>And fetch the chain; by this I know &#8216;tis made.</verseline>
+<verseline>Bring it, I pray you, to the Porpentine;</verseline>
+<verseline>For there&#8217;s the house. That chain will I bestow-</verseline>
+<verseline>Be it for nothing but to spite my wife-</verseline>
+<verseline>Upon mine hostess there; good sir, make haste.</verseline>
+<verseline>Since mine own doors refuse to entertain me,</verseline>
+<verseline>I&#8217;ll knock elsewhere, to see if they&#8217;ll disdain me.</verseline>
+<character>Angelo</character>
+<verseline>I&#8217;ll meet you at that place some hour hence.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Do so; this jest shall cost me some expense.</verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene 2</scene>
+<location>Before the house of Antipholus Of Ephesus</location>
+<stage_directions>Enter Luciana with Antipholus Of Syracuse</stage_directions>
+<character>Luciana</character>
+<verseline>And may it be that you have quite forgot</verseline>
+<verseline>A husband&#8217;s office? Shall, Antipholus,</verseline>
+<verseline>Even in the spring of love, thy love-springs rot?</verseline>
+<verseline>Shall love, in building, grow so ruinous?</verseline>
+<verseline>If you did wed my sister for her wealth,</verseline>
+<verseline>Then for her wealth&#8217;s sake use her with more kindness;</verseline>
+<verseline>Or, if you like elsewhere, do it by stealth;</verseline>
+<verseline>Muffle your false love with some show of blindness;</verseline>
+<verseline>Let not my sister read it in your eye;</verseline>
+<verseline>Be not thy tongue thy own shame&#8217;s orator;</verseline>
+<verseline>Look sweet, speak fair, become disloyalty;</verseline>
+<verseline>Apparel vice like virtue&#8217;s harbinger;</verseline>
+<verseline>Bear a fair presence, though your heart be tainted;</verseline>
+<verseline>Teach sin the carriage of a holy saint;</verseline>
+<verseline>Be secret-false. What need she be acquainted?</verseline>
+<verseline>What simple thief brags of his own attaint?</verseline>
+<verseline>    &#8216;Tis double wrong to truant with your bed</verseline>
+<verseline>And let her read it in thy looks at board;</verseline>
+<verseline>Shame hath a bastard fame, well managed;</verseline>
+<verseline>Ill deeds is doubled with an evil word.</verseline>
+<verseline>Alas, poor women! make us but believe,</verseline>
+<verseline>Being compact of credit, that you love us;</verseline>
+<verseline>Though others have the arm, show us the sleeve;</verseline>
+<verseline>We in your motion turn, and you may move us.</verseline>
+<verseline>Then, gentle brother, get you in again;</verseline>
+<verseline>Comfort my sister, cheer her, call her wife.</verseline>
+<verseline>    &#8216;Tis holy sport to be a little vain</verseline>
+<verseline>When the sweet breath of flattery conquers strife.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Sweet mistress-what your name is else,</verseline>
+<verseline>I know not,</verseline>
+<verseline>Nor by what wonder you do hit of mine-</verseline>
+<verseline>Less in your knowledge and your grace you show not</verseline>
+<verseline>Than our earth&#8217;s wonder-more than earth, divine.</verseline>
+<verseline>Teach me, dear creature, how to think and speak;</verseline>
+<verseline>Lay open to my earthy-gross conceit,</verseline>
+<verseline>Smoth&#8217;red in errors, feeble, shallow, weak,</verseline>
+<verseline>The folded meaning of your words&#8217; deceit.</verseline>
+<verseline>Against my soul&#8217;s pure truth why labour you</verseline>
+<verseline>To make it wander in an unknown field?</verseline>
+<verseline>Are you a god? Would you create me new?</verseline>
+<verseline>Transform me, then, and to your pow&#8217;r I&#8217;ll yield.</verseline>
+<verseline>But if that I am I, then well I know</verseline>
+<verseline>Your weeping sister is no wife of mine,</verseline>
+<verseline>Nor to her bed no homage do I owe;</verseline>
+<verseline>Far more, far more, to you do I decline.</verseline>
+<verseline>O, train me not, sweet mermaid, with thy note,</verseline>
+<verseline>To drown me in thy sister&#8217;s flood of tears.</verseline>
+<verseline>Sing, siren, for thyself, and I will dote;</verseline>
+<verseline>Spread o&#8217;er the silver waves thy golden hairs,</verseline>
+<verseline>And as a bed I&#8217;ll take them, and there he;</verseline>
+<verseline>And in that glorious supposition think</verseline>
+<verseline>He gains by death that hath such means to die.</verseline>
+<verseline>Let Love, being light, be drowned if she sink.</verseline>
+<character>Luciana</character>
+<verseline>What, are you mad, that you do reason so?</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Not mad, but mated; how, I do not know.</verseline>
+<character>Luciana</character>
+<verseline>It is a fault that springeth from your eye.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>For gazing on your beams, fair sun, being by.</verseline>
+<character>Luciana</character>
+<verseline>Gaze where you should, and that will clear your sight.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>As good to wink, sweet love, as look on night.</verseline>
+<character>Luciana</character>
+<verseline>Why call you me love? Call my sister so.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Thy sister&#8217;s sister.</verseline>
+<character>Luciana</character>
+<verseline>That&#8217;s my sister.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>No; it is thyself, mine own self&#8217;s better part;</verseline>
+<verseline>Mine eye&#8217;s clear eye, my dear heart&#8217;s dearer heart,</verseline>
+<verseline>My food, my fortune, and my sweet hope&#8217;s aim,</verseline>
+<verseline>My sole earth&#8217;s heaven, and my heaven&#8217;s claim.</verseline>
+<character>Luciana</character>
+<verseline>All this my sister is, or else should be.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Call thyself sister, sweet, for I am thee;</verseline>
+<verseline>Thee will I love, and with thee lead my life;</verseline>
+<verseline>Thou hast no husband yet, nor I no wife.</verseline>
+<verseline>Give me thy hand.</verseline>
+<character>Luciana</character>
+<verseline>O, soft, sir, hold you still;</verseline>
+<verseline>I&#8217;ll fetch my sister to get her good will.</verseline>
+<stage_directions>Exit Luciana</stage_directions>
+<stage_directions>Enter Dromio Of Syracuse.</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>Why, how now, Dromio! Where run&#8217;st thou</verseline>
+<verseline>    so fast?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Do you know me, sir? Am I Dromio?</verseline>
+<verseline>Am I your man? Am I myself?</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Thou art Dromio, thou art my man, thou art thyself.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>I am an ass, I am a woman&#8217;s man, and besides myself.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>What woman&#8217;s man, and how besides thyself?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Marry, sir, besides myself, I am due to a woman-one that claims me, one that haunts me, one that will have me.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>What claim lays she to thee?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Marry, sir, such claim as you would lay to your horse; and she would have me as a beast: not that, I being a beast, she would have me; but that she, being a very beastly creature, lays claim to me.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>What is she?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>A very reverent body; ay, such a one as a man may not speak of without he say &#8216;Sir-reverence.&#8217;  I have but lean luck in the match, and yet is she a wondrous fat marriage.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>How dost thou mean a fat marriage?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Marry, sir, she&#8217;s the kitchen-wench,</prose>
+<prose>and all grease; and I know not what use to put her to but to make a lamp of her and run from her by her own light. I warrant, her rags and the tallow in them will burn a Poland winter. If she lives till doomsday, she&#8217;ll burn a week longer than the whole world.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>What complexion is she of?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Swart, like my shoe; but her face nothing like so clean kept; for why, she sweats, a man may go over shoes in the grime of it.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>That&#8217;s a fault that water will mend.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>No, sir, &#8216;tis in grain; Noah&#8217;s flood could not do it.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>What&#8217;s her name?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Nell, sir; but her name and three quarters, that&#8217;s an ell and three quarters, will not measure her from hip to hip.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Then she bears some breadth?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>No longer from head to foot than from hip to hip: she is spherical, like a globe; I could find out countries in her.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>In what part of her body stands Ireland?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Marry, sir, in her buttocks; I found it out by the bogs.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Where Scotland?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>I found it by the barrenness, hard in the palm of the hand.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Where France?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>In her forehead, arm&#8217;d and reverted, making war against her heir.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Where England?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>I look&#8217;d for the chalky cliffs, but I could find no whiteness in them; but I guess it stood in her chin, by the salt rheum that ran between France and it.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Where Spain?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Faith, I saw it not, but I felt it hot in her breath.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Where America, the Indies?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>O, sir, upon her nose, an o&#8217;er embellished with rubies, carbuncles, sapphires, declining their rich aspect to the hot breath of Spain; who sent whole armadoes of caracks to be ballast at her nose.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Where stood Belgia, the Netherlands?</prose>
+<character>Dromio Of Syracuse</character>
+<verseline>O, Sir, I did not look so low. To conclude: this drudge or diviner laid claim to me; call&#8217;d me</verseline>
+<verseline>Dromio; swore I was assur&#8217;d to her; told me what privy marks I had about me, as, the mark of my shoulder, the mole in my neck, the great wart on my left arm, that I, amaz&#8217;d, ran from her as a witch.</verseline>
+<verseline>And, I think, if my breast had not been made of faith, and my heart of steel,</verseline>
+<verseline>She had transform&#8217;d me to a curtal dog, and made me turn i&#8217; th&#8217; wheel.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Go hie thee presently post to the road;</verseline>
+<verseline>An if the wind blow any way from shore,</verseline>
+<verseline>I will not harbour in this town to-night.</verseline>
+<verseline>If any bark put forth, come to the mart,</verseline>
+<verseline>Where I will walk till thou return to me.</verseline>
+<verseline>If every one knows us, and we know none,</verseline>
+<verseline>&#8216;Tis time, I think, to trudge, pack and be gone.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>As from a bear a man would run for life,</verseline>
+<verseline>So fly I from her that would be my wife.</verseline>
+<stage_directions>Exit</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>There&#8217;s none but witches do inhabit here,</verseline>
+<verseline>And therefore &#8216;tis high time that I were hence.</verseline>
+<verseline>She that doth call me husband, even my soul</verseline>
+<verseline>Doth for a wife abhor. But her fair sister,</verseline>
+<verseline>Possess&#8217;d with such a gentle sovereign grace,</verseline>
+<verseline>Of such enchanting presence and discourse,</verseline>
+<verseline>Hath almost made me traitor to myself;</verseline>
+<verseline>But, lest myself be guilty to self-wrong,</verseline>
+<verseline>I&#8217;ll stop mine ears against the mermaid&#8217;s song.</verseline>
+<stage_directions>Enter Angelo with the chain</stage_directions>
+<character>Angelo</character>
+<prose>Master Antipholus!</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Ay, that&#8217;s my name.</prose>
+<character>Angelo</character>
+<prose>I know it well, sir. Lo, here is the chain.</prose>
+<prose>I thought to have ta&#8217;en you at the Porpentine; the chain unfinish&#8217;d made me stay thus long.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>What is your will that I shall do with this?</prose>
+<character>Angelo</character>
+<prose>What please yourself, sir; I have made it for you.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Made it for me, sir! I bespoke it not.</prose>
+<character>Angelo</character>
+<prose>Not once nor twice, but twenty times you have.</prose>
+<prose>Go home with it, and please your wife withal; and soon at supper-time I&#8217;ll visit you, and then receive my money for the chain.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>I pray you, sir, receive the money now,</verseline>
+<verseline>For fear you ne&#8217;er see chain nor money more.</verseline>
+<character>Angelo</character>
+<verseline>You are a merry man, sir; fare you well. </verseline>
+<stage_directions>Exit</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>What I should think of this cannot tell:</verseline>
+<verseline>But this I think, there&#8217;s no man is so vain</verseline>
+<verseline>That would refuse so fair an offer&#8217;d chain.</verseline>
+<verseline>I see a man here needs not live by shifts,</verseline>
+<verseline>When in the streets he meets such golden gifts.</verseline>
+<verseline>I&#8217;ll to the mart, and there for Dromio stay;</verseline>
+<verseline>If any ship put out, then straight away.</verseline>
+<stage_directions>Exit</stage_directions>
+<act>Act IV</act>
+<firstscene>Scene 1</firstscene>
+<location>A public place</location>
+<stage_directions>Enter Second Merchant, Angelo, and an Officer</stage_directions>
+<character>Second Merchant</character>
+<verseline>You know since Pentecost the sum is due,</verseline>
+<verseline>And since I have not much importun&#8217;d you;</verseline>
+<verseline>Nor now I had not, but that I am bound</verseline>
+<verseline>To Persia, and want guilders for my voyage.</verseline>
+<verseline>Therefore make present satisfaction,</verseline>
+<verseline>Or I&#8217;ll attach you by this officer.</verseline>
+<character>Angelo</character>
+<verseline>Even just the sum that I do owe to you</verseline>
+<verseline>Is growing to me by Antipholus;</verseline>
+<verseline>And in the instant that I met with you</verseline>
+<verseline>He had of me a chain; at five o&#8217;clock</verseline>
+<verseline>I shall receive the money for the same.</verseline>
+<verseline>Pleaseth you walk with me down to his house,</verseline>
+<verseline>I will discharge my bond, and thank you too.</verseline>
+<stage_directions>Enter Antipholus Of Ephesus, and Dromio Of Ephesus, from the Courtezan&#8217;S</stage_directions>
+<character>Officer</character>
+<verseline>That labour may you save; see where he comes.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>While I go to the goldsmith&#8217;s house, go thou</verseline>
+<verseline>And buy a rope&#8217;s end; that will I bestow</verseline>
+<verseline>Among my wife and her confederates,</verseline>
+<verseline>For locking me out of my doors by day.</verseline>
+<verseline>But, soft, I see the goldsmith. Get thee gone;</verseline>
+<verseline>Buy thou a rope, and bring it home to me.</verseline>
+<character>Dromio Of Ephesus</character>
+<prose>I buy a thousand pound a year; I buy a rope.</prose>
+<stage_directions>Exit Dromio</stage_directions>
+<character>Antipholus Of Ephesus</character>
+<verseline>A man is well holp up that trusts to you!</verseline>
+<verseline>I promised your presence and the chain;</verseline>
+<verseline>But neither chain nor goldsmith came to me.</verseline>
+<verseline>Belike you thought our love would last too long,</verseline>
+<verseline>If it were chain&#8217;d together, and therefore came not.</verseline>
+<character>Angelo</character>
+<verseline>Saving your merry humour, here&#8217;s the note</verseline>
+<verseline>How much your chain weighs to the utmost carat,</verseline>
+<verseline>The fineness of the gold, and chargeful fashion,</verseline>
+<verseline>Which doth amount to three odd ducats more</verseline>
+<verseline>Than I stand debted to this gentleman.</verseline>
+<verseline>I pray you see him presently discharg&#8217;d,</verseline>
+<verseline>For he is bound to sea, and stays but for it.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>I am not furnish&#8217;d with the present money;</verseline>
+<verseline>Besides, I have some business in the town.</verseline>
+<verseline>Good signior, take the stranger to my house,</verseline>
+<verseline>And with you take the chain, and bid my wife</verseline>
+<verseline>Disburse the sum on the receipt thereof.</verseline>
+<verseline>Perchance I will be there as soon as you.</verseline>
+<character>Angelo</character>
+<prose>Then you will bring the chain to her yourself?</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>No; bear it with you, lest I come not time enough.</prose>
+<character>Angelo</character>
+<prose>Well, sir, I will. Have you the chain about you?</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>An if I have not, sir, I hope you have; or else you may return without your money.</prose>
+<character>Angelo</character>
+<verseline>Nay, come, I pray you, sir, give me the chain;</verseline>
+<verseline>Both wind and tide stays for this gentleman,</verseline>
+<verseline>And I, to blame, have held him here too long.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Good Lord! you use this dalliance to excuse</verseline>
+<verseline>Your breach of promise to the Porpentine;</verseline>
+<verseline>I should have chid you for not bringing it,</verseline>
+<verseline>But, like a shrew, you first begin to brawl.</verseline>
+<character>Second Merchant</character>
+<prose>The hour steals on; I pray you, sir, dispatch.</prose>
+<character>Angelo</character>
+<prose>You hear how he importunes me-the chain!</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>Why, give it to my wife, and fetch your money.</prose>
+<character>Angelo</character>
+<prose>Come, come, you know I gave it you even now.</prose>
+<prose>Either send the chain or send by me some token.</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>Fie, now you run this humour out of breath!</prose>
+<prose>Come, where&#8217;s the chain? I pray you let me see it.</prose>
+<character>Second Merchant</character>
+<prose>My business cannot brook this dalliance.</prose>
+<prose>Good sir, say whe&#8217;r you&#8217;ll answer me or no; if not, I&#8217;ll leave him to the officer.</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>I answer you! What should I answer you?</prose>
+<character>Angelo</character>
+<prose>The money that you owe me for the chain.</prose>
+<character>Antipholus Of Ephesus</character>
+<verseline>I owe you none till I receive the chain.</verseline>
+<character>Angelo</character>
+<prose>You know I gave it you half an hour since.</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>You gave me none; you wrong me much to say so.</prose>
+<character>Angelo</character>
+<verseline>You wrong me more, sir, in denying it.</verseline>
+<verseline>Consider how it stands upon my credit.</verseline>
+<character>Second Merchant</character>
+<prose>Well, officer, arrest him at my suit.</prose>
+<character>Officer</character>
+<prose>I do; and charge you in the Duke&#8217;s name to obey me.</prose>
+<character>Angelo</character>
+<prose>This touches me in reputation.</prose>
+<prose>Either consent to pay this sum for me, or I attach you by this officer.</prose>
+<character>Antipholus Of Ephesus</character>
+<verseline>Consent to pay thee that I never had!</verseline>
+<verseline>Arrest me, foolish fellow, if thou dar&#8217;st.</verseline>
+<character>Angelo</character>
+<prose>Here is thy fee; arrest him, officer.</prose>
+<prose>I would not spare my brother in this case, if he should scorn me so apparently.</prose>
+<character>Officer</character>
+<prose>I do arrest you, sir; you hear the suit.</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>I do obey thee till I give thee bail.</prose>
+<prose>But, sirrah, you shall buy this sport as dear as all the metal in your shop will answer.</prose>
+<character>Angelo</character>
+<prose>Sir, sir, I shall have law in Ephesus, to your notorious shame, I doubt it not.</prose>
+<stage_directions>Enter Dromio Of Syracuse, from the bay</stage_directions>
+<character>Dromio Of Syracuse</character>
+<verseline>Master, there&#8217;s a bark of Epidamnum</verseline>
+<verseline>That stays but till her owner comes aboard,</verseline>
+<verseline>And then, sir, she bears away. Our fraughtage, sir,</verseline>
+<verseline>I have convey&#8217;d aboard; and I have bought</verseline>
+<verseline>The oil, the balsamum, and aqua-vitx.</verseline>
+<verseline>The ship is in her trim; the merry wind</verseline>
+<verseline>Blows fair from land; they stay for nought at an</verseline>
+<verseline>But for their owner, master, and yourself.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>How now! a madman? Why, thou peevish sheep,</verseline>
+<verseline>What ship of Epidamnum stays for me?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>A ship you sent me to, to hire waftage.</prose>
+<character>Antipholus Of Ephesus</character>
+<verseline>Thou drunken slave! I sent the for a rope;</verseline>
+<verseline>And told thee to what purpose and what end.</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>You sent me for a rope&#8217;s end as soon-</prose>
+<prose>You sent me to the bay, sir, for a bark.</prose>
+<character>Antipholus Of Ephesus</character>
+<verseline>I Will debate this matter at more leisure,</verseline>
+<verseline>And teach your ears to list me with more heed.</verseline>
+<verseline>To Adriana, villain, hie thee straight;</verseline>
+<verseline>Give her this key, and tell her in the desk</verseline>
+<verseline>That&#8217;s cover&#8217;d o&#8217;er with Turkish tapestry</verseline>
+<verseline>There is a purse of ducats; let her send it.</verseline>
+<verseline>Tell her I am arrested in the street,</verseline>
+<verseline>And that shall bail me; hie thee, slave, be gone.</verseline>
+<verseline>On, officer, to prison till it come.        </verseline>
+<stage_directions>Exeunt all but Dromio</stage_directions>
+<character>Dromio Of Syracuse</character>
+<verseline>To Adriana! that is where we din&#8217;d,</verseline>
+<verseline>Where Dowsabel did claim me for her husband.</verseline>
+<verseline>She is too big, I hope, for me to compass.</verseline>
+<verseline>Thither I must, although against my will,</verseline>
+<verseline>For servants must their masters&#8217; minds fulfil.</verseline>
+<stage_directions> Exit</stage_directions>
+<scene>Scene 2</scene>
+<location>The house of Antipholus Of Ephesus</location>
+<stage_directions>Enter Adriana and Luciana</stage_directions>
+<character>Adriana</character>
+<verseline>Ah, Luciana, did he tempt thee so?</verseline>
+<verseline>Might&#8217;st thou perceive austerely in his eye</verseline>
+<verseline>That he did plead in earnest? Yea or no?</verseline>
+<verseline>Look&#8217;d he or red or pale, or sad or merrily?</verseline>
+<verseline>What observation mad&#8217;st thou in this case</verseline>
+<verseline>Of his heart&#8217;s meteors tilting in his face?</verseline>
+<character>Luciana</character>
+<verseline>First he denied you had in him no right.</verseline>
+<character>Adriana</character>
+<verseline>He meant he did me none-the more my spite.</verseline>
+<character>Luciana</character>
+<verseline>Then swore he that he was a stranger here.</verseline>
+<character>Adriana</character>
+<verseline>And true he swore, though yet forsworn he were.</verseline>
+<character>Luciana</character>
+<verseline>Then pleaded I for you.</verseline>
+<character>Adriana</character>
+<verseline>And what said he?</verseline>
+<character>Luciana</character>
+<verseline>That love I begg&#8217;d for you he begg&#8217;d of me.</verseline>
+<character>Adriana</character>
+<verseline>With what persuasion did he tempt thy love?</verseline>
+<character>Luciana</character>
+<verseline>With words that in an honest suit might move.</verseline>
+<verseline>First he did praise my beauty, then my speech.</verseline>
+<character>Adriana</character>
+<verseline>Didst speak him fair?</verseline>
+<character>Luciana</character>
+<verseline>Have patience, I beseech.</verseline>
+<character>Adriana</character>
+<verseline>I cannot, nor I will not hold me still;</verseline>
+<verseline>My tongue, though not my heart, shall have his will.</verseline>
+<verseline>He is deformed, crooked, old, and sere,</verseline>
+<verseline>Ill-fac&#8217;d, worse bodied, shapeless everywhere;</verseline>
+<verseline>Vicious, ungentle, foolish, blunt, unkind;</verseline>
+<verseline>Stigmatical in making, worse in mind.</verseline>
+<character>Luciana</character>
+<verseline>Who would be jealous then of such a one?</verseline>
+<verseline>No evil lost is wail&#8217;d when it is gone.</verseline>
+<character>Adriana</character>
+<verseline>Ah, but I think him better than I say,</verseline>
+<verseline>And yet would herein others&#8217; eyes were worse.</verseline>
+<verseline>Far from her nest the lapwing cries away;</verseline>
+<verseline>My heart prays for him, though my tongue do curse.</verseline>
+<stage_directions>Enter Dromio Of Syracuse.</stage_directions>
+<character>Dromio Of Syracuse</character>
+<prose>Here go-the desk, the purse. Sweet now, make haste.</prose>
+<character>Luciana</character>
+<prose>How hast thou lost thy breath?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>By running fast.</prose>
+<character>Adriana</character>
+<verseline>Where is thy master, Dromio? Is he well?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>No, he&#8217;s in Tartar limbo, worse than hell.</verseline>
+<verseline>A devil in an everlasting garment hath him;</verseline>
+<verseline>One whose hard heart is button&#8217;d up with steel;</verseline>
+<verseline>A fiend, a fairy, pitiless and rough;</verseline>
+<verseline>A wolf, nay worse, a fellow all in buff;</verseline>
+<verseline>A back-friend, a shoulder-clapper, one that countermands</verseline>
+<verseline>The passages of alleys, creeks, and narrow lands;</verseline>
+<verseline>A hound that runs counter, and yet draws dry-foot well;</verseline>
+<verseline>One that, before the Judgment, carries poor souls to hell.</verseline>
+<character>Adriana</character>
+<prose>Why, man, what is the matter?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>I do not know the matter; he is rested on the case.</prose>
+<character>Adriana</character>
+<prose>What, is he arrested? Tell me, at whose suit?</prose>
+<character>Dromio Of Syracuse</character>
+<verseline>I know not at whose suit he is arrested well;</verseline>
+<verseline>But he&#8217;s in a suit of buff which &#8216;rested him, that can I tell.</verseline>
+<verseline>Will you send him, mistress, redemption, the money in his desk?</verseline>
+<character>Adriana</character>
+<verseline>Go fetch it, sister.  <stage_directions_inline>[Exit Luciana]</stage_directions_inline>  This I wonder at:</verseline>
+<verseline>Thus he unknown to me should be in debt.</verseline>
+<verseline>Tell me, was he arrested on a band?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>On a band, but on a stronger thing,</verseline>
+<verseline>A chain, a chain. Do you not hear it ring?</verseline>
+<character>Adriana</character>
+<prose>What, the chain?</prose>
+<character>Dromio Of Syracuse</character>
+<verseline>No, no, the bell; &#8216;tis time that I were gone.</verseline>
+<verseline>It was two ere I left him, and now the clock strikes one.</verseline>
+<character>Adriana</character>
+<verseline>The hours come back! That did I never hear.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>O yes. If any hour meet a sergeant, &#8216;a turns</verseline>
+<verseline>Back for very fear.</verseline>
+<character>Adriana</character>
+<verseline>As if Time were in debt! How fondly dost thou reason!</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Time is a very bankrupt, and owes</verseline>
+<verseline>More than he&#8217;s worth to season.</verseline>
+<verseline>Nay, he&#8217;s a thief too: have you not heard men say</verseline>
+<verseline>That Time comes stealing on by night and day?</verseline>
+<verseline>If &#8216;a be in debt and theft, and a sergeant in the way,</verseline>
+<verseline>Hath he not reason to turn back an hour in a day?</verseline>
+<stage_directions>Re-enter Luciana with a purse</stage_directions>
+<character>Adriana</character>
+<verseline>Go, Dromio, there&#8217;s the money; bear it straight,</verseline>
+<verseline>And bring thy master home immediately.</verseline>
+<verseline>Come, sister; I am press&#8217;d down with conceit-</verseline>
+<verseline>Conceit, my comfort and my injury.  </verseline>
+<stage_directions>Exeunt</stage_directions>
+<scene>Scene 3</scene>
+<location>The mart</location>
+<stage_directions>Enter Antipholus Of Syracuse</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>There&#8217;s not a man I meet but doth salute me</verseline>
+<verseline>As if I were their well-acquainted friend;</verseline>
+<verseline>And every one doth call me by my name.</verseline>
+<verseline>Some tender money to me, some invite me,</verseline>
+<verseline>Some other give me thanks for kindnesses,</verseline>
+<verseline>Some offer me commodities to buy;</verseline>
+<verseline>Even now a tailor call&#8217;d me in his shop,</verseline>
+<verseline>And show&#8217;d me silks that he had bought for me,</verseline>
+<verseline>And therewithal took measure of my body.</verseline>
+<verseline>Sure, these are but imaginary wiles,</verseline>
+<verseline>And Lapland sorcerers inhabit here.</verseline>
+<stage_directions>Enter Dromio Of Syracuse</stage_directions>
+<character>Dromio Of Syracuse</character>
+<prose>Master, here&#8217;s the gold you sent me for. What, have you got the picture of old Adam new-apparell&#8217;d?</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>What gold is this? What Adam dost thou mean?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Not that Adam that kept the Paradise, but that Adam that keeps the prison; he that goes in the calf&#8217;s skin that was kill&#8217;d for the Prodigal; he that came behind you, sir, like an evil angel, and bid you forsake your liberty.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>I understand thee not.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>No? Why, &#8216;tis a plain case: he that went, like a bass-viol, in a case of leather; the man, sir, that, when gentlemen are tired, gives them a sob, and rest them; he, sir, that takes pity on decayed men, and give them suits of durance; he that sets up his rest to do more exploits with his mace than a morris-pike.</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>What, thou mean&#8217;st an officer?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Ay, sir, the sergeant of the band; that brings any man to answer it that breaks his band; on that thinks a man always going to bed, and says &#8216;God give you good rest!&#8217;</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Well, sir, there rest in your foolery. Is there any ship puts forth to-night? May we be gone?</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Why, sir, I brought you word an</prose>
+<prose>hour since that the bark Expedition put forth to-night; and then were you hind&#8217;red by the sergeant, to tarry for the boy Delay. Here are the angels that you sent for to deliver you.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>The fellow is distract, and so am I;</verseline>
+<verseline>And here we wander in illusions.</verseline>
+<verseline>Some blessed power deliver us from hence!</verseline>
+<stage_directions>Enter a Courtezan</stage_directions>
+<character>Courtezan</character>
+<prose>Well met, well met, Master Antipholus.</prose>
+<prose>I see, sir, you have found the goldsmith now.</prose>
+<prose>Is that the chain you promis&#8217;d me to-day?</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>Satan, avoid! I charge thee, tempt me not.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Master, is this Mistress Satan?</prose>
+<character>Antipholus Of Syracuse</character>
+<prose>It is the devil.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Nay, she is worse, she is the devil&#8217;s dam, and here she comes in the habit of a light wench; and thereof comes that the wenches say &#8216;God damn me!&#8217; That&#8217;s as much to say &#8216;God make me a light wench!&#8217; It is written they appear to men like angels of light; light is an effect of fire, and fire will burn; ergo, light wenches will burn.</prose>
+<prose>Come not near her.</prose>
+<character>Courtezan</character>
+<prose>Your man and you are marvellous merry, sir.</prose>
+<prose>Will you go with me? We&#8217;ll mend our dinner here.</prose>
+<character>Dromio Of Syracuse</character>
+<prose>Master, if you do, expect spoon-meat, or bespeak </prose>
+<prose>a long spoon.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>Why, Dromio?</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Marry, he must have a long spoon that must eat with the devil.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>Avoid then, fiend! What tell&#8217;st thou me of supping?</verseline>
+<verseline>Thou art, as you are all, a sorceress;</verseline>
+<verseline>I conjure thee to leave me and be gone.</verseline>
+<character>Courtezan</character>
+<prose>Give me the ring of mine you had at dinner,</prose>
+<prose>or, for my diamond, the chain you promis&#8217;d,</prose>
+<prose>and I&#8217;ll be gone, sir, and not trouble you.</prose>
+<character>Dromio Of Syracuse</character>
+<verseline>Some devils ask but the parings of one&#8217;s nail,</verseline>
+<verseline>A rush, a hair, a drop of blood, a pin,</verseline>
+<verseline>A nut, a cherry-stone;</verseline>
+<verseline>But she, more covetous, would have a chain.</verseline>
+<verseline>Master, be wise; an if you give it her,</verseline>
+<verseline>The devil will shake her chain, and fright us with it.</verseline>
+<character>Courtezan</character>
+<verseline>I pray you, sir, my ring, or else the chain;</verseline>
+<verseline>I hope you do not mean to cheat me so.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Avaunt, thou witch! Come, Dromio, let us go.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>&#8216;Fly pride&#8217; says the peacock. Mistress, that you know.</verseline>
+<stage_directions>Exeunt Antipholus Of Syracuse and Dromio Of Syracuse</stage_directions>
+<character>Courtezan</character>
+<verseline>Now, out of doubt, Antipholus is mad,</verseline>
+<verseline>Else would he never so demean himself.</verseline>
+<verseline>A ring he hath of mine worth forty ducats,</verseline>
+<verseline>And for the same he promis&#8217;d me a chain;</verseline>
+<verseline>Both one and other he denies me now.</verseline>
+<verseline>The reason that I gather he is mad,</verseline>
+<verseline>Besides this present instance of his rage,</verseline>
+<verseline>Is a mad tale he told to-day at dinner</verseline>
+<verseline>Of his own doors being shut against his entrance.</verseline>
+<verseline>Belike his wife, acquainted with his fits,</verseline>
+<verseline>On purpose shut the doors against his way.</verseline>
+<verseline>My way is now to hie home to his house,</verseline>
+<verseline>And tell his wife that, being lunatic,</verseline>
+<verseline>He rush&#8217;d into my house and took perforce</verseline>
+<verseline>My ring away. This course I fittest choose,</verseline>
+<verseline>For forty ducats is too much to lose. </verseline>
+<stage_directions>Exit</stage_directions>
+<scene>Scene 4</scene>
+<location>A street</location>
+<stage_directions>Enter Antipholus Of Ephesus with the Officer</stage_directions>
+<character>Antipholus Of Ephesus</character>
+<verseline>Fear me not, man; I will not break away.</verseline>
+<verseline>I&#8217;ll give thee, ere I leave thee, so much money,</verseline>
+<verseline>To warrant thee, as I am &#8216;rested for.</verseline>
+<verseline>My wife is in a wayward mood to-day,</verseline>
+<verseline>And will not lightly trust the messenger.</verseline>
+<verseline>That I should be attach&#8217;d in Ephesus,</verseline>
+<verseline>I tell you &#8216;twill sound harshly in her cars.</verseline>
+<stage_directions>Enter Dromio Of Ephesus, with a rope&#8217;s-end</stage_directions>
+<verseline>
+</verseline>
+<verseline>Here comes my man; I think he brings the money.</verseline>
+<verseline>How now, sir! Have you that I sent you for?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Here&#8217;s that, I warrant you, will pay them all.</verseline>
+<character>Antipholus Of Ephesus</character>
+<prose>But where&#8217;s the money?</prose>
+<character>Dromio Of Ephesus</character>
+<verseline>Why, sir, I gave the money for the rope.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Five hundred ducats, villain, for rope?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>I&#8217;ll serve you, sir, five hundred at the rate.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>To what end did I bid thee hie thee home?</verseline>
+<character>Dromio Of Ephesus</character>
+<prose>To a rope&#8217;s-end, sir; and to that end am I return&#8217;d.</prose>
+<character>Antipholus Of Ephesus</character>
+<verseline>And to that end, sir, I will welcome you. <stage_directions_inline>[Beating him]</stage_directions_inline>
+</verseline>
+<character>Officer</character>
+<prose>Good sir, be patient.</prose>
+<character>Dromio Of Ephesus</character>
+<prose>Nay, &#8216;tis for me to be patient; I am in adversity.</prose>
+<character>Officer</character>
+<prose>Good now, hold thy tongue.</prose>
+<character>Dromio Of Ephesus</character>
+<prose>Nay, rather persuade him to hold his hands.</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>Thou whoreson, senseless villain!</prose>
+<character>Dromio Of Ephesus</character>
+<prose>I would I were senseless, sir, that I might not feel your blows.</prose>
+<character>Antipholus Of Ephesus</character>
+<prose>Thou art sensible in nothing but blows, and so is an ass.</prose>
+<character>Dromio Of Ephesus</character>
+<prose>I am an ass indeed; you may prove it by my long &#8216;ears. I have served him from the hour of my nativity to this instant, and have nothing at his hands for my service but blows. When I am cold he heats me with beating; when I am warm he cools me with beating. I am wak&#8217;d with it when I sleep; rais&#8217;d with it when I sit; driven out of doors with it when I go from home; welcom&#8217;d home with it when I return; nay, I bear it on my shoulders as beggar wont her brat; and I think, when he hath lam&#8217;d me, I shall beg with it from door to door.</prose>
+<stage_directions>Enter Adriana, Luciana, the Courtezan, and a Schoolmaster call&#8217;d Pinch</stage_directions>
+<character>Antipholus Of Ephesus</character>
+<verseline>Come, go along; my wife is coming yonder.</verseline>
+<character>Dromio Of Ephesus</character>
+<prose>Mistress, &#8216;respice finem,&#8217; respect your end; or</prose>
+<prose>rather, to prophesy like the parrot, &#8216;Beware the rope&#8217;s-end.&#8217;</prose>
+<character>Antipholus Of Ephesus</character>
+<verseline>Wilt thou still talk?  <stage_directions_inline>[Beating him]</stage_directions_inline>
+</verseline>
+<character>Courtezan</character>
+<verseline>How say you now? Is not your husband mad?</verseline>
+<character>Adriana</character>
+<verseline>His incivility confirms no less.</verseline>
+<verseline>Good Doctor Pinch, you are a conjurer:</verseline>
+<verseline>Establish him in his true sense again,</verseline>
+<verseline>And I will please you what you will demand.</verseline>
+<character>Luciana</character>
+<verseline>Alas, how fiery and how sharp he looks!</verseline>
+<character>Courtezan</character>
+<verseline>Mark how he trembles in his ecstasy.</verseline>
+<character>Pinch</character>
+<verseline>Give me your hand, and let me feel your pulse.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>There is my hand, and let it feel your ear. <stage_directions_inline>[Striking him]</stage_directions_inline>
+</verseline>
+<character>Pinch</character>
+<verseline>I charge thee, Satan, hous&#8217;d within this man,</verseline>
+<verseline>To yield possession to my holy prayers,</verseline>
+<verseline>And to thy state of darkness hie thee straight.</verseline>
+<verseline>I conjure thee by all the saints in heaven.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Peace, doting wizard, peace! I am not mad.</verseline>
+<character>Adriana</character>
+<verseline>O, that thou wert not, poor distressed soul!</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>You minion, you, are these your customers?</verseline>
+<verseline>Did this companion with the saffron face</verseline>
+<verseline>Revel and feast it at my house to-day,</verseline>
+<verseline>Whilst upon me the guilty doors were shut,</verseline>
+<verseline>And I denied to enter in my house?</verseline>
+<character>Adriana</character>
+<verseline>O husband, God doth know you din&#8217;d at home,</verseline>
+<verseline>Where would you had remain&#8217;d until this time,</verseline>
+<verseline>Free from these slanders and this open shame!</verseline>
+<character>Antipholus Of Ephesus</character>
+<prose>Din&#8217;d at home! Thou villain, what sayest thou?</prose>
+<character>Dromio Of Ephesus</character>
+<verseline>Sir, Sooth to say, you did not dine at home.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Were not my doors lock&#8217;d up and I shut out?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Perdie, your doors were lock&#8217;d and you shut out.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>And did not she herself revile me there?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Sans fable, she herself revil&#8217;d you there.</verseline>
+<character>Antipholus Of Ephesus</character>
+<prose>Did not her kitchen-maid rail, taunt, and scorn me?</prose>
+<character>Dromio Of Ephesus</character>
+<verseline>Certes, she did; the kitchen-vestal scorn&#8217;d you.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>And did not I in rage depart from thence?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>In verity, you did. My bones bear witness,</verseline>
+<verseline>That since have felt the vigour of his rage.</verseline>
+<character>Adriana</character>
+<verseline>Is&#8217;t good to soothe him in these contraries?</verseline>
+<character>Pinch</character>
+<verseline>It is no shame; the fellow finds his vein,</verseline>
+<verseline>And, yielding to him, humours well his frenzy.</verseline>
+<character>Antipholus Of Ephesus</character>
+<prose>Thou hast suborn&#8217;d the goldsmith to arrest me.</prose>
+<character>Adriana</character>
+<verseline>Alas, I sent you money to redeem you,</verseline>
+<verseline>By Dromio here, who came in haste for it.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Money by me! Heart and goodwill you might,</verseline>
+<verseline>But surely, master, not a rag of money.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Went&#8217;st not thou to her for purse of ducats?</verseline>
+<character>Adriana</character>
+<verseline>He came to me, and I deliver&#8217;d it.</verseline>
+<character>Luciana</character>
+<verseline>And I am witness with her that she did.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>God and the rope-maker bear me witness</verseline>
+<verseline>That I was sent for nothing but a rope!</verseline>
+<character>Pinch</character>
+<verseline>Mistress, both man and master is possess&#8217;d;</verseline>
+<verseline>I know it by their pale and deadly looks.</verseline>
+<verseline>They must be bound, and laid in some dark room.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Say, wherefore didst thou lock me forth to-day?</verseline>
+<verseline>And why dost thou deny the bag of gold?</verseline>
+<character>Adriana</character>
+<verseline>I did not, gentle husband, lock thee forth.</verseline>
+<character>Dromio Of Ephesus</character>
+<prose>And, gentle master, I receiv&#8217;d no gold; but I confess, sir, that we were lock&#8217;d out.</prose>
+<character>Adriana</character>
+<verseline>Dissembling villain, thou speak&#8217;st false in both.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Dissembling harlot, thou art false in all,</verseline>
+<verseline>And art confederate with a damned pack</verseline>
+<verseline>To make a loathsome abject scorn of me;</verseline>
+<verseline>But with these nails I&#8217;ll pluck out these false eyes</verseline>
+<verseline>That would behold in me this shameful sport.</verseline>
+<character>Adriana</character>
+<verseline>O, bind him, bind him; let him not come near me.</verseline>
+<character>Pinch</character>
+<prose>More company! The fiend is strong within him.</prose>
+<prose>Enter three or four, and offer to bind him. He strives</prose>
+<character>Luciana</character>
+<verseline>Ay me, poor man, how pale and wan he looks!</verseline>
+<character>Antipholus Of Ephesus</character>
+<prose>What, will you murder me? Thou gaoler, thou,</prose>
+<prose>I am thy prisoner. Wilt thou suffer them to make a rescue?</prose>
+<character>Officer</character>
+<prose>Masters, let him go; he is my prisoner, and you shall not have him.</prose>
+<character>Pinch</character>
+<prose>Go bind this man, for he is frantic too.</prose>
+<stage_directions> [They bind Dromio]</stage_directions>
+<character>Adriana</character>
+<verseline>What wilt thou do, thou peevish officer?</verseline>
+<verseline>Hast thou delight to see a wretched man</verseline>
+<verseline>Do outrage and displeasure to himself?</verseline>
+<character>Officer</character>
+<prose>He is my prisoner; if I let him go, the debt he owes will be requir&#8217;d of me.</prose>
+<character>Adriana</character>
+<verseline>I will discharge thee ere I go from thee;</verseline>
+<verseline>Bear me forthwith unto his creditor,</verseline>
+<verseline>And, knowing how the debt grows, I will pay it.</verseline>
+<verseline>Good Master Doctor, see him safe convey&#8217;d</verseline>
+<verseline>Home to my house. O most unhappy day!</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>O most unhappy strumpet!</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Master, I am here ent&#8217;red in bond for you.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Out on thee, villian! Wherefore dost thou mad me?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Will you be bound for nothing?</verseline>
+<verseline>Be mad, good master; cry &#8216;The devil!&#8217;</verseline>
+<character>Luciana</character>
+<verseline>God help, poor souls, how idly do they talk!</verseline>
+<character>Adriana</character>
+<verseline>Go bear him hence. Sister, go you with me.</verseline>
+<stage_directions>Exeunt all but Adriana, Luciana, Officers, and Courtezan</stage_directions>
+<verseline>Say now, whose suit is he arrested at?</verseline>
+<character>Officer</character>
+<verseline>One Angelo, a goldsmith; do you know him?</verseline>
+<character>Adriana</character>
+<verseline>I know the man. What is the sum he owes?</verseline>
+<character>Officer</character>
+<verseline>Two hundred ducats.</verseline>
+<character>Adriana</character>
+<verseline>Say, how grows it due?</verseline>
+<character>Officer</character>
+<verseline>Due for a chain your husband had of him.</verseline>
+<character>Adriana</character>
+<verseline>He did bespeak a chain for me, but had it not.</verseline>
+<character>Courtezan</character>
+<verseline>When as your husband, all in rage, to-day</verseline>
+<verseline>Came to my house, and took away my ring-</verseline>
+<verseline>The ring I saw upon his finger now-</verseline>
+<verseline>Straight after did I meet him with a chain.</verseline>
+<character>Adriana</character>
+<verseline>It may be so, but I did never see it.</verseline>
+<verseline>Come, gaoler, bring me where the goldsmith is;</verseline>
+<verseline>I long to know the truth hereof at large.</verseline>
+<stage_directions>Enter Antipholus Of Syracuse, with his rapier drawn, and Dromio Of Syracuse.</stage_directions>
+<character>Luciana</character>
+<verseline>God, for thy mercy! they are loose again.</verseline>
+<character>Adriana</character>
+<verseline>And come with naked swords.</verseline>
+<verseline>Let&#8217;s call more help to have them bound again.</verseline>
+<character>Officer</character>
+<verseline>Away, they&#8217;ll kill us!</verseline>
+<stage_directions>Exeunt all but Antipholus Of Syracuse and Dromio Of Syracuse as fast as may be, frighted</stage_directions>
+<character>Antipholus Of Syracuse</character>
+<verseline>I see these witches are afraid of swords.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>She that would be your wife now ran from you.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Come to the Centaur; fetch our stuff from thence.</verseline>
+<verseline>I long that we were safe and sound aboard.</verseline>
+<character>Dromio Of Syracuse</character>
+<prose>Faith, stay here this night; they will surely do us no harm; you saw they speak us fair, give us gold; methinks they are such a gentle nation that, but for the mountain of mad flesh that claims marriage of me, could find in my heart to stay here still and turn witch.</prose>
+<character>Antipholus Of Syracuse</character>
+<verseline>I will not stay to-night for all the town;</verseline>
+<verseline>Therefore away, to get our stuff aboard.</verseline>
+<stage_directions>Exeunt</stage_directions>
+<act>Act V</act>
+<firstscene>Scene 1</firstscene>
+<location>A street before a priory</location>
+<stage_directions>Enter Second Merchant and Angelo</stage_directions>
+<character>Angelo</character>
+<verseline>I am sorry, sir, that I have hind&#8217;red you;</verseline>
+<verseline>But I protest he had the chain of me,</verseline>
+<verseline>Though most dishonestly he doth deny it.</verseline>
+<character>Second Merchant</character>
+<verseline>How is the man esteem&#8217;d here in the city?</verseline>
+<character>Angelo</character>
+<verseline>Of very reverend reputation, sir,</verseline>
+<verseline>Of credit infinite, highly belov&#8217;d,</verseline>
+<verseline>Second to none that lives here in the city;</verseline>
+<verseline>His word might bear my wealth at any time.</verseline>
+<character>Second Merchant</character>
+<verseline>Speak softly; yonder, as I think, he walks.</verseline>
+<stage_directions>Enter Antipholus Of Syracuse and Dromio Of Syracuse</stage_directions>
+<character>Angelo</character>
+<verseline>&#8216;Tis so; and that self chain about his neck</verseline>
+<verseline>Which he forswore most monstrously to have.</verseline>
+<verseline>Good sir, draw near to me, I&#8217;ll speak to him.</verseline>
+<verseline>Signior Andpholus, I wonder much</verseline>
+<verseline>That you would put me to this shame and trouble;</verseline>
+<verseline>And, not without some scandal to yourself,</verseline>
+<verseline>With circumstance and oaths so to deny</verseline>
+<verseline>This chain, which now you wear so openly.</verseline>
+<verseline>Beside the charge, the shame, imprisonment,</verseline>
+<verseline>You have done wrong to this my honest friend;</verseline>
+<verseline>Who, but for staying on our controversy,</verseline>
+<verseline>Had hoisted sail and put to sea to-day.</verseline>
+<verseline>This chain you had of me; can you deny it?</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>I think I had; I never did deny it.</verseline>
+<character>Second Merchant</character>
+<verseline>Yes, that you did, sir, and forswore it too.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Who heard me to deny it or forswear it?</verseline>
+<character>Second Merchant</character>
+<verseline>These ears of mine, thou know&#8217;st, did hear thee.</verseline>
+<verseline>Fie on thee, wretch! &#8216;tis pity that thou liv&#8217;st</verseline>
+<verseline>To walk where any honest men resort.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Thou art a villain to impeach me thus;</verseline>
+<verseline>I&#8217;ll prove mine honour and mine honesty</verseline>
+<verseline>Against thee presently, if thou dar&#8217;st stand.</verseline>
+<character>Second Merchant</character>
+<verseline>I dare, and do defy thee for a villain.</verseline>
+<stage_directions>[They draw] Enter Adriana, Luciana, the Courtezan, and Others</stage_directions>
+<character>Adriana</character>
+<verseline>Hold, hurt him not, for God&#8217;s sake! He is mad.</verseline>
+<verseline>Some get within him, take his sword away;</verseline>
+<verseline>Bind Dromio too, and bear them to my house.</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Run, master, run; for God&#8217;s sake take a house.</verseline>
+<verseline>This is some priory. In, or we are spoil&#8217;d.</verseline>
+<stage_directions>Exeunt Antipholus Of Syracuse and Dromio Of Syracuse to the priory</stage_directions>
+<stage_directions>Enter the Lady Abbess</stage_directions>
+<character>Abbess</character>
+<verseline>Be quiet, people. Wherefore throng you hither?</verseline>
+<character>Adriana</character>
+<verseline>To fetch my poor distracted husband hence.</verseline>
+<verseline>Let us come in, that we may bind him fast,</verseline>
+<verseline>And bear him home for his recovery.</verseline>
+<character>Angelo</character>
+<verseline>I knew he was not in his perfect wits.</verseline>
+<character>Second Merchant</character>
+<verseline>I am sorry now that I did draw on him.</verseline>
+<character>Abbess</character>
+<verseline>How long hath this possession held the man?</verseline>
+<character>Adriana</character>
+<verseline>This week he hath been heavy, sour, sad,</verseline>
+<verseline>And much different from the man he was;</verseline>
+<verseline>But till this afternoon his passion</verseline>
+<verseline>Ne&#8217;er brake into extremity of rage.</verseline>
+<character>Abbess</character>
+<verseline>Hath he not lost much wealth by wreck of sea?</verseline>
+<verseline>Buried some dear friend? Hath not else his eye</verseline>
+<verseline>Stray&#8217;d his affection in unlawful love?</verseline>
+<verseline>A sin prevailing much in youthful men</verseline>
+<verseline>Who give their eyes the liberty of gazing.</verseline>
+<verseline>Which of these sorrows is he subject to?</verseline>
+<character>Adriana</character>
+<verseline>To none of these, except it be the last;</verseline>
+<verseline>Namely, some love that drew him oft from home.</verseline>
+<character>Abbess</character>
+<verseline>You should for that have reprehended him.</verseline>
+<character>Adriana</character>
+<verseline>Why, so I did.</verseline>
+<character>Abbess</character>
+<verseline>Ay, but not rough enough.</verseline>
+<character>Adriana</character>
+<verseline>As roughly as my modesty would let me.</verseline>
+<character>Abbess</character>
+<verseline>Haply in private.</verseline>
+<character>Adriana</character>
+<verseline>And in assemblies too.</verseline>
+<character>Abbess</character>
+<verseline>Ay, but not enough.</verseline>
+<character>Adriana</character>
+<verseline>It was the copy of our conference.</verseline>
+<verseline>In bed, he slept not for my urging it;</verseline>
+<verseline>At board, he fed not for my urging it;</verseline>
+<verseline>Alone, it was the subject of my theme;</verseline>
+<verseline>In company, I often glanced it;</verseline>
+<verseline>Still did I tell him it was vile and bad.</verseline>
+<character>Abbess</character>
+<verseline>And thereof came it that the man was mad.</verseline>
+<verseline>The venom clamours of a jealous woman</verseline>
+<verseline>Poisons more deadly than a mad dog&#8217;s tooth.</verseline>
+<verseline>It seems his sleeps were hind&#8217;red by thy railing,</verseline>
+<verseline>And thereof comes it that his head is light.</verseline>
+<verseline>Thou say&#8217;st his meat was sauc&#8217;d with thy upbraidings:</verseline>
+<verseline>Unquiet meals make ill digestions;</verseline>
+<verseline>Thereof the raging fire of fever bred;</verseline>
+<verseline>And what&#8217;s a fever but a fit of madness?</verseline>
+<verseline>Thou say&#8217;st his sports were hind&#8217;red by thy brawls.</verseline>
+<verseline>Sweet recreation barr&#8217;d, what doth ensue</verseline>
+<verseline>But moody and dull melancholy,</verseline>
+<verseline>Kinsman to grim and comfortless despair,</verseline>
+<verseline>And at her heels a huge infectious troop</verseline>
+<verseline>Of pale distemperatures and foes to life?</verseline>
+<verseline>In food, in sport, and life-preserving rest,</verseline>
+<verseline>To be disturb&#8217;d would mad or man or beast.</verseline>
+<verseline>The consequence is, then, thy jealous fits</verseline>
+<verseline>Hath scar&#8217;d thy husband from the use of wits.</verseline>
+<character>Luciana</character>
+<verseline>She never reprehended him but mildly,</verseline>
+<verseline>When he demean&#8217;d himself rough, rude, and wildly.</verseline>
+<verseline>Why bear you these rebukes, and answer not?</verseline>
+<character>Adriana</character>
+<verseline>She did betray me to my own reproof.</verseline>
+<verseline>Good people, enter, and lay hold on him.</verseline>
+<character>Abbess</character>
+<verseline>No, not a creature enters in my house.</verseline>
+<character>Adriana</character>
+<verseline>Then let your servants bring my husband forth.</verseline>
+<character>Abbess</character>
+<verseline>Neither; he took this place for sanctuary,</verseline>
+<verseline>And it shall privilege him from your hands</verseline>
+<verseline>Till I have brought him to his wits again,</verseline>
+<verseline>Or lose my labour in assaying it.</verseline>
+<character>Adriana</character>
+<verseline>I will attend my husband, be his nurse,</verseline>
+<verseline>Diet his sickness, for it is my office,</verseline>
+<verseline>And will have no attorney but myself;</verseline>
+<verseline>And therefore let me have him home with me.</verseline>
+<character>Abbess</character>
+<verseline>Be patient; for I will not let him stir</verseline>
+<verseline>Till I have us&#8217;d the approved means I have,</verseline>
+<verseline>With wholesome syrups, drugs, and holy prayers,</verseline>
+<verseline>To make of him a formal man again.</verseline>
+<verseline>It is a branch and parcel of mine oath,</verseline>
+<verseline>A charitable duty of my order;</verseline>
+<verseline>Therefore depart, and leave him here with me.</verseline>
+<character>Adriana</character>
+<verseline>I will not hence and leave my husband here;</verseline>
+<verseline>And ill it doth beseem your holiness</verseline>
+<verseline>To separate the husband and the wife.</verseline>
+<character>Abbess</character>
+<verseline>Be quiet, and depart; thou shalt not have him. </verseline>
+<stage_directions>Exit</stage_directions>
+<character>Luciana</character>
+<verseline>Complain unto the Duke of this indignity.</verseline>
+<character>Adriana</character>
+<verseline>Come, go; I will fall prostrate at his feet,</verseline>
+<verseline>And never rise until my tears and prayers</verseline>
+<verseline>Have won his Grace to come in person hither</verseline>
+<verseline>And take perforce my husband from the Abbess.</verseline>
+<character>Second Merchant</character>
+<verseline>By this, I think, the dial points at five;</verseline>
+<verseline>Anon, I&#8217;m sure, the Duke himself in person</verseline>
+<verseline>Comes this way to the melancholy vale,</verseline>
+<verseline>The place of death and sorry execution,</verseline>
+<verseline>Behind the ditches of the abbey here.</verseline>
+<character>Angelo</character>
+<verseline>Upon what cause?</verseline>
+<character>Second Merchant</character>
+<verseline>To see a reverend Syracusian merchant,</verseline>
+<verseline>Who put unluckily into this bay</verseline>
+<verseline>Against the laws and statutes of this town,</verseline>
+<verseline>Beheaded publicly for his offence.</verseline>
+<character>Angelo</character>
+<verseline>See where they come; we will behold his death.</verseline>
+<character>Luciana</character>
+<verseline>Kneel to the Duke before he pass the abbey.</verseline>
+<stage_directions>Enter the Duke, attended; Aegeon, bareheaded; with the Headsman and other Officers</stage_directions>
+<character>Duke</character>
+<verseline>Yet once again proclaim it publicly,</verseline>
+<verseline>If any friend will pay the sum for him,</verseline>
+<verseline>He shall not die; so much we tender him.</verseline>
+<character>Adriana</character>
+<verseline>Justice, most sacred Duke, against the Abbess!</verseline>
+<character>Duke</character>
+<verseline>She is a virtuous and a reverend lady;</verseline>
+<verseline>It cannot be that she hath done thee wrong.</verseline>
+<character>Adriana</character>
+<verseline>May it please your Grace, Antipholus, my husband,</verseline>
+<verseline>Who I made lord of me and all I had</verseline>
+<verseline>At your important letters-this ill day</verseline>
+<verseline>A most outrageous fit of madness took him,</verseline>
+<verseline>That desp&#8217;rately he hurried through the street,</verseline>
+<verseline>With him his bondman all as mad as he,</verseline>
+<verseline>Doing displeasure to the citizens</verseline>
+<verseline>By rushing in their houses, bearing thence</verseline>
+<verseline>Rings, jewels, anything his rage did like.</verseline>
+<verseline>Once did I get him bound and sent him home,</verseline>
+<verseline>Whilst to take order for the wrongs I went,</verseline>
+<verseline>That here and there his fury had committed.</verseline>
+<verseline>Anon, I wot not by what strong escape,</verseline>
+<verseline>He broke from those that had the guard of him,</verseline>
+<verseline>And with his mad attendant and himself,</verseline>
+<verseline>Each one with ireful passion, with drawn swords,</verseline>
+<verseline>Met us again and, madly bent on us,</verseline>
+<verseline>Chas&#8217;d us away; till, raising of more aid,</verseline>
+<verseline>We came again to bind them. Then they fled</verseline>
+<verseline>Into this abbey, whither we pursu&#8217;d them;</verseline>
+<verseline>And here the Abbess shuts the gates on us,</verseline>
+<verseline>And will not suffer us to fetch him out,</verseline>
+<verseline>Nor send him forth that we may bear him hence.</verseline>
+<verseline>Therefore, most gracious Duke, with thy command</verseline>
+<verseline>Let him be brought forth and borne hence for help.</verseline>
+<character>Duke</character>
+<verseline>Long since thy husband serv&#8217;d me in my wars,</verseline>
+<verseline>And I to thee engag&#8217;d a prince&#8217;s word,</verseline>
+<verseline>When thou didst make him master of thy bed,</verseline>
+<verseline>To do him all the grace and good I could.</verseline>
+<verseline>Go, some of you, knock at the abbey gate,</verseline>
+<verseline>And bid the Lady Abbess come to me,</verseline>
+<verseline>I will determine this before I stir.</verseline>
+<stage_directions>Enter a Messenger</stage_directions>
+<character>Messenger</character>
+<verseline>O mistress, mistress, shift and save yourself!</verseline>
+<verseline>My master and his man are both broke loose,</verseline>
+<verseline>Beaten the maids a-row and bound the doctor,</verseline>
+<verseline>Whose beard they have sing&#8217;d off with brands of fire;</verseline>
+<verseline>And ever, as it blaz&#8217;d, they threw on him</verseline>
+<verseline>Great pails of puddled mire to quench the hair.</verseline>
+<verseline>My master preaches patience to him, and the while</verseline>
+<verseline>His man with scissors nicks him like a fool;</verseline>
+<verseline>And sure, unless you send some present help,</verseline>
+<verseline>Between them they will kill the conjurer.</verseline>
+<character>Adriana</character>
+<verseline>Peace, fool! thy master and his man are here,</verseline>
+<verseline>And that is false thou dost report to us.</verseline>
+<character>Messenger</character>
+<verseline>Mistress, upon my life, I tell you true;</verseline>
+<verseline>I have not breath&#8217;d almost since I did see it.</verseline>
+<verseline>He cries for you, and vows, if he can take you,</verseline>
+<verseline>To scorch your face, and to disfigure you.  <stage_directions_inline>[Cry within]</stage_directions_inline>
+</verseline>
+<verseline>Hark, hark, I hear him, mistress; fly, be gone!</verseline>
+<character>Duke</character>
+<verseline>Come, stand by me; fear nothing. Guard with halberds.</verseline>
+<character>Adriana</character>
+<verseline>Ay me, it is my husband! Witness you</verseline>
+<verseline>That he is borne about invisible.</verseline>
+<verseline>Even now we hous&#8217;d him in the abbey here,</verseline>
+<verseline>And now he&#8217;s there, past thought of human reason.</verseline>
+<stage_directions>Enter Antipholus Ofephesus and Dromio Ofephesus</stage_directions>
+<character>Antipholus Ofephesus</character>
+<verseline>Justice, most gracious Duke; O, grant me justice!</verseline>
+<verseline>Even for the service that long since I did thee,</verseline>
+<verseline>When I bestrid thee in the wars, and took</verseline>
+<verseline>Deep scars to save thy life; even for the blood</verseline>
+<verseline>That then I lost for thee, now grant me justice.</verseline>
+<character>Aegeon</character>
+<verseline>Unless the fear of death doth make me dote,</verseline>
+<verseline>I see my son Antipholus, and Dromio.</verseline>
+<character>Antipholus Ofephesus</character>
+<verseline>Justice, sweet Prince, against that woman there!</verseline>
+<verseline>She whom thou gav&#8217;st to me to be my wife,</verseline>
+<verseline>That hath abused and dishonoured me</verseline>
+<verseline>Even in the strength and height of injury.</verseline>
+<verseline>Beyond imagination is the wrong</verseline>
+<verseline>That she this day hath shameless thrown on me.</verseline>
+<character>Duke</character>
+<verseline>Discover how, and thou shalt find me just.</verseline>
+<character>Antipholus Ofephesus</character>
+<verseline>This day, great Duke, she shut the doors upon me,</verseline>
+<verseline>While she with harlots feasted in my house.</verseline>
+<character>Duke</character>
+<verseline>A grievous fault. Say, woman, didst thou so?</verseline>
+<character>Adriana</character>
+<verseline>No, my good lord. Myself, he, and my sister,</verseline>
+<verseline>To-day did dine together. So befall my soul</verseline>
+<verseline>As this is false he burdens me withal!</verseline>
+<character>Luciana</character>
+<verseline>Ne&#8217;er may I look on day nor sleep on night</verseline>
+<verseline>But she tells to your Highness simple truth!</verseline>
+<character>Angelo</character>
+<verseline>O peflur&#8217;d woman! They are both forsworn.</verseline>
+<verseline>In this the madman justly chargeth them.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>My liege, I am advised what I say;</verseline>
+<verseline>Neither disturbed with the effect of wine,</verseline>
+<verseline>Nor heady-rash, provok&#8217;d with raging ire,</verseline>
+<verseline>Albeit my wrongs might make one wiser mad.</verseline>
+<verseline>This woman lock&#8217;d me out this day from dinner;</verseline>
+<verseline>That goldsmith there, were he not pack&#8217;d with her,</verseline>
+<verseline>Could witness it, for he was with me then;</verseline>
+<verseline>Who parted with me to go fetch a chain,</verseline>
+<verseline>Promising to bring it to the Porpentine,</verseline>
+<verseline>Where Balthazar and I did dine together.</verseline>
+<verseline>Our dinner done, and he not coming thither,</verseline>
+<verseline>I went to seek him. In the street I met him,</verseline>
+<verseline>And in his company that gentleman.</verseline>
+<verseline>There did this perjur&#8217;d goldsmith swear me down</verseline>
+<verseline>That I this day of him receiv&#8217;d the chain,</verseline>
+<verseline>Which, God he knows, I saw not; for the which</verseline>
+<verseline>He did arrest me with an officer.</verseline>
+<verseline>I did obey, and sent my peasant home</verseline>
+<verseline>For certain ducats; he with none return&#8217;d.</verseline>
+<verseline>Then fairly I bespoke the officer</verseline>
+<verseline>To go in person with me to my house.</verseline>
+<verseline>By th&#8217; way we met my wife, her sister, and a rabble more</verseline>
+<verseline>Of vile confederates. Along with them</verseline>
+<verseline>They brought one Pinch, a hungry lean-fac&#8217;d villain,</verseline>
+<verseline>A mere anatomy, a mountebank,</verseline>
+<verseline>A threadbare juggler, and a fortune-teller,</verseline>
+<verseline>A needy, hollow-ey&#8217;d, sharp-looking wretch,</verseline>
+<verseline>A living dead man. This pernicious slave,</verseline>
+<verseline>Forsooth, took on him as a conjurer,</verseline>
+<verseline>And gazing in mine eyes, feeling my pulse,</verseline>
+<verseline>And with no face, as &#8216;twere, outfacing me,</verseline>
+<verseline>Cries out I was possess&#8217;d. Then all together</verseline>
+<verseline>They fell upon me, bound me, bore me thence,</verseline>
+<verseline>And in a dark and dankish vault at home</verseline>
+<verseline>There left me and my man, both bound together;</verseline>
+<verseline>Till, gnawing with my teeth my bonds in sunder,</verseline>
+<verseline>I gain&#8217;d my freedom, and immediately</verseline>
+<verseline>Ran hither to your Grace; whom I beseech</verseline>
+<verseline>To give me ample satisfaction</verseline>
+<verseline>For these deep shames and great indignities.</verseline>
+<character>Angelo</character>
+<verseline>My lord, in truth, thus far I witness with him,</verseline>
+<verseline>That he din&#8217;d not at home, but was lock&#8217;d out.</verseline>
+<character>Duke</character>
+<verseline>But had he such a chain of thee, or no?</verseline>
+<character>Angelo</character>
+<verseline>He had, my lord, and when he ran in here,</verseline>
+<verseline>These people saw the chain about his neck.</verseline>
+<character>Second Merchant</character>
+<verseline>Besides, I will be sworn these ears of mine</verseline>
+<verseline>Heard you confess you had the chain of him,</verseline>
+<verseline>After you first forswore it on the mart;</verseline>
+<verseline>And thereupon I drew my sword on you,</verseline>
+<verseline>And then you fled into this abbey here,</verseline>
+<verseline>From whence, I think, you are come by miracle.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>I never came within these abbey walls,</verseline>
+<verseline>Nor ever didst thou draw thy sword on me;</verseline>
+<verseline>I never saw the chain, so help me Heaven!</verseline>
+<verseline>And this is false you burden me withal.</verseline>
+<character>Duke</character>
+<verseline>Why, what an intricate impeach is this!</verseline>
+<verseline>I think you all have drunk of Circe&#8217;s cup.</verseline>
+<verseline>If here you hous&#8217;d him, here he would have been;</verseline>
+<verseline>If he were mad, he would not plead so coldly.</verseline>
+<verseline>You say he din&#8217;d at home: the goldsmith here</verseline>
+<verseline>Denies that saying. Sirrah, what say you?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Sir, he din&#8217;d with her there, at the Porpentine.</verseline>
+<character>Courtezan</character>
+<verseline>He did; and from my finger snatch&#8217;d that ring.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>&#8216;Tis true, my liege; this ring I had of her.</verseline>
+<character>Duke</character>
+<verseline>Saw&#8217;st thou him enter at the abbey here?</verseline>
+<character>Courtezan</character>
+<verseline>As sure, my liege, as I do see your Grace.</verseline>
+<character>Duke</character>
+<verseline>Why, this is strange. Go call the Abbess hither.</verseline>
+<verseline>I think you are all mated or stark mad.</verseline>
+<stage_directions>Exit one to the Abbess</stage_directions>
+<character>Aegeon</character>
+<verseline>Most mighty Duke, vouchsafe me speak a word:</verseline>
+<verseline>Haply I see a friend will save my life</verseline>
+<verseline>And pay the sum that may deliver me.</verseline>
+<character>Duke</character>
+<verseline>Speak freely, Syracusian, what thou wilt.</verseline>
+<character>Aegeon</character>
+<verseline>Is not your name, sir, call&#8217;d Antipholus?</verseline>
+<verseline>And is not that your bondman Dromio?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Within this hour I was his bondman, sir,</verseline>
+<verseline>But he, I thank him, gnaw&#8217;d in two my cords</verseline>
+<verseline>Now am I Dromio and his man unbound.</verseline>
+<character>Aegeon</character>
+<verseline>I am sure you both of you remember me.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Ourselves we do remember, sir, by you;</verseline>
+<verseline>For lately we were bound as you are now.</verseline>
+<verseline>You are not Pinch&#8217;s patient, are you, sir?</verseline>
+<character>Aegeon</character>
+<verseline>Why look you strange on me? You know me well.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>I never saw you in my life till now.</verseline>
+<character>Aegeon</character>
+<verseline>O! grief hath chang&#8217;d me since you saw me last;</verseline>
+<verseline>And careful hours with time&#8217;s deformed hand</verseline>
+<verseline>Have written strange defeatures in my face.</verseline>
+<verseline>But tell me yet, dost thou not know my voice?</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Neither.</verseline>
+<character>Aegeon</character>
+<verseline>Dromio, nor thou?</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>No, trust me, sir, nor I.</verseline>
+<character>Aegeon</character>
+<verseline>I am sure thou dost.</verseline>
+<character>Dromio Of Ephesus</character>
+<prose>Ay, sir, but I am sure I do not; and whatsoever a man denies, you are now bound to believe him.</prose>
+<character>Aegeon</character>
+<verseline>Not know my voice! O time&#8217;s extremity,</verseline>
+<verseline>Hast thou so crack&#8217;d and splitted my poor tongue</verseline>
+<verseline>In seven short years that here my only son</verseline>
+<verseline>Knows not my feeble key of untun&#8217;d cares?</verseline>
+<verseline>Though now this grained face of mine be hid</verseline>
+<verseline>In sap-consuming winter&#8217;s drizzled snow,</verseline>
+<verseline>And all the conduits of my blood froze up,</verseline>
+<verseline>Yet hath my night of life some memory,</verseline>
+<verseline>My wasting lamps some fading glimmer left,</verseline>
+<verseline>My dull deaf ears a little use to hear;</verseline>
+<verseline>All these old witnesses-I cannot err-</verseline>
+<verseline>Tell me thou art my son Antipholus.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>I never saw my father in my life.</verseline>
+<character>Aegeon</character>
+<verseline>But seven years since, in Syracuse, boy,</verseline>
+<verseline>Thou know&#8217;st we parted; but perhaps, my son,</verseline>
+<verseline>Thou sham&#8217;st to acknowledge me in misery.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>The Duke and all that know me in the city </verseline>
+<verseline>Can witness with me that it is not so:</verseline>
+<verseline>I ne&#8217;er saw Syracuse in my life.</verseline>
+<character>Duke</character>
+<verseline>I tell thee, Syracusian, twenty years</verseline>
+<verseline>Have I been patron to Antipholus,</verseline>
+<verseline>During which time he ne&#8217;er saw Syracuse.</verseline>
+<verseline>I see thy age and dangers make thee dote.</verseline>
+<stage_directions>Re-enter the Abbess, with Antipholus Of Syracuse and Dromio Of Syracuse</stage_directions>
+<character>Abbess</character>
+<verseline>Most mighty Duke, behold a man much wrong&#8217;d.</verseline>
+<stage_directions>[All gather to see them]</stage_directions>
+<character>Adriana</character>
+<verseline>I see two husbands, or mine eyes deceive me.</verseline>
+<character>Duke</character>
+<verseline>One of these men is genius to the other;</verseline>
+<verseline>And so of these. Which is the natural man,</verseline>
+<verseline>And which the spirit? Who deciphers them?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>I, sir, am Dromio; command him away.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>I, Sir, am Dromio; pray let me stay.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>Aegeon, art thou not? or else his</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>O, my old master! who hath bound</verseline>
+<character>Abbess</character>
+<verseline>Whoever bound him, I will loose his bonds,</verseline>
+<verseline>And gain a husband by his liberty.</verseline>
+<verseline>Speak, old Aegeon, if thou be&#8217;st the man</verseline>
+<verseline>That hadst a wife once call&#8217;d Aemilia,</verseline>
+<verseline>That bore thee at a burden two fair sons.</verseline>
+<verseline>O, if thou be&#8217;st the same Aegeon, speak,</verseline>
+<verseline>And speak unto the same Aemilia!</verseline>
+<character>Aegeon</character>
+<verseline>If I dream not, thou art Aemilia.</verseline>
+<verseline>If thou art she, tell me where is that son</verseline>
+<verseline>That floated with thee on the fatal raft?</verseline>
+<character>Abbess</character>
+<verseline>By men of Epidamnum he and I</verseline>
+<verseline>And the twin Dromio, all were taken up;</verseline>
+<verseline>But by and by rude fishermen of Corinth</verseline>
+<verseline>By force took Dromio and my son from them,</verseline>
+<verseline>And me they left with those of Epidamnum.</verseline>
+<verseline>What then became of them I cannot tell;</verseline>
+<verseline>I to this fortune that you see me in.</verseline>
+<character>Duke</character>
+<verseline>Why, here begins his morning story right.</verseline>
+<verseline>These two Antipholus&#8217;, these two so like,</verseline>
+<verseline>And these two Dromios, one in semblance-</verseline>
+<verseline>Besides her urging of her wreck at sea-</verseline>
+<verseline>These are the parents to these children,</verseline>
+<verseline>Which accidentally are met together.</verseline>
+<verseline>Antipholus, thou cam&#8217;st from Corinth first?</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>No, sir, not I; I came from Syracuse.</verseline>
+<character>Duke</character>
+<verseline>Stay, stand apart; I know not which is which.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>I came from Corinth, my most gracious lord.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>And I with him.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Brought to this town by that most famous warrior,</verseline>
+<verseline>Duke Menaphon, your most renowned uncle.</verseline>
+<character>Adriana</character>
+<verseline>Which of you two did dine with me to-day?</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>I, gentle mistress.</verseline>
+<character>Adriana</character>
+<verseline>And are not you my husband?</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>No; I say nay to that.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>And so do I, yet did she call me so;</verseline>
+<verseline>And this fair gentlewoman, her sister here,</verseline>
+<verseline>Did call me brother.  <stage_directions_inline>[To Luciana]</stage_directions_inline>  What I told you then,</verseline>
+<verseline>I hope I shall have leisure to make good;</verseline>
+<verseline>If this be not a dream I see and hear.</verseline>
+<character>Angelo</character>
+<verseline>That is the chain, sir, which you had of me.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>I think it be, sir; I deny it not.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>And you, sir, for this chain arrested me.</verseline>
+<character>Angelo</character>
+<verseline>I think I did, sir; I deny it not.</verseline>
+<character>Adriana</character>
+<verseline>I sent you money, sir, to be your bail,</verseline>
+<verseline>By Dromio; but I think he brought it not.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>No, none by me.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>This purse of ducats I receiv&#8217;d from you,</verseline>
+<verseline>And Dromio my man did bring them me.</verseline>
+<verseline>I see we still did meet each other&#8217;s man,</verseline>
+<verseline>And I was ta&#8217;en for him, and he for me,</verseline>
+<verseline>And thereupon these Errors are arose.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>These ducats pawn I for my father here.</verseline>
+<character>Duke</character>
+<verseline>It shall not need; thy father hath his life.</verseline>
+<character>Courtezan</character>
+<verseline>Sir, I must have that diamond from you.</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>There, take it; and much thanks for my good cheer.</verseline>
+<character>Abbess</character>
+<verseline>Renowned Duke, vouchsafe to take the pains</verseline>
+<verseline>To go with us into the abbey here,</verseline>
+<verseline>And hear at large discoursed all our fortunes;</verseline>
+<verseline>And all that are assembled in this place</verseline>
+<verseline>That by this sympathized one day&#8217;s error</verseline>
+<verseline>Have suffer&#8217;d wrong, go keep us company,</verseline>
+<verseline>And we shall make full satisfaction.</verseline>
+<verseline>Thirty-three years have I but gone in travail</verseline>
+<verseline>Of you, my sons; and till this present hour</verseline>
+<verseline>My heavy burden ne&#8217;er delivered.</verseline>
+<verseline>The Duke, my husband, and my children both,</verseline>
+<verseline>And you the calendars of their nativity,</verseline>
+<verseline>Go to a gossips&#8217; feast, and go with me;</verseline>
+<verseline>After so long grief, such nativity!</verseline>
+<character>Duke</character>
+<verseline>With all my heart, I&#8217;ll gossip at this feast.</verseline>
+<stage_directions>Exeunt all but Antipholus Of Syracuse, Antipholus Of</stage_directions>
+<stage_directions>Ephesus, Dromio Of Syracuse, and Dromio Of Ephesus</stage_directions>
+<character>Dromio Of Syracuse</character>
+<verseline>Master, shall I fetch your stuff from shipboard?</verseline>
+<character>Antipholus Of Ephesus</character>
+<verseline>Dromio, what stuff of mine hast thou embark&#8217;d?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Your goods that lay at host, sir, in the Centaur.</verseline>
+<character>Antipholus Of Syracuse</character>
+<verseline>He speaks to me. I am your master, Dromio.</verseline>
+<verseline>Come, go with us; we&#8217;ll look to that anon.</verseline>
+<verseline>Embrace thy brother there; rejoice with him.</verseline>
+<stage_directions>Exeunt Antipholus Of Syracuse and Antipholus Of Ephesus</stage_directions>
+<character>Dromio Of Syracuse</character>
+<verseline>There is a fat friend at your master&#8217;s house,</verseline>
+<verseline>That kitchen&#8217;d me for you to-day at dinner;</verseline>
+<verseline>She now shall be my sister, not my wife.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Methinks you are my glass, and not my brother;</verseline>
+<verseline>I see by you I am a sweet-fac&#8217;d youth.</verseline>
+<verseline>Will you walk in to see their gossiping?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>Not I, sir; you are my elder.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>That&#8217;s a question; how shall we try it?</verseline>
+<character>Dromio Of Syracuse</character>
+<verseline>We&#8217;ll draw cuts for the senior; till then, lead thou first.</verseline>
+<character>Dromio Of Ephesus</character>
+<verseline>Nay, then, thus:</verseline>
+<verseline>We came into the world like brother and brother,</verseline>
+<verseline>And now let&#8217;s go hand in hand, not one before another.</verseline>
+<stage_directions>Exeunt</stage_directions>
+<verseline>The End</verseline>
+</play>
+</shakespeareplay>

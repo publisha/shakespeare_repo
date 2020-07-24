@@ -99,32 +99,6 @@ Shakespeare left his sister, Joan Hart, £20 and his wearing apparel, and her ho
 
 Within half a century Shakespeare's line was extinct. His wife died August 6, 1623. His daughter Susanna left one daughter, Elizabeth, who married, April 22, 1626, Thomas Nashe, who died April 4, 1647. On June 5, 1649, she married John Barnard of Abington, Northamptonshire, afterwards knighted. She left no children by either marriage. Her burial was recorded February 17, 1669-70. Shakespeare's daughter Judith had three sons, —Shakespeare, baptised November 23, 1616, buried May 8, 1617; Richard, baptised February 9, 1617-8, buried February 16, 1638-9; Thomas, baptised January 23, 1619-20, buried January 1638-9. Judith Shakespeare survived them all, and was buried February 9, 1661-2. Shakespeare's sister, Joan Hart, left descendants who owned the Henley Street House up to the time of its purchase, in 1847, by the nation.
 
-<!--
-## Where does this text come from?
-The Project Gutenberg EBook of An Introduction to Shakespeare, by
-H. N. MacCracken and F. E. Pierce and W. H. Durham
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever. You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.net
-
-
-Title: An Introduction to Shakespeare
- H. N. MacCRACKEN, PH.D.
- F. E. PIERCE, PH.D.
- AND
- W. H. DURHAM, PH.D.
-
-New York
-
-THE MACMILLAN COMPANY
-COPYRIGHT, 1910,
-
--->
-
-
-
 [^1]:	This reference was discovered among the Plume Mss. (1657-1663) of Maldon, Essex, by Dr. Andrew Clark, in October, 1904. Sir John Mennes was, however, not a contemporary of John Shakespeare, but doubtless merely passed on the description from some eyewitness.
 
 [^2]:	The dates between January 1 and March 25, previous to 1752, are always thus written. In 1752 England and its colonies decided to begin the year with January 1 instead of March 25, as formerly. Thus for periods before that date between January 1 and March 25, we give two figures to indicate that the people of that time called it one year and we call it a year later. Thus, Judith Shakespeare would have said she was baptised in 1584, while by our reckoning her baptism came in 1585.

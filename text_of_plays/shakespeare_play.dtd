@@ -1,0 +1,21 @@
+<!ELEMENT shakespeareplay (dramatis_personae?,play?)>
+<!ELEMENT dramatis_personae (dramatis_head?,charactername+,play_location?)>
+<!ELEMENT charactername (#PCDATA | character_role)*>
+<!ELEMENT character_role (#PCDATA)>
+<!ELEMENT play ((act,(((firstscene|scene)+,location?,(stage_directions|stage_action|character|prose|verseline|song)+))*)*)>
+<!ELEMENT location (#PCDATA | scene_image)*>
+<!ELEMENT dramatis_head (#PCDATA)>
+<!ELEMENT play_location (#PCDATA)>
+<!ELEMENT act (#PCDATA)>
+<!ELEMENT firstscene (#PCDATA)>
+<!ELEMENT scene (#PCDATA)>
+<!ELEMENT stage_directions (#PCDATA)>
+<!ELEMENT stage_action (#PCDATA)>
+<!ELEMENT character (#PCDATA | stage_directions_inline)*>
+<!ELEMENT prose (#PCDATA | stage_directions_inline)*>
+<!ELEMENT stage_directions_inline (#PCDATA)>
+<!ELEMENT verseline (#PCDATA | stage_directions_inline)*>
+<!ELEMENT song (#PCDATA)>
+<!ELEMENT scene_image (#PCDATA)>
+<!ATTLIST scene_image href CDATA #REQUIRED>
+<!ATTLIST shakespeareplay title CDATA #REQUIRED>
