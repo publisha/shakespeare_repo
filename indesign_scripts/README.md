@@ -3,7 +3,16 @@
 Here are some scripts for InDesign.
 
 ## search_change_case.jsx
+
 this will help change the case (from all caps to title case)
+
+## sidenotes.jsx
+
+This will convert the footnotes to sidenotes. Your margins must be large enough to accommodate them
+
+## sidenotes_revert.jsx
+
+This will send the sidenotes back to footnotes
 
 ## How to add the script to InDesign
 
