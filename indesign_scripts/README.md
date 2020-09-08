@@ -5,9 +5,6 @@ Here are some scripts for InDesign.
 ## search_change_case.jsx
 this will help change the case (from all caps to title case)
 
-## index_topics_list.jsx
-this script will take a simple list of words and add them as topics in the open InDesign files. This then, makes it easy to create a simple index.
-
 ## How to add the script to InDesign
 
 - You will find the script menu item under Window > Utilities > Scripts
