@@ -26,9 +26,8 @@
 <charactername>MOPSA, <character_role> shepherdess</character_role></charactername>
 <charactername>DORCAS, <character_role>shepherdess</character_role></charactername>
 <charactername>Other Lords, Gentlemen, Ladies, Officers, Servants, Shepherds,</charactername>
-<charactername>  Shepherdesses</charactername>
-<character_role></character_role>
-<play_location>SCENE: Sicilia and Bohemia</play_location>
+<charactername>Shepherdesses</charactername>
+<play_location>Scene: Sicilia and Bohemia</play_location>
 </dramatis_personae>
 <play>
 <act>Act I</act>
@@ -122,9 +121,8 @@
 <verseline>To tell he longs to see his son were strong;</verseline>
 <verseline>But let him say so then, and let him go;</verseline>
 <verseline>But let him swear so, and he shall not stay;</verseline>
-<verseline>We&#8217;ll thwack him hence with distaffs. <stageDirection_Inline>[To</stageDirection_Inline>
-Polixenes
-<stageDirection_Inline>]</stageDirection_Inline></verseline>
+<verseline>We&#8217;ll thwack him hence with distaffs. <stage_directions_inline>[To
+Polixenes]</stage_directions_inline></verseline>
 <prose>Yet of your royal presence I&#8217;ll adventure the borrow of a week. When at Bohemia</prose>
 <verseline>You take my lord, I&#8217;ll give him my commission</verseline>
 <verseline>To let him there a month behind the gest</verseline>
@@ -231,12 +229,10 @@ Polixenes
 <verseline>The one for ever earn&#8217;d a royal husband;</verseline>
 <verseline>Th&#8217; other for some while a friend</verseline>
 <verseline>
-<stageDirection_Inline>[Giving her hand to</stageDirection_Inline>
-Polixenes
-<stageDirection_Inline>]</stageDirection_Inline></verseline>
+<stage_directions_inline>[Giving her hand to]</stage_directions_inline></verseline>
 <character>Leontes</character>
 <verseline>
-<stageDirection_Inline>[Aside]</stageDirection_Inline>﻿﻿ Too hot, too hot!</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline>Too hot, too hot!</verseline>
 <verseline>To mingle friendship far is mingling bloods.</verseline>
 <verseline>I have tremor cordis on me; my heart dances,</verseline>
 <verseline>But not for joy, not joy. This entertainment</verseline>
@@ -333,21 +329,13 @@ Polixenes
 <verseline>We are yours i&#8217; th&#8217; garden. Shall&#8217;s attend you there?</verseline>
 <character>Leontes</character>
 <verseline>To your own bents dispose you; you&#8217;ll be found,</verseline>
-<verseline>Be you beneath the sky. <stageDirection_Inline>[Aside]</stageDirection_Inline> I am angling now,</verseline>
+<verseline>Be you beneath the sky. <stage_directions_inline>[Aside]</stage_directions_inline> I am angling now,</verseline>
 <verseline>Though you perceive me not how I give line.</verseline>
 <verseline>Go to, go to!</verseline>
 <verseline>How she holds up the neb, the bill to him!</verseline>
 <verseline>And arms her with the boldness of a wife</verseline>
 <verseline>To her allowing husband!</verseline>
-<stage_directions>
-<stageDirection_Inline>[Exeunt</stageDirection_Inline>
-Polixenes
-<stageDirection_Inline>,</stageDirection_Inline>
-Hermione
-<stageDirection_Inline>, and</stageDirection_Inline>
-Attendants]
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<stage_directions>[Exeunt Polixenes, Hermione, and Attendants]</stage_directions>
 <verseline>Gone already!</verseline>
 <verseline>Inch-thick, knee-deep, o&#8217;er head and ears a fork&#8217;d one!</verseline>
 <verseline>Go, play, boy, play; thy mother plays, and I</verseline>
@@ -379,9 +367,7 @@ Attendants]
 <character>Camillo</character>
 <verseline>Ay, my good lord.</verseline>
 <character>Leontes</character>
-<verseline>Go play, Mamillius; thou&#8217;rt an honest man. <stageDirection_Inline>[Exit</stageDirection_Inline>
-Mamillius]
-<stageDirection_Inline></stageDirection_Inline>
+<verseline>Go play, Mamillius; thou&#8217;rt an honest man. <stage_directions_inline>[Exit Mamillius]</stage_directions_inline>
 </verseline>
 <verseline>Camillo, this great sir will yet stay longer.</verseline>
 <character>Camillo</character>
@@ -395,7 +381,7 @@ Mamillius]
 <character>Leontes</character>
 <verseline>Didst perceive it?</verseline>
 <verseline>
-<stageDirection_Inline>[Aside]</stageDirection_Inline>They&#8217;re here with me already; whisp&#8217;ring,</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline>They&#8217;re here with me already; whisp&#8217;ring,</verseline>
 <verseline>rounding,</verseline>
 <verseline>&#8216;Sicilia is a so-forth.&#8217; &#8216;Tis far gone</verseline>
 <verseline>When I shall gust it last.- How came&#8217;t, Camillo,</verseline>
@@ -592,11 +578,7 @@ Mamillius]
 <verseline>Forsake the court. To do&#8217;t, or no, is certain</verseline>
 <verseline>To me a break-neck. Happy star reign now!</verseline>
 <verseline>Here comes Bohemia.</verseline>
-<stage_directions>
-<stageDirection_Inline>Enter</stageDirection_Inline>
-Polixenes
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<stage_directions> Enter Polixenes </stage_directions>
 <character>Polixenes</character>
 <verseline>This is strange. Methinks</verseline>
 <verseline>My favour here begins to warp. Not speak?</verseline>
@@ -804,14 +786,8 @@ Polixenes
 <verseline>Yond crickets shall not hear it.</verseline>
 <character>Hermione</character>
 <verseline>Come on then,</verseline>
-<verseline>And give&#8217;t me in mine ear. <stageDirection_Inline>[Enter</stageDirection_Inline>
-Leontes
-<stageDirection_Inline>,</stageDirection_Inline>
-Antigonus
-<stageDirection_Inline>,</stageDirection_Inline>
-Lords
-<stageDirection_Inline>, and</stageDirection_Inline>
-Others]</verseline>
+<verseline>And give&#8217;t me in mine ear.</verseline>
+<stage_directions>[Enter Leontes, Antigonus, Lords, and Others]</stage_directions>
 <prose>
 Leontes he met there? his train? Camillo with him?</prose>
 <character>First Lord</character>
@@ -851,11 +827,7 @@ Leontes he met there? his train? Camillo with him?</prose>
 <character>Leontes</character>
 <verseline>Bear the boy hence; he shall not come about her;</verseline>
 <verseline>Away with him; and let her sport herself</verseline>
-<stage_directions>
-<stageDirection_Inline>[</stageDirection_Inline>
-Mamillius
-<stageDirection_Inline> is led out]</stageDirection_Inline>
-</stage_directions>
+<stage_directions>[Mamillius is led out]</stage_directions>
 <verseline>With that she&#8217;s big with- for &#8216;tis Polixenes</verseline>
 <verseline>Has made thee swell thus.</verseline>
 <character>Hermione</character>
@@ -940,15 +912,7 @@ Mamillius
 <verseline>I trust I shall. My women, come; you have leave.</verseline>
 <character>Leontes</character>
 <verseline>Go, do our bidding; hence!</verseline>
-<stage_directions>
-<stageDirection_Inline>Exeunt</stageDirection_Inline>
-Hermione
-<stageDirection_Inline>,</stageDirection_Inline>
-Guards
-<stageDirection_Inline>, and</stageDirection_Inline>
-Ladies
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<stage_directions>Exeunt Hermione, Guards, and Ladies</stage_directions>
 <character>First Lord</character>
 <verseline>Beseech your Highness, call the Queen again.</verseline>
 <character>Antigonus</character>
@@ -1050,7 +1014,7 @@ Ladies
 <verseline>Will raise us all.</verseline>
 <character>Antigonus</character>
 <verseline>
-<stageDirection_Inline>[Aside]</stageDirection_Inline> To laughter, as I take it,</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> To laughter, as I take it,</verseline>
 <verseline>If the good truth were known.</verseline>
 <stage_directions>Exeunt</stage_directions>
 <scene>Scene II</scene>
@@ -1059,20 +1023,12 @@ Ladies
 <character>Paulina</character>
 <verseline>The keeper of the prison- call to him;</verseline>
 <verseline>Let him have knowledge who I am.</verseline>
-<verseline>[<stageDirection_Inline>Exit</stageDirection_Inline>
-Gentleman]
-<stageDirection_Inline></stageDirection_Inline>
+<verseline>[<stage_directions_inline>Exit Gentleman]</stage_directions_inline>
 </verseline>
 <verseline>Good lady!</verseline>
 <verseline>No court in Europe is too good for thee;</verseline>
 <verseline>What dost thou then in prison?</verseline>
-<verseline>
-<stageDirection_Inline>[Re-enter</stageDirection_Inline>
-Gentleman
-<stageDirection_Inline> with the</stageDirection_Inline>
-Gaoler]
-<stageDirection_Inline></stageDirection_Inline>
-</verseline>
+<stage_directions>[Re-enter Gentleman with the Gaoler]</stage_directions>
 <verseline>Now, good sir,</verseline>
 <verseline>You know me, do you not?</verseline>
 <character>Gaoler</character>
@@ -1101,16 +1057,11 @@ Gaoler]
 <verseline>I must be present at your conference.</verseline>
 <character>Paulina</character>
 <verseline>Well, be&#8217;t so, prithee.</verseline>
-<verseline>[<stageDirection_Inline>Exit</stageDirection_Inline>
+<verseline>[<stage_directions_inline>Exit</stage_directions_inline>
 Gaoler]</verseline>
 <verseline>Here&#8217;s such ado to make no stain a stain</verseline>
 <verseline>As passes colouring.</verseline>
-<verseline>[<stageDirection_Inline>Re-enter</stageDirection_Inline>
-Gaoler
-<stageDirection_Inline>, with</stageDirection_Inline>
-Emilia]
-<stageDirection_Inline></stageDirection_Inline>
-</verseline>
+<stage_directions>Re-enter Gaoler, with Emilia]</stage_directions>
 <verseline>Dear gentlewoman,</verseline>
 <verseline>How fares our gracious lady?</verseline>
 <character>Emilia</character>
@@ -1203,9 +1154,8 @@ Emilia]
 <verseline>Fasten&#8217;d and fix&#8217;d the shame on&#8217;t in himself,</verseline>
 <verseline>Threw off his spirit, his appetite, his sleep,</verseline>
 <verseline>And downright languish&#8217;d. Leave me solely. Go,</verseline>
-<verseline>See how he fares.<stageDirection_Inline> [Exit</stageDirection_Inline>
-Servant
-<stageDirection_Inline>]</stageDirection_Inline></verseline>
+<verseline>See how he fares.<stage_directions_inline> [Exit Servant]</stage_directions_inline>
+</verseline>
 <verseline>Fie, fie! no thought of him!</verseline>
 <verseline>The very thought of my revenges that way</verseline>
 <verseline>Recoil upon me- in himself too mighty,</verseline>
@@ -1283,9 +1233,9 @@ Servant
 <verseline>First hand me. On mine own accord I&#8217;ll off;</verseline>
 <verseline>But first I&#8217;ll do my errand. The good Queen,</verseline>
 <verseline>For she is good, hath brought you forth a daughter;</verseline>
-<verseline>Here &#8216;tis; commends it to your blessing.</verseline>
-<stage_directions>
-<stageDirection_Inline>[Laying down the child]</stageDirection_Inline></stage_directions>
+<verseline>Here &#8216;tis; commends it to your blessing.
+<stage_directions_inline>[Laying down the child]</stage_directions_inline>
+</verseline>
 <character>Leontes</character>
 <verseline>Out!</verseline>
 <verseline>A mankind witch! Hence with her, out o&#8217; door!</verseline>
@@ -1298,11 +1248,8 @@ Servant
 <verseline>As this world goes, to pass for honest.</verseline>
 <character>Leontes</character>
 <verseline>Traitors!</verseline>
-<verseline>Will you not push her out? Give her the bastard.</verseline>
-<verseline>
-<stageDirection_Inline>[To</stageDirection_Inline>
-Antigonus
-<stageDirection_Inline>]</stageDirection_Inline>
+<verseline>Will you not push her out? Give her the bastard.
+<stage_directions_inline>[To Antigonus]</stage_directions_inline>
 </verseline>
 <verseline>Thou dotard, thou art woman-tir&#8217;d, unroosted</verseline>
 <verseline>By thy Dame Partlet here. Take up the bastard;</verseline>
@@ -1424,9 +1371,7 @@ Antigonus
 <verseline>Shall I live on to see this bastard kneel</verseline>
 <verseline>And call me father? Better burn it now</verseline>
 <verseline>Than curse it then. But be it; let it live.</verseline>
-<verseline>It shall not neither. <stageDirection_Inline>[To</stageDirection_Inline>
-Antigonus
-<stageDirection_Inline>]</stageDirection_Inline> You, Sir, come you hither.</verseline>
+<verseline>It shall not neither. <stage_directions_inline>[To Antigonus ]</stage_directions_inline> You, Sir, come you hither.</verseline>
 <verseline>You that have been so tenderly officious</verseline>
 <verseline>With Lady Margery, your midwife there,</verseline>
 <verseline>To save this bastard&#8217;s life- for &#8216;tis a bastard,</verseline>
@@ -1472,11 +1417,7 @@ Antigonus
 <character>Leontes</character>
 <verseline>No, I&#8217;ll not rear</verseline>
 <verseline>Another&#8217;s issue.</verseline>
-<stage_directions>
-<stageDirection_Inline>Enter a</stageDirection_Inline>
-Servant
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<stage_directions>Enter a Servant</stage_directions>
 <character>Servant</character>
 <verseline>Please your Highness, posts</verseline>
 <verseline>From those you sent to th&#8217; oracle are come</verseline>
@@ -1550,18 +1491,14 @@ Servant
 <verseline>Produce the prisoner.</verseline>
 <character>Officer</character>
 <verseline>It is his Highness&#8217; pleasure that the Queen</verseline>
-<verseline>Appear in person here in court. <stageDirection_Inline>[Enter</stageDirection_Inline>
-Hermione
-<stageDirection_Inline>, as to her trial,</stageDirection_Inline>
-Paulina
-<stageDirection_Inline>, and</stageDirection_Inline>
-Ladies]</verseline>
+<verseline>Appear in person here in court.</verseline>
+<stage_directions>[Enter Hermione, as to her trial, Paulina, and Ladies]</stage_directions>
 <verseline>Silence!</verseline>
 <character>Leontes</character>
 <verseline>Read the indictment.</verseline>
 <character>Officer</character>
 <prose>
-<stageDirection_Inline>[Reads]</stageDirection_Inline>&#8216;Hermione, Queen to the worthy Leontes, King of Sicilia, thou art here accused and arraigned of high treason, in committing adultery with Polixenes, King of Bohemia; and conspiring with Camillo to take away the life of our sovereign lord the King, thy royal husband: the pretence whereof being by circumstances partly laid open, thou, Hermione, contrary to the faith and allegiance of true subject, didst counsel and aid them, for their better safety, to fly away by night.&#8217;</prose>
+<stage_directions_inline>[Reads]</stage_directions_inline>&#8216;Hermione, Queen to the worthy Leontes, King of Sicilia, thou art here accused and arraigned of high treason, in committing adultery with Polixenes, King of Bohemia; and conspiring with Camillo to take away the life of our sovereign lord the King, thy royal husband: the pretence whereof being by circumstances partly laid open, thou, Hermione, contrary to the faith and allegiance of true subject, didst counsel and aid them, for their better safety, to fly away by night.&#8217;</prose>
 <character>Hermione</character>
 <verseline>Since what I am to say must be but that</verseline>
 <verseline>Which contradicts my accusation, and</verseline>
@@ -1697,7 +1634,7 @@ Ladies]</verseline>
 <verseline>Break up the seals and read.</verseline>
 <character>Officer</character>
 <prose>
-<stageDirection_Inline>[Reads]</stageDirection_Inline> &#8216;Hermione is chaste; Polixenes blameless; Camillo a true subject; Leontes a jealous tyrant; his innocent babe truly begotten; and the King shall live without an heir, if that which is lost be not found.&#8217;</prose>
+<stage_directions_inline>[Reads]</stage_directions_inline> &#8216;Hermione is chaste; Polixenes blameless; Camillo a true subject; Leontes a jealous tyrant; his innocent babe truly begotten; and the King shall live without an heir, if that which is lost be not found.&#8217;</prose>
 <character>Lords</character>
 <verseline>Now blessed be the great Apollo!</verseline>
 <character>Hermione</character>
@@ -1725,11 +1662,8 @@ Ladies]</verseline>
 <verseline>Is dead.</verseline>
 <character>Leontes</character>
 <verseline>Apollo&#8217;s angry; and the heavens themselves</verseline>
-<verseline>Do strike at my injustice.</verseline>
-<verseline>
-<stageDirection_Inline>[</stageDirection_Inline>
-Hermione
-<stageDirection_Inline> swoons]</stageDirection_Inline>
+<verseline>Do strike at my injustice.
+<stage_directions_inline>[Hermione swoons]</stage_directions_inline>
 </verseline>
 <verseline>How now, there!</verseline>
 <character>Paulina</character>
@@ -1741,14 +1675,7 @@ Hermione
 <verseline>I have too much believ&#8217;d mine own suspicion.</verseline>
 <verseline>Beseech you tenderly apply to her</verseline>
 <verseline>Some remedies for life.</verseline>
-<verseline>[<stageDirection_Inline>Exeunt</stageDirection_Inline>
-Paulina
-<stageDirection_Inline> and</stageDirection_Inline>
-Ladies
-<stageDirection_Inline> with</stageDirection_Inline>
-Hermione]
-<stageDirection_Inline></stageDirection_Inline>
-</verseline>
+<stage_directions>Exeunt Paulina and Ladies with Hermione</stage_directions>
 <verseline>Apollo, pardon</verseline>
 <verseline>My great profaneness &#8216;gainst thine oracle.</verseline>
 <verseline>I&#8217;ll reconcile me to Polixenes,</verseline>
@@ -1920,11 +1847,11 @@ Hermione]
 <verseline>Either for life or death, upon the earth</verseline>
 <verseline>Of its right father. Blossom, speed thee well!</verseline>
 <verseline>
-<stageDirection_Inline>[Laying down the child]</stageDirection_Inline>
+<stage_directions_inline>[Laying down the child]</stage_directions_inline>
 </verseline>
 <verseline>There lie, and there thy character; there these</verseline>
 <verseline>
-<stageDirection_Inline>[Laying down a bundle]</stageDirection_Inline>
+<stage_directions_inline>[Laying down a bundle]</stage_directions_inline>
 </verseline>
 <verseline>Which may, if fortune please, both breed thee, pretty,</verseline>
 <verseline>And still rest thine. The storm begins. Poor wretch,</verseline>
@@ -1936,19 +1863,15 @@ Hermione]
 <verseline>A lullaby too rough; I never saw</verseline>
 <verseline>The heavens so dim by day.</verseline>
 <verseline>
-<stageDirection_Inline>[Noise of hunt within]</stageDirection_Inline></verseline>
+<stage_directions_inline>[Noise of hunt within]</stage_directions_inline></verseline>
 <verseline>A savage clamour!</verseline>
 <verseline>Well may I get aboard! This is the chase;</verseline>
 <verseline>I am gone for ever.</verseline>
 <stage_directions>Exit, pursued by a bear</stage_directions>
 <stage_directions>Enter an old Shepherd</stage_directions>
 <character>Shepherd</character>
-<prose>I would there were no age between ten and three and twenty, or that youth would sleep out the rest; for there is nothing in the between but getting wenches with child, wronging the ancientry, stealing, fighting- <stageDirection_Inline>[Horns]</stageDirection_Inline> Hark you now! Would any but these boil&#8217;d brains of nineteen and two and twenty hunt this weather? They have scar&#8217;d away two of my best sheep, which I fear the wolf will sooner find than the master. If any where I have them, &#8216;tis by the sea-side, browsing of ivy. Good luck, an&#8217;t be thy will! What have we here? <stageDirection_Inline>[Taking up the child]</stageDirection_Inline> Mercy on&#8217;s, a barne! A very pretty barne. A boy or a child, I wonder? A pretty one; a very pretty one- sure, some scape. Though I am not bookish, yet I can read waiting-gentlewoman in the scape. This has been some stair-work, some trunk-work, some behind-door-work; they were warmer that got this than the poor thing is here. I&#8217;ll take it up for pity; yet I&#8217;ll tarry till my son come; he halloo&#8217;d but even now. Whoa-ho-hoa!</prose>
-<stage_directions>
-<stageDirection_Inline>Enter</stageDirection_Inline>
-Clown
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<prose>I would there were no age between ten and three and twenty, or that youth would sleep out the rest; for there is nothing in the between but getting wenches with child, wronging the ancientry, stealing, fighting- <stage_directions_inline>[Horns]</stage_directions_inline> Hark you now! Would any but these boil&#8217;d brains of nineteen and two and twenty hunt this weather? They have scar&#8217;d away two of my best sheep, which I fear the wolf will sooner find than the master. If any where I have them, &#8216;tis by the sea-side, browsing of ivy. Good luck, an&#8217;t be thy will! What have we here? <stage_directions_inline>[Taking up the child]</stage_directions_inline> Mercy on&#8217;s, a barne! A very pretty barne. A boy or a child, I wonder? A pretty one; a very pretty one- sure, some scape. Though I am not bookish, yet I can read waiting-gentlewoman in the scape. This has been some stair-work, some trunk-work, some behind-door-work; they were warmer that got this than the poor thing is here. I&#8217;ll take it up for pity; yet I&#8217;ll tarry till my son come; he halloo&#8217;d but even now. Whoa-ho-hoa!</prose>
+<stage_directions>Enter Clown</stage_directions>
 <character>Clown</character>
 <verseline>Hilloa, loa!</verseline>
 <character>Shepherd</character>
@@ -2075,19 +1998,11 @@ Clown
 <character>Clown</character>
 <prose>Let me see: every &#8216;leven wether tods; every tod yields pound and odd shilling; fifteen hundred shorn, what comes the wool to?</prose>
 <character>Autolycus</character>
-<stage_directions>
-<stageDirection_Inline>[Aside]</stageDirection_Inline>
-</stage_directions>
-<prose>
-<stageDirection_Inline>﻿﻿﻿</stageDirection_Inline>If the springe hold, the cock&#8217;s mine.</prose>
+<prose><stage_directions_inline>[Aside]</stage_directions_inline>If the springe hold, the cock&#8217;s mine.</prose>
 <character>Clown</character>
 <prose>I cannot do &#8216;t without counters. Let me see: what am I to buy for our sheep-shearing feast? Three pound of sugar, five pound of currants, rice- what will this sister of mine do with rice? But my father hath made her mistress of the feast, and she lays it on. She hath made me four and twenty nosegays for the shearers- three-man song-men all, and very good ones; but they are most of them means and bases; but one Puritan amongst them, and he sings psalms to hornpipes. I must have saffron to colour the warden pies; mace; dates- none, that&#8217;s out of my note; nutmegs, seven; race or two of ginger, but that I may beg; four pound of prunes, and as many of raisins o&#8217; th&#8217; sun.</prose>
 <character>Autolycus</character>
-<stage_directions>
-<stageDirection_Inline>[Grovelling on the ground]</stageDirection_Inline>
-</stage_directions>
-<prose>
-<stageDirection_Inline>﻿﻿﻿</stageDirection_Inline>O that ever I was born!</prose>
+<prose>O that ever I was born!<stage_directions_inline>[Grovelling on the ground]</stage_directions_inline></prose>
 <character>Clown</character>
 <verseline>I&#8217; th&#8217; name of me!</verseline>
 <character>Autolycus</character>
@@ -2105,10 +2020,7 @@ Clown
 <character>Autolycus</character>
 <verseline>A footman, sweet sir, a footman.</verseline>
 <character>Clown</character>
-<prose>Indeed, he should be a footman, by the garments he has left with thee; if this be a horseman&#8217;s coat, it hath seen very hot service. Lend me thy hand, I&#8217;ll help thee. Come, lend me thy hand.</prose>
-<stage_directions>
-<stageDirection_Inline>[Helping him up]</stageDirection_Inline>
-</stage_directions>
+<prose>Indeed, he should be a footman, by the garments he has left with thee; if this be a horseman&#8217;s coat, it hath seen very hot service. Lend me thy hand, I&#8217;ll help thee. Come, lend me thy hand.<stage_directions_inline>[Helping him up]</stage_directions_inline></prose>
 <character>Autolycus</character>
 <verseline>O, good sir, tenderly, O!</verseline>
 <character>Clown</character>
@@ -2118,7 +2030,7 @@ Clown
 <character>Clown</character>
 <verseline>How now! Canst stand?</verseline>
 <character>Autolycus</character>
-<verseline>Softly, dear sir <stageDirection_Inline>[Picks his pocket];</stageDirection_Inline> good sir, softly.</verseline>
+<verseline>Softly, dear sir <stage_directions_inline>[Picks his pocket];</stage_directions_inline> good sir, softly.</verseline>
 <verseline>You ha&#8217; done me a charitable office.</verseline>
 <character>Clown</character>
 <verseline>Dost lack any money? I have a little money for thee.</verseline>
@@ -2152,14 +2064,9 @@ Clown
 <prose>Then fare thee well. I must go buy spices for our sheep-shearing.</prose>
 <character>Autolycus</character>
 <verseline>Prosper you, sweet sir!</verseline>
-<verseline>
-<stageDirection_Inline>[Exit</stageDirection_Inline>
-Clown]
-<stageDirection_Inline></stageDirection_Inline>
-</verseline>
+<stage_directions>[Exit Clown]</stage_directions>
 <prose>Your purse is not hot enough to purchase your spice. I&#8217;ll be with you at your sheep-shearing too. If I make not this cheat bring out another, and the shearers prove sheep, let me be unroll&#8217;d, and my name put in the book of virtue!</prose>
-<stage_directions>
-<stageDirection_Inline>[Sings]</stageDirection_Inline></stage_directions>
+<stage_directions>[Sings]</stage_directions>
 <song>Jog on, jog on, the footpath way,</song>
 <song>And merrily hent the stile-a;</song>
 <song>A merry heart goes all the day,</song>
@@ -2258,20 +2165,11 @@ Clown]
 <verseline>And bid us welcome to your sheep-shearing,</verseline>
 <verseline>As your good flock shall prosper.</verseline>
 <character>Perdita</character>
-<prose>
-<stageDirection_Inline>[To</stageDirection_Inline>
-Polixenes
-<stageDirection_Inline>]</stageDirection_Inline>
-</prose>
-<verseline>
-<stageDirection_Inline>﻿﻿﻿</stageDirection_Inline>Sir, welcome.</verseline>
+<verseline><stage_directions_inline>[To Polixenes]</stage_directions_inline>Sir, welcome.</verseline>
 <verseline>It is my father&#8217;s will I should take on me</verseline>
 <verseline>The hostess-ship o&#8217; th&#8217; day.</verseline>
-<prose>﻿﻿﻿<stageDirection_Inline>[To</stageDirection_Inline>
-Camillo
-<stageDirection_Inline>]</stageDirection_Inline>
-</prose>
-<verseline>You&#8217;re welcome, sir.</verseline>
+
+<verseline><stage_directions_inline>[To Camillo]</stage_directions_inline>You&#8217;re welcome, sir.</verseline>
 <verseline>Give me those flow&#8217;rs there, Dorcas. Reverend sirs,</verseline>
 <verseline>For you there&#8217;s rosemary and rue; these keep</verseline>
 <verseline>Seeming and savour all the winter long.</verseline>
@@ -2403,9 +2301,7 @@ Camillo
 <character>Clown</character>
 <verseline>Not a word, a word; we stand upon our manners.</verseline>
 <verseline>Come, strike up.</verseline>
-<stage_directions>
-<stageDirection_Inline>[Music]</stageDirection_Inline>
-</stage_directions>
+<stage_directions>[Music]</stage_directions>
 <stage_directions>Here a dance Of Shepherds and Shepherdesses</stage_directions>
 <character>Polixenes</character>
 <verseline>Pray, good shepherd, what fair swain is this</verseline>
@@ -2583,25 +2479,13 @@ Camillo
 <stage_directions>Exit</stage_directions>
 <stage_directions>Here a dance of twelve Satyrs</stage_directions>
 <character>Polixenes</character>
-<stage_directions>
-<stageDirection_Inline>[To</stageDirection_Inline>
-Shepherd
-<stageDirection_Inline>]</stageDirection_Inline>
-</stage_directions>
 <prose>
-<stageDirection_Inline>﻿﻿﻿</stageDirection_Inline>O, father, you&#8217;ll know more of that hereafter.</prose>
-<stage_directions>
-<stageDirection_Inline>[To</stageDirection_Inline>
-Camillo
-<stageDirection_Inline>]</stageDirection_Inline>
-</stage_directions>
+<stage_directions_inline>[To Shepherd]</stage_directions_inline>O, father, you&#8217;ll know more of that hereafter.</prose>
 <prose>
-<stageDirection_Inline>﻿﻿﻿</stageDirection_Inline>Is it not too far gone? &#8216;Tis time to part them.</prose>
+<stage_directions_inline>[To Camillo]</stage_directions_inline>Is it not too far gone? &#8216;Tis time to part them.</prose>
 <verseline>He&#8217;s simple and tells much.</verseline>
-<stage_directions>﻿﻿﻿<stageDirection_Inline>[To Florizel]</stageDirection_Inline>
-</stage_directions>
 <verseline>
-<stageDirection_Inline>﻿﻿</stageDirection_Inline>How now, fair shepherd!</verseline>
+<stage_directions_inline>[To Florizel]</stage_directions_inline>How now, fair shepherd!</verseline>
 <verseline>Your heart is full of something that does take</verseline>
 <verseline>Your mind from feasting. Sooth, when I was young</verseline>
 <verseline>And handed love as you do, I was wont</verseline>
@@ -2722,7 +2606,7 @@ Camillo
 <verseline>Mark our contract.</verseline>
 <character>Polixenes</character>
 <verseline>
-<stageDirection_Inline>[Discovering himself]</stageDirection_Inline> Mark your divorce, young sir,</verseline>
+<stage_directions_inline>[Discovering himself]</stage_directions_inline> Mark your divorce, young sir,</verseline>
 <verseline>Whom son I dare not call; thou art too base</verseline>
 <verseline>To be acknowledg&#8217;d- thou a sceptre&#8217;s heir,</verseline>
 <verseline>That thus affects a sheep-hook! Thou, old traitor,</verseline>
@@ -2758,12 +2642,8 @@ Camillo
 <verseline>The self-same sun that shines upon his court</verseline>
 <verseline>Hides not his visage from our cottage, but</verseline>
 <verseline>Looks on alike.</verseline>
-<verseline>﻿﻿﻿﻿<stageDirection_Inline>[To</stageDirection_Inline>
-Florizel
-<stageDirection_Inline>]</stageDirection_Inline>
-</verseline>
-<verseline>
-<stageDirection_Inline>﻿﻿</stageDirection_Inline>Will&#8217;t please you, sir, be gone?</verseline>
+<verseline><stage_directions_inline>[To Florizel]</stage_directions_inline>
+Will&#8217;t please you, sir, be gone?</verseline>
 <verseline>I told you what would come of this. Beseech you,</verseline>
 <verseline>Of your own state take care. This dream of mine&#8212;</verseline>
 <verseline>Being now awake, I&#8217;ll queen it no inch farther,</verseline>
@@ -2774,25 +2654,15 @@ Florizel
 <character>Shepherd</character>
 <verseline>I cannot speak nor think,</verseline>
 <verseline>Nor dare to know that which I know.</verseline>
-<stage_directions>﻿﻿﻿<stageDirection_Inline>[To</stageDirection_Inline>
-Florizel
-<stageDirection_Inline>]</stageDirection_Inline>
-</stage_directions>
-<verseline>
-<stageDirection_Inline>﻿﻿</stageDirection_Inline>O sir,</verseline>
+<verseline><stage_directions_inline>[To Florizel]</stage_directions_inline>
+O sir,</verseline>
 <verseline>You have undone a man of fourscore-three</verseline>
 <verseline>That thought to fill his grave in quiet, yea,</verseline>
 <verseline>To die upon the bed my father died,</verseline>
 <verseline>To lie close by his honest bones; but now</verseline>
 <verseline>Some hangman must put on my shroud and lay me</verseline>
-<verseline>Where no priest shovels in dust.<stageDirection_Inline></stageDirection_Inline>
-</verseline>
-<stage_directions>
-<stageDirection_Inline>[To</stageDirection_Inline>
-Perdita
-<stageDirection_Inline>]</stageDirection_Inline>
-</stage_directions>
-<verseline>O cursed wretch,</verseline>
+<verseline>Where no priest shovels in dust.</verseline>
+<verseline><stage_directions_inline>[To Perdita]</stage_directions_inline>O cursed wretch,</verseline>
 <verseline>That knew&#8217;st this was the Prince, and wouldst adventure</verseline>
 <verseline>To mingle faith with him!- Undone, undone!</verseline>
 <verseline>If I might die within this hour, I have liv&#8217;d</verseline>
@@ -2862,14 +2732,9 @@ Perdita
 <verseline>I would your spirit were easier for advice.</verseline>
 <verseline>Or stronger for your need.</verseline>
 <character>Florizel</character>
-<verseline>Hark, Perdita.</verseline>
+<verseline>Hark, Perdita.<stage_directions_inline>[Takes her aside]</stage_directions_inline></verseline>
 <verseline>
-<stageDirection_Inline>[Takes her aside][To</stageDirection_Inline>
-Camillo
-<stageDirection_Inline>]</stageDirection_Inline>
-</verseline>
-<verseline>
-<stageDirection_Inline>﻿﻿﻿</stageDirection_Inline>I&#8217;ll hear you by and by.</verseline>
+<stage_directions_inline>[To Camillo]</stage_directions_inline>I&#8217;ll hear you by and by.</verseline>
 <character>Camillo</character>
 <verseline>He&#8217;s irremovable,</verseline>
 <verseline>Resolv&#8217;d for flight. Now were I happy if</verseline>
@@ -3020,7 +2885,7 @@ Camillo, Florizel, and Perdita come forward</stage_directions>
 <verseline>Nothing may give us aid.</verseline>
 <character>Autolycus</character>
 <verseline>
-<stageDirection_Inline>[Aside]</stageDirection_Inline> If they have overheard me now- why, hanging.</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> If they have overheard me now- why, hanging.</verseline>
 <character>Camillo</character>
 <verseline>How now, good fellow! Why shak&#8217;st thou so?</verseline>
 <verseline>Fear not, man; here&#8217;s no harm intended to thee.</verseline>
@@ -3028,26 +2893,21 @@ Camillo, Florizel, and Perdita come forward</stage_directions>
 <verseline>I am a poor fellow, sir.</verseline>
 <character>Camillo</character>
 <verseline>Why, be so still; here&#8217;s nobody will steal that from thee.</verseline>
-<prose>Yet for the outside of thy poverty we must make an exchange; therefore discase thee instantly- thou must think there&#8217;s a necessity in&#8217;t- and change garments with this gentleman. Though the pennyworth on his side be the worst, yet hold thee, there&#8217;s some boot. <stageDirection_Inline>[Giving money]</stageDirection_Inline>
+<prose>Yet for the outside of thy poverty we must make an exchange; therefore discase thee instantly- thou must think there&#8217;s a necessity in&#8217;t- and change garments with this gentleman. Though the pennyworth on his side be the worst, yet hold thee, there&#8217;s some boot. <stage_directions_inline>[Giving money]</stage_directions_inline>
 </prose>
 <character>Autolycus</character>
-<prose>I am a poor fellow, sir. <stageDirection_Inline>[Aside]</stageDirection_Inline> I know ye well enough.</prose>
+<prose>I am a poor fellow, sir. <stage_directions_inline>[Aside]</stage_directions_inline> I know ye well enough.</prose>
 <character>Camillo</character>
 <prose>Nay, prithee dispatch. The gentleman is half flay&#8217;d already.</prose>
 <character>Autolycus</character>
-<prose>Are you in camest, sir? <stageDirection_Inline>[Aside]</stageDirection_Inline> I smell the trick on&#8217;t.</prose>
+<prose>Are you in camest, sir? <stage_directions_inline>[Aside]</stage_directions_inline> I smell the trick on&#8217;t.</prose>
 <character>Florizel</character>
 <verseline>Dispatch, I prithee.</verseline>
 <character>Autolycus</character>
 <prose>Indeed, I have had earnest; but I cannot with conscience take it.</prose>
 <character>Camillo</character>
 <verseline>Unbuckle, unbuckle.</verseline>
-<stage_directions>
-Florizel
-<stageDirection_Inline> and</stageDirection_Inline>
-Autolycus
-<stageDirection_Inline> exchange garments</stageDirection_Inline>
-</stage_directions>
+<stage_directions>Florizel and Autolycus exchange garments</stage_directions>
 <verseline>Fortunate mistress- let my prophecy</verseline>
 <verseline>Come home to ye!- you must retire yourself</verseline>
 <verseline>Into some covert; take your sweetheart&#8217;s hat</verseline>
@@ -3066,24 +2926,18 @@ Autolycus
 <verseline>Should I now meet my father,</verseline>
 <verseline>He would not call me son.</verseline>
 <character>Camillo</character>
-<verseline>Nay, you shall have no hat.</verseline>
-<stage_directions>
-<stageDirection_Inline>[Giving it to</stageDirection_Inline>
-Perdita
-<stageDirection_Inline>]</stageDirection_Inline>
-</stage_directions>
-<verseline>Come, lady, come. Farewell, my friend.</verseline>
+<verseline>Nay, you shall have no hat.
+<stage_directions_inline>[Giving it to Perdita]</stage_directions_inline>
+</verseline>
+<verseline><stage_directions_inline>[Takes her aside]</stage_directions_inline>Come, lady, come. Farewell, my friend.</verseline>
 <character>Autolycus</character>
 <verseline>Adieu, sir.</verseline>
 <character>Florizel</character>
 <verseline>O Perdita, what have we twain forgot!</verseline>
-<verseline>Pray you a word.</verseline>
-<verseline>
-<stageDirection_Inline>[They converse apart]</stageDirection_Inline>
-</verseline>
+<verseline>Pray you a word.<stage_directions_inline>[They converse apart]</stage_directions_inline></verseline>
 <character>Camillo</character>
 <verseline>
-<stageDirection_Inline>[Aside]</stageDirection_Inline>﻿﻿What I do next shall be to tell the King</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> What I do next shall be to tell the King</verseline>
 <verseline>Of this escape, and whither they are bound;</verseline>
 <verseline>Wherein my hope is I shall so prevail</verseline>
 <verseline>To force him after; in whose company</verseline>
@@ -3097,13 +2951,7 @@ Perdita
 <stage_directions>Exeunt Florizel, Perdita, and Camillo</stage_directions>
 <character>Autolycus</character>
 <prose>I understand the business, I hear it. To have an open ear, a quick eye, and a nimble hand, is necessary for a cut-purse; a good nose is requisite also, to smell out work for th&#8217; other senses. I see this is the time that the unjust man doth thrive. What an exchange had this been without boot! What a boot is here with this exchange! Sure, the gods do this year connive at us, and we may do anything extempore. The Prince himself is about a piece of iniquity- stealing away from his father with his clog at his heels. If I thought it were a piece of honesty to acquaint the King withal, I would not do&#8217;t. I hold it the more knavery to conceal it; and therein am I constant to my profession.</prose>
-<stage_directions>
-<stageDirection_Inline>Re-enter</stageDirection_Inline>
-Clown
-<stageDirection_Inline> and</stageDirection_Inline>
-Shepherd
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<stage_directions>Re-enter Clown and Shepherd</stage_directions>
 <prose>Aside, aside- here is more matter for a hot brain. Every lane&#8217;s end, every shop, church, session, hanging, yields a careful man work.</prose>
 <character>Clown</character>
 <prose>See, see; what a man you are now! There is no other way but to tell the King she&#8217;s a changeling and none of your flesh and blood.</prose>
@@ -3121,19 +2969,19 @@ Shepherd
 <prose>Indeed, brother-in-law was the farthest off you could have been to him; and then your blood had been the dearer by I know how much an ounce.</prose>
 <character>Autolycus</character>
 <prose>
-<stageDirection_Inline>[Aside]</stageDirection_Inline>Very wisely, puppies!</prose>
+<stage_directions_inline>[Aside]</stage_directions_inline>Very wisely, puppies!</prose>
 <character>Shepherd</character>
 <prose>Well, let us to the King. There is that in this fardel will make him scratch his beard.</prose>
 <character>Autolycus</character>
 <prose>
-<stageDirection_Inline>[Aside]</stageDirection_Inline> I know not what impediment this complaint may be to the flight of my master.</prose>
+<stage_directions_inline>[Aside]</stage_directions_inline> I know not what impediment this complaint may be to the flight of my master.</prose>
 <character>Clown</character>
 <verseline>Pray heartily he be at palace.</verseline>
 <character>Autolycus</character>
 <prose>
-<stageDirection_Inline>[Aside]</stageDirection_Inline> Though I am not naturally honest, I am so sometimes by chance. Let me pocket up my pedlar&#8217;s excrement.</prose>
+<stage_directions_inline>[Aside]</stage_directions_inline> Though I am not naturally honest, I am so sometimes by chance. Let me pocket up my pedlar&#8217;s excrement.</prose>
 <prose>
-<stageDirection_Inline>[Takes off his false beard]</stageDirection_Inline> How now, rustics! Whither are you bound?</prose>
+<stage_directions_inline>[Takes off his false beard]</stage_directions_inline> How now, rustics! Whither are you bound?</prose>
 <character>Shepherd</character>
 <verseline>To th&#8217; palace, an it like your worship.</verseline>
 <character>Autolycus</character>
@@ -3282,12 +3130,8 @@ Shepherd
 <verseline>Did perish with the infant. &#8216;Tis your counsel</verseline>
 <verseline>My lord should to the heavens be contrary,</verseline>
 <verseline>Oppose against their wills.</verseline>
-<stage_directions>﻿﻿﻿<stageDirection_Inline>[To</stageDirection_Inline>
-Leontes
-<stageDirection_Inline>]</stageDirection_Inline>
-</stage_directions>
 <verseline>
-<stageDirection_Inline>﻿﻿﻿</stageDirection_Inline>Care not for issue;</verseline>
+<stage_directions_inline>[To Leontes]</stage_directions_inline>Care not for issue;</verseline>
 <verseline>The crown will find an heir. Great Alexander</verseline>
 <verseline>Left his to th&#8217; worthiest; so his successor</verseline>
 <verseline>Was like to be the best.</verseline>
@@ -3403,8 +3247,7 @@ Leontes
 <verseline>Go, Cleomenes;</verseline>
 <verseline>Yourself, assisted with your honour&#8217;d friends,</verseline>
 <verseline>Bring them to our embracement.</verseline>
-<stage_directions>
-<stageDirection_Inline>Exeunt</stageDirection_Inline></stage_directions>
+<stage_directions>Exeunt</stage_directions>
 <verseline>Still, &#8216;tis strange</verseline>
 <verseline>He thus should steal upon us.</verseline>
 <character>Paulina</character>
@@ -3418,15 +3261,7 @@ Leontes
 <verseline>When I shall see this gentleman, thy speeches</verseline>
 <verseline>Will bring me to consider that which may</verseline>
 <verseline>Unfurnish me of reason.</verseline>
-<stage_directions>
-<stageDirection_Inline>Re-enter</stageDirection_Inline>
-Cleomenes
-<stageDirection_Inline>, with</stageDirection_Inline>
-Florizel
-<stageDirection_Inline>,</stageDirection_Inline>
-Perdita
-<stageDirection_Inline>, and</stageDirection_Inline>
-Attendants</stage_directions>
+<stage_directions>Re-enter Cleomenes, with Florizel, Perdita, andAttendants</stage_directions>
 <verseline>They are come.</verseline>
 <verseline>Your mother was most true to wedlock, Prince;</verseline>
 <verseline>For she did print your royal father off,</verseline>
@@ -3574,12 +3409,8 @@ Attendants</stage_directions>
 <character>Leontes</character>
 <verseline>I thought of her</verseline>
 <verseline>Even in these looks I made.</verseline>
-<stage_directions>﻿﻿﻿<stageDirection_Inline>[To</stageDirection_Inline>
-Florizel
-<stageDirection_Inline>]</stageDirection_Inline>
-</stage_directions>
 <verseline>
-<stageDirection_Inline>﻿﻿﻿</stageDirection_Inline>But your petition</verseline>
+<stage_directions_inline>[To Florizel]</stage_directions_inline> But your petition</verseline>
 <verseline>Is yet unanswer&#8217;d. I will to your father.</verseline>
 <verseline>Your honour not o&#8217;erthrown by your desires,</verseline>
 <verseline>I am friend to them and you. Upon which errand</verseline>
@@ -3597,19 +3428,11 @@ Florizel
 <verseline>I would most gladly know the issue of it.</verseline>
 <character>First Gentleman</character>
 <prose>I make a broken delivery of the business; but the changes I perceived in the King and Camillo were very notes of admiration. They seem&#8217;d almost, with staring on one another, to tear the cases of their eyes; there was speech in their dumbness, language in their very gesture; they look&#8217;d as they had heard of a world ransom&#8217;d, or one destroyed. A notable passion of wonder appeared in them; but the wisest beholder that knew no more but seeing could not say if th&#8217; importance were joy or sorrow- but in the extremity of the one it must needs be.</prose>
-<stage_directions>
-<stageDirection_Inline>[Enter another</stageDirection_Inline>
-Gentleman]
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<stage_directions>[Enter another Gentleman]</stage_directions>
 <verseline>Here comes a gentleman that happily knows more. The news, Rogero?</verseline>
 <character>Second Gentleman</character>
 <prose>Nothing but bonfires. The oracle is fulfill&#8217;d: the King&#8217;s daughter is found. Such a deal of wonder is broken out within this hour that ballad-makers cannot be able to express it.</prose>
-<stage_directions>
-<stageDirection_Inline>[Enter another</stageDirection_Inline>
-Gentleman]
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<stage_directions>[Enter another Gentleman]</stage_directions>
 <prose>Here comes the Lady Paulina&#8217;s steward; he can deliver you more.How goes it now, sir? This news, which is call&#8217;d true, is so like an old tale that the verity of it is in strong suspicion. Has the King found his heir?</prose>
 <character>Third Gentleman</character>
 <prose>Most true, if ever truth were pregnant by circumstance. That which you hear you&#8217;ll swear you see, there is such unity in the proofs. The mantle of Queen Hermione&#8217;s; her jewel about the neck of it; the letters of Antigonus found with it, which they know to be his character; the majesty of the creature in resemblance of the mother; the affection of nobleness which nature shows above her breeding; and many other evidences- proclaim her with all certainty to be the King&#8217;s daughter. Did you see the meeting of the two kings?</prose>
@@ -3640,13 +3463,7 @@ Gentleman]
 <stage_directions>Exeunt Gentlemen</stage_directions>
 <character>Autolycus</character>
 <prose>Now, had I not the dash of my former life in me, would preferment drop on my head. I brought the old man and his son aboard the Prince; told him I heard them talk of a fardel and I know not what; but he at that time over-fond of the shepherd&#8217;s daughter- so he then took her to be- who began to be much sea-sick, and himself little better, extremity of weather continuing, this mystery remained undiscover&#8217;d. But &#8216;tis all one to me; for had I been the finder-out of this secret, it would not have relish&#8217;d among my other discredits.</prose>
-<stage_directions>
-<stageDirection_Inline>[Enter</stageDirection_Inline>
-Shepherd
-<stageDirection_Inline> and</stageDirection_Inline>
-Clown]
-<stageDirection_Inline></stageDirection_Inline>
-</stage_directions>
+<stage_directions>[Enter Shepherd and Clown]</stage_directions>
 <prose>Here come those I have done good to against my will, and already appearing in the blossoms of their fortune.</prose>
 <character>Shepherd</character>
 <prose>Come, boy; I am past moe children, but thy sons and daughters will be all gentlemen born.</prose>
@@ -3717,13 +3534,7 @@ Clown]
 <verseline>Lonely, apart. But here it is. Prepare</verseline>
 <verseline>To see the life as lively mock&#8217;d as ever</verseline>
 <verseline>Still sleep mock&#8217;d death. Behold; and say &#8216;tis well.</verseline>
-<stage_directions>
-<stageDirection_Inline>[</stageDirection_Inline>
-Paulina
-<stageDirection_Inline> draws a curtain, and discovers</stageDirection_Inline>
-Hermione
-<stageDirection_Inline> standing like a statue]</stageDirection_Inline>
-</stage_directions>
+<stage_directions>[Paulina draws a curtain, and discovers Hermione standing like a statue]</stage_directions>
 <verseline>I like your silence; it the more shows off</verseline>
 <verseline>Your wonder; but yet speak. First, you, my liege.</verseline>
 <verseline>Comes it not something near?</verseline>
@@ -3848,19 +3659,13 @@ Hermione
 <verseline>No foot shall stir.</verseline>
 <character>Paulina</character>
 <verseline>Music, awake her: strike.</verseline>
-<verseline>
-<stageDirection_Inline>[Music]</stageDirection_Inline>
-</verseline>
+<stage_directions>[Music]</stage_directions>
 <verseline>&#8216;Tis time; descend; be stone no more; approach;</verseline>
 <verseline>Strike all that look upon with marvel. Come;</verseline>
 <verseline>I&#8217;ll fill your grave up. Stir; nay, come away.</verseline>
 <verseline>Bequeath to death your numbness, for from him</verseline>
 <verseline>Dear life redeems you. You perceive she stirs.</verseline>
-<stage_directions>
-<stageDirection_Inline>[</stageDirection_Inline>
-Hermione
-<stageDirection_Inline> comes down from the pedestal]</stageDirection_Inline>
-</stage_directions>
+<stage_directions>[Hermione comes down from the pedestal]</stage_directions>
 <verseline>Start not; her actions shall be holy as</verseline>
 <verseline>You hear my spell is lawful. Do not shun her</verseline>
 <verseline>Until you see her die again; for then</verseline>
@@ -3928,6 +3733,6 @@ Hermione
 <verseline>Perform&#8217;d in this wide gap of time since first</verseline>
 <verseline>We were dissever&#8217;d. Hastily lead away.</verseline>
 <stage_directions>Exeunt</stage_directions>
-<lasteverseline>&#8212;The End&#8212;</lasteverseline>
+<stage_directions>The End</stage_directions>
 </play>
 </shakespeareplay>

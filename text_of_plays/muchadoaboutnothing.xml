@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" []>
 <shakespeareplay title="Much Ado About Nothing">
 <dramatis_personae>
@@ -30,7 +30,7 @@
 <play_location>SCENE.--Messina.</play_location>
 </dramatis_personae>
 <play>
-<act>ACT I </act>
+<act>Act I </act>
 <firstscene>Scene I</firstscene>
 <location>An orchard before Leonato&#8217;s house</location>
 <stage_directions>Enter Leonato (Governor of Messina), Hero (his Daughter), and Beatrice (his Niece), with a Messenger</stage_directions>
@@ -387,7 +387,7 @@
 <character>Borachio </character>
 <verseline>We&#8217;ll wait upon your lordship</verseline>
 <stage_directions>Exeunt</stage_directions>
-<act>ACT II.  </act>
+<act>Act II.  </act>
 <firstscene>Scene I </firstscene>
 <location>A hall in Leonato&#8217;s house</location>
 <stage_directions>Enter Leonato, [Antonio] his Brother, Hero his Daughter, and Beatrice his Niece, and a Kinsman; [also Margaret and Ursula]</stage_directions>
@@ -990,7 +990,7 @@
 <verseline>Ha! &#8216;Against my will I am sent to bid you come in to dinner.&#8217; T</verseline>
 <prose>here&#8217;s a double meaning in that. &#8216;I took no more pains for those thanks than you took pains to thank me.&#8217; That&#8217;s as much as to say, &#8216;Any pains that I take for you is as easy as thanks.&#8217; If I do not take pity of her, I am a villain; if I do not love her, I am a Jew. I will go get her picture</prose>
 <stage_directions>Exit</stage_directions>
-<act>ACT III</act>
+<act>Act III</act>
 <firstscene>Scene I</firstscene>
 <location>Leonato&#8217;s orchard</location>
 <stage_directions>Enter Hero and two Gentlewomen, Margaret and Ursula</stage_directions>
@@ -1549,7 +1549,7 @@
 <character>Dogberry </character>
 <prose>We will spare for no wit, I warrant you. Here&#8217;s that shall drive some of them to a non-come. Only get the learned writer to set down our excommunication, and meet me at the jail</prose>
 <stage_directions>[Exeunt.] </stage_directions>
-<act>ACT IV</act>
+<act>Act IV</act>
 <firstscene>Scene I</firstscene>
 <location>A church</location>
 <stage_directions>Enter Don Pedro, [John the] Bastard, Leonato, Friar [Francis], Claudio, Benedick, Hero, Beatrice, [and Attendants]</stage_directions>
@@ -2055,7 +2055,7 @@
 <character>Dogberry </character>
 <prose>Dost thou not suspect my place? Dost thou not suspect my years? O that he were here to write me down an ass! But, masters, remember that I am an ass. Though it be not written down, yet forget not that I am an ass. No, thou villain, thou art full of piety, as shall be prov&#8217;d upon thee by good witness. I am a wise fellow; and which is more, an officer; and which is more, a householder; and which is more, as pretty a piece of flesh as any is in Messina, and one that knows the law, go to! and a rich fellow enough, go to! and a fellow that hath had losses; and one that hath two gowns and everything handsome about him. Bring him away. O that I had been writ down an ass! </prose>
 <stage_directions>Exeunt</stage_directions>
-<act>ACT V</act>
+<act>Act V</act>
 <firstscene>Scene I</firstscene>
 <location>The street, near Leonato&#8217;s house</location>
 <stage_directions>Enter Leonato and his brother [ Antonio]</stage_directions>
@@ -2731,5 +2731,5 @@
 <prose>
 <stage_directions_inline>Dance.</stage_directions_inline>
 </prose>
-<stage_directions>[Exeunt.] </stage_directions>-THE END-</play>
+<stage_directions>[Exeunt.] </stage_directions></play>
 </shakespeareplay>

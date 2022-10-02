@@ -172,7 +172,7 @@
 <prose>But what said she?</prose>
 <character>Speed</character>
 <prose>
-<stageDirections_Inline>[Nodding]</stageDirections_Inline>
+<stage_directions_inline>[Nodding]</stage_directions_inline>
 </prose>
 <prose>Ay</prose>
 <character>Proteus</character>
@@ -373,7 +373,7 @@
 <character>Julia</character>
 <verseline>Let&#8217;s see your song</verseline>
 <verseline>
-<stageDirections_Inline>[Lucetta withholds the letter]</stageDirections_Inline>
+<stage_directions_inline>[Lucetta withholds the letter]</stage_directions_inline>
 </verseline>
 <verseline>How now, minion!</verseline>
 <character>Lucetta</character>
@@ -397,7 +397,7 @@
 <verseline>This babble shall not henceforth trouble me</verseline>
 <verseline>Here is a coil with protestation!</verseline>
 <verseline>
-<stageDirections_Inline>[Tears the letter]</stageDirections_Inline>
+<stage_directions_inline>[Tears the letter]</stage_directions_inline>
 </verseline>
 <verseline>Go, get you gone; and let the papers lie</verseline>
 <verseline>You would be fing&#8217;ring them, to anger me</verseline>
@@ -592,7 +592,7 @@
 <verseline>Ah, SilVIa! SilVIa!</verseline>
 <character>Speed</character>
 <prose>
-<stageDirections_Inline>[Calling]</stageDirections_Inline>
+<stage_directions_inline>[Calling]</stage_directions_inline>
 </prose>
 <prose>Madam SilVIa! Madam SilVIa!</prose>
 <character>Valentine</character>
@@ -693,7 +693,7 @@
 <prose>Peace! here she comes</prose>
 <character>Speed</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>O excellent motion! O exceeding puppet!</verseline>
 <verseline>Now will he interpret to her</verseline>
@@ -701,7 +701,7 @@
 <verseline>Madam and mistress, a thousand good morrows</verseline>
 <character>Speed</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>O, gIVe ye good ev&#8217;n!</verseline>
 <verseline>Here&#8217;s a million of manners</verseline>
@@ -709,7 +709,7 @@
 <verseline>Sir Valentine and servant, to you two thousand</verseline>
 <character>Speed</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>He should gIVe her interest, and she gIVes it him</verseline>
 <character>Valentine</character>
@@ -736,7 +736,7 @@
 <verseline>Meaning henceforth to trouble you no more</verseline>
 <character>Speed</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>And yet you will; and yet another&#8217; yet.&#8217;</verseline>
 <character>Valentine</character>
@@ -746,7 +746,7 @@
 <verseline>But, since unwillingly, take them again</verseline>
 <verseline>Nay, take them</verseline>
 <verseline>
-<stageDirections_Inline>[GIVes hack the letter]</stageDirections_Inline>
+<stage_directions_inline>[GIVes hack the letter]</stage_directions_inline>
 </verseline>
 <character>Valentine</character>
 <verseline>Madam, they are for you</verseline>
@@ -837,7 +837,7 @@
 <verseline>If you turn not, you will return the sooner</verseline>
 <verseline>Keep this remembrance for thy Julia&#8217;s sake</verseline>
 <verseline>
-<stageDirections_Inline>[GIVIng a ring]</stageDirections_Inline>
+<stage_directions_inline>[GIVIng a ring]</stage_directions_inline>
 </verseline>
 <character>Proteus</character>
 <verseline>Why, then, we&#8217;ll make exchange. Here, take you this</verseline>
@@ -1634,7 +1634,7 @@
 <verseline>And here an engine fit for my proceeding!</verseline>
 <verseline>I&#8217;ll be so bold to break the seal for once</verseline>
 <verseline>
-<stageDirections_Inline>[Reads]</stageDirections_Inline>
+<stage_directions_inline>[Reads]</stage_directions_inline>
 </verseline>
 <verseline>&#8216;My thoughts do harbour with my SilVIa nightly,</verseline>
 <verseline>And slaves they are to me, that send them flying</verseline>
@@ -1796,7 +1796,7 @@
 <character>Launce</character>
 <prose>I am but a fool, look you, and yet I have the wit to think my master is a kind of a knave; but that&#8217;s all one if he be but one knave. He lIVes not now that knows me to be in love; yet I am in love; but a team of horse shall not pluck that from me; nor who &#8216;tis I love; and yet &#8216;tis a woman; but what woman I will not tell myself; and yet &#8216;tis a milkmaid; yet &#8216;tis not a maid, for she hath had gossips; yet &#8216;tis a maid, for she is her master&#8217;s maid and serves for wages. She hath more qualities than a water-spaniel- which is much in a bare Christian. Here is the cate-log</prose>
 <prose>
-<stageDirections_Inline>[Pulling out a paper]</stageDirections_Inline>
+<stage_directions_inline>[Pulling out a paper]</stage_directions_inline>
 </prose>
 <prose>of her condition. &#8216;Inprimis: She can fetch and carry.&#8217; Why, a horse can do no more; nay, a horse cannot fetch, but only carry; therefore is she better than a jade. &#8216;Item: She can milk.&#8217; Look you, a sweet VIrtue in a maid with clean hands</prose>
 <stage_directions>Enter Speed</stage_directions>
@@ -1829,12 +1829,12 @@
 <prose>Come, fool, come; try me in thy paper</prose>
 <character>Launce</character>
 <prose>
-<stageDirections_Inline>[Handing over the paper]</stageDirections_Inline>
+<stage_directions_inline>[Handing over the paper]</stage_directions_inline>
 </prose>
 <prose>There; and Saint Nicholas be thy speed</prose>
 <character>Speed</character>
 <prose>
-<stageDirections_Inline>[Reads]</stageDirections_Inline>
+<stage_directions_inline>[Reads]</stage_directions_inline>
 </prose>
 <prose>&#8216;Inprimis: She can milk.&#8217;</prose>
 <character>Launce</character>
@@ -2239,7 +2239,7 @@
 <character>Host</character>
 <verseline>Ay, that you shall</verseline>
 <verseline>
-<stageDirections_Inline>[Music plays]</stageDirections_Inline>
+<stage_directions_inline>[Music plays]</stage_directions_inline>
 </verseline>
 <character>Julia</character>
 <verseline>That will be music</verseline>
@@ -2349,7 +2349,7 @@
 <verseline>But she is dead</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>&#8216;Twere false, if I should speak it;</verseline>
 <verseline>For I am sure she is not buried</verseline>
@@ -2370,7 +2370,7 @@
 <verseline>Or, at the least, in hers sepulchre thine</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>He heard not that</verseline>
 <character>Proteus</character>
@@ -2383,7 +2383,7 @@
 <verseline>And to your shadow will I make true love</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>If &#8216;twere a substance, you would, sure, deceIVe it</verseline>
 <verseline>And make it but a shadow, as I am</verseline>
@@ -2490,7 +2490,7 @@
 <character>Proteus</character>
 <verseline>I hope thou wilt</verseline>
 <verseline>
-<stageDirections_Inline>[To Launce]</stageDirections_Inline>
+<stage_directions_inline>[To Launce]</stage_directions_inline>
 </verseline>
 <verseline>How now, you whoreson peasant!</verseline>
 <verseline>Where have you been these two days loitering?</verseline>
@@ -2736,7 +2736,7 @@
 <verseline>I&#8217;ll wear a boot to make it somewhat rounder</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>But love will not be spurr&#8217;d to what it loathes</verseline>
 <character>Thurio</character>
@@ -2750,7 +2750,7 @@
 <verseline>Black men are pearls in beauteous ladies&#8217; eyes</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>&#8216;Tis true, such pearls as put out ladies&#8217; eyes;</verseline>
 <verseline>For I had rather wink than look on them</verseline>
@@ -2762,7 +2762,7 @@
 <verseline>But well when I discourse of love and peace?</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>But better, indeed, when you hold your peace</verseline>
 <character>Thurio</character>
@@ -2771,7 +2771,7 @@
 <verseline>O, sir, she makes no doubt of that</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>She needs not, when she knows it cowardice</verseline>
 <character>Thurio</character>
@@ -2780,7 +2780,7 @@
 <verseline>That you are well derIV&#8217;d</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>True; from a gentleman to a fool</verseline>
 <character>Thurio</character>
@@ -2791,7 +2791,7 @@
 <verseline>Wherefore?</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>That such an ass should owe them</verseline>
 <character>Proteus</character>
@@ -2890,7 +2890,7 @@
 <verseline>To keep them from uncIVIl outrages</verseline>
 <verseline>Withdraw thee, Valentine. Who&#8217;s this comes here?</verseline>
 <verseline>
-<stageDirections_Inline>[Steps aside]</stageDirections_Inline>
+<stage_directions_inline>[Steps aside]</stage_directions_inline>
 </verseline>
 <stage_directions>Enter Proteus, SilVIa, and Julia as Sebastian</stage_directions>
 <character>Proteus</character>
@@ -2903,7 +2903,7 @@
 <verseline>And less than this, I am sure, you cannot gIVe</verseline>
 <character>Valentine</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>How like a dream is this I see and hear!</verseline>
 <verseline>Love, lend me patience to forbear awhile</verseline>
@@ -2916,7 +2916,7 @@
 <verseline>By thy approach thou mak&#8217;st me most unhappy</verseline>
 <character>Julia</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline>
+<stage_directions_inline>[Aside]</stage_directions_inline>
 </verseline>
 <verseline>And me, when he approacheth to your presence</verseline>
 <character>SilVIa</character>
@@ -2991,7 +2991,7 @@
 <character>Julia</character>
 <verseline>O me unhappy!</verseline>
 <verseline>
-<stageDirections_Inline>[Swoons]</stageDirections_Inline>
+<stage_directions_inline>[Swoons]</stage_directions_inline>
 </verseline>
 <character>Proteus</character>
 <verseline>Look to the boy</verseline>

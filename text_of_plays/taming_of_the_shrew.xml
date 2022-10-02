@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" [
 ]>
-<shakespeareplay Title="The Taming of The Shrew">
+<shakespeareplay title="The Taming of The Shrew">
 <dramatis_personae>
 <dramatis_head>Dramatis Personae</dramatis_head>
 <charactergroup>Persons in the Induction</charactergroup>
@@ -209,7 +209,7 @@
 <verseline>When they do homage to this simple peasant.</verseline>
 <verseline>I&#8217;ll in to counsel them; haply my presence</verseline>
 <verseline>May well abate the over-merry spleen,</verseline>
-<verseline>Which otherwise would grow into extremes. <stageDirections_Inline>Exeunt</stageDirections_Inline>
+<verseline>Which otherwise would grow into extremes. <stage_directions_inline>Exeunt</stage_directions_inline>
 </verseline>
 <scene>Scene II</scene>
 <location>A bedchamber in the Lord&#8217;S house</location>
@@ -231,7 +231,7 @@
 <verseline>Should be infused with so foul a spirit!</verseline>
 <character>Sly</character>
 <prose>What, would you make me mad? Am not I Christopher Sly, old Sly&#8217;s son of Burton Heath; by birth a pedlar, by education a cardmaker, by transmutation a bear-herd, and now by present profession a tinker? Ask Marian Hacket, the fat ale-wife of Wincot, if she know me not; if she say I am not fourteen pence on the score for sheer ale, score me up for the lying&#8217;st knave in</prose>
-<prose>Christendom. What! I am not bestraught.<stageDirections_Inline> [Taking a pot of ale]</stageDirections_Inline>
+<prose>Christendom. What! I am not bestraught.<stage_directions_inline> [Taking a pot of ale]</stage_directions_inline>
 </prose>
 <prose>Here&#8217;s-</prose>
 <character>Third Servant</character>
@@ -246,7 +246,7 @@
 <verseline>And banish hence these abject lowly dreams.</verseline>
 <verseline>Look how thy servants do attend on thee,</verseline>
 <verseline>Each in his office ready at thy beck.</verseline>
-<verseline>Wilt thou have music? Hark! Apollo plays, <stageDirections_Inline>[Music]</stageDirections_Inline>
+<verseline>Wilt thou have music? Hark! Apollo plays, <stage_directions_inline>[Music]</stage_directions_inline>
 </verseline>
 <verseline>And twenty caged nightingales do sing.</verseline>
 <verseline>Or wilt thou sleep? We&#8217;ll have thee to a couch</verseline>
@@ -461,7 +461,7 @@
 <verseline>There, there, Hortensio, will you any wife?</verseline>
 <character>Katherina</character>
 <verseline>
-<stageDirections_Inline>[To Baptista]</stageDirections_Inline> I pray you, sir, is it your will</verseline>
+<stage_directions_inline>[To Baptista]</stage_directions_inline> I pray you, sir, is it your will</verseline>
 <verseline>To make a stale of me amongst these mates?</verseline>
 <character>Hortensio</character>
 <verseline>Mates, maid! How mean you that? No mates for you,</verseline>
@@ -510,7 +510,7 @@
 <verseline>And make her bear the penance of her tongue?</verseline>
 <character>Baptista</character>
 <verseline>Gentlemen, content ye; I am resolv&#8217;d.</verseline>
-<verseline>Go in, Bianca. <stageDirections_Inline>Exit Bianca</stageDirections_Inline>
+<verseline>Go in, Bianca. <stage_directions_inline>Exit Bianca</stage_directions_inline>
 </verseline>
 <verseline>And for I know she taketh most delight</verseline>
 <verseline>In music, instruments, and poetry,</verseline>
@@ -521,12 +521,12 @@
 <verseline>I will be very kind, and liberal</verseline>
 <verseline>To mine own children in good bringing-up;</verseline>
 <verseline>And so, farewell. Katherina, you may stay;</verseline>
-<verseline>For I have more to commune with Bianca. <stageDirections_Inline>Exit</stageDirections_Inline>
+<verseline>For I have more to commune with Bianca. <stage_directions_inline>Exit</stage_directions_inline>
 </verseline>
 <character>Katherina</character>
 <verseline>Why, and I trust I may go too, may I not?</verseline>
 <verseline>What! shall I be appointed hours, as though, belike,</verseline>
-<verseline>I knew not what to take and what to leave? Ha! <stageDirections_Inline>Exit</stageDirections_Inline>
+<verseline>I knew not what to take and what to leave? Ha! <stage_directions_inline>Exit</stage_directions_inline>
 </verseline>
 <character>Gremio</character>
 <prose>You may go to the devil&#8217;s dam; your gifts are so good here&#8217;s none will hold you. There! Love is not so great,</prose>
@@ -639,7 +639,7 @@
 <verseline>When Biondello comes, he waits on thee;</verseline>
 <verseline>But I will charm him first to keep his tongue.</verseline>
 <character>Tranio</character>
-<verseline>So had you need. <stageDirections_Inline>[They exchange habits]</stageDirections_Inline>
+<verseline>So had you need. <stage_directions_inline>[They exchange habits]</stage_directions_inline>
 </verseline>
 <verseline>In brief, sir, sith it your pleasure is,</verseline>
 <verseline>And I am tied to be obedient-</verseline>
@@ -698,7 +698,7 @@
 <verseline>My lord, &#8216;tis but begun.</verseline>
 <character>Sly</character>
 <verseline>&#8216;Tis a very excellent piece of work, madam lady</verseline>
-<verseline>Would &#8216;twere done! <stageDirections_Inline>[They sit and mark]</stageDirections_Inline>
+<verseline>Would &#8216;twere done! <stage_directions_inline>[They sit and mark]</stage_directions_inline>
 </verseline>
 <scene>Scene II</scene>
 <location>Padua. Before Hortensio&#8217;S house</location>
@@ -878,7 +878,7 @@
 <character>Petruchio</character>
 <verseline>Peace, sirrah!</verseline>
 <character>Hortensio</character>
-<verseline>Grumio, mum! <stageDirections_Inline>[Coming forward]</stageDirections_Inline>
+<verseline>Grumio, mum! <stage_directions_inline>[Coming forward]</stage_directions_inline>
 </verseline>
 <verseline>God save you, Signior Gremio!</verseline>
 <character>Gremio</character>
@@ -975,7 +975,7 @@
 <verseline>I love no chiders, sir. Biondello, let&#8217;s away.</verseline>
 <character>Lucentio</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> Well begun, Tranio.</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> Well begun, Tranio.</verseline>
 <character>Hortensio</character>
 <verseline>Sir, a word ere you go.</verseline>
 <verseline>Are you a suitor to the maid you talk of, yea or no?</verseline>
@@ -1053,7 +1053,7 @@
 <verseline>O excellent motion! Fellows, let&#8217;s be gone.</verseline>
 <character>Hortensio</character>
 <verseline>The motion&#8217;s good indeed, and be it so.</verseline>
-<verseline>Petruchio, I shall be your ben venuto. <stageDirections_Inline>Exeunt</stageDirections_Inline>
+<verseline>Petruchio, I shall be your ben venuto. <stage_directions_inline>Exeunt</stage_directions_inline>
 </verseline>
 <act>Act II</act>
 <firstscene>Scene I</firstscene>
@@ -1089,13 +1089,13 @@
 <verseline>I prithee, sister Kate, untie my hands.</verseline>
 <character>Katherina</character>
 <verseline>
-<stageDirections_Inline>[Strikes her]</stageDirections_Inline> If that be jest, then an the rest was so.</verseline>
+<stage_directions_inline>[Strikes her]</stage_directions_inline> If that be jest, then an the rest was so.</verseline>
 <stage_directions>Enter Baptista</stage_directions>
 <character>Baptista</character>
 <verseline>Why, how now, dame! Whence grows this insolence?</verseline>
 <verseline>Bianca, stand aside- poor girl! she weeps.</verseline>
 <verseline>
-<stageDirections_Inline>[He unbinds her]</stageDirections_Inline></verseline>
+<stage_directions_inline>[He unbinds her]</stage_directions_inline></verseline>
 <verseline>Go ply thy needle; meddle not with her.</verseline>
 <verseline>For shame, thou hilding of a devilish spirit,</verseline>
 <verseline>Why dost thou wrong her that did ne&#8217;er wrong thee?</verseline>
@@ -1170,11 +1170,11 @@
 <verseline>O, pardon me, Signior Gremio! I would fain be doing.</verseline>
 <character>Gremio</character>
 <prose>I doubt it not, sir; but you will curse your wooing.</prose>
-<prose>Neighbour, this is a gift very grateful, I am sure of it. To express the like kindness, myself, that have been more kindly beholding to you than any, freely gIVe unto you this young scholar <stageDirections_Inline>[Presenting Lucentio]</stageDirections_Inline> that hath been long studying at Rheims; as cunning in Greek, Latin, and other languages, as the other in music and mathematics. His name is Cambio. Pray accept his service.</prose>
+<prose>Neighbour, this is a gift very grateful, I am sure of it. To express the like kindness, myself, that have been more kindly beholding to you than any, freely gIVe unto you this young scholar <stage_directions_inline>[Presenting Lucentio]</stage_directions_inline> that hath been long studying at Rheims; as cunning in Greek, Latin, and other languages, as the other in music and mathematics. His name is Cambio. Pray accept his service.</prose>
 <character>Baptista</character>
 <verseline>A thousand thanks, Signior Gremio. Welcome, good Cambio.</verseline>
 <verseline>
-<stageDirections_Inline>[To Tranio]</stageDirections_Inline> But, gentle sir, methinks you walk like a stranger.</verseline>
+<stage_directions_inline>[To Tranio]</stage_directions_inline> But, gentle sir, methinks you walk like a stranger.</verseline>
 <verseline>May I be so bold to know the cause of your coming?</verseline>
 <character>Tranio</character>
 <verseline>Pardon me, sir, the boldness is mine own</verseline>
@@ -1363,7 +1363,7 @@
 <verseline>What, with my tongue in your tail? Nay, come again,</verseline>
 <verseline>Good Kate; I am a gentleman.</verseline>
 <character>Katherina</character>
-<verseline>That I&#8217;ll try. <stageDirections_Inline>[She strikes him]</stageDirections_Inline></verseline>
+<verseline>That I&#8217;ll try. <stage_directions_inline>[She strikes him]</stage_directions_inline></verseline>
 <character>Petruchio</character>
 <verseline>I swear I&#8217;ll cuff you, if you strike again.</verseline>
 <character>Katherina</character>
@@ -1576,7 +1576,7 @@
 <character>Gremio</character>
 <verseline>Two thousand ducats by the year of land!</verseline>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> My land amounts not to so much in all.-</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> My land amounts not to so much in all.-</verseline>
 <verseline>That she shall have, besides an argosy</verseline>
 <verseline>That now is lying in Marseilles road.</verseline>
 <verseline>What, have I chok&#8217;d you with an argosy?</verseline>
@@ -1610,7 +1610,7 @@
 <verseline>If not, to Signior Gremio.</verseline>
 <verseline>And so I take my leave, and thank you both.</verseline>
 <character>Gremio</character>
-<verseline>Adieu, good neighbour. <stageDirections_Inline>Exit Baptista</stageDirections_Inline></verseline>
+<verseline>Adieu, good neighbour. <stage_directions_inline>Exit Baptista</stage_directions_inline></verseline>
 <verseline>Now, I fear thee not.</verseline>
 <verseline>Sirrah young gamester, your father were a fool</verseline>
 <verseline>To gIVe thee all, and in his waning age</verseline>
@@ -1688,7 +1688,7 @@
 <character>Hortensio</character>
 <verseline>The bass is right; &#8216;tis the base knave that jars.</verseline>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> How fiery and forward our pedant is!</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> How fiery and forward our pedant is!</verseline>
 <verseline>Now, for my life, the knave doth court my love.</verseline>
 <verseline>Pedascule, I&#8217;ll watch you better yet.</verseline>
 <character>Bianca</character>
@@ -1704,12 +1704,12 @@
 <verseline>That I have been thus pleasant with you both.</verseline>
 <character>Hortensio</character>
 <verseline>
-<stageDirections_Inline>[To Lucentio]</stageDirections_Inline> You may go walk and gIVe me leave awhile;</verseline>
+<stage_directions_inline>[To Lucentio]</stage_directions_inline> You may go walk and gIVe me leave awhile;</verseline>
 <verseline>My lessons make no music in three Parts.</verseline>
 <character>Lucentio</character>
 <verseline>Are you so formal, sir? Well, I must wait,</verseline>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> And watch withal; for, but I be deceIV&#8217;d,</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> And watch withal; for, but I be deceIV&#8217;d,</verseline>
 <verseline>Our fine musician groweth amorous.</verseline>
 <character>Hortensio</character>
 <verseline>Madam, before you touch the instrument</verseline>
@@ -1758,7 +1758,7 @@
 <stage_directions>Enter Baptista, Gremio, Tranio as Lucentio, Katherina, Bianca, Lucentio as Cambio, and Attendants</stage_directions>
 <character>Baptista</character>
 <verseline>
-<stageDirections_Inline>[To Tranio]</stageDirections_Inline> Signior Lucentio, this is the &#8216;pointed day</verseline>
+<stage_directions_inline>[To Tranio]</stage_directions_inline> Signior Lucentio, this is the &#8216;pointed day</verseline>
 <verseline>That Katherine and Petruchio should be married,</verseline>
 <verseline>And yet we hear not of our son-in-law.</verseline>
 <verseline>What will be said? What mockery will it be</verseline>
@@ -2129,7 +2129,7 @@
 <character>Curtis</character>
 <verseline>Here.</verseline>
 <character>Grumio</character>
-<verseline>There. <stageDirections_Inline>[Striking him]</stageDirections_Inline></verseline>
+<verseline>There. <stage_directions_inline>[Striking him]</stage_directions_inline></verseline>
 <character>Curtis</character>
 <verseline>This &#8216;tis to feel a tale, not to hear a tale.</verseline>
 <character>Grumio</character>
@@ -2211,14 +2211,12 @@
 <character>Petruchio</character>
 <verseline>Go, rascals, go and fetch my supper in.</verseline>
 <stage_directions>Exeunt some of the Servingmen</stage_directions>
-<song>
-<stageDirections_Inline>[Sings]</stageDirections_Inline> Where is the life that late I led? Where are those-</song>
+<song>Where is the life that late I led? Where are those-</song>
 <verseline>Sit down, Kate, and welcome. Soud, soud, soud, soud!</verseline>
 <stage_directions>Re-enter Servants with supper</stage_directions>
 <verseline>Why, when, I say? Nay, good sweet Kate, be merry.</verseline>
 <verseline>Off with my boots, you rogues! you villains, when?</verseline>
-<song>
-<stageDirections_Inline>[Sings]</stageDirections_Inline> It was the friar of orders grey, As he forth walked on his way-</song>
+<song>It was the friar of orders grey, As he forth walked on his way-</song>
 <verseline>Out, you rogue! you pluck my foot awry;</verseline>
 <verseline>Take that, and mend the plucking off the other.</verseline>
 <stage_directions>[Strikes him]</stage_directions>
@@ -2230,7 +2228,7 @@
 <verseline>One, Kate, that you must kiss and be acquainted with.</verseline>
 <verseline>Where are my slippers? Shall I have some water?</verseline>
 <verseline>Come, Kate, and wash, and welcome heartily.</verseline>
-<verseline>You whoreson villain! will you let it fall? <stageDirections_Inline>[Strikes him]</stageDirections_Inline></verseline>
+<verseline>You whoreson villain! will you let it fall? <stage_directions_inline>[Strikes him]</stage_directions_inline></verseline>
 <character>Katherina</character>
 <verseline>Patience, I pray you; &#8216;twas a fault unwilling.</verseline>
 <character>Petruchio</character>
@@ -2266,7 +2264,7 @@
 <verseline>Than feed it with such over-roasted flesh.</verseline>
 <verseline>Be patient; to-morrow &#8216;t shall be mended.</verseline>
 <verseline>And for this night we&#8217;ll fast for company.</verseline>
-<verseline>Come, I will bring thee to thy bridal chamber. <stageDirections_Inline>Exeunt</stageDirections_Inline>
+<verseline>Come, I will bring thee to thy bridal chamber. <stage_directions_inline>Exeunt</stage_directions_inline>
 </verseline>
 <stage_directions>Re-enter Servants severally</stage_directions>
 <character>Nathaniel</character>
@@ -2372,7 +2370,7 @@
 <verseline>And so farewell, Signior Lucentio.</verseline>
 <verseline>Kindness in women, not their beauteous looks,</verseline>
 <verseline>Shall win my love; and so I take my leave,</verseline>
-<verseline>In resolution as I swore before. <stageDirections_Inline>Exit</stageDirections_Inline></verseline>
+<verseline>In resolution as I swore before. <stage_directions_inline>Exit</stage_directions_inline></verseline>
 <character>Tranio</character>
 <verseline>Mistress Bianca, bless you with such grace</verseline>
 <verseline>As &#8216;longeth to a lover&#8217;s blessed case!</verseline>
@@ -2470,7 +2468,7 @@
 <verseline>In count&#8217;nance somewhat doth resemble you.</verseline>
 <character>Biondello</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> As much as an apple doth an oyster, and all one.</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> As much as an apple doth an oyster, and all one.</verseline>
 <character>Tranio</character>
 <verseline>To save your life in this extremity,</verseline>
 <verseline>This favour will I do you for his sake;</verseline>
@@ -2492,7 +2490,7 @@
 <verseline>To pass assurance of a dow&#8217;r in marriage</verseline>
 <verseline>&#8216;Twixt me and one Baptista&#8217;s daughter here.</verseline>
 <verseline>In all these circumstances I&#8217;ll instruct you.</verseline>
-<verseline>Go with me to clothe you as becomes you. <stageDirections_Inline>Exeunt</stageDirections_Inline>
+<verseline>Go with me to clothe you as becomes you. <stage_directions_inline>Exeunt</stage_directions_inline>
 </verseline>
 <scene>Scene III</scene>
 <location>Petruchio&#8217;S house</location>
@@ -2574,7 +2572,7 @@
 <verseline>Come, Mistress Kate, I&#8217;ll bear you company.</verseline>
 <character>Petruchio</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> Eat it up all, Hortensio, if thou lovest me.-</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> Eat it up all, Hortensio, if thou lovest me.-</verseline>
 <verseline>Much good do it unto thy gentle heart!</verseline>
 <verseline>Kate, eat apace. And now, my honey love,</verseline>
 <verseline>Will we return unto thy father&#8217;s house</verseline>
@@ -2606,7 +2604,7 @@
 <verseline>And not till then.</verseline>
 <character>Hortensio</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> That will not be in haste.</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> That will not be in haste.</verseline>
 <character>Katherina</character>
 <verseline>Why, sir, I trust I may have leave to speak;</verseline>
 <verseline>And speak I will. I am no child, no babe.</verseline>
@@ -2634,7 +2632,7 @@
 <verseline>Why, what a devil&#8217;s name, tailor, call&#8217;st thou this?</verseline>
 <character>Hortensio</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> I see she&#8217;s like to have neither cap nor gown.</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> I see she&#8217;s like to have neither cap nor gown.</verseline>
 <character>Tailor</character>
 <verseline>You bid me make it orderly and well,</verseline>
 <verseline>According to the fashion and the time.</verseline>
@@ -2688,24 +2686,24 @@
 <verseline>The note lies in&#8217;s throat, if he say I said so.</verseline>
 <character>Tailor</character>
 <verseline>
-<stageDirections_Inline>[Reads]</stageDirections_Inline> &#8216;Imprimis, a loose-bodied gown&#8217;-</verseline>
+<stage_directions_inline>[Reads]</stage_directions_inline> &#8216;Imprimis, a loose-bodied gown&#8217;-</verseline>
 <character>Grumio</character>
 <prose>Master, if ever I said loose-bodied gown, sew me in the skirts of it and beat me to death with a bottom of brown bread; I said a gown.</prose>
 <character>Petruchio</character>
 <verseline>Proceed.</verseline>
 <character>Tailor</character>
 <verseline>
-<stageDirections_Inline>[Reads]</stageDirections_Inline> &#8216;With a small compass&#8217;d cape&#8217;-</verseline>
+<stage_directions_inline>[Reads]</stage_directions_inline> &#8216;With a small compass&#8217;d cape&#8217;-</verseline>
 <character>Grumio</character>
 <verseline>I confess the cape.</verseline>
 <character>Tailor</character>
 <verseline>
-<stageDirections_Inline>[Reads]</stageDirections_Inline> &#8216;With a trunk sleeve&#8217;-</verseline>
+<stage_directions_inline>[Reads]</stage_directions_inline> &#8216;With a trunk sleeve&#8217;-</verseline>
 <character>Grumio</character>
 <verseline>I confess two sleeves.</verseline>
 <character>Tailor</character>
 <verseline>
-<stageDirections_Inline>[Reads]</stageDirections_Inline> &#8216;The sleeves curiously cut.&#8217;</verseline>
+<stage_directions_inline>[Reads]</stage_directions_inline> &#8216;The sleeves curiously cut.&#8217;</verseline>
 <character>Petruchio</character>
 <verseline>Ay, there&#8217;s the villainy.</verseline>
 <character>Grumio</character>
@@ -2732,12 +2730,12 @@
 <verseline>O fie, fie, fie!</verseline>
 <character>Petruchio</character>
 <verseline>
-<stageDirections_Inline>[Aside]</stageDirections_Inline> Hortensio, say thou wilt see the tailor paid.-</verseline>
+<stage_directions_inline>[Aside]</stage_directions_inline> Hortensio, say thou wilt see the tailor paid.-</verseline>
 <verseline>Go take it hence; be gone, and say no more.</verseline>
 <character>Hortensio</character>
 <verseline>Tailor, I&#8217;ll pay thee for thy gown to-morrow;</verseline>
 <verseline>Take no unkindness of his hasty words.</verseline>
-<verseline>Away, I say; commend me to thy master. <stageDirections_Inline>Exit Tailor</stageDirections_Inline></verseline>
+<verseline>Away, I say; commend me to thy master. <stage_directions_inline>Exit Tailor</stage_directions_inline></verseline>
 <character>Petruchio</character>
 <verseline>Well, come, my Kate; we will unto your father&#8217;s</verseline>
 <verseline>Even in these honest mean habiliments;</verseline>
@@ -2805,7 +2803,7 @@
 <stage_directions>Enter Baptista, and Lucentio as Cambio</stage_directions>
 <verseline>Signior Baptista, you are happily met.</verseline>
 <verseline>
-<stageDirections_Inline>[To the Pedant]</stageDirections_Inline> Sir, this is the gentleman I told you of;</verseline>
+<stage_directions_inline>[To the Pedant]</stage_directions_inline> Sir, this is the gentleman I told you of;</verseline>
 <verseline>I pray you stand good father to me now;</verseline>
 <verseline>GIVe me Bianca for my patrimony.</verseline>
 <character>Pedant</character>
@@ -2857,7 +2855,7 @@
 <verseline>And bid Bianca make her ready straight;</verseline>
 <verseline>And, if you will, tell what hath happened-</verseline>
 <verseline>Lucentio&#8217;s father is arrIV&#8217;d in Padua,</verseline>
-<verseline>And how she&#8217;s like to be Lucentio&#8217;s wife. <stageDirections_Inline>Exit Lucentio</stageDirections_Inline></verseline>
+<verseline>And how she&#8217;s like to be Lucentio&#8217;s wife. <stage_directions_inline>Exit Lucentio</stage_directions_inline></verseline>
 <character>Biondello</character>
 <verseline>I pray the gods she may, with all my heart.</verseline>
 <character>Tranio</character>
@@ -2867,7 +2865,7 @@
 <verseline>Welcome! One mess is like to be your cheer;</verseline>
 <verseline>Come, sir; we will better it in Pisa.</verseline>
 <character>Baptista</character>
-<verseline>I follow you. <stageDirections_Inline>Exeunt</stageDirections_Inline></verseline>
+<verseline>I follow you. <stage_directions_inline>Exeunt</stage_directions_inline></verseline>
 <stage_directions>Re-enter Lucentio as Cambio, and Biondello</stage_directions>
 <character>Biondello</character>
 <verseline>Cambio.</verseline>
@@ -2906,7 +2904,7 @@
 <verseline>I may and will, if she be so contented.</verseline>
 <verseline>She will be pleas&#8217;d; then wherefore should I doubt?</verseline>
 <verseline>Hap what hap may, I&#8217;ll roundly go about her;</verseline>
-<verseline>It shall go hard if Cambio go without her. <stageDirections_Inline>Exit</stageDirections_Inline>
+<verseline>It shall go hard if Cambio go without her. <stage_directions_inline>Exit</stage_directions_inline>
 </verseline>
 <scene>Scene V</scene>
 <location>A public road</location>
@@ -2953,7 +2951,7 @@
 <verseline>But, soft! Company is coming here.</verseline>
 <stage_directions>Enter Vincentio</stage_directions>
 <verseline>
-<stageDirections_Inline>[To Vincentio]</stageDirections_Inline> Good-morrow, gentle mistress; where away?-</verseline>
+<stage_directions_inline>[To Vincentio]</stage_directions_inline> Good-morrow, gentle mistress; where away?-</verseline>
 <verseline>Tell me, sweet Kate, and tell me truly too,</verseline>
 <verseline>Hast thou beheld a fresher gentlewoman?</verseline>
 <verseline>Such war of white and red within her cheeks!</verseline>
@@ -3019,7 +3017,7 @@
 <character>Hortensio</character>
 <verseline>Well, Petruchio, this has put me in heart.</verseline>
 <verseline>Have to my widow; and if she be froward,</verseline>
-<verseline>Then hast thou taught Hortensio to be untoward. <stageDirections_Inline>Exit</stageDirections_Inline></verseline>
+<verseline>Then hast thou taught Hortensio to be untoward. <stage_directions_inline>Exit</stage_directions_inline></verseline>
 <act>Act V</act>
 <firstscene>Scene I</firstscene>
 <location>Padua. Before Lucentio&#8217;S house</location>
@@ -3041,7 +3039,7 @@
 <character>Vincentio</character>
 <verseline>You shall not choose but drink before you go;</verseline>
 <verseline>I think I shall command your welcome here,</verseline>
-<verseline>And by all likelihood some cheer is toward. <stageDirections_Inline>[Knocks]</stageDirections_Inline>
+<verseline>And by all likelihood some cheer is toward. <stage_directions_inline>[Knocks]</stage_directions_inline>
 </verseline>
 <character>Gremio</character>
 <verseline>They&#8217;re busy within; you were best knock louder.</verseline>
@@ -3067,7 +3065,7 @@
 <verseline>Ay, sir; so his mother says, if I may believe her.</verseline>
 <character>Petruchio</character>
 <verseline>
-<stageDirections_Inline>[To Vincentio]</stageDirections_Inline> Why, how now, gentleman!</verseline>
+<stage_directions_inline>[To Vincentio]</stage_directions_inline> Why, how now, gentleman!</verseline>
 <verseline>Why, this is flat knavery to take upon you another man&#8217;s name.</verseline>
 <character>Pedant</character>
 <prose>Lay hands on the villain; I believe &#8216;a means to cozen somebody in this city under my countenance.</prose>
@@ -3076,7 +3074,7 @@
 <prose>I have seen them in the church together. God send &#8216;em good shipping! But who is here? Mine old master, Vicentio! Now we are undone and brought to nothing.</prose>
 <character>Vincentio</character>
 <verseline>
-<stageDirections_Inline>[Seeing Biondello]</stageDirections_Inline> Come hither, crack-hemp.</verseline>
+<stage_directions_inline>[Seeing Biondello]</stage_directions_inline> Come hither, crack-hemp.</verseline>
 <character>Biondello</character>
 <verseline>I hope I may choose, sir.</verseline>
 <character>Vincentio</character>
@@ -3088,14 +3086,14 @@
 <character>Biondello</character>
 <prose>What, my old worshipful old master? Yes, marry, sir; see where he looks out of the window.</prose>
 <character>Vincentio</character>
-<verseline>Is&#8217;t so, indeed? <stageDirections_Inline>[He beats Biondello]</stageDirections_Inline></verseline>
+<verseline>Is&#8217;t so, indeed? <stage_directions_inline>[He beats Biondello]</stage_directions_inline></verseline>
 <character>Biondello</character>
 <verseline>Help, help, help! Here&#8217;s a madman will murder me.</verseline>
 <stage_directions>Exit</stage_directions>
 <character>Pedant</character>
-<verseline>Help, son! help, Signior Baptista! <stageDirections_Inline>Exit from above</stageDirections_Inline></verseline>
+<verseline>Help, son! help, Signior Baptista! <stage_directions_inline>Exit from above</stage_directions_inline></verseline>
 <character>Petruchio</character>
-<prose>Prithee, Kate, let&#8217;s stand aside and see the end of this controversy. <stageDirections_Inline>[They stand aside]</stageDirections_Inline></prose>
+<prose>Prithee, Kate, let&#8217;s stand aside and see the end of this controversy. <stage_directions_inline>[They stand aside]</stage_directions_inline></prose>
 <stage_directions>Re-enter Pedant below; Baptista, Tranio, and Servants</stage_directions>
 <character>Tranio</character>
 <verseline>Sir, what are you that offer to beat my servant?</verseline>
@@ -3148,7 +3146,7 @@
 <stage_directions>Exeunt Biondello, Tranio, and Pedant, as fast as may be</stage_directions>
 <character>Lucentio</character>
 <verseline>
-<stageDirections_Inline>[Kneeling]</stageDirections_Inline> Pardon, sweet father.</verseline>
+<stage_directions_inline>[Kneeling]</stage_directions_inline> Pardon, sweet father.</verseline>
 <character>Vincentio</character>
 <verseline>LIVes my sweet son?</verseline>
 <character>Bianca</character>
@@ -3182,17 +3180,17 @@
 <prose>I&#8217;ll slit the villain&#8217;s nose that would have sent me to the gaol.</prose>
 <character>Baptista</character>
 <prose>
-<stageDirections_Inline>[To Lucentio]</stageDirections_Inline> But do you hear, sir? Have you married my daughter without asking my good will?</prose>
+<stage_directions_inline>[To Lucentio]</stage_directions_inline> But do you hear, sir? Have you married my daughter without asking my good will?</prose>
 <character>Vincentio</character>
-<prose>Fear not, Baptista; we will content you, go to; but I will in to be revenged for this villainy. <stageDirections_Inline>Exit</stageDirections_Inline></prose>
+<prose>Fear not, Baptista; we will content you, go to; but I will in to be revenged for this villainy. <stage_directions_inline>Exit</stage_directions_inline></prose>
 <character>Baptista</character>
-<verseline>And I to sound the depth of this knavery. <stageDirections_Inline>Exit</stageDirections_Inline></verseline>
+<verseline>And I to sound the depth of this knavery. <stage_directions_inline>Exit</stage_directions_inline></verseline>
 <character>Lucentio</character>
 <verseline>Look not pale, Bianca; thy father will not frown.</verseline>
 <stage_directions>Exeunt Lucentio and Bianca</stage_directions>
 <character>Gremio</character>
 <verseline>My cake is dough, but I&#8217;ll in among the rest;</verseline>
-<verseline>Out of hope of all but my share of the feast. <stageDirections_Inline>Exit</stageDirections_Inline></verseline>
+<verseline>Out of hope of all but my share of the feast. <stage_directions_inline>Exit</stage_directions_inline></verseline>
 <character>Katherina</character>
 <verseline>Husband, let&#8217;s follow to see the end of this ado.</verseline>
 <character>Petruchio</character>
@@ -3209,7 +3207,7 @@
 <verseline>Nay, I will gIVe thee a kiss; now pray thee, love, stay.</verseline>
 <character>Petruchio</character>
 <verseline>Is not this well? Come, my sweet Kate:</verseline>
-<verseline>Better once than never, for never too late. <stageDirections_Inline>Exeunt</stageDirections_Inline></verseline>
+<verseline>Better once than never, for never too late. <stage_directions_inline>Exeunt</stage_directions_inline></verseline>
 <scene>Scene II</scene>
 <location>Lucentio&#8217;S house</location>
 <stage_directions>Enter Baptista, Vincentio, Gremio, the Pedant, Lucentio, Bianca, Petruchio, Katherina, Hortensio, and Widow. The Servingmen with Tranio, Biondello, and Grumio,bringing in a banquet</stage_directions>
@@ -3224,7 +3222,7 @@
 <verseline>Feast with the best, and welcome to my house.</verseline>
 <verseline>My banquet is to close our stomachs up</verseline>
 <verseline>After our great good cheer. Pray you, sit down;</verseline>
-<verseline>For now we sit to chat as well as eat. <stageDirections_Inline>[They sit]</stageDirections_Inline></verseline>
+<verseline>For now we sit to chat as well as eat. <stage_directions_inline>[They sit]</stage_directions_inline></verseline>
 <character>Petruchio</character>
 <verseline>Nothing but sit and sit, and eat and eat!</verseline>
 <character>Baptista</character>
@@ -3348,7 +3346,7 @@
 <verseline>That will I.</verseline>
 <verseline>Go, Biondello, bid your mistress come to me.</verseline>
 <character>Biondello</character>
-<verseline>I go. <stageDirections_Inline>Exit</stageDirections_Inline></verseline>
+<verseline>I go. <stage_directions_inline>Exit</stage_directions_inline></verseline>
 <character>Baptista</character>
 <verseline>Son, I&#8217;ll be your half Bianca comes.</verseline>
 <character>Lucentio</character>
@@ -3368,7 +3366,7 @@
 <verseline>I hope better.</verseline>
 <character>Hortensio</character>
 <verseline>Sirrah Biondello, go and entreat my wife</verseline>
-<verseline>To come to me forthwith. <stageDirections_Inline>Exit Biondello</stageDirections_Inline></verseline>
+<verseline>To come to me forthwith. <stage_directions_inline>Exit Biondello</stage_directions_inline></verseline>
 <character>Petruchio</character>
 <verseline>O, ho! entreat her!</verseline>
 <verseline>Nay, then she must needs come.</verseline>
@@ -3384,7 +3382,7 @@
 <verseline>Worse and worse; she will not come! O vile,</verseline>
 <verseline>Intolerable, not to be endur&#8217;d!</verseline>
 <verseline>Sirrah Grumio, go to your mistress;</verseline>
-<verseline>Say I command her come to me. <stageDirections_Inline>Exit Grumio</stageDirections_Inline></verseline>
+<verseline>Say I command her come to me. <stage_directions_inline>Exit Grumio</stage_directions_inline></verseline>
 <character>Hortensio</character>
 <verseline>I know her answer.</verseline>
 <character>Petruchio</character>
@@ -3510,7 +3508,7 @@
 <verseline>Come, Kate, we&#8217;ll to bed.</verseline>
 <verseline>We three are married, but you two are sped.</verseline>
 <verseline>
-<stageDirections_Inline>[To Lucentio]</stageDirections_Inline> &#8216;Twas I won the wager, though you hit the white;</verseline>
+<stage_directions_inline>[To Lucentio]</stage_directions_inline> &#8216;Twas I won the wager, though you hit the white;</verseline>
 <verseline>And being a winner, God gIVe you good night!</verseline>
 <stage_directions>Exeunt Petruchio and Katherina</stage_directions>
 <character>Hortensio</character>
@@ -3518,6 +3516,6 @@
 <character>Lucentio</character>
 <verseline>&#8216;Tis a wonder, by your leave, she will be tam&#8217;d so.</verseline>
 <stage_directions>Exeunt</stage_directions>
-<lasteverseline>-The End-</lasteverseline>
+<stage_directions>The End-</stage_directions>
 </play>
 </shakespeareplay>

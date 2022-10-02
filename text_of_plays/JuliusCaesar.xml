@@ -137,7 +137,7 @@
 </verseline>
 <scene>Scene II</scene>
 <location>A public place</location>
-<location>Flourish. Enter Caesar; Antony, for the course; Calpurnia, Portia, Decius, Cicero, Brutus, Cassius, and Casca; a great crowd follows, among them a Soothsayer</location>
+<stage_directions>Flourish. Enter Caesar; Antony, for the course; Calpurnia, Portia, Decius, Cicero, Brutus, Cassius, and Casca; a great crowd follows, among them a Soothsayer</stage_directions>
 <character>Caesar </character>
 <verseline>Calpurnia! </verseline>
 <character>Casca </character>
@@ -529,7 +529,7 @@
 <verseline>For we will shake him, or worse days endure. Exit</verseline>
 <scene>Scene III</scene>
 <location>A street. Thunder and lightning</location>
-<location>Enter, from opposite sides, Casca, with his sword drawn, and Cicero</location>
+<stage_directions>Enter, from opposite sides, Casca, with his sword drawn, and Cicero</stage_directions>
 <character>Cicero </character>
 <verseline>Good even, Casca. Brought you Caesar home? </verseline>
 <verseline>Why are you breathless, and why stare you so? </verseline>
@@ -2883,8 +2883,7 @@
 <verseline>Messala. Good night, Lord Brutus</verseline>
 <character>Brutus </character>
 <verseline>Farewell, everyone</verseline>
-<stage_directions>Exeunt all but Brutus<stage_directions_inline>.</stage_directions_inline>
-</stage_directions>
+<stage_directions>Exeunt all but Brutus</stage_directions>
 <stage_directions>Re-enter Lucius, with the gown</stage_directions>
 <verseline>Give me the gown. Where is thy instrument? </verseline>
 <character>Lucius </character>

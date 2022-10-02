@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" []>
 <shakespeareplay title="Cymbeline">
 <dramatis_personae>
@@ -33,7 +33,7 @@
 <play>
 <act>Act I</act>
 <firstscene>Scene I</firstscene>
-<location>Britain. The garden of Cymbeline&#8217;S palace </location>
+<location>Britain. The garden of Cymbeline&#8217;s palace </location>
 <character>First Gentleman </character>
 <verseline>You do not meet a man but frowns; our bloods </verseline>
 <verseline>No more obey the heavens than our courtiers </verseline>
@@ -391,7 +391,7 @@
 <character>Second Lord </character>
 <verseline>Well, my lord.Exeunt </verseline>
 <verseline>Scene Iii</verseline>
-<verseline>Britain. Cymbeline&#8217;S palace </verseline>
+<verseline>Britain. Cymbeline&#8217;s palace </verseline>
 <stage_directions>Enter Imogen and Pisanio </stage_directions>
 <character>Imogen </character>
 <verseline>I would thou grew&#8217;st unto the shores o&#8217; th&#8217; haven, </verseline>
@@ -458,7 +458,7 @@
 <verseline>Madam, I shall</verseline>
 <stage_directions>Exeunt </stage_directions>
 <scene>Scene IV</scene>
-<location>Rome. Philario&#8217;S house </location>
+<location>Rome. Philario&#8217;s house </location>
 <stage_directions>Enter Philario, Iachimo, a Frenchman, a Dutchman, and a Spaniard </stage_directions>
 <character>Iachimo </character>
 <verseline>Believe it, sir, I have seen him in Britain. He was then </verseline>
@@ -658,7 +658,7 @@
 <verseline>Signior Iachimo will not from it. Pray let us follow &#8216;em</verseline>
 <stage_directions>Exeunt </stage_directions>
 <scene>Scene V</scene>
-<location>Britain. Cymbeline&#8217;S palace </location>
+<location>Britain. Cymbeline&#8217;s palace </location>
 <stage_directions>Enter Queen, Ladies, and Cornelius </stage_directions>
 <character>Queen </character>
 <verseline>Whiles yet the dew&#8217;s on ground, gather those flowers; </verseline>
@@ -1095,7 +1095,7 @@
 <verseline>And truly yielded you. You&#8217;re very welcome.Exeunt </verseline>
 <act>Act II</act>
 <firstscene>Scene I</firstscene>
-<location>Britain. Before Cymbeline&#8217;S palace </location>
+<location>Britain. Before Cymbeline&#8217;s palace </location>
 <stage_directions>Enter Cloten and the two Lords </stage_directions>
 <character>Cloten </character>
 <verseline>Was there ever man had such luck! When I kiss&#8217;d the jack, </verseline>
@@ -1195,7 +1195,7 @@
 <verseline>T&#8217; enjoy thy banish&#8217;d lord and this great land! </verseline>
 <stage_directions>Exit </stage_directions>
 <scene>Scene II</scene>
-<location>Britain. Imogen&#8217;S bedchamber in Cymbeline&#8217;S </location>
+<location>Britain. Imogen&#8217;s bedchamber in Cymbeline&#8217;s </location>
 <stage_directions>palace; a trunk in one corner </stage_directions>
 <stage_directions>Enter Imogen in her bed, and a Lady attending </stage_directions>
 <character>Imogen </character>
@@ -1266,7 +1266,7 @@
 </verseline>
 <verseline>One, two, three. Time, time!<stage_directions_inline>Exit into the trun</stage_directions_inline>k </verseline>
 <scene>Scene III</scene>
-<location>Cymbeline&#8217;S palace. An ante-chamber adjoining </location>Imogen&#8217;S apartments <stage_directions>Enter Cloten and Lords </stage_directions>
+<location>Cymbeline&#8217;s palace. An ante-chamber adjoining </location><stage_directions>Enter Cloten and Lords </stage_directions>
 <character>First Lord </character>
 <verseline>Your lordship is the most patient man in loss, the most </verseline>
 <verseline>coldest that ever turn&#8217;d up ace</verseline>
@@ -1503,7 +1503,7 @@
 <verseline>&#8216;His mean&#8217;st garment&#8217;! Well</verseline>
 <stage_directions>Exit </stage_directions>
 <scene>Scene IV</scene>
-<location>Rome. Philario&#8217;S house </location>
+<location>Rome. Philario&#8217;s house </location>
 <stage_directions>Enter Posthumus and Philario </stage_directions>
 <character>Posthumus </character>
 <verseline>Fear it not, sir; I would I were so sure </verseline>
@@ -1760,7 +1760,7 @@
 <verseline>With all my heart</verseline>
 <stage_directions>Exeunt </stage_directions>
 <scene>Scene V</scene>
-<location>Rome. Another room in Philario&#8217;S house </location>
+<location>Rome. Another room in Philario&#8217;s house </location>
 <stage_directions>Enter Posthumus </stage_directions>
 <character>Posthumus </character>
 <verseline>Is there no way for men to be, but women </verseline>
@@ -1800,7 +1800,7 @@
 <verseline>The very devils cannot plague them better.Exit </verseline>
 <act>Act III</act>
 <firstscene>Scene I</firstscene>
-<verseline>Britain. A hall in Cymbeline&#8217;S palace </verseline>
+<verseline>Britain. A hall in Cymbeline&#8217;s palace </verseline>
 <stage_directions>Enter in state, Cymbeline, Queen, Cloten, and Lords at </stage_directions>
 <verseline>one door, and at another Caius Lucius and attendants </verseline>
 <character>Cymbeline </character>
@@ -1912,7 +1912,7 @@
 <verseline>All the remain is, welcome</verseline>
 <stage_directions>Exeunt </stage_directions>
 <scene>Scene II</scene>
-<location>Britain. Another room in Cymbeline&#8217;S palace </location>
+<location>Britain. Another room in Cymbeline&#8217;s palace </location>
 <stage_directions>Enter Pisanio reading of a letter </stage_directions>
 <character>Pisanio </character>
 <verseline>How? of adultery? Wherefore write you not </verseline>
@@ -2391,7 +2391,7 @@
 <character>Imogen </character>
 <verseline>Amen. I thank thee.Exeunt severally </verseline>
 <scene>Scene V</scene>
-<location>Britain. Cymbeline&#8217;S palace </location>
+<location>Britain. Cymbeline&#8217;s palace </location>
 <stage_directions>Enter Cymbeline, Queen, Cloten, Lucius, and Lords </stage_directions>
 <character>Cymbeline </character>
 <verseline>Thus far; and so farewell</verseline>
@@ -3044,7 +3044,7 @@
 <verseline>I mean to man, he had not apprehension </verseline>
 <verseline>Or roaring terrors; for defect of judgment </verseline>
 <verseline>Is oft the cease of fear</verseline>
-<stage_directions>Re-enter Guiderius with Cloten&#8217;S head </stage_directions>
+<stage_directions>Re-enter Guiderius with Cloten&#8217;s head </stage_directions>
 <verseline>But, see, thy brother</verseline>
 <character>Guiderius </character>
 <verseline>This Cloten was a fool, an empty purse; </verseline>
@@ -3469,7 +3469,7 @@
 <verseline>As soldiers can. Be cheerful; wipe thine eyes</verseline>
 <verseline>Some falls are means the happier to arise.Exeunt </verseline>
 <scene>Scene III</scene>
-<location>Britain. Cymbeline&#8217;S palace </location>
+<location>Britain. Cymbeline&#8217;s palace </location>
 <stage_directions>Enter Cymbeline, Lords, Pisanio, and attendants </stage_directions>
 <character>Cymbeline </character>
 <verseline>Again! and bring me word how &#8216;tis with her</verseline>
@@ -3996,7 +3996,7 @@
 <verseline>Nobler than that it covers. Let thy effects </verseline>
 <verseline>So follow to be most unlike our courtiers, </verseline>
 <verseline>As good as promise</verseline>
-<stage_directions>[Reads]</stage_directions>&#8216;When as a lion&#8217;s whelp shall, to himself unknown, <verseline>without seeking find, and be embrac&#8217;d by a piece of tender air; </verseline>
+<stage_directions>[Reads]</stage_directions><verseline>without seeking find, and be embrac&#8217;d by a piece of tender air; </verseline>
 <verseline>and when from a stately cedar shall be lopp&#8217;d branches which, </verseline>
 <verseline>being dead many years, shall after revive, be jointed to the old </verseline>
 <verseline>stock, and freshly grow; then shall Posthumus end his miseries, </verseline>
@@ -4074,7 +4074,7 @@
 <verseline>were desolation of gaolers and gallowses! I speak against my </verseline>
 <verseline>present profit, but my wish hath a preferment in&#8217;t.Exit </verseline>
 <verseline>Scene V</verseline>
-<verseline>Britain. Cymbeline&#8217;S tent </verseline>
+<verseline>Britain. Cymbeline&#8217;s tent </verseline>
 <stage_directions>Enter Cymbeline, Belarius, Guiderius, Arviragus, </stage_directions>
 <verseline>Pisanio, Lords, Officers, and attendants </verseline>
 <character>Cymbeline </character>

@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" []>
-<shakespeareplay>
+<shakespeareplay title="Richard III">
 <dramatis_personae>
 <dramatis_head>Dramatis Personae </dramatis_head>
-<charactername>Edward The Fourth </charactername>
-<character_role>Sons to the King </character_role>
-<charactername>Edward, Prince Of Wales <character_role>afterwards</character_role> King Edward V </charactername>
-<charactername>Richard, Duke Of York, </charactername>
-<character_role> Brothers to the King </character_role>
-<charactername>George, Duke Of Clarence, Richard, Duke Of Gloucester, <character_role>afterwards</character_role> King Richard III </charactername>
+<charactername>Edward The Fourth <character_role>Sons to the King </character_role></charactername>
+<charactername>Edward, Prince Of Wales afterwards King Edward V </charactername>
+<charactername>Richard, Duke Of York, <character_role> Brothers to the King </character_role></charactername>
+<charactername>George, Duke Of Clarence, Richard, Duke Of Gloucester, afterwards King Richard III </charactername>
 <charactername>A Young Son Of Clarence (Edward, Earl of Warwick) </charactername>
-<charactername>Henry, Earl Of Richmond, <character_role>afterwards</character_role> King Henry Vii </charactername>
+<charactername>Henry, Earl Of Richmond, afterwards King Henry Vii </charactername>
 <charactername>Cardinal Bourchier, Archbishop Of Canterbury </charactername>
 <charactername>Thomas Rotherham, Archbishop Of York </charactername>
 <charactername>John Morton, Bishop Of Ely </charactername>
@@ -23,7 +21,7 @@
 <charactername>Earl Of Oxford </charactername>
 <charactername>Lord Hastings </charactername>
 <charactername>Lord Lovel </charactername>
-<charactername>Lord Stanley, <character_role>called also</character_role> Earl Of Derby </charactername>
+<charactername>Lord Stanley, called also Earl Of Derby </charactername>
 <charactername>Sir Thomas Vaughan </charactername>
 <charactername>Sir Richard Ratcliff </charactername>
 <charactername>Sir William Catesby </charactername>
@@ -47,8 +45,7 @@
 <charactername>Lords, Gentlemen, and Attendants; Priest, Scrivener, Page, Bishops, Aldermen, Citizens, Soldiers, Messengers, Murderers, Keeper </charactername>
 <play_location>Scene: England </play_location>
 </dramatis_personae>
-<play>
-<act>Act I</act>
+<play>  <act>Act I</act>
 <firstscene>Scene 1</firstscene>
 <location>London. A street </location>
 <stage_directions>Enter Richard, Duke Of Gloucester, solus </stage_directions>
@@ -5052,5 +5049,5 @@
 <verseline>That would with treason wound this fair land&#8217;s peace! </verseline>
 <verseline>Now civil wounds are stopp&#8217;d, peace lives again&#8212; </verseline>
 <verseline>That she may long live here, God say Amen! </verseline>
-<stage_directions>Exeunt </stage_directions>The End</play>
+<stage_directions>Exeunt </stage_directions></play>
 </shakespeareplay>

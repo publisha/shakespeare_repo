@@ -8,22 +8,22 @@
 <charactername>Bassianus, <character_role>brother to Saturninus</character_role></charactername>
 <charactername>Titus Andronicus, <character_role>a noble Roman</character_role></charactername>
 <charactername>Marcus Andronicus, <character_role>Tribune of the People, and brother to Titus</character_role></charactername>
-<character_subgroup>Sons to Titus Andronicus: <charactername>Lucius</charactername>
+<charactergroup>Sons to Titus Andronicus:</charactergroup>
+<charactername>Lucius</charactername>
 <charactername>Quintus</charactername>
 <charactername>Martius</charactername>
 <charactername>Mutius</charactername>
-</character_subgroup>
 <charactername>Young Lucius, <character_role>a boy, son to Lucius</character_role></charactername>
 <charactername>Publius, <character_role>son to Marcus Andronicus</character_role></charactername>
-<character_subgroup>Kinsmen to Titus: <charactername>Sempronius</charactername>
+<charactergroup>Kinsmen to Titus:</charactergroup>
+<charactername>Sempronius</charactername>
 <charactername>Caius</charactername>
 <charactername>Valentine</charactername>
 <charactername>Aemilius, <character_role>a noble Roman</character_role></charactername>
-</character_subgroup>
-<character_subgroup> Sons to Tamora: <charactername>  Alarbus</charactername>
+<charactergroup> Sons to Tamora:</charactergroup>
+<charactername>Alarbus</charactername>
 <charactername>Demetrius</charactername>
 <charactername>Chiron</charactername>
-</character_subgroup>
 <charactername>Aaron, a Moor, <character_role>beloved by Tamora</character_role></charactername>
 <charactername>A Captain</charactername>
 <charactername>A Messenger</charactername>

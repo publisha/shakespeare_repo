@@ -1,5 +1,6 @@
 <!ELEMENT shakespeareplay (dramatis_personae?,play?)>
-<!ELEMENT dramatis_personae (dramatis_head?,charactername+,play_location?)>
+<!ELEMENT dramatis_personae (dramatis_head?,(charactergroup|charactername)+,play_location?)>
+<!ELEMENT charactergroup (#PCDATA)>
 <!ELEMENT charactername (#PCDATA | character_role)*>
 <!ELEMENT character_role (#PCDATA)>
 <!ELEMENT play ((act,(((firstscene|scene)+,location?,(stage_directions|stage_action|character|prose|verseline|song)+))*)*)>

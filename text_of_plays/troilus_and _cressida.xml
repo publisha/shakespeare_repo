@@ -16,7 +16,7 @@
 <charactername>Aeneas </charactername>
 <charactername>Antenor </charactername>
 <charactername>Calchas, <character_role>a Trojan priest, taking part with the Greeks</character_role></charactername>
-<charactername>Pandarus, <stage_directions_inline>uncle to Cressida</stage_directions_inline>
+<charactername>Pandarus, <character_role>uncle to Cressida</character_role>
 </charactername>
 <charactername>Agamemnon, <character_role>the Greek general</character_role></charactername>
 <charactername>Menelaus, <character_role>his brother</character_role></charactername>
@@ -41,7 +41,7 @@
 </dramatis_personae>
 <play>
 <act>Prologue </act>
-<firstscene></firstscene>
+<firstscene>-</firstscene>
 <verseline>In Troy, there lies the scene. From isles of Greece </verseline>
 <verseline>The princes orgillous, their high blood chaf&#8217;d, </verseline>
 <verseline>Have to the port of Athens sent their ships </verseline>
@@ -1001,7 +1001,7 @@
 <verseline>Must tarre the mastiffs on, as &#8216;twere their bone</verseline>
 <stage_directions>Exeunt </stage_directions>
 <act>Act II</act>
-<firstscene>Scene 1</scene>
+<firstscene>Scene 1</firstscene>
 <location>The Grecian camp </location>
 <stage_directions>Enter Ajax and Thersites </stage_directions>
 <character>Ajax </character>
