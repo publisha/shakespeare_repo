@@ -499,7 +499,7 @@
 <verseline>I could not speak with Dromio since at first</verseline>
 <verseline>I sent him from the mart. See, here he comes.</verseline>
 <stage_directions>Enter Dromio Of Syracuse</stage_directions>
-<stage_directions>           How now, sir, is your merry humour alter&#8217;d?</stage_directions>
+<verseline>How now, sir, is your merry humour alter&#8217;d?</verseline>
 <verseline>As you love strokes, so jest with me again.</verseline>
 <verseline>You know no Centaur! You receiv&#8217;d no gold!</verseline>
 <verseline>Your mistress sent to have me home to dinner!</verseline>
@@ -549,8 +549,7 @@
 <verseline>Ay, sir, and wherefore; for they say</verseline>
 <verseline>    every why hath a wherefore.</verseline>
 <character>Antipholus Of Syracuse</character>
-<verseline>Why, first for flouting me; and then</verseline>
-<verseline>      wherefore,</verseline>
+<verseline>Why, first for flouting me; and then wherefore,</verseline>
 <verseline>For urging it the second time to me.</verseline>
 <character>Dromio Of Syracuse</character>
 <verseline>Was there ever any man thus beaten out of season,</verseline>
@@ -619,8 +618,7 @@
 <character>Antipholus Of Syracuse</character>
 <prose>Name them.</prose>
 <character>Dromio Of Syracuse</character>
-<prose>The one, to save the money that he spends in tiring; the other, that at dinner they should not drop in his</prose>
-<prose>porridge.</prose>
+<prose>The one, to save the money that he spends in tiring; the other, that at dinner they should not drop in his porridge.</prose>
 <character>Antipholus Of Syracuse</character>
 <prose>You would all this time have prov&#8217;d there is no time for all things.</prose>
 <character>Dromio Of Syracuse</character>

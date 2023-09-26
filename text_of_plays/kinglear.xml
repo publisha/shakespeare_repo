@@ -27,7 +27,7 @@
 <play_location>Scene: --Britain</play_location>
 </dramatis_personae>
 <play>
-<act>ACT I</act>
+<act>Act I</act>
 <firstscene>Scene I</firstscene>
 <location>[King Lear&#8217;s Palace.] </location>
 <stage_directions>Enter Kent, Gloucester, and Edmund. [Kent and Glouceste converse. Edmund stands back.] </stage_directions>
@@ -1134,7 +1134,7 @@
 <verseline>She that&#8217;s a maid now, and laughs at my departure, </verseline>
 <verseline>Shall not be a maid long, unless things be cut shorter </verseline>
 <stage_directions>Exeunt</stage_directions>
-<act>ACT II</act>
+<act>Act II</act>
 <firstscene>Scene I</firstscene>
 <location>A court within the Castle of the Earl of Gloucester</location>
 <stage_directions>Enter [Edmund the] Bastard and Curan, meeting</stage_directions>
@@ -2028,7 +2028,7 @@
 <verseline>Shut up your doors, my lord: &#8216;tis a wild night</verseline>
 <verseline>My Regan counsels well. Come out o&#8217; th&#8217; storm</verseline>
 <stage_directions>[Exeunt.] </stage_directions>
-<act>ACT III</act>
+<act>Act III</act>
 <firstscene>Scene I</firstscene>
 <location>A heath</location>
 <stage_directions>Storm still. Enter Kent and a Gentleman at several doors</stage_directions>
@@ -2817,7 +2817,7 @@
 <verseline>Go thou. I&#8217;ll fetch some flax and whites of eggs </verseline>
 <verseline>To apply to his bleeding face. Now heaven help him! </verseline>
 <stage_directions>Exeunt</stage_directions>
-<act>ACT IV</act>
+<act>Act IV</act>
 <firstscene>Scene I</firstscene>
 <location>The heath</location>
 <stage_directions>Enter Edgar</stage_directions>
@@ -3822,7 +3822,7 @@
 <verseline>My point and period will be throughly wrought, </verseline>
 <verseline>Or well or ill, as this day&#8217;s battle&#8217;s fought. <stage_directions_inline>Exit</stage_directions_inline>
 </verseline>
-<act>ACT V</act>
+<act>Act V</act>
 <firstscene>Scene I</firstscene>
 <location>The British camp near Dover</location>
 <stage_directions>Enter, with Drum and Colours, Edmund, Regan, Gentleman, and Soldiers</stage_directions>
