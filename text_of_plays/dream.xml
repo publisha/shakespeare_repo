@@ -1,0 +1,2602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE shakespeareplay SYSTEM "shakespeare_play.dtd" []>
+<shakespeareplay title="A Midsummer Night&apos;s Dream">
+<dramatis_personae>
+<dramatis_head>Dramatis Personae </dramatis_head>
+<charactername>Theseus, <character_role>Duke of Athens</character_role> </charactername>
+<charactername>Egeus, <character_role>father to Hermia</character_role> </charactername>
+<charactername>Lysander, <character_role>in love with Hermia</character_role> </charactername>
+<charactername>Demetrius, <character_role>in love with Hermia </character_role>
+</charactername>
+<charactername>Philostrate, <character_role>Master of the Revels to Theseus</character_role> </charactername>
+<charactername>Quince, <character_role>a carpente</character_role>r </charactername>
+<charactername>Snug, <character_role>a joine</character_role>r </charactername>
+<charactername>Bottom, <character_role>a weaver</character_role> </charactername>
+<charactername>Flute, <character_role>a bellows-mender</character_role> </charactername>
+<charactername>Snout, <character_role>a tinker</character_role> </charactername>
+<charactername>Starveling, <character_role>a tailor</character_role> </charactername>
+<charactername>Hippolyta, <character_role>Queen of the Amazons, bethrothed to Theseus</character_role> </charactername>
+<charactername>Hermia, <character_role>daughter to Egeus, in love with Lysander</character_role> </charactername>
+<charactername>Helena,<character_role> in love with Demetrius</character_role> </charactername>
+<charactername>Oberon, <character_role>King of the Fairies</character_role> </charactername>
+<charactername>Titania, <character_role>Queen of the Fairies</character_role> </charactername>
+<charactername>Puck, or Robin Goodfellow </charactername>
+<charactername>Peaseblossom, <character_role>fairy</character_role> </charactername>
+<charactername>Cobweb, <character_role>fairy</character_role> </charactername>
+<charactername>Moth, <character_role>fairy</character_role> </charactername>
+<charactername>Mustardseed, <character_role>fairy</character_role> </charactername>
+<charactername>Prologue, Pyramus, Thisby, Wall, Moonshine, Lion are presented by: </charactername>
+<charactername>Quince, Bottom, Flute, Snout, Starveling, And Snug </charactername>
+<charactername>Other Fairies attending their King and Queen </charactername>
+<charactername>Attendants on Theseus and Hippolyta </charactername>
+<play_location>Scene: Athens and a wood near it</play_location>
+</dramatis_personae>
+<play> <act>Act I </act>
+<firstscene>Scene I </firstscene>
+<location>Athens. The palace of Theseus </location>
+<stage_directions>Enter Theseus, Hippolyta, Philostrate, and Attendants </stage_directions>
+<character>Theseus </character>
+<verseline>Now, fair Hippolyta, our nuptial hour </verseline>
+<verseline>Draws on apace; four happy days bring in </verseline>
+<verseline>Another moon; but, O, methinks, how slow </verseline>
+<verseline>This old moon wanes! She lingers my desires, </verseline>
+<verseline>Like to a step-dame or a dowager, </verseline>
+<verseline>Long withering out a young man&#8217;s revenue. </verseline>
+<character>Hippolyta </character>
+<verseline>Four days will quickly steep themselves in night; </verseline>
+<verseline>Four nights will quickly dream away the time; </verseline>
+<verseline>And then the moon, like to a silver bow </verseline>
+<verseline>New-bent in heaven, shall behold the night </verseline>
+<verseline>Of our solemnities. </verseline>
+<character>Theseus </character>
+<verseline>Go, Philostrate, </verseline>
+<verseline>Stir up the Athenian youth to merriments; </verseline>
+<verseline>Awake the pert and nimble spirit of mirth; </verseline>
+<verseline>Turn melancholy forth to funerals; </verseline>
+<verseline>The pale companion is not for our pomp.Exit Philostrate </verseline>
+<verseline>Hippolyta, I woo&#8217;d thee with my sword, </verseline>
+<verseline>And won thy love doing thee injuries; </verseline>
+<verseline>But I will wed thee in another key, </verseline>
+<verseline>With pomp, with triumph, and with revelling. </verseline>
+<stage_directions>Enter Egeus, and his daughter Hermia, Lysander, and Demetrius </stage_directions>
+<character>Egeus </character>
+<verseline>Happy be Theseus, our renowned Duke! </verseline>
+<character>Theseus </character>
+<verseline>Thanks, good Egeus; what&#8217;s the news with thee? </verseline>
+<character>Egeus </character>
+<verseline>Full of vexation come I, with complaint </verseline>
+<verseline>Against my child, my daughter Hermia. </verseline>
+<verseline>Stand forth, Demetrius. My noble lord, </verseline>
+<verseline>This man hath my consent to marry her. </verseline>
+<verseline>Stand forth, Lysander. And, my gracious Duke, </verseline>
+<verseline>This man hath bewitch&#8217;d the bosom of my child. </verseline>
+<verseline>Thou, thou, Lysander, thou hast given her rhymes, </verseline>
+<verseline>And interchang&#8217;d love-tokens with my child; </verseline>
+<verseline>Thou hast by moonlight at her window sung, </verseline>
+<verseline>With feigning voice, verses of feigning love, </verseline>
+<verseline>And stol&#8217;n the impression of her fantasy </verseline>
+<verseline>With bracelets of thy hair, rings, gawds, conceits, </verseline>
+<verseline>Knacks, trifles, nosegays, sweetmeats- messengers </verseline>
+<verseline>Of strong prevailment in unhardened youth; </verseline>
+<verseline>With cunning hast thou filch&#8217;d my daughter&#8217;s heart; </verseline>
+<verseline>Turn&#8217;d her obedience, which is due to me, </verseline>
+<verseline>To stubborn harshness. And, my gracious Duke, </verseline>
+<verseline>Be it so she will not here before your Grace </verseline>
+<verseline>Consent to marry with Demetrius, </verseline>
+<verseline>I beg the ancient privilege of Athens: </verseline>
+<verseline>As she is mine I may dispose of her; </verseline>
+<verseline>Which shall be either to this gentleman </verseline>
+<verseline>Or to her death, according to our law </verseline>
+<verseline>Immediately provided in that case. </verseline>
+<character>Theseus </character>
+<verseline>What say you, Hermia? Be advis&#8217;d, fair maid. </verseline>
+<verseline>To you your father should be as a god; </verseline>
+<verseline>One that compos&#8217;d your beauties; yea, and one </verseline>
+<verseline>To whom you are but as a form in wax, </verseline>
+<verseline>By him imprinted, and within his power </verseline>
+<verseline>To leave the figure, or disfigure it. </verseline>
+<verseline>Demetrius is a worthy gentleman. </verseline>
+<character>Hermia </character>
+<verseline>So is Lysander. </verseline>
+<character>Theseus </character>
+<verseline>In himself he is; </verseline>
+<verseline>But, in this kind, wanting your father&#8217;s voice, </verseline>
+<verseline>The other must be held the worthier. </verseline>
+<character>Hermia </character>
+<verseline>I would my father look&#8217;d but with my eyes. </verseline>
+<character>Theseus </character>
+<verseline>Rather your eyes must with his judgment look. </verseline>
+<character>Hermia </character>
+<verseline>I do entreat your Grace to pardon me. </verseline>
+<verseline>I know not by what power I am made bold, </verseline>
+<verseline>Nor how it may concern my modesty </verseline>
+<verseline>In such a presence here to plead my thoughts; </verseline>
+<verseline>But I beseech your Grace that I may know </verseline>
+<verseline>The worst that may befall me in this case, </verseline>
+<verseline>If I refuse to wed Demetrius. </verseline>
+<character>Theseus </character>
+<verseline>Either to die the death, or to abjure </verseline>
+<verseline>For ever the society of men. </verseline>
+<verseline>Therefore, fair Hermia, question your desires, </verseline>
+<verseline>Know of your youth, examine well your blood, </verseline>
+<verseline>Whether, if you yield not to your father&#8217;s choice, </verseline>
+<verseline>You can endure the livery of a nun, </verseline>
+<verseline>For aye to be shady cloister mew&#8217;d, </verseline>
+<verseline>To live a barren sister all your life, </verseline>
+<verseline>Chanting faint hymns to the cold fruitless moon. </verseline>
+<verseline>Thrice-blessed they that master so their blood </verseline>
+<verseline>To undergo such maiden pilgrimage; </verseline>
+<verseline>But earthlier happy is the rose distill&#8217;d </verseline>
+<verseline>Than that which withering on the virgin thorn </verseline>
+<verseline>Grows, lives, and dies, in single blessedness. </verseline>
+<character>Hermia </character>
+<verseline>So will I grow, so live, so die, my lord, </verseline>
+<verseline>Ere I will yield my virgin patent up </verseline>
+<verseline>Unto his lordship, whose unwished yoke </verseline>
+<verseline>My soul consents not to give sovereignty. </verseline>
+<character>Theseus </character>
+<verseline>Take time to pause; and by the next new moon- </verseline>
+<verseline>The sealing-day betwixt my love and me </verseline>
+<verseline>For everlasting bond of fellowship- </verseline>
+<verseline>Upon that day either prepare to die </verseline>
+<verseline>For disobedience to your father&#8217;s will, </verseline>
+<verseline>Or else to wed Demetrius, as he would, </verseline>
+<verseline>Or on Diana&#8217;s altar to protest </verseline>
+<verseline>For aye austerity and single life. </verseline>
+<character>Demetrius </character>
+<verseline>Relent, sweet Hermia; and, Lysander, yield </verseline>
+<verseline>Thy crazed title to my certain right. </verseline>
+<character>Lysander </character>
+<verseline>You have her father&#8217;s love, Demetrius; </verseline>
+<verseline>Let me have Hermia&#8217;s; do you marry him. </verseline>
+<character>Egeus </character>
+<verseline>Scornful Lysander, true, he hath my love; </verseline>
+<verseline>And what is mine my love shall render him; </verseline>
+<verseline>And she is mine; and all my right of her </verseline>
+<verseline>I do estate unto Demetrius. </verseline>
+<character>Lysander </character>
+<verseline>I am, my lord, as well deriv&#8217;d as he, </verseline>
+<verseline>As well possess&#8217;d; my love is more than his; </verseline>
+<verseline>My fortunes every way as fairly rank&#8217;d, </verseline>
+<verseline>If not with vantage, as Demetrius&#8217;; </verseline>
+<verseline>And, which is more than all these boasts can be, </verseline>
+<verseline>I am belov&#8217;d of beauteous Hermia. </verseline>
+<verseline>Why should not I then prosecute my right? </verseline>
+<verseline>Demetrius, I&#8217;ll avouch it to his head, </verseline>
+<verseline>Made love to Nedar&#8217;s daughter, Helena, </verseline>
+<verseline>And won her soul; and she, sweet lady, dotes, </verseline>
+<verseline>Devoutly dotes, dotes in idolatry, </verseline>
+<verseline>Upon this spotted and inconstant man. </verseline>
+<character>Theseus </character>
+<verseline>I must confess that I have heard so much, </verseline>
+<verseline>And with Demetrius thought to have spoke thereof; </verseline>
+<verseline>But, being over-full of self-affairs, </verseline>
+<verseline>My mind did lose it. But, Demetrius, come; </verseline>
+<verseline>And come, Egeus; you shall go with me; </verseline>
+<verseline>I have some private schooling for you both. </verseline>
+<verseline>For you, fair Hermia, look you arm yourself </verseline>
+<verseline>To fit your fancies to your father&#8217;s will, </verseline>
+<verseline>Or else the law of Athens yields you up- </verseline>
+<verseline>Which by no means we may extenuate- </verseline>
+<verseline>To death, or to a vow of single life. </verseline>
+<verseline>Come, my Hippolyta; what cheer, my love? </verseline>
+<verseline>Demetrius, and Egeus, go along; </verseline>
+<verseline>I must employ you in some business </verseline>
+<verseline>Against our nuptial, and confer with you </verseline>
+<verseline>Of something nearly that concerns yourselves. </verseline>
+<character>Egeus </character>
+<verseline>With duty and desire we follow you. </verseline>
+<verseline>Exeunt all but Lysander and Hermia </verseline>
+<character>Lysander </character>
+<verseline>How now, my love! Why is your cheek so pale? </verseline>
+<verseline>How chance the roses there do fade so fast? </verseline>
+<character>Hermia </character>
+<verseline>Belike for want of rain, which I could well </verseline>
+<verseline>Beteem them from the tempest of my eyes. </verseline>
+<character>Lysander </character>
+<verseline>Ay me! for aught that I could ever read, </verseline>
+<verseline>Could ever hear by tale or history, </verseline>
+<verseline>The course of true love never did run smooth; </verseline>
+<verseline>But either it was different in blood- </verseline>
+<character>Hermia </character>
+<verseline>O cross! too high to be enthrall&#8217;d to low. </verseline>
+<character>Lysander </character>
+<verseline>Or else misgraffed in respect of years- </verseline>
+<character>Hermia </character>
+<verseline>O spite! too old to be engag&#8217;d to young. </verseline>
+<character>Lysander </character>
+<verseline>Or else it stood upon the choice of friends- </verseline>
+<character>Hermia </character>
+<verseline>O hell! to choose love by another&#8217;s eyes. </verseline>
+<character>Lysander </character>
+<verseline>Or, if there were a sympathy in choice, </verseline>
+<verseline>War, death, or sickness, did lay siege to it, </verseline>
+<verseline>Making it momentary as a sound, </verseline>
+<verseline>Swift as a shadow, short as any dream, </verseline>
+<verseline>Brief as the lightning in the collied night </verseline>
+<verseline>That, in a spleen, unfolds both heaven and earth, </verseline>
+<verseline>And ere a man hath power to say &#8216;Behold!&#8217; </verseline>
+<verseline>The jaws of darkness do devour it up; </verseline>
+<verseline>So quick bright things come to confusion. </verseline>
+<character>Hermia </character>
+<verseline>If then true lovers have ever cross&#8217;d, </verseline>
+<verseline>It stands as an edict in destiny. </verseline>
+<verseline>Then let us teach our trial patience, </verseline>
+<verseline>Because it is a customary cross, </verseline>
+<verseline>As due to love as thoughts and dreams and sighs, </verseline>
+<verseline>Wishes and tears, poor Fancy&#8217;s followers. </verseline>
+<character>Lysander </character>
+<verseline>A good persuasion; therefore, hear me, Hermia. </verseline>
+<verseline>I have a widow aunt, a dowager </verseline>
+<verseline>Of great revenue, and she hath no child- </verseline>
+<verseline>From Athens is her house remote seven leagues- </verseline>
+<verseline>And she respects me as her only son. </verseline>
+<verseline>There, gentle Hermia, may I marry thee; </verseline>
+<verseline>And to that place the sharp Athenian law </verseline>
+<verseline>Cannot pursue us. If thou lovest me then, </verseline>
+<verseline>Steal forth thy father&#8217;s house to-morrow night; </verseline>
+<verseline>And in the wood, a league without the town, </verseline>
+<verseline>Where I did meet thee once with Helena </verseline>
+<verseline>To do observance to a morn of May, </verseline>
+<verseline>There will I stay for thee. </verseline>
+<character>Hermia </character>
+<verseline>My good Lysander! </verseline>
+<verseline>I swear to thee by Cupid&#8217;s strongest bow, </verseline>
+<verseline>By his best arrow, with the golden head, </verseline>
+<verseline>By the simplicity of Venus&#8217; doves, </verseline>
+<verseline>By that which knitteth souls and prospers loves, </verseline>
+<verseline>And by that fire which burn&#8217;d the Carthage Queen, </verseline>
+<verseline>When the false Troyan under sail was seen, </verseline>
+<verseline>By all the vows that ever men have broke, </verseline>
+<verseline>In number more than ever women spoke, </verseline>
+<verseline>In that same place thou hast appointed me, </verseline>
+<verseline>To-morrow truly will I meet with thee. </verseline>
+<character>Lysander </character>
+<verseline>Keep promise, love. Look, here comes Helena. </verseline>
+<stage_directions>Enter Helena </stage_directions>
+<character>Hermia </character>
+<verseline>God speed fair Helena! Whither away? </verseline>
+<character>Helena </character>
+<verseline>Call you me fair? That fair again unsay. </verseline>
+<verseline>Demetrius loves your fair. O happy fair! </verseline>
+<verseline>Your eyes are lode-stars and your tongue&#8217;s sweet air </verseline>
+<verseline>More tuneable than lark to shepherd&#8217;s ear, </verseline>
+<verseline>When wheat is green, when hawthorn buds appear. </verseline>
+<verseline>Sickness is catching; O, were favour so, </verseline>
+<verseline>Yours would I catch, fair Hermia, ere I go! </verseline>
+<verseline>My ear should catch your voice, my eye your eye, </verseline>
+<verseline>My tongue should catch your tongue&#8217;s sweet melody. </verseline>
+<verseline>Were the world mine, Demetrius being bated, </verseline>
+<verseline>The rest I&#8217;d give to be to you translated. </verseline>
+<verseline>O, teach me how you look, and with what art </verseline>
+<verseline>You sway the motion of Demetrius&#8217; heart! </verseline>
+<character>Hermia </character>
+<verseline>I frown upon him, yet he loves me still. </verseline>
+<character>Helena </character>
+<verseline>O that your frowns would teach my smiles such skill! </verseline>
+<character>Hermia </character>
+<verseline>I give him curses, yet he gives me love. </verseline>
+<character>Helena </character>
+<verseline>O that my prayers could such affection move! </verseline>
+<character>Hermia </character>
+<verseline>The more I hate, the more he follows me. </verseline>
+<character>Helena </character>
+<verseline>The more I love, the more he hateth me. </verseline>
+<character>Hermia </character>
+<verseline>His folly, Helena, is no fault of mine. </verseline>
+<character>Helena </character>
+<verseline>None, but your beauty; would that fault were mine! </verseline>
+<character>Hermia </character>
+<verseline>Take comfort: he no more shall see my face; </verseline>
+<verseline>Lysander and myself will fly this place. </verseline>
+<verseline>Before the time I did Lysander see, </verseline>
+<verseline>Seem&#8217;d Athens as a paradise to me. </verseline>
+<verseline>O, then, what graces in my love do dwell, </verseline>
+<verseline>That he hath turn&#8217;d a heaven unto a hell! </verseline>
+<character>Lysander </character>
+<verseline>Helen, to you our minds we will unfold: </verseline>
+<verseline>To-morrow night, when Phoebe doth behold </verseline>
+<verseline>Her silver visage in the wat&#8217;ry glass, </verseline>
+<verseline>Decking with liquid pearl the bladed grass, </verseline>
+<verseline>A time that lovers&#8217; flights doth still conceal, </verseline>
+<verseline>Through Athens&#8217; gates have we devis&#8217;d to steal. </verseline>
+<character>Hermia </character>
+<verseline>And in the wood where often you and I </verseline>
+<verseline>Upon faint primrose beds were wont to lie, </verseline>
+<verseline>Emptying our bosoms of their counsel sweet, </verseline>
+<verseline>There my Lysander and myself shall meet; </verseline>
+<verseline>And thence from Athens turn away our eyes, </verseline>
+<verseline>To seek new friends and stranger companies. </verseline>
+<verseline>Farewell, sweet playfellow; pray thou for us, </verseline>
+<verseline>And good luck grant thee thy Demetrius! </verseline>
+<verseline>Keep word, Lysander; we must starve our sight </verseline>
+<verseline>From lovers&#8217; food till morrow deep midnight. </verseline>
+<character>Lysander </character>
+<verseline>I will, my Hermia.<stage_directions_inline>[Exit Hermia]</stage_directions_inline> Helena, adieu; </verseline>
+<verseline>As you on him, Demetrius dote on you.Exit </verseline>
+<character>Helena </character>
+<verseline>How happy some o&#8217;er other some can be! </verseline>
+<verseline>Through Athens I am thought as fair as she. </verseline>
+<verseline>But what of that? Demetrius thinks not so; </verseline>
+<verseline>He will not know what all but he do know. </verseline>
+<verseline>And as he errs, doting on Hermia&#8217;s eyes, </verseline>
+<verseline>So I, admiring of his qualities. </verseline>
+<verseline>Things base and vile, holding no quantity, </verseline>
+<verseline>Love can transpose to form and dignity. </verseline>
+<verseline>Love looks not with the eyes, but with the mind; </verseline>
+<verseline>And therefore is wing&#8217;d Cupid painted blind. </verseline>
+<verseline>Nor hath Love&#8217;s mind of any judgment taste; </verseline>
+<verseline>Wings and no eyes figure unheedy haste; </verseline>
+<verseline>And therefore is Love said to be a child, </verseline>
+<verseline>Because in choice he is so oft beguil&#8217;d. </verseline>
+<verseline>As waggish boys in game themselves forswear, </verseline>
+<verseline>So the boy Love is perjur&#8217;d everywhere; </verseline>
+<verseline>For ere Demetrius look&#8217;d on Hermia&#8217;s eyne, </verseline>
+<verseline>He hail&#8217;d down oaths that he was only mine; </verseline>
+<verseline>And when this hail some heat from Hermia felt, </verseline>
+<verseline>So he dissolv&#8217;d, and show&#8217;rs of oaths did melt. </verseline>
+<verseline>I will go tell him of fair Hermia&#8217;s flight; </verseline>
+<verseline>Then to the wood will he to-morrow night </verseline>
+<verseline>Pursue her; and for this intelligence </verseline>
+<verseline>If I have thanks, it is a dear expense. </verseline>
+<verseline>But herein mean I to enrich my pain, </verseline>
+<verseline>To have his sight thither and back again.Exit </verseline>
+<scene>Scene II </scene>
+<location>Athens. Quince&#8217;S house </location>
+<stage_directions>Enter Quince, Snug, Bottom Flute, Snout, and Starveling </stage_directions>
+<character>Quince </character>
+<verseline>Is all our company here? </verseline>
+<character>Bottom </character>
+<prose>You were best to call them generally, man by man, according to the scrip. </prose>
+<character>Quince </character>
+<prose>Here is the scroll of every man&#8217;s name which is thought fit, through all Athens, to play in our interlude before the Duke and the Duchess on his wedding-day at night. </prose>
+<character>Bottom </character>
+<prose>First, good Peter Quince, say what the play treats on; then read the names of the actors; and so grow to a point. </prose>
+<character>Quince </character>
+<verseline>Marry, our play is &#8216;The most Lamentable Comedy and most </verseline>
+<verseline>Cruel Death of Pyramus and Thisby.&#8217; </verseline>
+<character>Bottom </character>
+<prose>A very good piece of work, I assure you, and a merry. Now, good Peter Quince, call forth your actors by the scroll. Masters, spread yourselves. </prose>
+<character>Quince </character>
+<verseline>Answer, as I call you. Nick Bottom, the weaver. </verseline>
+<character>Bottom </character>
+<verseline>Ready. Name what part I am for, and proceed. </verseline>
+<character>Quince </character>
+<verseline>You, Nick Bottom, are set down for Pyramus. </verseline>
+<character>Bottom </character>
+<verseline>What is Pyramus? A lover, or a tyrant? </verseline>
+<character>Quince </character>
+<verseline>A lover, that kills himself most gallant for love. </verseline>
+<character>Bottom </character>
+<prose>That will ask some tears in the true performing of it. If I do it, let the audience look to their eyes; I will move storms; I will condole in some measure. To the rest- yet my chief humour is for a tyrant. I could play Ercles rarely, or a part to tear a cat in, to make all split. </prose>
+<song>&#8216;The raging rocks </song>
+<song>And shivering shocks </song>
+<song>Shall break the locks </song>
+<song>Of prison gates; </song>
+<song>And Phibbus&#8217; car </song>
+<song>Shall shine from far, </song>
+<song>And make and mar </song>
+<song>The foolish Fates.&#8217; </song>
+<prose>This was lofty. Now name the rest of the players. This is Ercles&#8217; vein, a tyrant&#8217;s vein: a lover is more condoling. </prose>
+<character>Quince </character>
+<verseline>Francis Flute, the bellows-mender. </verseline>
+<character>Flute </character>
+<verseline>Here, Peter Quince. </verseline>
+<character>Quince </character>
+<verseline>Flute, you must take Thisby on you. </verseline>
+<character>Flute </character>
+<verseline>What is Thisby? A wand&#8217;ring knight? </verseline>
+<character>Quince </character>
+<verseline>It is the lady that Pyramus must love. </verseline>
+<character>Flute </character>
+<prose>Nay, faith, let not me play a woman; I have a beard coming. </prose>
+<character>Quince </character>
+<prose>That&#8217;s all one; you shall play it in a mask, and you may speak as small as you will. </prose>
+<character>Bottom </character>
+<verseline>An I may hide my face, let me play Thisby too. </verseline>
+<verseline>I&#8217;ll speak in a monstrous little voice: &#8216;Thisne, Thisne!&#8217; </verseline>
+<verseline>
+<stage_directions_inline>[Then speaking small]</stage_directions_inline> &#8216;Ah Pyramus, my lover dear! Thy </verseline>
+<verseline>Thisby dear, and lady dear!&#8217; </verseline>
+<character>Quince </character>
+<verseline>No, no, you must play Pyramus; and, Flute, you Thisby. </verseline>
+<character>Bottom </character>
+<verseline>Well, proceed. </verseline>
+<character>Quince </character>
+<verseline>Robin Starveling, the tailor. </verseline>
+<character>Starveling </character>
+<verseline>Here, Peter Quince. </verseline>
+<character>Quince </character>
+<verseline>Robin Starveling, you must play Thisby&#8217;s mother. </verseline>
+<verseline>Tom Snout, the tinker. </verseline>
+<character>Snout </character>
+<verseline>Here, Peter Quince. </verseline>
+<character>Quince </character>
+<prose>You, Pyramus&#8217; father; myself, Thisby&#8217;s father; Snug, the joiner, you, the lion&#8217;s part. And, I hope, here is a play fitted. </prose>
+<character>Snug </character>
+<prose>Have you the lion&#8217;s part written? Pray you, if it be, give it me, for I am slow of study. </prose>
+<character>Quince </character>
+<verseline>You may do it extempore, for it is nothing but roaring. </verseline>
+<character>Bottom </character>
+<prose>Let me play the lion too. I will roar that I will do any man&#8217;s heart good to hear me; I will roar that I will make the Duke say &#8216;Let him roar again, let him roar again.&#8217; </prose>
+<character>Quince </character>
+<prose>An you should do it too terribly, you would fright the Duchess and the ladies, that they would shriek; and that were enough to hang us all. </prose>
+<character>All </character>
+<verseline>That would hang us, every mother&#8217;s son. </verseline>
+<character>Bottom </character>
+<prose>I grant you, friends, if you should fright the ladies out of their wits, they would have no more discretion but to hang us; but I will aggravate my voice so, that I will roar you as gently as any sucking dove; I will roar you an &#8216;twere any nightingale. </prose>
+<character>Quince </character>
+<prose>You can play no part but Pyramus; for Pyramus is a sweet-fac&#8217;d man; a proper man, as one shall see in a summer&#8217;s day; a most lovely gentleman-like man; therefore you must needs play Pyramus. </prose>
+<character>Bottom </character>
+<prose>Well, I will undertake it. What beard were I best to play it in? </prose>
+<character>Quince </character>
+<verseline>Why, what you will. </verseline>
+<character>Bottom </character>
+<prose>I will discharge it in either your straw-colour beard, your orange-tawny beard, your purple-in-grain beard, or your French-crown-colour beard, your perfect yellow. </prose>
+<character>Quince </character>
+<prose>Some of your French crowns have no hair at all, and then you will play bare-fac&#8217;d. But, masters, here are your parts; and I am to entreat you, request you, and desire you, to con them by to-morrow night; and meet me in the palace wood, a mile without the town, by moonlight; there will we rehearse; for if we meet in the city, we shall be dogg&#8217;d with company, and our devices known. In the meantime I will draw a bill of properties, such as our play wants. I pray you, fail me not. </prose>
+<character>Bottom </character>
+<prose>We will meet; and there we may rehearse most obscenely and courageously. Take pains; be perfect; adieu. </prose>
+<character>Quince </character>
+<prose>At the Duke&#8217;s oak we meet. </prose>
+<character>Bottom </character>
+<prose>Enough; hold, or cut bow-strings.Exeunt </prose>
+<act>Act II </act>
+<firstscene>Scene I </firstscene>
+<location>A wood near Athens </location>
+<stage_directions>Enter a Fairy at One door, and Puck at another </stage_directions>
+<character>Puck </character>
+<verseline>How now, spirit! whither wander you? </verseline>
+<character>Fairy </character>
+<verseline>Over hill, over dale, </verseline>
+<verseline>Thorough bush, thorough brier, </verseline>
+<verseline>Over park, over pale, </verseline>
+<verseline>Thorough flood, thorough fire, </verseline>
+<verseline>I do wander every where, </verseline>
+<verseline>Swifter than the moon&#8217;s sphere; </verseline>
+<verseline>And I serve the Fairy Queen, </verseline>
+<verseline>To dew her orbs upon the green. </verseline>
+<verseline>The cowslips tall her pensioners be; </verseline>
+<verseline>In their gold coats spots you see; </verseline>
+<verseline>Those be rubies, fairy favours, </verseline>
+<verseline>In those freckles live their savours. </verseline>
+<verseline>I must go seek some dewdrops here, </verseline>
+<verseline>And hang a pearl in every cowslip&#8217;s ear. </verseline>
+<verseline>Farewell, thou lob of spirits; I&#8217;ll be gone. </verseline>
+<verseline>Our Queen and all her elves come here anon. </verseline>
+<character>Puck </character>
+<verseline>The King doth keep his revels here to-night; </verseline>
+<verseline>Take heed the Queen come not within his sight; </verseline>
+<verseline>For Oberon is passing fell and wrath, </verseline>
+<verseline>Because that she as her attendant hath </verseline>
+<verseline>A lovely boy, stolen from an Indian king. </verseline>
+<verseline>She never had so sweet a changeling; </verseline>
+<verseline>And jealous Oberon would have the child </verseline>
+<verseline>Knight of his train, to trace the forests wild; </verseline>
+<verseline>But she perforce withholds the loved boy, </verseline>
+<verseline>Crowns him with flowers, and makes him all her joy. </verseline>
+<verseline>And now they never meet in grove or green, </verseline>
+<verseline>By fountain clear, or spangled starlight sheen, </verseline>
+<verseline>But they do square, that all their elves for fear </verseline>
+<verseline>Creep into acorn cups and hide them there. </verseline>
+<character>Fairy </character>
+<verseline>Either I mistake your shape and making quite, </verseline>
+<verseline>Or else you are that shrewd and knavish sprite </verseline>
+<verseline>Call&#8217;d Robin Goodfellow. Are not you he </verseline>
+<verseline>That frights the maidens of the villagery, </verseline>
+<verseline>Skim milk, and sometimes labour in the quern, </verseline>
+<verseline>And bootless make the breathless housewife churn, </verseline>
+<verseline>And sometime make the drink to bear no barm, </verseline>
+<verseline>Mislead night-wanderers, laughing at their harm? </verseline>
+<verseline>Those that Hobgoblin call you, and sweet Puck, </verseline>
+<verseline>You do their work, and they shall have good luck. </verseline>
+<verseline>Are not you he? </verseline>
+<character>Puck </character>
+<verseline>Thou speakest aright: </verseline>
+<verseline>I am that merry wanderer of the night. </verseline>
+<verseline>I jest to Oberon, and make him smile </verseline>
+<verseline>When I a fat and bean-fed horse beguile, </verseline>
+<verseline>Neighing in likeness of a filly foal; </verseline>
+<verseline>And sometime lurk I in a gossip&#8217;s bowl </verseline>
+<verseline>In very likeness of a roasted crab, </verseline>
+<verseline>And, when she drinks, against her lips I bob, </verseline>
+<verseline>And on her withered dewlap pour the ale. </verseline>
+<verseline>The wisest aunt, telling the saddest tale, </verseline>
+<verseline>Sometime for three-foot stool mistaketh me; </verseline>
+<verseline>Then slip I from her bum, down topples she, </verseline>
+<verseline>And &#8216;tailor&#8217; cries, and falls into a cough; </verseline>
+<verseline>And then the whole quire hold their hips and laugh, </verseline>
+<verseline>And waxen in their mirth, and neeze, and swear </verseline>
+<verseline>A merrier hour was never wasted there. </verseline>
+<verseline>But room, fairy, here comes Oberon. </verseline>
+<character>Fairy </character>
+<verseline>And here my mistress. Would that he were gone! </verseline>
+<stage_directions>Enter Oberon at one door, with his Train, and Titania, at another, with hers </stage_directions>
+<character>Oberon </character>
+<verseline>Ill met by moonlight, proud Titania. </verseline>
+<character>Titania </character>
+<verseline>What, jealous Oberon! Fairies, skip hence; </verseline>
+<verseline>I have forsworn his bed and company. </verseline>
+<character>Oberon </character>
+<verseline>Tarry, rash wanton; am not I thy lord? </verseline>
+<character>Titania </character>
+<verseline>Then I must be thy lady; but I know </verseline>
+<verseline>When thou hast stolen away from fairy land, </verseline>
+<verseline>And in the shape of Corin sat all day, </verseline>
+<verseline>Playing on pipes of corn, and versing love </verseline>
+<verseline>To amorous Phillida. Why art thou here, </verseline>
+<verseline>Come from the farthest steep of India, </verseline>
+<verseline>But that, forsooth, the bouncing Amazon, </verseline>
+<verseline>Your buskin&#8217;d mistress and your warrior love, </verseline>
+<verseline>To Theseus must be wedded, and you come </verseline>
+<verseline>To give their bed joy and prosperity? </verseline>
+<character>Oberon </character>
+<verseline>How canst thou thus, for shame, Titania, </verseline>
+<verseline>Glance at my credit with Hippolyta, </verseline>
+<verseline>Knowing I know thy love to Theseus? </verseline>
+<verseline>Didst not thou lead him through the glimmering night </verseline>
+<verseline>From Perigouna, whom he ravished? </verseline>
+<verseline>And make him with fair Aegles break his faith, </verseline>
+<verseline>With Ariadne and Antiopa? </verseline>
+<character>Titania </character>
+<verseline>These are the forgeries of jealousy; </verseline>
+<verseline>And never, since the middle summer&#8217;s spring, </verseline>
+<verseline>Met we on hill, in dale, forest, or mead, </verseline>
+<verseline>By paved fountain, or by rushy brook, </verseline>
+<verseline>Or in the beached margent of the sea, </verseline>
+<verseline>To dance our ringlets to the whistling wind, </verseline>
+<verseline>But with thy brawls thou hast disturb&#8217;d our sport. </verseline>
+<verseline>Therefore the winds, piping to us in vain, </verseline>
+<verseline>As in revenge, have suck&#8217;d up from the sea </verseline>
+<verseline>Contagious fogs; which, falling in the land, </verseline>
+<verseline>Hath every pelting river made so proud </verseline>
+<verseline>That they have overborne their continents. </verseline>
+<verseline>The ox hath therefore stretch&#8217;d his yoke in vain, </verseline>
+<verseline>The ploughman lost his sweat, and the green corn </verseline>
+<verseline>Hath rotted ere his youth attain&#8217;d a beard; </verseline>
+<verseline>The fold stands empty in the drowned field, </verseline>
+<verseline>And crows are fatted with the murrion flock; </verseline>
+<verseline>The nine men&#8217;s morris is fill&#8217;d up with mud, </verseline>
+<verseline>And the quaint mazes in the wanton green, </verseline>
+<verseline>For lack of tread, are undistinguishable. </verseline>
+<verseline>The human mortals want their winter here; </verseline>
+<verseline>No night is now with hymn or carol blest; </verseline>
+<verseline>Therefore the moon, the governess of floods, </verseline>
+<verseline>Pale in her anger, washes all the air, </verseline>
+<verseline>That rheumatic diseases do abound. </verseline>
+<verseline>And thorough this distemperature we see </verseline>
+<verseline>The seasons alter: hoary-headed frosts </verseline>
+<verseline>Fall in the fresh lap of the crimson rose; </verseline>
+<verseline>And on old Hiems&#8217; thin and icy crown </verseline>
+<verseline>An odorous chaplet of sweet summer buds </verseline>
+<verseline>Is, as in mockery, set. The spring, the summer, </verseline>
+<verseline>The childing autumn, angry winter, change </verseline>
+<verseline>Their wonted liveries; and the mazed world, </verseline>
+<verseline>By their increase, now knows not which is which. </verseline>
+<verseline>And this same progeny of evils comes </verseline>
+<verseline>From our debate, from our dissension; </verseline>
+<verseline>We are their parents and original. </verseline>
+<character>Oberon </character>
+<verseline>Do you amend it, then; it lies in you. </verseline>
+<verseline>Why should Titania cross her Oberon? </verseline>
+<verseline>I do but beg a little changeling boy </verseline>
+<verseline>To be my henchman. </verseline>
+<character>Titania </character>
+<verseline>Set your heart at rest; </verseline>
+<verseline>The fairy land buys not the child of me. </verseline>
+<verseline>His mother was a vot&#8217;ress of my order; </verseline>
+<verseline>And, in the spiced Indian air, by night, </verseline>
+<verseline>Full often hath she gossip&#8217;d by my side; </verseline>
+<verseline>And sat with me on Neptune&#8217;s yellow sands, </verseline>
+<verseline>Marking th&#8217; embarked traders on the flood; </verseline>
+<verseline>When we have laugh&#8217;d to see the sails conceive, </verseline>
+<verseline>And grow big-bellied with the wanton wind; </verseline>
+<verseline>Which she, with pretty and with swimming gait </verseline>
+<verseline>Following- her womb then rich with my young squire- </verseline>
+<verseline>Would imitate, and sail upon the land, </verseline>
+<verseline>To fetch me trifles, and return again, </verseline>
+<verseline>As from a voyage, rich with merchandise. </verseline>
+<verseline>But she, being mortal, of that boy did die; </verseline>
+<verseline>And for her sake do I rear up her boy; </verseline>
+<verseline>And for her sake I will not part with him. </verseline>
+<character>Oberon </character>
+<verseline>How long within this wood intend you stay? </verseline>
+<character>Titania </character>
+<verseline>Perchance till after Theseus&#8217; wedding-day. </verseline>
+<verseline>If you will patiently dance in our round, </verseline>
+<verseline>And see our moonlight revels, go with us; </verseline>
+<verseline>If not, shun me, and I will spare your haunts. </verseline>
+<character>Oberon </character>
+<verseline>Give me that boy and I will go with thee. </verseline>
+<character>Titania </character>
+<verseline>Not for thy fairy kingdom. Fairies, away. </verseline>
+<verseline>We shall chide downright if I longer stay. </verseline>
+<verseline>Exit Titania with her train </verseline>
+<character>Oberon </character>
+<verseline>Well, go thy way; thou shalt not from this grove </verseline>
+<verseline>Till I torment thee for this injury. </verseline>
+<verseline>My gentle Puck, come hither. Thou rememb&#8217;rest </verseline>
+<verseline>Since once I sat upon a promontory, </verseline>
+<verseline>And heard a mermaid on a dolphin&#8217;s back </verseline>
+<verseline>Uttering such dulcet and harmonious breath </verseline>
+<verseline>That the rude sea grew civil at her song, </verseline>
+<verseline>And certain stars shot madly from their spheres </verseline>
+<verseline>To hear the sea-maid&#8217;s music. </verseline>
+<character>Puck </character>
+<verseline>I remember. </verseline>
+<character>Oberon </character>
+<verseline>That very time I saw, but thou couldst not, </verseline>
+<verseline>Flying between the cold moon and the earth </verseline>
+<verseline>Cupid, all arm&#8217;d; a certain aim he took </verseline>
+<verseline>At a fair vestal, throned by the west, </verseline>
+<verseline>And loos&#8217;d his love-shaft smartly from his bow, </verseline>
+<verseline>As it should pierce a hundred thousand hearts; </verseline>
+<verseline>But I might see young Cupid&#8217;s fiery shaft </verseline>
+<verseline>Quench&#8217;d in the chaste beams of the wat&#8217;ry moon; </verseline>
+<verseline>And the imperial vot&#8217;ress passed on, </verseline>
+<verseline>In maiden meditation, fancy-free. </verseline>
+<verseline>Yet mark&#8217;d I where the bolt of Cupid fell. </verseline>
+<verseline>It fell upon a little western flower, </verseline>
+<verseline>Before milk-white, now purple with love&#8217;s wound, </verseline>
+<verseline>And maidens call it Love-in-idleness. </verseline>
+<verseline>Fetch me that flow&#8217;r, the herb I showed thee once. </verseline>
+<verseline>The juice of it on sleeping eyelids laid </verseline>
+<verseline>Will make or man or woman madly dote </verseline>
+<verseline>Upon the next live creature that it sees. </verseline>
+<verseline>Fetch me this herb, and be thou here again </verseline>
+<verseline>Ere the leviathan can swim a league. </verseline>
+<character>Puck </character>
+<verseline>I&#8217;ll put a girdle round about the earth </verseline>
+<verseline>In forty minutes.Exit Puck </verseline>
+<character>Oberon </character>
+<verseline>Having once this juice, </verseline>
+<verseline>I&#8217;ll watch Titania when she is asleep, </verseline>
+<verseline>And drop the liquor of it in her eyes; </verseline>
+<verseline>The next thing then she waking looks upon, </verseline>
+<verseline>Be it on lion, bear, or wolf, or bull, </verseline>
+<verseline>On meddling monkey, or on busy ape, </verseline>
+<verseline>She shall pursue it with the soul of love. </verseline>
+<verseline>And ere I take this charm from off her sight, </verseline>
+<verseline>As I can take it with another herb, </verseline>
+<verseline>I&#8217;ll make her render up her page to me. </verseline>
+<verseline>But who comes here? I am invisible; </verseline>
+<verseline>And I will overhear their conference. </verseline>
+<stage_directions>Enter Demetrius, Helena following him </stage_directions>
+<character>Demetrius </character>
+<verseline>I love thee not, therefore pursue me not. </verseline>
+<verseline>Where is Lysander and fair Hermia? </verseline>
+<verseline>The one I&#8217;ll slay, the other slayeth me. </verseline>
+<verseline>Thou told&#8217;st me they were stol&#8217;n unto this wood, </verseline>
+<verseline>And here am I, and wood within this wood, </verseline>
+<verseline>Because I cannot meet my Hermia. </verseline>
+<verseline>Hence, get thee gone, and follow me no more. </verseline>
+<character>Helena </character>
+<verseline>You draw me, you hard-hearted adamant; </verseline>
+<verseline>But yet you draw not iron, for my heart </verseline>
+<verseline>Is true as steel. Leave you your power to draw, </verseline>
+<verseline>And I shall have no power to follow you. </verseline>
+<character>Demetrius </character>
+<verseline>Do I entice you? Do I speak you fair? </verseline>
+<verseline>Or, rather, do I not in plainest truth </verseline>
+<verseline>Tell you I do not nor I cannot love you? </verseline>
+<character>Helena </character>
+<verseline>And even for that do I love you the more. </verseline>
+<verseline>I am your spaniel; and, Demetrius, </verseline>
+<verseline>The more you beat me, I will fawn on you. </verseline>
+<verseline>Use me but as your spaniel, spurn me, strike me, </verseline>
+<verseline>Neglect me, lose me; only give me leave, </verseline>
+<verseline>Unworthy as I am, to follow you. </verseline>
+<verseline>What worser place can I beg in your love, </verseline>
+<verseline>And yet a place of high respect with me, </verseline>
+<verseline>Than to be used as you use your dog? </verseline>
+<character>Demetrius </character>
+<verseline>Tempt not too much the hatred of my spirit; </verseline>
+<verseline>For I am sick when I do look on thee. </verseline>
+<character>Helena </character>
+<verseline>And I am sick when I look not on you. </verseline>
+<character>Demetrius </character>
+<verseline>You do impeach your modesty too much </verseline>
+<verseline>To leave the city and commit yourself </verseline>
+<verseline>Into the hands of one that loves you not; </verseline>
+<verseline>To trust the opportunity of night, </verseline>
+<verseline>And the ill counsel of a desert place, </verseline>
+<verseline>With the rich worth of your virginity. </verseline>
+<character>Helena </character>
+<verseline>Your virtue is my privilege for that: </verseline>
+<verseline>It is not night when I do see your face, </verseline>
+<verseline>Therefore I think I am not in the night; </verseline>
+<verseline>Nor doth this wood lack worlds of company, </verseline>
+<verseline>For you, in my respect, are all the world. </verseline>
+<verseline>Then how can it be said I am alone </verseline>
+<verseline>When all the world is here to look on me? </verseline>
+<character>Demetrius </character>
+<verseline>I&#8217;ll run from thee and hide me in the brakes, </verseline>
+<verseline>And leave thee to the mercy of wild beasts. </verseline>
+<character>Helena </character>
+<verseline>The wildest hath not such a heart as you. </verseline>
+<verseline>Run when you will; the story shall be chang&#8217;d: </verseline>
+<verseline>Apollo flies, and Daphne holds the chase; </verseline>
+<verseline>The dove pursues the griffin; the mild hind </verseline>
+<verseline>Makes speed to catch the tiger- bootless speed, </verseline>
+<verseline>When cowardice pursues and valour flies. </verseline>
+<character>Demetrius </character>
+<verseline>I will not stay thy questions; let me go; </verseline>
+<verseline>Or, if thou follow me, do not believe </verseline>
+<verseline>But I shall do thee mischief in the wood. </verseline>
+<character>Helena </character>
+<verseline>Ay, in the temple, in the town, the field, </verseline>
+<verseline>You do me mischief. Fie, Demetrius! </verseline>
+<verseline>Your wrongs do set a scandal on my sex. </verseline>
+<verseline>We cannot fight for love as men may do; </verseline>
+<verseline>We should be woo&#8217;d, and were not made to woo. </verseline>
+<stage_directions>Exit Demetrius </stage_directions>
+<verseline>I&#8217;ll follow thee, and make a heaven of hell, </verseline>
+<verseline>To die upon the hand I love so well. </verseline>
+<stage_directions>Exit Helena </stage_directions>
+<character>Oberon </character>
+<verseline>Fare thee well, nymph; ere he do leave this grove, </verseline>
+<verseline>Thou shalt fly him, and he shall seek thy love. </verseline>
+<verseline>Re-enter Puck </verseline>
+<verseline>Hast thou the flower there? Welcome, wanderer. </verseline>
+<character>Puck </character>
+<verseline>Ay, there it is. </verseline>
+<character>Oberon </character>
+<verseline>I pray thee give it me. </verseline>
+<verseline>I know a bank where the wild thyme blows, </verseline>
+<verseline>Where oxlips and the nodding violet grows, </verseline>
+<verseline>Quite over-canopied with luscious woodbine, </verseline>
+<verseline>With sweet musk-roses, and with eglantine; </verseline>
+<verseline>There sleeps Titania sometime of the night, </verseline>
+<verseline>Lull&#8217;d in these flowers with dances and delight; </verseline>
+<verseline>And there the snake throws her enamell&#8217;d skin, </verseline>
+<verseline>Weed wide enough to wrap a fairy in; </verseline>
+<verseline>And with the juice of this I&#8217;ll streak her eyes, </verseline>
+<verseline>And make her full of hateful fantasies. </verseline>
+<verseline>Take thou some of it, and seek through this grove: </verseline>
+<verseline>A sweet Athenian lady is in love </verseline>
+<verseline>With a disdainful youth; anoint his eyes; </verseline>
+<verseline>But do it when the next thing he espies </verseline>
+<verseline>May be the lady. Thou shalt know the man </verseline>
+<verseline>By the Athenian garments he hath on. </verseline>
+<verseline>Effect it with some care, that he may prove </verseline>
+<verseline>More fond on her than she upon her love. </verseline>
+<verseline>And look thou meet me ere the first cock crow. </verseline>
+<character>Puck </character>
+<verseline>Fear not, my lord; your servant shall do so.Exeunt </verseline>
+<scene>Scene II </scene>
+<location>Another part of the wood </location>
+<stage_directions>Enter Titania, with her train </stage_directions>
+<character>Titania </character>
+<verseline>Come now, a roundel and a fairy song; </verseline>
+<verseline>Then, for the third part of a minute, hence: </verseline>
+<verseline>Some to kill cankers in the musk-rose buds; </verseline>
+<verseline>Some war with rere-mice for their leathern wings, </verseline>
+<verseline>To make my small elves coats; and some keep back </verseline>
+<verseline>The clamorous owl that nightly hoots and wonders </verseline>
+<verseline>At our quaint spirits. Sing me now asleep; </verseline>
+<verseline>Then to your offices, and let me rest. </verseline>
+<verseline>The Fairies Sing </verseline>
+<character>First Fairy </character>
+<verseline>You spotted snakes with double tongue, </verseline>
+<verseline>Thorny hedgehogs, be not seen; </verseline>
+<verseline>Newts and blind-worms, do no wrong, </verseline>
+<verseline>Come not near our fairy Queen. </verseline>
+<character>Chorus </character>
+<verseline>Philomel with melody </verseline>
+<verseline>Sing in our sweet lullaby. </verseline>
+<verseline>Lulla, lulla, lullaby; lulla, lulla, lullaby. </verseline>
+<verseline>Never harm </verseline>
+<verseline>Nor spell nor charm </verseline>
+<verseline>Come our lovely lady nigh. </verseline>
+<verseline>So good night, with lullaby. </verseline>
+<character>Second Fairy </character>
+<verseline> Weaving spiders, come not here; </verseline>
+<verseline>Hence, you long-legg&#8217;d spinners, hence. </verseline>
+<verseline>Beetles black, approach not near; </verseline>
+<verseline>Worm nor snail do no offence. </verseline>
+<character>Chorus </character>
+<verseline>Philomel with melody, etc.<stage_directions_inline>[Titania Sleeps]</stage_directions_inline> </verseline>
+<character>First Fairy </character>
+<verseline>Hence away; now all is well. </verseline>
+<verseline>One aloof stand sentinel.Exeunt Fairies </verseline>
+<stage_directions>Enter Oberon and squeezes the flower on Titania&#8217;S eyelids </stage_directions>
+<character>Oberon </character>
+<verseline>What thou seest when thou dost wake, </verseline>
+<verseline>Do it for thy true-love take; </verseline>
+<verseline>Love and languish for his sake. </verseline>
+<verseline>Be it ounce, or cat, or bear, </verseline>
+<verseline>Pard, or boar with bristled hair, </verseline>
+<verseline>In thy eye that shall appear </verseline>
+<verseline>When thou wak&#8217;st, it is thy dear. </verseline>
+<verseline>Wake when some vile thing is near.Exit </verseline>
+<stage_directions>Enter Lysander and Hermia </stage_directions>
+<character>Lysander </character>
+<verseline>Fair love, you faint with wand&#8217;ring in the wood; </verseline>
+<verseline>And, to speak troth, I have forgot our way; </verseline>
+<verseline>We&#8217;ll rest us, Hermia, if you think it good, </verseline>
+<verseline>And tarry for the comfort of the day. </verseline>
+<character>Hermia </character>
+<verseline>Be it so, Lysander: find you out a bed, </verseline>
+<verseline>For I upon this bank will rest my head. </verseline>
+<character>Lysander </character>
+<verseline>One turf shall serve as pillow for us both; </verseline>
+<verseline>One heart, one bed, two bosoms, and one troth. </verseline>
+<character>Hermia </character>
+<verseline>Nay, good Lysander; for my sake, my dear, </verseline>
+<verseline>Lie further off yet; do not lie so near. </verseline>
+<character>Lysander </character>
+<verseline>O, take the sense, sweet, of my innocence! </verseline>
+<verseline>Love takes the meaning in love&#8217;s conference. </verseline>
+<verseline>I mean that my heart unto yours is knit, </verseline>
+<verseline>So that but one heart we can make of it; </verseline>
+<verseline>Two bosoms interchained with an oath, </verseline>
+<verseline>So then two bosoms and a single troth. </verseline>
+<verseline>Then by your side no bed-room me deny, </verseline>
+<verseline>For lying so, Hermia, I do not lie. </verseline>
+<character>Hermia </character>
+<verseline>Lysander riddles very prettily. </verseline>
+<verseline>Now much beshrew my manners and my pride, </verseline>
+<verseline>If Hermia meant to say Lysander lied! </verseline>
+<verseline>But, gentle friend, for love and courtesy </verseline>
+<verseline>Lie further off, in human modesty; </verseline>
+<verseline>Such separation as may well be said </verseline>
+<verseline>Becomes a virtuous bachelor and a maid, </verseline>
+<verseline>So far be distant; and good night, sweet friend. </verseline>
+<verseline>Thy love ne&#8217;er alter till thy sweet life end! </verseline>
+<character>Lysander </character>
+<verseline>Amen, amen, to that fair prayer say I; </verseline>
+<verseline>And then end life when I end loyalty! </verseline>
+<verseline>Here is my bed; sleep give thee all his rest! </verseline>
+<character>Hermia </character>
+<verseline>With half that wish the wisher&#8217;s eyes be press&#8217;d! </verseline>
+<verseline>
+<stage_directions_inline>[They sleep]</stage_directions_inline> </verseline>
+<stage_directions>Enter Puck </stage_directions>
+<character>Puck </character>
+<verseline>Through the forest have I gone, </verseline>
+<verseline>But Athenian found I none </verseline>
+<verseline>On whose eyes I might approve </verseline>
+<verseline>This flower&#8217;s force in stirring love. </verseline>
+<verseline>Night and silence- Who is here? </verseline>
+<verseline>Weeds of Athens he doth wear: </verseline>
+<verseline>This is he, my master said, </verseline>
+<verseline>Despised the Athenian maid; </verseline>
+<verseline>And here the maiden, sleeping sound, </verseline>
+<verseline>On the dank and dirty ground. </verseline>
+<verseline>Pretty soul! she durst not lie </verseline>
+<verseline>Near this lack-love, this kill-courtesy. </verseline>
+<verseline>Churl, upon thy eyes I throw </verseline>
+<verseline>All the power this charm doth owe: </verseline>
+<verseline>When thou wak&#8217;st let love forbid </verseline>
+<verseline>Sleep his seat on thy eyelid. </verseline>
+<verseline>So awake when I am gone; </verseline>
+<verseline>For I must now to Oberon.Exit </verseline>
+<stage_directions>Enter Demetrius and Helena, running </stage_directions>
+<character>Helena </character>
+<verseline>Stay, though thou kill me, sweet Demetrius. </verseline>
+<character>Demetrius </character>
+<verseline>I charge thee, hence, and do not haunt me thus. </verseline>
+<character>Helena </character>
+<verseline>O, wilt thou darkling leave me? Do not so. </verseline>
+<character>Demetrius </character>
+<verseline>Stay on thy peril; I alone will go.Exit </verseline>
+<character>Helena </character>
+<verseline>O, I am out of breath in this fond chase! </verseline>
+<verseline>The more my prayer, the lesser is my grace. </verseline>
+<verseline>Happy is Hermia, wheresoe&#8217;er she lies, </verseline>
+<verseline>For she hath blessed and attractive eyes. </verseline>
+<verseline>How came her eyes so bright? Not with salt tears; </verseline>
+<verseline>If so, my eyes are oft&#8217;ner wash&#8217;d than hers. </verseline>
+<verseline>No, no, I am as ugly as a bear, </verseline>
+<verseline>For beasts that meet me run away for fear; </verseline>
+<verseline>Therefore no marvel though Demetrius </verseline>
+<verseline>Do, as a monster, fly my presence thus. </verseline>
+<verseline>What wicked and dissembling glass of mine </verseline>
+<verseline>Made me compare with Hermia&#8217;s sphery eyne? </verseline>
+<verseline>But who is here? Lysander! on the ground! </verseline>
+<verseline>Dead, or asleep? I see no blood, no wound. </verseline>
+<verseline>Lysander, if you live, good sir, awake. </verseline>
+<character>Lysander </character>
+<verseline>
+<stage_directions_inline>[Waking]</stage_directions_inline> And run through fire I will for thy sweet sake. </verseline>
+<verseline>Transparent Helena! Nature shows art, </verseline>
+<verseline>That through thy bosom makes me see thy heart. </verseline>
+<verseline>Where is Demetrius? O, how fit a word </verseline>
+<verseline>Is that vile name to perish on my sword! </verseline>
+<character>Helena </character>
+<verseline>Do not say so, Lysander; say not so. </verseline>
+<verseline>What though he love your Hermia? Lord, what though? </verseline>
+<verseline>Yet Hermia still loves you; then be content. </verseline>
+<character>Lysander </character>
+<verseline>Content with Hermia! No: I do repent </verseline>
+<verseline>The tedious minutes I with her have spent. </verseline>
+<verseline>Not Hermia but Helena I love: </verseline>
+<verseline>Who will not change a raven for a dove? </verseline>
+<verseline>The will of man is by his reason sway&#8217;d, </verseline>
+<verseline>And reason says you are the worthier maid. </verseline>
+<verseline>Things growing are not ripe until their season; </verseline>
+<verseline>So I, being young, till now ripe not to reason; </verseline>
+<verseline>And touching now the point of human skill, </verseline>
+<verseline>Reason becomes the marshal to my will, </verseline>
+<verseline>And leads me to your eyes, where I o&#8217;erlook </verseline>
+<verseline>Love&#8217;s stories, written in Love&#8217;s richest book. </verseline>
+<character>Helena </character>
+<verseline>Wherefore was I to this keen mockery born? </verseline>
+<verseline>When at your hands did I deserve this scorn? </verseline>
+<verseline>Is&#8217;t not enough, is&#8217;t not enough, young man, </verseline>
+<verseline>That I did never, no, nor never can, </verseline>
+<verseline>Deserve a sweet look from Demetrius&#8217; eye, </verseline>
+<verseline>But you must flout my insufficiency? </verseline>
+<verseline>Good troth, you do me wrong, good sooth, you do, </verseline>
+<verseline>In such disdainful manner me to woo. </verseline>
+<verseline>But fare you well; perforce I must confess </verseline>
+<verseline>I thought you lord of more true gentleness. </verseline>
+<verseline>O, that a lady of one man refus&#8217;d </verseline>
+<verseline>Should of another therefore be abus&#8217;d!Exit </verseline>
+<character>Lysander </character>
+<verseline>She sees not Hermia. Hermia, sleep thou there; </verseline>
+<verseline>And never mayst thou come Lysander near! </verseline>
+<verseline>For, as a surfeit of the sweetest things </verseline>
+<verseline>The deepest loathing to the stomach brings, </verseline>
+<verseline>Or as the heresies that men do leave </verseline>
+<verseline>Are hated most of those they did deceive, </verseline>
+<verseline>So thou, my surfeit and my heresy, </verseline>
+<verseline>Of all be hated, but the most of me! </verseline>
+<verseline>And, all my powers, address your love and might </verseline>
+<verseline>To honour Helen, and to be her knight!Exit </verseline>
+<character>Hermia </character>
+<verseline>
+<stage_directions_inline>[Starting]</stage_directions_inline> Help me, Lysander, help me; do thy best </verseline>
+<verseline>To pluck this crawling serpent from my breast. </verseline>
+<verseline>Ay me, for pity! What a dream was here! </verseline>
+<verseline>Lysander, look how I do quake with fear. </verseline>
+<verseline>Methought a serpent eat my heart away, </verseline>
+<verseline>And you sat smiling at his cruel prey. </verseline>
+<verseline>Lysander! What, remov&#8217;d? Lysander! lord! </verseline>
+<verseline>What, out of hearing gone? No sound, no word? </verseline>
+<verseline>Alack, where are you? Speak, an if you hear; </verseline>
+<verseline>Speak, of all loves! I swoon almost with fear. </verseline>
+<verseline>No? Then I well perceive you are not nigh. </verseline>
+<verseline>Either death or you I&#8217;ll find immediately.Exit </verseline>
+<act>Act III </act>
+<firstscene>Scene I </firstscene>
+<location>The wood. Titania lying asleep </location>
+<stage_directions>Enter Quince, Snug, Bottom, Flute, Snout, and Starveling </stage_directions>
+<character>Bottom </character>
+<verseline>Are we all met? </verseline>
+<character>Quince </character>
+<prose>Pat, pat; and here&#8217;s a marvellous convenient place for our rehearsal. This green plot shall be our stage, this hawthorn brake our tiring-house; and we will do it in action, as we will do it before the Duke. </prose>
+<character>Bottom </character>
+<prose>Peter Quince! </prose>
+<character>Quince </character>
+<prose>What sayest thou, bully Bottom? </prose>
+<character>Bottom </character>
+<prose>There are things in this comedy of Pyramus and Thisby that will never please. First, Pyramus must draw a sword to kill himself; which the ladies cannot abide. How answer you that? </prose>
+<character>Snout </character>
+<verseline>By&#8217;r lakin, a parlous fear. </verseline>
+<character>Starveling </character>
+<prose>I believe we must leave the killing out, when all is done. </prose>
+<character>Bottom </character>
+<prose>Not a whit; I have a device to make all well. Write me a prologue; and let the prologue seem to say we will do no harm with our swords, and that Pyramus is not kill&#8217;d indeed; and for the more better assurance, tell them that I Pyramus am not Pyramus but Bottom the weaver. This will put them out of fear. </prose>
+<character>Quince </character>
+<prose>Well, we will have such a prologue; and it shall be written in eight and six. </prose>
+<character>Bottom </character>
+<prose>No, make it two more; let it be written in eight and eight. </prose>
+<character>Snout </character>
+<verseline>Will not the ladies be afeard of the lion? </verseline>
+<character>Starveling </character>
+<verseline>I fear it, I promise you. </verseline>
+<character>Bottom </character>
+<prose>Masters, you ought to consider with yourself to bring in-God shield us!- a lion among ladies is a most dreadful thing; for there is not a more fearful wild-fowl than your lion living; and we ought to look to&#8217;t. </prose>
+<character>Snout </character>
+<prose>Therefore another prologue must tell he is not a lion. </prose>
+<character>Bottom </character>
+<prose>Nay, you must name his name, and half his face must be seen through the lion&#8217;s neck; and he himself must speak through, saying thus, or to the same defect: &#8216;Ladies,&#8217; or &#8216;Fair ladies, I would wish you&#8217; or &#8216;I would request you&#8217; or &#8216;I would entreat you not to fear, not to tremble. My life for yours! If you think I come hither as a lion, it were pity of my life. No, I am no such thing; I am a man as other men are.&#8217; And there, indeed, let him name his name, and tell them plainly he is Snug the joiner. </prose>
+<character>Quince </character>
+<prose>Well, it shall be so. But there is two hard things- that is, to bring the moonlight into a chamber; for, you know, Pyramus and Thisby meet by moonlight. </prose>
+<character>Snout </character>
+<verseline>Doth the moon shine that night we play our play? </verseline>
+<character>Bottom </character>
+<prose>A calendar, a calendar! Look in the almanack; find out moonshine, find out moonshine. </prose>
+<character>Quince </character>
+<verseline>Yes, it doth shine that night. </verseline>
+<character>Bottom </character>
+<prose>Why, then may you leave a casement of the great chamber window, where we play, open; and the moon may shine in at the casement. </prose>
+<character>Quince </character>
+<prose>Ay; or else one must come in with a bush of thorns and a lantern, and say he comes to disfigure or to present the person of Moonshine. Then there is another thing: we must have a wall in the great chamber; for Pyramus and Thisby, says the story, did talk through the chink of a wall. </prose>
+<character>Snout </character>
+<verseline>You can never bring in a wall. What say you, Bottom? </verseline>
+<character>Bottom </character>
+<prose>Some man or other must present Wall; and let him have some plaster, or some loam, or some rough-cast about him, to signify wall; and let him hold his fingers thus, and through that cranny shall Pyramus and Thisby whisper. </prose>
+<character>Quince </character>
+<prose>If that may be, then all is well. Come, sit down, every mother&#8217;s son, and rehearse your parts. Pyramus, you begin; when you have spoken your speech, enter into that brake; and so every one according to his cue. </prose>
+<stage_directions>Enter Puck behind </stage_directions>
+<character>Puck </character>
+<verseline>What hempen homespuns have we swagg&#8217;ring here, </verseline>
+<verseline>So near the cradle of the Fairy Queen? </verseline>
+<verseline>What, a play toward! I&#8217;ll be an auditor; </verseline>
+<verseline>An actor too perhaps, if I see cause. </verseline>
+<character>Quince </character>
+<verseline>Speak, Pyramus. Thisby, stand forth. </verseline>
+<character>Bottom </character>
+<verseline>Thisby, the flowers of odious savours sweet- </verseline>
+<character>Quince </character>
+<verseline>&#8216;Odious&#8217;- odorous! </verseline>
+<character>Bottom </character>
+<verseline>-odours savours sweet; </verseline>
+<verseline>So hath thy breath, my dearest Thisby dear. </verseline>
+<verseline>But hark, a voice! Stay thou but here awhile, </verseline>
+<verseline>And by and by I will to thee appear.Exit </verseline>
+<character>Puck </character>
+<verseline>A stranger Pyramus than e&#8217;er played here!Exit </verseline>
+<character>Flute </character>
+<verseline>Must I speak now? </verseline>
+<character>Quince </character>
+<prose>Ay, marry, must you; for you must understand he goes but to see a noise that he heard, and is to come again. </prose>
+<character>Flute </character>
+<verseline>Most radiant Pyramus, most lily-white of hue, </verseline>
+<verseline>Of colour like the red rose on triumphant brier, </verseline>
+<verseline>Most brisky juvenal, and eke most lovely Jew, </verseline>
+<verseline>As true as truest horse, that would never tire, </verseline>
+<verseline>I&#8217;ll meet thee, Pyramus, at Ninny&#8217;s tomb. </verseline>
+<character>Quince </character>
+<prose>&#8216;Ninus&#8217; tomb,&#8217; man! Why, you must not speak that yet; that you answer to Pyramus. You speak all your part at once, cues, and all. Pyramus enter: your cue is past; it is &#8216;never tire.&#8217; </prose>
+<character>Flute </character>
+<verseline>O- As true as truest horse, that y et would never tire. </verseline>
+<verseline>Re-enter Puck, and Bottom with an ass&#8217;s head </verseline>
+<character>Bottom </character>
+<verseline>If I were fair, Thisby, I were only thine. </verseline>
+<character>Quince </character>
+<prose>O monstrous! O strange! We are haunted. Pray, masters! fly, masters! Help! </prose>
+<stage_directions>Exeunt all but Bottom and Puck </stage_directions>
+<character>Puck </character>
+<verseline>I&#8217;ll follow you; I&#8217;ll lead you about a round, </verseline>
+<verseline>Through bog, through bush, through brake, through brier; </verseline>
+<verseline>Sometime a horse I&#8217;ll be, sometime a hound, </verseline>
+<verseline>A hog, a headless bear, sometime a fire; </verseline>
+<verseline>And neigh, and bark, and grunt, and roar, and burn, </verseline>
+<verseline>Like horse, hound, hog, bear, fire, at every turn. </verseline>
+<verseline>Exit </verseline>
+<character>Bottom </character>
+<prose>Why do they run away? This is a knavery of them to make me afeard. </prose>
+<verseline>Re-enter Snout </verseline>
+<character>Snout </character>
+<verseline>O Bottom, thou art chang&#8217;d! What do I see on thee? </verseline>
+<character>Bottom </character>
+<verseline>What do you see? You see an ass-head of your own, do you? </verseline>
+<stage_directions>Exit Snout </stage_directions>
+<stage_directions>Re-enter Quince </stage_directions>
+<character>Quince </character>
+<verseline>Bless thee, Bottom, bless thee! Thou art translated. </verseline>
+<stage_directions>Exit </stage_directions>
+<character>Bottom </character>
+<prose>I see their knavery: this is to make an ass of me; to fright me, if they could. But I will not stir from this place, do what they can; I will walk up and down here, and will sing, that they shall hear I am not afraid.<stage_directions_inline>[Sings]</stage_directions_inline> </prose>
+<song>The ousel cock, so black of hue, </song>
+<song>With orange-tawny bill, </song>
+<song>The throstle with his note so true, </song>
+<song>The wren with little quill. </song>
+<character>Titania </character>
+<verseline>What angel wakes me from my flow&#8217;ry bed? </verseline>
+<character>Bottom </character>
+<verseline>
+<stage_directions_inline>[Sings]</stage_directions_inline> </verseline>
+<verseline>The finch, the sparrow, and the lark, </verseline>
+<verseline>The plain-song cuckoo grey, </verseline>
+<verseline>Whose note full many a man doth mark, </verseline>
+<prose>And dares not answer nay- for, indeed, who would set his wit to so foolish a bird? </prose>
+<verseline>Who would give a bird the he, though he cry &#8216;cuckoo&#8217; never so? </verseline>
+<character>Titania </character>
+<verseline>I pray thee, gentle mortal, sing again. </verseline>
+<verseline>Mine ear is much enamoured of thy note; </verseline>
+<verseline>So is mine eye enthralled to thy shape; </verseline>
+<verseline>And thy fair virtue&#8217;s force perforce doth move me, </verseline>
+<verseline>On the first view, to say, to swear, I love thee. </verseline>
+<character>Bottom </character>
+<prose>Methinks, mistress, you should have little reason for that. And yet, to say the truth, reason and love keep little company together now-a-days. The more the pity that some honest neighbours will not make them friends. Nay, I can gleek upon occasion. </prose>
+<character>Titania </character>
+<verseline>Thou art as wise as thou art beautiful. </verseline>
+<character>Bottom </character>
+<prose>Not so, neither; but if I had wit enough to get out of this wood, I have enough to serve mine own turn. </prose>
+<character>Titania </character>
+<verseline>Out of this wood do not desire to go; </verseline>
+<verseline>Thou shalt remain here whether thou wilt or no. </verseline>
+<verseline>I am a spirit of no common rate; </verseline>
+<verseline>The summer still doth tend upon my state; </verseline>
+<verseline>And I do love thee; therefore, go with me. </verseline>
+<verseline>I&#8217;ll give thee fairies to attend on thee; </verseline>
+<verseline>And they shall fetch thee jewels from the deep, </verseline>
+<verseline>And sing, while thou on pressed flowers dost sleep; </verseline>
+<verseline>And I will purge thy mortal grossness so </verseline>
+<verseline>That thou shalt like an airy spirit go. </verseline>
+<verseline>Peaseblossom! Cobweb! Moth! and Mustardseed! </verseline>
+<stage_directions>Enter Peaseblossom, Cobweb, Moth, and Mustardseed </stage_directions>
+<character>Peaseblossom </character>
+<verseline>Ready. </verseline>
+<character>Cobweb </character>
+<verseline>And I. </verseline>
+<character>Moth </character>
+<verseline>And I. </verseline>
+<character>Mustardseed </character>
+<verseline>And I. </verseline>
+<character>All </character>
+<verseline>Where shall we go? </verseline>
+<character>Titania </character>
+<verseline>Be kind and courteous to this gentleman; </verseline>
+<verseline>Hop in his walks and gambol in his eyes; </verseline>
+<verseline>Feed him with apricocks and dewberries, </verseline>
+<verseline>With purple grapes, green figs, and mulberries; </verseline>
+<verseline>The honey bags steal from the humble-bees, </verseline>
+<verseline>And for night-tapers crop their waxen thighs, </verseline>
+<verseline>And light them at the fiery glow-worm&#8217;s eyes, </verseline>
+<verseline>To have my love to bed and to arise; </verseline>
+<verseline>And pluck the wings from painted butterflies, </verseline>
+<verseline>To fan the moonbeams from his sleeping eyes. </verseline>
+<verseline>Nod to him, elves, and do him courtesies. </verseline>
+<character>Peaseblossom </character>
+<verseline>Hail, mortal! </verseline>
+<character>Cobweb </character>
+<verseline>Hail! </verseline>
+<character>Moth </character>
+<verseline>Hail! </verseline>
+<character>Mustardseed </character>
+<verseline>Hail! </verseline>
+<character>Bottom </character>
+<prose>I cry your worships mercy, heartily; I beseech your worship&#8217;s name. </prose>
+<character>Cobweb </character>
+<verseline>Cobweb. </verseline>
+<character>Bottom </character>
+<prose>I shall desire you of more acquaintance, good Master </prose>
+<prose>Cobweb. If I cut my finger, I shall make bold with you. Your name, honest gentleman? </prose>
+<character>Peaseblossom </character>
+<verseline>Peaseblossom. </verseline>
+<character>Bottom </character>
+<prose>I pray you, commend me to Mistress Squash, your mother, and to Master Peascod, your father. Good Master Peaseblossom, I shall desire you of more acquaintance too. Your name, I beseech you, sir? </prose>
+<character>Mustardseed </character>
+<verseline>Mustardseed. </verseline>
+<character>Bottom </character>
+<prose>Good Master Mustardseed, I know your patience well. That same cowardly giant-like ox-beef hath devour&#8217;d many a gentleman of your house. I promise you your kindred hath made my eyes water ere now. I desire you of more acquaintance, good Master </prose>
+<verseline>Mustardseed. </verseline>
+<character>Titania </character>
+<verseline>Come, wait upon him; lead him to my bower. </verseline>
+<verseline>The moon, methinks, looks with a wat&#8217;ry eye; </verseline>
+<verseline>And when she weeps, weeps every little flower; </verseline>
+<verseline>Lamenting some enforced chastity. </verseline>
+<verseline>Tie up my love&#8217;s tongue, bring him silently.Exeunt </verseline>
+<scene>Scene II </scene>
+<location>Another part of the wood </location>
+<stage_directions>Enter Oberon </stage_directions>
+<character>Oberon </character>
+<verseline>I wonder if Titania be awak&#8217;d; </verseline>
+<verseline>Then, what it was that next came in her eye, </verseline>
+<verseline>Which she must dote on in extremity. </verseline>
+<stage_directions>Enter Puck </stage_directions>
+<verseline>Here comes my messenger. How now, mad spirit! </verseline>
+<verseline>What night-rule now about this haunted grove? </verseline>
+<character>Puck </character>
+<verseline>My mistress with a monster is in love. </verseline>
+<verseline>Near to her close and consecrated bower, </verseline>
+<verseline>While she was in her dull and sleeping hour, </verseline>
+<verseline>A crew of patches, rude mechanicals, </verseline>
+<verseline>That work for bread upon Athenian stalls, </verseline>
+<verseline>Were met together to rehearse a play </verseline>
+<verseline>Intended for great Theseus&#8217; nuptial day. </verseline>
+<verseline>The shallowest thickskin of that barren sort, </verseline>
+<verseline>Who Pyramus presented, in their sport </verseline>
+<verseline>Forsook his scene and ent&#8217;red in a brake; </verseline>
+<verseline>When I did him at this advantage take, </verseline>
+<verseline>An ass&#8217;s nole I fixed on his head. </verseline>
+<verseline>Anon his Thisby must be answered, </verseline>
+<verseline>And forth my mimic comes. When they him spy, </verseline>
+<verseline>As wild geese that the creeping fowler eye, </verseline>
+<verseline>Or russet-pated choughs, many in sort, </verseline>
+<verseline>Rising and cawing at the gun&#8217;s report, </verseline>
+<verseline>Sever themselves and madly sweep the sky, </verseline>
+<verseline>So at his sight away his fellows fly; </verseline>
+<verseline>And at our stamp here, o&#8217;er and o&#8217;er one falls; </verseline>
+<verseline>He murder cries, and help from Athens calls. </verseline>
+<verseline>Their sense thus weak, lost with their fears thus strong, </verseline>
+<verseline>Made senseless things begin to do them wrong, </verseline>
+<verseline>For briers and thorns at their apparel snatch; </verseline>
+<verseline>Some sleeves, some hats, from yielders all things catch. </verseline>
+<verseline>I led them on in this distracted fear, </verseline>
+<verseline>And left sweet Pyramus translated there; </verseline>
+<verseline>When in that moment, so it came to pass, </verseline>
+<verseline>Titania wak&#8217;d, and straightway lov&#8217;d an ass. </verseline>
+<character>Oberon </character>
+<verseline>This falls out better than I could devise. </verseline>
+<verseline>But hast thou yet latch&#8217;d the Athenian&#8217;s eyes </verseline>
+<verseline>With the love-juice, as I did bid thee do? </verseline>
+<character>Puck </character>
+<verseline>I took him sleeping- that is finish&#8217;d too- </verseline>
+<verseline>And the Athenian woman by his side; </verseline>
+<verseline>That, when he wak&#8217;d, of force she must be ey&#8217;d. </verseline>
+<stage_directions>Enter Demetrius and Hermia </stage_directions>
+<character>Oberon </character>
+<verseline>Stand close; this is the same Athenian. </verseline>
+<character>Puck </character>
+<verseline>This is the woman, but not this the man. </verseline>
+<character>Demetrius </character>
+<verseline>O, why rebuke you him that loves you so? </verseline>
+<verseline>Lay breath so bitter on your bitter foe. </verseline>
+<character>Hermia </character>
+<verseline>Now I but chide, but I should use thee worse, </verseline>
+<verseline>For thou, I fear, hast given me cause to curse. </verseline>
+<verseline>If thou hast slain Lysander in his sleep, </verseline>
+<verseline>Being o&#8217;er shoes in blood, plunge in the deep, </verseline>
+<verseline>And kill me too. </verseline>
+<verseline>The sun was not so true unto the day </verseline>
+<verseline>As he to me. Would he have stolen away </verseline>
+<verseline>From sleeping Hermia? I&#8217;ll believe as soon </verseline>
+<verseline>This whole earth may be bor&#8217;d, and that the moon </verseline>
+<verseline>May through the centre creep and so displease </verseline>
+<verseline>Her brother&#8217;s noontide with th&#8217; Antipodes. </verseline>
+<verseline>It cannot be but thou hast murd&#8217;red him; </verseline>
+<verseline>So should a murderer look- so dead, so grim. </verseline>
+<character>Demetrius </character>
+<verseline>So should the murdered look; and so should I, </verseline>
+<verseline>Pierc&#8217;d through the heart with your stern cruelty; </verseline>
+<verseline>Yet you, the murderer, look as bright, as clear, </verseline>
+<verseline>As yonder Venus in her glimmering sphere. </verseline>
+<character>Hermia </character>
+<verseline>What&#8217;s this to my Lysander? Where is he? </verseline>
+<verseline>Ah, good Demetrius, wilt thou give him me? </verseline>
+<character>Demetrius </character>
+<verseline>I had rather give his carcass to my hounds. </verseline>
+<character>Hermia </character>
+<verseline>Out, dog! out, cur! Thou driv&#8217;st me past the bounds </verseline>
+<verseline>Of maiden&#8217;s patience. Hast thou slain him, then? </verseline>
+<verseline>Henceforth be never numb&#8217;red among men! </verseline>
+<verseline>O, once tell true; tell true, even for my sake! </verseline>
+<verseline>Durst thou have look&#8217;d upon him being awake, </verseline>
+<verseline>And hast thou kill&#8217;d him sleeping? O brave touch! </verseline>
+<verseline>Could not a worm, an adder, do so much? </verseline>
+<verseline>An adder did it; for with doubler tongue </verseline>
+<verseline>Than thine, thou serpent, never adder stung. </verseline>
+<character>Demetrius </character>
+<verseline>You spend your passion on a mispris&#8217;d mood: </verseline>
+<verseline>I am not guilty of Lysander&#8217;s blood; </verseline>
+<verseline>Nor is he dead, for aught that I can tell. </verseline>
+<character>Hermia </character>
+<verseline>I pray thee, tell me then that he is well. </verseline>
+<character>Demetrius </character>
+<verseline>An if I could, what should I get therefore? </verseline>
+<character>Hermia </character>
+<verseline>A privilege never to see me more. </verseline>
+<verseline>And from thy hated presence part I so; </verseline>
+<verseline>See me no more whether he be dead or no.Exit </verseline>
+<character>Demetrius </character>
+<verseline>There is no following her in this fierce vein; </verseline>
+<verseline>Here, therefore, for a while I will remain. </verseline>
+<verseline>So sorrow&#8217;s heaviness doth heavier grow </verseline>
+<verseline>For debt that bankrupt sleep doth sorrow owe; </verseline>
+<verseline>Which now in some slight measure it will pay, </verseline>
+<verseline>If for his tender here I make some stay.<stage_directions_inline>[Lies down]</stage_directions_inline> </verseline>
+<character>Oberon </character>
+<verseline>What hast thou done? Thou hast mistaken quite, </verseline>
+<verseline>And laid the love-juice on some true-love&#8217;s sight. </verseline>
+<verseline>Of thy misprision must perforce ensue </verseline>
+<verseline>Some true love turn&#8217;d, and not a false turn&#8217;d true. </verseline>
+<character>Puck </character>
+<verseline>Then fate o&#8217;er-rules, that, one man holding troth, </verseline>
+<verseline>A million fail, confounding oath on oath. </verseline>
+<character>Oberon </character>
+<verseline>About the wood go swifter than the wind, </verseline>
+<verseline>And Helena of Athens look thou find; </verseline>
+<verseline>All fancy-sick she is and pale of cheer, </verseline>
+<verseline>With sighs of love that costs the fresh blood dear. </verseline>
+<verseline>By some illusion see thou bring her here; </verseline>
+<verseline>I&#8217;ll charm his eyes against she do appear. </verseline>
+<character>Puck </character>
+<verseline>I go, I go; look how I go, </verseline>
+<verseline>Swifter than arrow from the Tartar&#8217;s bow.Exit </verseline>
+<character>Oberon </character>
+<verseline>Flower of this purple dye, </verseline>
+<verseline>Hit with Cupid&#8217;s archery, </verseline>
+<verseline>Sink in apple of his eye. </verseline>
+<verseline>When his love he doth espy, </verseline>
+<verseline>Let her shine as gloriously </verseline>
+<verseline>As the Venus of the sky. </verseline>
+<verseline>When thou wak&#8217;st, if she be by, </verseline>
+<verseline>Beg of her for remedy. </verseline>
+<verseline>Re-enter Puck </verseline>
+<character>Puck </character>
+<verseline>Captain of our fairy band, </verseline>
+<verseline>Helena is here at hand, </verseline>
+<verseline>And the youth mistook by me </verseline>
+<verseline>Pleading for a lover&#8217;s fee; </verseline>
+<verseline>Shall we their fond pageant see? </verseline>
+<verseline>Lord, what fools these mortals be! </verseline>
+<character>Oberon </character>
+<verseline>Stand aside. The noise they make </verseline>
+<verseline>Will cause Demetrius to awake. </verseline>
+<character>Puck </character>
+<verseline>Then will two at once woo one. </verseline>
+<verseline>That must needs be sport alone; </verseline>
+<verseline>And those things do best please me </verseline>
+<verseline>That befall prepost&#8217;rously. </verseline>
+<stage_directions>Enter Lysander and Helena </stage_directions>
+<character>Lysander </character>
+<verseline>Why should you think that I should woo in scorn? </verseline>
+<verseline>Scorn and derision never come in tears. </verseline>
+<verseline>Look when I vow, I weep; and vows so born, </verseline>
+<verseline>In their nativity all truth appears. </verseline>
+<verseline>How can these things in me seem scorn to you, </verseline>
+<verseline>Bearing the badge of faith, to prove them true? </verseline>
+<character>Helena </character>
+<verseline>You do advance your cunning more and more. </verseline>
+<verseline>When truth kills truth, O devilish-holy fray! </verseline>
+<verseline>These vows are Hermia&#8217;s. Will you give her o&#8217;er? </verseline>
+<verseline>Weigh oath with oath, and you will nothing weigh: </verseline>
+<verseline>Your vows to her and me, put in two scales, </verseline>
+<verseline>Will even weigh; and both as light as tales. </verseline>
+<character>Lysander </character>
+<verseline>I hod no judgment when to her I swore. </verseline>
+<character>Helena </character>
+<verseline>Nor none, in my mind, now you give her o&#8217;er. </verseline>
+<character>Lysander </character>
+<verseline>Demetrius loves her, and he loves not you. </verseline>
+<character>Demetrius </character>
+<verseline>
+<stage_directions_inline>[Awaking]</stage_directions_inline> O Helen, goddess, nymph, perfect, divine! </verseline>
+<verseline>To what, my love, shall I compare thine eyne? </verseline>
+<verseline>Crystal is muddy. O, how ripe in show </verseline>
+<verseline>Thy lips, those kissing cherries, tempting grow! </verseline>
+<verseline>That pure congealed white, high Taurus&#8217; snow, </verseline>
+<verseline>Fann&#8217;d with the eastern wind, turns to a crow </verseline>
+<verseline>When thou hold&#8217;st up thy hand. O, let me kiss </verseline>
+<verseline>This princess of pure white, this seal of bliss! </verseline>
+<character>Helena </character>
+<verseline>O spite! O hell! I see you all are bent </verseline>
+<verseline>To set against me for your merriment. </verseline>
+<verseline>If you were civil and knew courtesy, </verseline>
+<verseline>You would not do me thus much injury. </verseline>
+<verseline>Can you not hate me, as I know you do, </verseline>
+<verseline>But you must join in souls to mock me too? </verseline>
+<verseline>If you were men, as men you are in show, </verseline>
+<verseline>You would not use a gentle lady so: </verseline>
+<verseline>To vow, and swear, and superpraise my parts, </verseline>
+<verseline>When I am sure you hate me with your hearts. </verseline>
+<verseline>You both are rivals, and love Hermia; </verseline>
+<verseline>And now both rivals, to mock Helena. </verseline>
+<verseline>A trim exploit, a manly enterprise, </verseline>
+<verseline>To conjure tears up in a poor maid&#8217;s eyes </verseline>
+<verseline>With your derision! None of noble sort </verseline>
+<verseline>Would so offend a virgin, and extort </verseline>
+<verseline>A poor soul&#8217;s patience, all to make you sport. </verseline>
+<character>Lysander </character>
+<verseline>You are unkind, Demetrius; be not so; </verseline>
+<verseline>For you love Hermia. This you know I know; </verseline>
+<verseline>And here, with all good will, with all my heart, </verseline>
+<verseline>In Hermia&#8217;s love I yield you up my part; </verseline>
+<verseline>And yours of Helena to me bequeath, </verseline>
+<verseline>Whom I do love and will do till my death. </verseline>
+<character>Helena </character>
+<verseline>Never did mockers waste more idle breath. </verseline>
+<character>Demetrius </character>
+<verseline>Lysander, keep thy Hermia; I will none. </verseline>
+<verseline>If e&#8217;er I lov&#8217;d her, all that love is gone. </verseline>
+<verseline>My heart to her but as guest-wise sojourn&#8217;d, </verseline>
+<verseline>And now to Helen is it home return&#8217;d, </verseline>
+<verseline>There to remain. </verseline>
+<character>Lysander </character>
+<verseline>Helen, it is not so. </verseline>
+<character>Demetrius </character>
+<verseline>Disparage not the faith thou dost not know, </verseline>
+<verseline>Lest, to thy peril, thou aby it dear. </verseline>
+<verseline>Look where thy love comes; yonder is thy dear. </verseline>
+<stage_directions>Enter Hermia </stage_directions>
+<character>Hermia </character>
+<verseline>Dark night, that from the eye his function takes, </verseline>
+<verseline>The ear more quick of apprehension makes; </verseline>
+<verseline>Wherein it doth impair the seeing sense, </verseline>
+<verseline>It pays the hearing double recompense. </verseline>
+<verseline>Thou art not by mine eye, Lysander, found; </verseline>
+<verseline>Mine ear, I thank it, brought me to thy sound. </verseline>
+<verseline>But why unkindly didst thou leave me so? </verseline>
+<character>Lysander </character>
+<verseline>Why should he stay whom love doth press to go? </verseline>
+<character>Hermia </character>
+<verseline>What love could press Lysander from my side? </verseline>
+<character>Lysander </character>
+<verseline>Lysander&#8217;s love, that would not let him bide- </verseline>
+<verseline>Fair Helena, who more engilds the night </verseline>
+<verseline>Than all yon fiery oes and eyes of light. </verseline>
+<verseline>Why seek&#8217;st thou me? Could not this make thee know </verseline>
+<verseline>The hate I bare thee made me leave thee so? </verseline>
+<character>Hermia </character>
+<verseline>You speak not as you think; it cannot be. </verseline>
+<character>Helena </character>
+<verseline>Lo, she is one of this confederacy! </verseline>
+<verseline>Now I perceive they have conjoin&#8217;d all three </verseline>
+<verseline>To fashion this false sport in spite of me. </verseline>
+<verseline>Injurious Hermia! most ungrateful maid! </verseline>
+<verseline>Have you conspir&#8217;d, have you with these contriv&#8217;d, </verseline>
+<verseline>To bait me with this foul derision? </verseline>
+<verseline>Is all the counsel that we two have shar&#8217;d, </verseline>
+<verseline>The sisters&#8217; vows, the hours that we have spent, </verseline>
+<verseline>When we have chid the hasty-footed time </verseline>
+<verseline>For parting us- O, is all forgot? </verseline>
+<verseline>All school-days&#8217; friendship, childhood innocence? </verseline>
+<verseline>We, Hermia, like two artificial gods, </verseline>
+<verseline>Have with our needles created both one flower, </verseline>
+<verseline>Both on one sampler, sitting on one cushion, </verseline>
+<verseline>Both warbling of one song, both in one key; </verseline>
+<verseline>As if our hands, our sides, voices, and minds, </verseline>
+<verseline>Had been incorporate. So we grew together, </verseline>
+<verseline>Like to a double cherry, seeming parted, </verseline>
+<verseline>But yet an union in partition, </verseline>
+<verseline>Two lovely berries moulded on one stern; </verseline>
+<verseline>So, with two seeming bodies, but one heart; </verseline>
+<verseline>Two of the first, like coats in heraldry, </verseline>
+<verseline>Due but to one, and crowned with one crest. </verseline>
+<verseline>And will you rent our ancient love asunder, </verseline>
+<verseline>To join with men in scorning your poor friend? </verseline>
+<verseline>It is not friendly, &#8216;tis not maidenly; </verseline>
+<verseline>Our sex, as well as I, may chide you for it, </verseline>
+<verseline>Though I alone do feel the injury. </verseline>
+<character>Hermia </character>
+<verseline>I am amazed at your passionate words; </verseline>
+<verseline>I scorn you not; it seems that you scorn me. </verseline>
+<character>Helena </character>
+<verseline>Have you not set Lysander, as in scorn, </verseline>
+<verseline>To follow me and praise my eyes and face? </verseline>
+<verseline>And made your other love, Demetrius, </verseline>
+<verseline>Who even but now did spurn me with his foot, </verseline>
+<verseline>To call me goddess, nymph, divine, and rare, </verseline>
+<verseline>Precious, celestial? Wherefore speaks he this </verseline>
+<verseline>To her he hates? And wherefore doth Lysander </verseline>
+<verseline>Deny your love, so rich within his soul, </verseline>
+<verseline>And tender me, forsooth, affection, </verseline>
+<verseline>But by your setting on, by your consent? </verseline>
+<verseline>What though I be not so in grace as you, </verseline>
+<verseline>So hung upon with love, so fortunate, </verseline>
+<verseline>But miserable most, to love unlov&#8217;d? </verseline>
+<verseline>This you should pity rather than despise. </verseline>
+<character>Hermia </character>
+<verseline>I understand not what you mean by this. </verseline>
+<character>Helena </character>
+<verseline>Ay, do- persever, counterfeit sad looks, </verseline>
+<verseline>Make mouths upon me when I turn my back, </verseline>
+<verseline>Wink each at other; hold the sweet jest up; </verseline>
+<verseline>This sport, well carried, shall be chronicled. </verseline>
+<verseline>If you have any pity, grace, or manners, </verseline>
+<verseline>You would not make me such an argument. </verseline>
+<verseline>But fare ye well; &#8216;tis partly my own fault, </verseline>
+<verseline>Which death, or absence, soon shall remedy. </verseline>
+<character>Lysander </character>
+<verseline>Stay, gentle Helena; hear my excuse; </verseline>
+<verseline>My love, my life, my soul, fair Helena! </verseline>
+<character>Helena </character>
+<verseline>O excellent! </verseline>
+<character>Hermia </character>
+<verseline>Sweet, do not scorn her so. </verseline>
+<character>Demetrius </character>
+<verseline>If she cannot entreat, I can compel. </verseline>
+<character>Lysander </character>
+<verseline>Thou canst compel no more than she entreat; </verseline>
+<verseline>Thy threats have no more strength than her weak prayers </verseline>
+<verseline>Helen, I love thee, by my life I do; </verseline>
+<verseline>I swear by that which I will lose for thee </verseline>
+<verseline>To prove him false that says I love thee not. </verseline>
+<character>Demetrius </character>
+<verseline>I say I love thee more than he can do. </verseline>
+<character>Lysander </character>
+<verseline>If thou say so, withdraw, and prove it too. </verseline>
+<character>Demetrius </character>
+<verseline>Quick, come. </verseline>
+<character>Hermia </character>
+<verseline>Lysander, whereto tends all this? </verseline>
+<character>Lysander </character>
+<verseline>Away, you Ethiope! </verseline>
+<character>Demetrius </character>
+<verseline>No, no, he will </verseline>
+<verseline>Seem to break loose- take on as you would follow, </verseline>
+<verseline>But yet come not. You are a tame man; go! </verseline>
+<character>Lysander </character>
+<verseline>Hang off, thou cat, thou burr; vile thing, let loose, </verseline>
+<verseline>Or I will shake thee from me like a serpent. </verseline>
+<character>Hermia </character>
+<verseline>Why are you grown so rude? What change is this, </verseline>
+<verseline>Sweet love? </verseline>
+<character>Lysander </character>
+<verseline>Thy love! Out, tawny Tartar, out! </verseline>
+<verseline>Out, loathed med&#8217;cine! O hated potion, hence! </verseline>
+<character>Hermia </character>
+<verseline>Do you not jest? </verseline>
+<character>Helena </character>
+<verseline>Yes, sooth; and so do you. </verseline>
+<character>Lysander </character>
+<verseline>Demetrius, I will keep my word with thee. </verseline>
+<character>Demetrius </character>
+<verseline>I would I had your bond; for I perceive </verseline>
+<verseline>A weak bond holds you; I&#8217;ll not trust your word. </verseline>
+<character>Lysander </character>
+<verseline>What, should I hurt her, strike her, kill her dead? </verseline>
+<verseline>Although I hate her, I&#8217;ll not harm her so. </verseline>
+<character>Hermia </character>
+<verseline>What! Can you do me greater harm than hate? </verseline>
+<verseline>Hate me! wherefore? O me! what news, my love? </verseline>
+<verseline>Am not I Hermia? Are not you Lysander? </verseline>
+<verseline>I am as fair now as I was erewhile. </verseline>
+<verseline>Since night you lov&#8217;d me; yet since night you left me. </verseline>
+<verseline>Why then, you left me- O, the gods forbid!- </verseline>
+<verseline>In earnest, shall I say? </verseline>
+<character>Lysander </character>
+<verseline>Ay, by my life! </verseline>
+<verseline>And never did desire to see thee more. </verseline>
+<verseline>Therefore be out of hope, of question, of doubt; </verseline>
+<verseline>Be certain, nothing truer; &#8216;tis no jest </verseline>
+<verseline>That I do hate thee and love Helena. </verseline>
+<character>Hermia </character>
+<verseline>O me! you juggler! you cankerblossom! </verseline>
+<verseline>You thief of love! What! Have you come by night, </verseline>
+<verseline>And stol&#8217;n my love&#8217;s heart from him? </verseline>
+<character>Helena </character>
+<verseline>Fine, i&#8217; faith! </verseline>
+<verseline>Have you no modesty, no maiden shame, </verseline>
+<verseline>No touch of bashfulness? What! Will you tear </verseline>
+<verseline>Impatient answers from my gentle tongue? </verseline>
+<verseline>Fie, fie! you counterfeit, you puppet you! </verseline>
+<character>Hermia </character>
+<verseline>&#8216;Puppet!&#8217; why so? Ay, that way goes the game. </verseline>
+<verseline>Now I perceive that she hath made compare </verseline>
+<verseline>Between our statures; she hath urg&#8217;d her height; </verseline>
+<verseline>And with her personage, her tall personage, </verseline>
+<verseline>Her height, forsooth, she hath prevail&#8217;d with him. </verseline>
+<verseline>And are you grown so high in his esteem </verseline>
+<verseline>Because I am so dwarfish and so low? </verseline>
+<verseline>How low am I, thou painted maypole? Speak. </verseline>
+<verseline>How low am I? I am not yet so low </verseline>
+<verseline>But that my nails can reach unto thine eyes. </verseline>
+<character>Helena </character>
+<verseline>I pray you, though you mock me, gentlemen, </verseline>
+<verseline>Let her not hurt me. I was never curst; </verseline>
+<verseline>I have no gift at all in shrewishness; </verseline>
+<verseline>I am a right maid for my cowardice; </verseline>
+<verseline>Let her not strike me. You perhaps may think, </verseline>
+<verseline>Because she is something lower than myself, </verseline>
+<verseline>That I can match her. </verseline>
+<character>Hermia </character>
+<verseline>&#8216;Lower&#8217; hark, again. </verseline>
+<character>Helena </character>
+<verseline>Good Hermia, do not be so bitter with me. </verseline>
+<verseline>I evermore did love you, Hermia, </verseline>
+<verseline>Did ever keep your counsels, never wrong&#8217;d you; </verseline>
+<verseline>Save that, in love unto Demetrius, </verseline>
+<verseline>I told him of your stealth unto this wood. </verseline>
+<verseline>He followed you; for love I followed him; </verseline>
+<verseline>But he hath chid me hence, and threat&#8217;ned me </verseline>
+<verseline>To strike me, spurn me, nay, to kill me too; </verseline>
+<verseline>And now, so you will let me quiet go, </verseline>
+<verseline>To Athens will I bear my folly back, </verseline>
+<verseline>And follow you no further. Let me go. </verseline>
+<verseline>You see how simple and how fond I am. </verseline>
+<character>Hermia </character>
+<verseline>Why, get you gone! Who is&#8217;t that hinders you? </verseline>
+<character>Helena </character>
+<verseline>A foolish heart that I leave here behind. </verseline>
+<character>Hermia </character>
+<verseline>What! with Lysander? </verseline>
+<character>Helena </character>
+<verseline>With Demetrius. </verseline>
+<character>Lysander </character>
+<verseline>Be not afraid; she shall not harm thee, Helena. </verseline>
+<character>Demetrius </character>
+<verseline>No, sir, she shall not, though you take her part. </verseline>
+<character>Helena </character>
+<verseline>O, when she is angry, she is keen and shrewd; </verseline>
+<verseline>She was a vixen when she went to school; </verseline>
+<verseline>And, though she be but little, she is fierce. </verseline>
+<character>Hermia </character>
+<verseline>&#8216;Little&#8217; again! Nothing but &#8216;low&#8217; and &#8216;little&#8217;! </verseline>
+<verseline>Why will you suffer her to flout me thus? </verseline>
+<verseline>Let me come to her. </verseline>
+<character>Lysander </character>
+<verseline>Get you gone, you dwarf; </verseline>
+<verseline>You minimus, of hind&#8217;ring knot-grass made; </verseline>
+<verseline>You bead, you acorn. </verseline>
+<character>Demetrius </character>
+<verseline>You are too officious </verseline>
+<verseline>In her behalf that scorns your services. </verseline>
+<verseline>Let her alone; speak not of Helena; </verseline>
+<verseline>Take not her part; for if thou dost intend </verseline>
+<verseline>Never so little show of love to her, </verseline>
+<verseline>Thou shalt aby it. </verseline>
+<character>Lysander </character>
+<verseline>Now she holds me not. </verseline>
+<verseline>Now follow, if thou dar&#8217;st, to try whose right, </verseline>
+<verseline>Of thine or mine, is most in Helena. </verseline>
+<character>Demetrius </character>
+<verseline>Follow! Nay, I&#8217;ll go with thee, cheek by jowl. </verseline>
+<verseline>Exeunt Lysander and Demetrius </verseline>
+<character>Hermia </character>
+<verseline>You, mistress, all this coil is long of you. </verseline>
+<verseline>Nay, go not back. </verseline>
+<character>Helena </character>
+<verseline>I will not trust you, I; </verseline>
+<verseline>Nor longer stay in your curst company. </verseline>
+<verseline>Your hands than mine are quicker for a fray; </verseline>
+<verseline>My legs are longer though, to run away.Exit </verseline>
+<character>Hermia </character>
+<verseline>I am amaz&#8217;d, and know not what to say.Exit </verseline>
+<character>Oberon </character>
+<verseline>This is thy negligence. Still thou mistak&#8217;st, </verseline>
+<verseline>Or else committ&#8217;st thy knaveries wilfully. </verseline>
+<character>Puck </character>
+<verseline>Believe me, king of shadows, I mistook. </verseline>
+<verseline>Did not you tell me I should know the man </verseline>
+<verseline>By the Athenian garments he had on? </verseline>
+<verseline>And so far blameless proves my enterprise </verseline>
+<verseline>That I have &#8216;nointed an Athenian&#8217;s eyes; </verseline>
+<verseline>And so far am I glad it so did sort, </verseline>
+<verseline>As this their jangling I esteem a sport. </verseline>
+<character>Oberon </character>
+<verseline>Thou seest these lovers seek a place to fight. </verseline>
+<verseline>Hie therefore, Robin, overcast the night; </verseline>
+<verseline>The starry welkin cover thou anon </verseline>
+<verseline>With drooping fog as black as Acheron, </verseline>
+<verseline>And lead these testy rivals so astray </verseline>
+<verseline>As one come not within another&#8217;s way. </verseline>
+<verseline>Like to Lysander sometime frame thy tongue, </verseline>
+<verseline>Then stir Demetrius up with bitter wrong; </verseline>
+<verseline>And sometime rail thou like Demetrius; </verseline>
+<verseline>And from each other look thou lead them thus, </verseline>
+<verseline>Till o&#8217;er their brows death-counterfeiting sleep </verseline>
+<verseline>With leaden legs and batty wings doth creep. </verseline>
+<verseline>Then crush this herb into Lysander&#8217;s eye; </verseline>
+<verseline>Whose liquor hath this virtuous property, </verseline>
+<verseline>To take from thence all error with his might </verseline>
+<verseline>And make his eyeballs roll with wonted sight. </verseline>
+<verseline>When they next wake, all this derision </verseline>
+<verseline>Shall seem a dream and fruitless vision; </verseline>
+<verseline>And back to Athens shall the lovers wend </verseline>
+<verseline>With league whose date till death shall never end. </verseline>
+<verseline>Whiles I in this affair do thee employ, </verseline>
+<verseline>I&#8217;ll to my queen, and beg her Indian boy; </verseline>
+<verseline>And then I will her charmed eye release </verseline>
+<verseline>From monster&#8217;s view, and all things shall be peace. </verseline>
+<character>Puck </character>
+<verseline>My fairy lord, this must be done with haste, </verseline>
+<verseline>For night&#8217;s swift dragons cut the clouds full fast; </verseline>
+<verseline>And yonder shines Aurora&#8217;s harbinger, </verseline>
+<verseline>At whose approach ghosts, wand&#8217;ring here and there, </verseline>
+<verseline>Troop home to churchyards. Damned spirits all </verseline>
+<verseline>That in cross-ways and floods have burial, </verseline>
+<verseline>Already to their wormy beds are gone, </verseline>
+<verseline>For fear lest day should look their shames upon; </verseline>
+<verseline>They wilfully themselves exil&#8217;d from light, </verseline>
+<verseline>And must for aye consort with black-brow&#8217;d night. </verseline>
+<character>Oberon </character>
+<verseline>But we are spirits of another sort: </verseline>
+<verseline>I with the Morning&#8217;s love have oft made sport; </verseline>
+<verseline>And, like a forester, the groves may tread </verseline>
+<verseline>Even till the eastern gate, all fiery red, </verseline>
+<verseline>Opening on Neptune with fair blessed beams, </verseline>
+<verseline>Turns into yellow gold his salt green streams. </verseline>
+<verseline>But, notwithstanding, haste, make no delay; </verseline>
+<verseline>We may effect this business yet ere day.Exit Oberon </verseline>
+<character>Puck </character>
+<verseline>Up and down, up and down, </verseline>
+<verseline>I will lead them up and down. </verseline>
+<verseline>I am fear&#8217;d in field and town. </verseline>
+<verseline>Goblin, lead them up and down. </verseline>
+<verseline>Here comes one. </verseline>
+<stage_directions>Enter Lysander </stage_directions>
+<character>Lysander </character>
+<verseline>Where art thou, proud Demetrius? Speak thou now. </verseline>
+<character>Puck </character>
+<verseline>Here, villain, drawn and ready. Where art thou? </verseline>
+<character>Lysander </character>
+<verseline>I will be with thee straight. </verseline>
+<character>Puck </character>
+<verseline>Follow me, then, </verseline>
+<verseline>To plainer ground. </verseline>
+<stage_directions>Exit Lysander as following the voice </stage_directions>
+<stage_directions>Enter Demetrius </stage_directions>
+<character>Demetrius </character>
+<verseline>Lysander, speak again. </verseline>
+<verseline>Thou runaway, thou coward, art thou fled? </verseline>
+<verseline>Speak! In some bush? Where dost thou hide thy head? </verseline>
+<character>Puck </character>
+<verseline>Thou coward, art thou bragging to the stars, </verseline>
+<verseline>Telling the bushes that thou look&#8217;st for wars, </verseline>
+<verseline>And wilt not come? Come, recreant, come, thou child; </verseline>
+<verseline>I&#8217;ll whip thee with a rod. He is defil&#8217;d </verseline>
+<verseline>That draws a sword on thee. </verseline>
+<character>Demetrius </character>
+<verseline>Yea, art thou there? </verseline>
+<character>Puck </character>
+<verseline>Follow my voice; we&#8217;ll try no manhood here.Exeunt </verseline>
+<stage_directions>Re-enter Lysander </stage_directions>
+<character>Lysander </character>
+<verseline>He goes before me, and still dares me on; </verseline>
+<verseline>When I come where he calls, then he is gone. </verseline>
+<verseline>The villain is much lighter heel&#8217;d than I. </verseline>
+<verseline>I followed fast, but faster he did fly, </verseline>
+<verseline>That fallen am I in dark uneven way, </verseline>
+<verseline>And here will rest me.<stage_directions_inline>[Lies down]</stage_directions_inline> Come, thou gentle day. </verseline>
+<verseline>For if but once thou show me thy grey light, </verseline>
+<verseline>I&#8217;ll find Demetrius, and revenge this spite.<stage_directions_inline>[Sleeps]</stage_directions_inline> </verseline>
+<verseline>Re-enter Puck and Demetrius </verseline>
+<character>Puck </character>
+<verseline>Ho, ho, ho! Coward, why com&#8217;st thou not? </verseline>
+<character>Demetrius </character>
+<verseline>Abide me, if thou dar&#8217;st; for well I wot </verseline>
+<verseline>Thou run&#8217;st before me, shifting every place, </verseline>
+<verseline>And dar&#8217;st not stand, nor look me in the face. </verseline>
+<verseline>Where art thou now? </verseline>
+<character>Puck </character>
+<verseline>Come hither; I am here. </verseline>
+<character>Demetrius </character>
+<verseline>Nay, then, thou mock&#8217;st me. Thou shalt buy this dear, </verseline>
+<verseline>If ever I thy face by daylight see; </verseline>
+<verseline>Now, go thy way. Faintness constraineth me </verseline>
+<verseline>To measure out my length on this cold bed. </verseline>
+<verseline>By day&#8217;s approach look to be visited. </verseline>
+<verseline>
+<stage_directions_inline>[Lies down and sleeps]</stage_directions_inline> </verseline>
+<stage_directions>Enter Helena </stage_directions>
+<character>Helena </character>
+<verseline>O weary night, O long and tedious night, </verseline>
+<verseline>Abate thy hours! Shine comforts from the east, </verseline>
+<verseline>That I may back to Athens by daylight, </verseline>
+<verseline>From these that my poor company detest. </verseline>
+<verseline>And sleep, that sometimes shuts up sorrow&#8217;s eye, </verseline>
+<verseline>Steal me awhile from mine own company.<stage_directions_inline>[Sleeps]</stage_directions_inline> </verseline>
+<character>Puck </character>
+<verseline>Yet but three? Come one more; </verseline>
+<verseline>Two of both kinds makes up four. </verseline>
+<verseline>Here she comes, curst and sad. </verseline>
+<verseline>Cupid is a knavish lad, </verseline>
+<verseline>Thus to make poor females mad. </verseline>
+<stage_directions>Enter Hermia </stage_directions>
+<character>Hermia </character>
+<verseline>Never so weary, never so in woe, </verseline>
+<verseline>Bedabbled with the dew, and torn with briers, </verseline>
+<verseline>I can no further crawl, no further go; </verseline>
+<verseline>My legs can keep no pace with my desires. </verseline>
+<verseline>Here will I rest me till the break of day. </verseline>
+<verseline>Heavens shield Lysander, if they mean a fray! </verseline>
+<verseline>
+<stage_directions_inline>[Lies down and sleeps]</stage_directions_inline> </verseline>
+<character>Puck </character>
+<verseline>On the ground </verseline>
+<verseline>Sleep sound; </verseline>
+<verseline>I&#8217;ll apply </verseline>
+<verseline>To your eye, </verseline>
+<verseline>Gentle lover, remedy. </verseline>
+<verseline>
+<stage_directions_inline>[Squeezing the juice on Lysander&#8217;S eyes]</stage_directions_inline> </verseline>
+<verseline>When thou wak&#8217;st, </verseline>
+<verseline>Thou tak&#8217;st </verseline>
+<verseline>True delight </verseline>
+<verseline>In the sight </verseline>
+<verseline>Of thy former lady&#8217;s eye; </verseline>
+<verseline>And the country proverb known, </verseline>
+<verseline>That every man should take his own, </verseline>
+<verseline>In your waking shall be shown: </verseline>
+<verseline>Jack shall have Jill; </verseline>
+<verseline>Nought shall go ill; </verseline>
+<verseline>The man shall have his mare again, and all shall be well. </verseline>
+<verseline>Exit </verseline>
+<act>Act IV </act>
+<firstscene>Scene I </firstscene>
+<location>The wood. Lysander, Demetrius, Helena, and Hermia, lying asleep </location>
+<stage_directions>Enter Titania and Bottom; Peaseblossom, Cobweb, Moth, Mustardseed, and other Fairies attending; Oberon behind, unseen </stage_directions>
+<character>Titania </character>
+<verseline>Come, sit thee down upon this flow&#8217;ry bed, </verseline>
+<verseline>While I thy amiable cheeks do coy, </verseline>
+<verseline>And stick musk-roses in thy sleek smooth head, </verseline>
+<verseline>And kiss thy fair large ears, my gentle joy. </verseline>
+<character>Bottom </character>
+<verseline>Where&#8217;s Peaseblossom? </verseline>
+<character>Peaseblossom </character>
+<verseline>Ready. </verseline>
+<character>Bottom </character>
+<verseline>Scratch my head, Peaseblossom. </verseline>
+<verseline>Where&#8217;s Mounsieur Cobweb? </verseline>
+<character>Cobweb </character>
+<verseline>Ready. </verseline>
+<character>Bottom </character>
+<prose>Mounsieur Cobweb; good mounsieur, get you your weapons in your hand and kill me a red-hipp&#8217;d humble-bee on the top of a thistle; and, good mounsieur, bring me the honey-bag. Do not fret yourself too much in the action, mounsieur; and, good mounsieur, have a care the honey-bag break not; I would be loath to have you overflown with a honey-bag, signior. Where&#8217;s Mounsieur Mustardseed? </prose>
+<character>Mustardseed </character>
+<verseline>Ready. </verseline>
+<character>Bottom </character>
+<prose>Give me your neaf, Mounsieur Mustardseed. Pray you, leave your curtsy, good mounsieur. </prose>
+<character>Mustardseed </character>
+<verseline>What&#8217;s your will? </verseline>
+<character>Bottom </character>
+<prose>Nothing, good mounsieur, but to help Cavalery Cobweb to scratch. I must to the barber&#8217;s, mounsieur; for methinks I am marvellous hairy about the face; and I am such a tender ass, if my hair do but tickle me I must scratch. </prose>
+<character>Titania </character>
+<verseline>What, wilt thou hear some music, my sweet love? </verseline>
+<character>Bottom </character>
+<prose>I have a reasonable good ear in music. Let&#8217;s have the tongs and the bones. </prose>
+<character>Titania </character>
+<verseline>Or say, sweet love, what thou desirest to eat. </verseline>
+<character>Bottom </character>
+<prose>Truly, a peck of provender; I could munch your good dry oats. Methinks I have a great desire to a bottle of hay. Good hay, sweet hay, hath no fellow. </prose>
+<character>Titania </character>
+<verseline>I have a venturous fairy that shall seek </verseline>
+<verseline>The squirrel&#8217;s hoard, and fetch thee new nuts. </verseline>
+<character>Bottom </character>
+<prose>I had rather have a handful or two of dried peas. But, I pray you, let none of your people stir me; I have an exposition of sleep come upon me. </prose>
+<character>Titania </character>
+<verseline>Sleep thou, and I will wind thee in my arms. </verseline>
+<verseline>Fairies, be gone, and be all ways away.Exeunt Fairies </verseline>
+<verseline>So doth the woodbine the sweet honeysuckle </verseline>
+<verseline>Gently entwist; the female ivy so </verseline>
+<verseline>Enrings the barky fingers of the elm. </verseline>
+<verseline>O, how I love thee! how I dote on thee!<stage_directions_inline>[They sleep]</stage_directions_inline> </verseline>
+<stage_directions>Enter Puck </stage_directions>
+<character>Oberon </character>
+<verseline>
+<stage_directions_inline>[Advancing]</stage_directions_inline> Welcome, good Robin. Seest thou this sweet </verseline>
+<verseline>sight? </verseline>
+<verseline>Her dotage now I do begin to pity; </verseline>
+<verseline>For, meeting her of late behind the wood, </verseline>
+<verseline>Seeking sweet favours for this hateful fool, </verseline>
+<verseline>I did upbraid her and fall out with her. </verseline>
+<verseline>For she his hairy temples then had rounded </verseline>
+<verseline>With coronet of fresh and fragrant flowers; </verseline>
+<verseline>And that same dew which sometime on the buds </verseline>
+<verseline>Was wont to swell like round and orient pearls </verseline>
+<verseline>Stood now within the pretty flowerets&#8217; eyes, </verseline>
+<verseline>Like tears that did their own disgrace bewail. </verseline>
+<verseline>When I had at my pleasure taunted her, </verseline>
+<verseline>And she in mild terms begg&#8217;d my patience, </verseline>
+<verseline>I then did ask of her her changeling child; </verseline>
+<verseline>Which straight she gave me, and her fairy sent </verseline>
+<verseline>To bear him to my bower in fairy land. </verseline>
+<verseline>And now I have the boy, I will undo </verseline>
+<verseline>This hateful imperfection of her eyes. </verseline>
+<verseline>And, gentle Puck, take this transformed scalp </verseline>
+<verseline>From off the head of this Athenian swain, </verseline>
+<verseline>That he awaking when the other do </verseline>
+<verseline>May all to Athens back again repair, </verseline>
+<verseline>And think no more of this night&#8217;s accidents </verseline>
+<verseline>But as the fierce vexation of a dream. </verseline>
+<verseline>But first I will release the Fairy Queen. </verseline>
+<verseline>
+<stage_directions_inline>[Touching her eyes]</stage_directions_inline> </verseline>
+<verseline>Be as thou wast wont to be; </verseline>
+<verseline>See as thou was wont to see. </verseline>
+<verseline>Dian&#8217;s bud o&#8217;er Cupid&#8217;s flower </verseline>
+<verseline>Hath such force and blessed power. </verseline>
+<verseline>Now, my Titania; wake you, my sweet queen. </verseline>
+<character>Titania </character>
+<verseline>My Oberon! What visions have I seen! </verseline>
+<verseline>Methought I was enamour&#8217;d of an ass. </verseline>
+<character>Oberon </character>
+<verseline>There lies your love. </verseline>
+<character>Titania </character>
+<verseline>How came these things to pass? </verseline>
+<verseline>O, how mine eyes do loathe his visage now! </verseline>
+<character>Oberon </character>
+<verseline>Silence awhile. Robin, take off this head. </verseline>
+<verseline>Titania, music call; and strike more dead </verseline>
+<verseline>Than common sleep of all these five the sense. </verseline>
+<character>Titania </character>
+<verseline>Music, ho, music, such as charmeth sleep! </verseline>
+<character>Puck </character>
+<verseline>Now when thou wak&#8217;st with thine own fool&#8217;s eyes peep. </verseline>
+<character>Oberon </character>
+<verseline>Sound, music. Come, my Queen, take hands with me, </verseline>
+<verseline>
+<stage_directions_inline>[Music]</stage_directions_inline> </verseline>
+<verseline>And rock the ground whereon these sleepers be. </verseline>
+<verseline>Now thou and I are new in amity, </verseline>
+<verseline>And will to-morrow midnight solemnly </verseline>
+<verseline>Dance in Duke Theseus&#8217; house triumphantly, </verseline>
+<verseline>And bless it to all fair prosperity. </verseline>
+<verseline>There shall the pairs of faithful lovers be </verseline>
+<verseline>Wedded, with Theseus, an in jollity. </verseline>
+<character>Puck </character>
+<verseline>Fairy King, attend and mark; </verseline>
+<verseline>I do hear the morning lark. </verseline>
+<character>Oberon </character>
+<verseline>Then, my Queen, in silence sad, </verseline>
+<verseline>Trip we after night&#8217;s shade. </verseline>
+<verseline>We the globe can compass soon, </verseline>
+<verseline>Swifter than the wand&#8217;ring moon. </verseline>
+<character>Titania </character>
+<verseline>Come, my lord; and in our flight, </verseline>
+<verseline>Tell me how it came this night </verseline>
+<verseline>That I sleeping here was found </verseline>
+<verseline>With these mortals on the ground.Exeunt </verseline>
+<verseline>To the winding of horns, enter Theseus, Hippolyta, </verseline>
+<verseline>Egeus, and train </verseline>
+<character>Theseus </character>
+<verseline>Go, one of you, find out the forester; </verseline>
+<verseline>For now our observation is perform&#8217;d, </verseline>
+<verseline>And since we have the vaward of the day, </verseline>
+<verseline>My love shall hear the music of my hounds. </verseline>
+<verseline>Uncouple in the western valley; let them go. </verseline>
+<verseline>Dispatch, I say, and find the forester. </verseline>
+<stage_directions>Exit an Attendant </stage_directions>
+<verseline>We will, fair Queen, up to the mountain&#8217;s top, </verseline>
+<verseline>And mark the musical confusion </verseline>
+<verseline>Of hounds and echo in conjunction. </verseline>
+<character>Hippolyta </character>
+<verseline>I was with Hercules and Cadmus once </verseline>
+<verseline>When in a wood of Crete they bay&#8217;d the bear </verseline>
+<verseline>With hounds of Sparta; never did I hear </verseline>
+<verseline>Such gallant chiding, for, besides the groves, </verseline>
+<verseline>The skies, the fountains, every region near </verseline>
+<verseline>Seem&#8217;d all one mutual cry. I never heard </verseline>
+<verseline>So musical a discord, such sweet thunder. </verseline>
+<character>Theseus </character>
+<verseline>My hounds are bred out of the Spartan kind, </verseline>
+<verseline>So flew&#8217;d, so sanded; and their heads are hung </verseline>
+<verseline>With ears that sweep away the morning dew; </verseline>
+<verseline>Crook-knee&#8217;d and dew-lapp&#8217;d like Thessalian bulls; </verseline>
+<verseline>Slow in pursuit, but match&#8217;d in mouth like bells, </verseline>
+<verseline>Each under each. A cry more tuneable </verseline>
+<verseline>Was never holla&#8217;d to, nor cheer&#8217;d with horn, </verseline>
+<verseline>In Crete, in Sparta, nor in Thessaly. </verseline>
+<verseline>Judge when you hear. But, soft, what nymphs are these? </verseline>
+<character>Egeus </character>
+<verseline>My lord, this is my daughter here asleep, </verseline>
+<verseline>And this Lysander, this Demetrius is, </verseline>
+<verseline>This Helena, old Nedar&#8217;s Helena. </verseline>
+<verseline>I wonder of their being here together. </verseline>
+<character>Theseus </character>
+<verseline>No doubt they rose up early to observe </verseline>
+<verseline>The rite of May; and, hearing our intent, </verseline>
+<verseline>Came here in grace of our solemnity. </verseline>
+<verseline>But speak, Egeus; is not this the day </verseline>
+<verseline>That Hermia should give answer of her choice? </verseline>
+<character>Egeus </character>
+<verseline>It is, my lord. </verseline>
+<character>Theseus </character>
+<verseline>Go, bid the huntsmen wake them with their horns. </verseline>
+<stage_directions>[Horns and shout within. The sleepers awake and kneel to Theseus] </stage_directions>
+<verseline>Good-morrow, friends. Saint Valentine is past; </verseline>
+<verseline>Begin these wood-birds but to couple now? </verseline>
+<character>Lysander </character>
+<verseline>Pardon, my lord. </verseline>
+<character>Theseus </character>
+<verseline>I pray you all, stand up. </verseline>
+<verseline>I know you two are rival enemies; </verseline>
+<verseline>How comes this gentle concord in the world </verseline>
+<verseline>That hatred is so far from jealousy </verseline>
+<verseline>To sleep by hate, and fear no enmity? </verseline>
+<character>Lysander </character>
+<verseline>My lord, I shall reply amazedly, </verseline>
+<verseline>Half sleep, half waking; but as yet, I swear, </verseline>
+<verseline>I cannot truly say how I came here, </verseline>
+<verseline>But, as I think- for truly would I speak, </verseline>
+<verseline>And now I do bethink me, so it is- </verseline>
+<verseline>I came with Hermia hither. Our intent </verseline>
+<verseline>Was to be gone from Athens, where we might, </verseline>
+<verseline>Without the peril of the Athenian law- </verseline>
+<character>Egeus </character>
+<verseline>Enough, enough, my Lord; you have enough; </verseline>
+<verseline>I beg the law, the law upon his head. </verseline>
+<verseline>They would have stol&#8217;n away, they would, Demetrius, </verseline>
+<verseline>Thereby to have defeated you and me: </verseline>
+<verseline>You of your wife, and me of my consent, </verseline>
+<verseline>Of my consent that she should be your wife. </verseline>
+<character>Demetrius </character>
+<verseline>My lord, fair Helen told me of their stealth, </verseline>
+<verseline>Of this their purpose hither to this wood; </verseline>
+<verseline>And I in fury hither followed them, </verseline>
+<verseline>Fair Helena in fancy following me. </verseline>
+<verseline>But, my good lord, I wot not by what power- </verseline>
+<verseline>But by some power it is- my love to Hermia, </verseline>
+<verseline>Melted as the snow, seems to me now </verseline>
+<verseline>As the remembrance of an idle gaud </verseline>
+<verseline>Which in my childhood I did dote upon; </verseline>
+<verseline>And all the faith, the virtue of my heart, </verseline>
+<verseline>The object and the pleasure of mine eye, </verseline>
+<verseline>Is only Helena. To her, my lord, </verseline>
+<verseline>Was I betroth&#8217;d ere I saw Hermia. </verseline>
+<verseline>But, like a sickness, did I loathe this food; </verseline>
+<verseline>But, as in health, come to my natural taste, </verseline>
+<verseline>Now I do wish it, love it, long for it, </verseline>
+<verseline>And will for evermore be true to it. </verseline>
+<character>Theseus </character>
+<verseline>Fair lovers, you are fortunately met; </verseline>
+<verseline>Of this discourse we more will hear anon. </verseline>
+<verseline>Egeus, I will overbear your will; </verseline>
+<verseline>For in the temple, by and by, with us </verseline>
+<verseline>These couples shall eternally be knit. </verseline>
+<verseline>And, for the morning now is something worn, </verseline>
+<verseline>Our purpos&#8217;d hunting shall be set aside. </verseline>
+<verseline>Away with us to Athens, three and three; </verseline>
+<verseline>We&#8217;ll hold a feast in great solemnity. </verseline>
+<verseline>Come, Hippolyta. </verseline>
+<verseline>Exeunt Theseus, Hippolyta, Egeus, and train </verseline>
+<character>Demetrius </character>
+<verseline>These things seem small and undistinguishable, </verseline>
+<verseline>Like far-off mountains turned into clouds. </verseline>
+<character>Hermia </character>
+<verseline>Methinks I see these things with parted eye, </verseline>
+<verseline>When every thing seems double. </verseline>
+<character>Helena </character>
+<verseline>So methinks; </verseline>
+<verseline>And I have found Demetrius like a jewel, </verseline>
+<verseline>Mine own, and not mine own. </verseline>
+<character>Demetrius </character>
+<verseline>Are you sure </verseline>
+<verseline>That we are awake? It seems to me </verseline>
+<verseline>That yet we sleep, we dream. Do not you think </verseline>
+<verseline>The Duke was here, and bid us follow him? </verseline>
+<character>Hermia </character>
+<verseline>Yea, and my father. </verseline>
+<character>Helena </character>
+<verseline>And Hippolyta. </verseline>
+<character>Lysander </character>
+<verseline>And he did bid us follow to the temple. </verseline>
+<character>Demetrius </character>
+<verseline>Why, then, we are awake; let&#8217;s follow him; </verseline>
+<verseline>And by the way let us recount our dreams.Exeunt </verseline>
+<character>Bottom </character>
+<prose>
+<stage_directions_inline>[Awaking]</stage_directions_inline> When my cue comes, call me, and I will answer. My next is &#8216;Most fair Pyramus.&#8217; Heigh-ho! Peter Quince! Flute, the bellows-mender! Snout, the tinker! Starveling! God&#8217;s my life, stol&#8217;n hence, and left me asleep! I have had a most rare vision. </prose>
+<verseline>I have had a dream, past the wit of man to say what dream it was. </verseline>
+<verseline>Man is but an ass if he go about to expound this dream. Methought </verseline>
+<prose>I was- there is no man can tell what. Methought I was, and methought I had, but man is but a patch&#8217;d fool, if he will offer to say what methought I had. The eye of man hath not heard, the ear of man hath not seen, man&#8217;s hand is not able to taste, his tongue to conceive, nor his heart to report, what my dream was. I will get Peter Quince to write a ballad of this dream. It shall be call&#8217;d &#8216;Bottom&#8217;s Dream,&#8217; because it hath no bottom; and I will sing it in the latter end of a play, before the Duke. </prose>
+<prose>Peradventure, to make it the more gracious, I shall sing it at her death. </prose>
+<stage_directions>Exit </stage_directions>
+<scene>Scene II </scene>
+<location>Athens. Quince&#8217;S house </location>
+<stage_directions>Enter Quince, Flute, Snout, and Starveling </stage_directions>
+<character>Quince </character>
+<prose>Have you sent to Bottom&#8217;s house? Is he come home yet? </prose>
+<character>Starveling </character>
+<prose>He cannot be heard of. Out of doubt he is transported. </prose>
+<character>Flute </character>
+<prose>If he come not, then the play is marr&#8217;d; it goes not forward, doth it? </prose>
+<character>Quince </character>
+<prose>It is not possible. You have not a man in all Athens able to discharge Pyramus but he. </prose>
+<character>Flute </character>
+<prose>No; he hath simply the best wit of any handicraft man in Athens. </prose>
+<character>Quince </character>
+<prose>Yea, and the best person too; and he is a very paramour for a sweet voice. </prose>
+<character>Flute </character>
+<prose>You must say &#8216;paragon.&#8217; A paramour is- God bless us!- A thing of naught. </prose>
+<stage_directions>Enter Snug </stage_directions>
+<character>Snug </character>
+<prose>Masters, the Duke is coming from the temple; and there is two or three lords and ladies more married. If our sport had gone forward, we had all been made men. </prose>
+<character>Flute </character>
+<prose>O sweet bully Bottom! Thus hath he lost sixpence a day during his life; he could not have scaped sixpence a day. An the </prose>
+<prose>Duke had not given him sixpence a day for playing Pyramus, I&#8217;ll be hanged. He would have deserved it: sixpence a day in Pyramus, or nothing. </prose>
+<stage_directions>Enter Bottom </stage_directions>
+<character>Bottom </character>
+<verseline>Where are these lads? Where are these hearts? </verseline>
+<character>Quince </character>
+<verseline>Bottom! O most courageous day! O most happy hour! </verseline>
+<character>Bottom </character>
+<prose>Masters, I am to discourse wonders; but ask me not what; for if I tell you, I am not true Athenian. I will tell you everything, right as it fell out. </prose>
+<character>Quince </character>
+<verseline>Let us hear, sweet Bottom. </verseline>
+<character>Bottom </character>
+<prose>Not a word of me. All that I will tell you is, that the </prose>
+<prose>Duke hath dined. Get your apparel together; good strings to your beards, new ribbons to your pumps; meet presently at the palace; every man look o&#8217;er his part; for the short and the long is, our play is preferr&#8217;d. In any case, let Thisby have clean linen; and let not him that plays the lion pare his nails, for they shall hang out for the lion&#8217;s claws. And, most dear actors, eat no onions nor garlic, for we are to utter sweet breath; and I do not doubt but to hear them say it is a sweet comedy. No more words. </prose>
+<prose>Away, go, away! </prose>
+<stage_directions>Exeunt </stage_directions>
+<act>Act V </act>
+<firstscene>Scene I </firstscene>
+<location>Athens. The palace of Theseus </location>
+<stage_directions>Enter Theseus, Hippolyta, Philostrate, Lords, and Attendants </stage_directions>
+<character>Hippolyta </character>
+<verseline>&#8216;Tis strange, my Theseus, that these lovers speak of. </verseline>
+<character>Theseus </character>
+<verseline>More strange than true. I never may believe </verseline>
+<verseline>These antique fables, nor these fairy toys. </verseline>
+<verseline>Lovers and madmen have such seething brains, </verseline>
+<verseline>Such shaping fantasies, that apprehend </verseline>
+<verseline>More than cool reason ever comprehends. </verseline>
+<verseline>The lunatic, the lover, and the poet, </verseline>
+<verseline>Are of imagination all compact. </verseline>
+<verseline>One sees more devils than vast hell can hold; </verseline>
+<verseline>That is the madman. The lover, all as frantic, </verseline>
+<verseline>Sees Helen&#8217;s beauty in a brow of Egypt. </verseline>
+<verseline>The poet&#8217;s eye, in a fine frenzy rolling, </verseline>
+<verseline>Doth glance from heaven to earth, from earth to heaven; </verseline>
+<verseline>And as imagination bodies forth </verseline>
+<verseline>The forms of things unknown, the poet&#8217;s pen </verseline>
+<verseline>Turns them to shapes, and gives to airy nothing </verseline>
+<verseline>A local habitation and a name. </verseline>
+<verseline>Such tricks hath strong imagination </verseline>
+<verseline>That, if it would but apprehend some joy, </verseline>
+<verseline>It comprehends some bringer of that joy; </verseline>
+<verseline>Or in the night, imagining some fear, </verseline>
+<verseline>How easy is a bush suppos&#8217;d a bear? </verseline>
+<character>Hippolyta </character>
+<verseline>But all the story of the night told over, </verseline>
+<verseline>And all their minds transfigur&#8217;d so together, </verseline>
+<verseline>More witnesseth than fancy&#8217;s images, </verseline>
+<verseline>And grows to something of great constancy, </verseline>
+<verseline>But howsoever strange and admirable. </verseline>
+<stage_directions>Enter Lysander, Demetrius, Hermia, and Helena </stage_directions>
+<character>Theseus </character>
+<verseline>Here come the lovers, full of joy and mirth. </verseline>
+<verseline>Joy, gentle friends, joy and fresh days of love </verseline>
+<verseline>Accompany your hearts! </verseline>
+<character>Lysander </character>
+<verseline>More than to us </verseline>
+<verseline>Wait in your royal walks, your board, your bed! </verseline>
+<character>Theseus </character>
+<verseline>Come now; what masques, what dances shall we have, </verseline>
+<verseline>To wear away this long age of three hours </verseline>
+<verseline>Between our after-supper and bed-time? </verseline>
+<verseline>Where is our usual manager of mirth? </verseline>
+<verseline>What revels are in hand? Is there no play </verseline>
+<verseline>To ease the anguish of a torturing hour? </verseline>
+<verseline>Call Philostrate. </verseline>
+<character>Philostrate </character>
+<verseline>Here, mighty Theseus. </verseline>
+<character>Theseus </character>
+<verseline>Say, what abridgment have you for this evening? </verseline>
+<verseline>What masque? what music? How shall we beguile </verseline>
+<verseline>The lazy time, if not with some delight? </verseline>
+<character>Philostrate </character>
+<verseline>There is a brief how many sports are ripe; </verseline>
+<verseline>Make choice of which your Highness will see first. </verseline>
+<verseline>
+<stage_directions_inline>[Giving a paper]</stage_directions_inline> </verseline>
+<character>Theseus </character>
+<verseline>&#8216;The battle with the Centaurs, to be sung </verseline>
+<verseline>By an Athenian eunuch to the harp.&#8217; </verseline>
+<verseline>We&#8217;ll none of that: that have I told my love, </verseline>
+<verseline>In glory of my kinsman Hercules. </verseline>
+<verseline>&#8216;The riot of the tipsy Bacchanals, </verseline>
+<verseline>Tearing the Thracian singer in their rage.&#8217; </verseline>
+<verseline>That is an old device, and it was play&#8217;d </verseline>
+<verseline>When I from Thebes came last a conqueror. </verseline>
+<verseline>&#8216;The thrice three Muses mourning for the death </verseline>
+<verseline>Of Learning, late deceas&#8217;d in beggary.&#8217; </verseline>
+<verseline>That is some satire, keen and critical, </verseline>
+<verseline>Not sorting with a nuptial ceremony. </verseline>
+<verseline>&#8216;A tedious brief scene of young Pyramus </verseline>
+<verseline>And his love Thisby; very tragical mirth.&#8217; </verseline>
+<verseline>Merry and tragical! tedious and brief! </verseline>
+<verseline>That is hot ice and wondrous strange snow. </verseline>
+<verseline>How shall we find the concord of this discord? </verseline>
+<character>Philostrate </character>
+<verseline>A play there is, my lord, some ten words long, </verseline>
+<verseline>Which is as brief as I have known a play; </verseline>
+<verseline>But by ten words, my lord, it is too long, </verseline>
+<verseline>Which makes it tedious; for in all the play </verseline>
+<verseline>There is not one word apt, one player fitted. </verseline>
+<verseline>And tragical, my noble lord, it is; </verseline>
+<verseline>For Pyramus therein doth kill himself. </verseline>
+<verseline>Which when I saw rehears&#8217;d, I must confess, </verseline>
+<verseline>Made mine eyes water; but more merry tears </verseline>
+<verseline>The passion of loud laughter never shed. </verseline>
+<character>Theseus </character>
+<verseline>What are they that do play it? </verseline>
+<character>Philostrate </character>
+<verseline>Hard-handed men that work in Athens here, </verseline>
+<verseline>Which never labour&#8217;d in their minds till now; </verseline>
+<verseline>And now have toil&#8217;d their unbreathed memories </verseline>
+<verseline>With this same play against your nuptial. </verseline>
+<character>Theseus </character>
+<verseline>And we will hear it. </verseline>
+<character>Philostrate </character>
+<verseline>No, my noble lord, </verseline>
+<verseline>It is not for you. I have heard it over, </verseline>
+<verseline>And it is nothing, nothing in the world; </verseline>
+<verseline>Unless you can find sport in their intents, </verseline>
+<verseline>Extremely stretch&#8217;d and conn&#8217;d with cruel pain, </verseline>
+<verseline>To do you service. </verseline>
+<character>Theseus </character>
+<verseline>I will hear that play; </verseline>
+<verseline>For never anything can be amiss </verseline>
+<verseline>When simpleness and duty tender it. </verseline>
+<verseline>Go, bring them in; and take your places, ladies. </verseline>
+<stage_directions>Exit Philostrate </stage_directions>
+<character>Hippolyta </character>
+<verseline>I love not to see wretchedness o&#8217;er-charged, </verseline>
+<verseline>And duty in his service perishing. </verseline>
+<character>Theseus </character>
+<verseline>Why, gentle sweet, you shall see no such thing. </verseline>
+<character>Hippolyta </character>
+<verseline>He says they can do nothing in this kind. </verseline>
+<character>Theseus </character>
+<verseline>The kinder we, to give them thanks for nothing. </verseline>
+<verseline>Our sport shall be to take what they mistake; </verseline>
+<verseline>And what poor duty cannot do, noble respect </verseline>
+<verseline>Takes it in might, not merit. </verseline>
+<verseline>Where I have come, great clerks have purposed </verseline>
+<verseline>To greet me with premeditated welcomes; </verseline>
+<verseline>Where I have seen them shiver and look pale, </verseline>
+<verseline>Make periods in the midst of sentences, </verseline>
+<verseline>Throttle their practis&#8217;d accent in their fears, </verseline>
+<verseline>And, in conclusion, dumbly have broke off, </verseline>
+<verseline>Not paying me a welcome. Trust me, sweet, </verseline>
+<verseline>Out of this silence yet I pick&#8217;d a welcome; </verseline>
+<verseline>And in the modesty of fearful duty </verseline>
+<verseline>I read as much as from the rattling tongue </verseline>
+<verseline>Of saucy and audacious eloquence. </verseline>
+<verseline>Love, therefore, and tongue-tied simplicity </verseline>
+<verseline>In least speak most to my capacity. </verseline>
+<verseline>Re-enter Philostrate </verseline>
+<character>Philostrate </character>
+<verseline>So please your Grace, the Prologue is address&#8217;d. </verseline>
+<character>Theseus </character>
+<verseline>Let him approach.<stage_directions_inline>[Flourish of trumpets]</stage_directions_inline> </verseline>
+<stage_directions>Enter Quince as the Prologue </stage_directions>
+<character>Prologue </character>
+<verseline>If we offend, it is with our good will. </verseline>
+<verseline>That you should think, we come not to offend, </verseline>
+<verseline>But with good will. To show our simple skill, </verseline>
+<verseline>That is the true beginning of our end. </verseline>
+<verseline>Consider then, we come but in despite. </verseline>
+<verseline>We do not come, as minding to content you, </verseline>
+<verseline>Our true intent is. All for your delight </verseline>
+<verseline>We are not here. That you should here repent you, </verseline>
+<verseline>The actors are at band; and, by their show, </verseline>
+<verseline>You shall know all, that you are like to know, </verseline>
+<character>Theseus </character>
+<verseline>This fellow doth not stand upon points. </verseline>
+<character>Lysander </character>
+<prose>He hath rid his prologue like a rough colt; he knows not the stop. A good moral, my lord: it is not enough to speak, but to speak true. </prose>
+<character>Hippolyta </character>
+<prose>Indeed he hath play&#8217;d on this prologue like a child on a recorder- a sound, but not in government. </prose>
+<character>Theseus </character>
+<prose>His speech was like a tangled chain; nothing im paired, but all disordered. Who is next? </prose>
+<stage_directions>Enter, with a trumpet before them, as in dumb show, Pyramus and Thisby, Wall, Moonshine, and Lion </stage_directions>
+<character>Prologue </character>
+<verseline>Gentles, perchance you wonder at this show; </verseline>
+<verseline>But wonder on, till truth make all things plain. </verseline>
+<verseline>This man is Pyramus, if you would know; </verseline>
+<verseline>This beauteous lady Thisby is certain. </verseline>
+<verseline>This man, with lime and rough-cast, doth present </verseline>
+<verseline>Wall, that vile Wall which did these lovers sunder; </verseline>
+<verseline>And through Walls chink, poor souls, they are content </verseline>
+<verseline>To whisper. At the which let no man wonder. </verseline>
+<verseline>This man, with lanthorn, dog, and bush of thorn, </verseline>
+<verseline>Presenteth Moonshine; for, if you will know, </verseline>
+<verseline>By moonshine did these lovers think no scorn </verseline>
+<verseline>To meet at Ninus&#8217; tomb, there, there to woo. </verseline>
+<verseline>This grisly beast, which Lion hight by name, </verseline>
+<verseline>The trusty Thisby, coming first by night, </verseline>
+<verseline>Did scare away, or rather did affright; </verseline>
+<verseline>And as she fled, her mantle she did fall; </verseline>
+<verseline>Which Lion vile with bloody mouth did stain. </verseline>
+<verseline>Anon comes Pyramus, sweet youth and tall, </verseline>
+<verseline>And finds his trusty Thisby&#8217;s mantle slain; </verseline>
+<verseline>Whereat with blade, with bloody blameful blade, </verseline>
+<verseline>He bravely broach&#8217;d his boiling bloody breast; </verseline>
+<verseline>And Thisby, tarrying in mulberry shade, </verseline>
+<verseline>His dagger drew, and died. For all the rest, </verseline>
+<verseline>Let Lion, Moonshine, Wall, and lovers twain, </verseline>
+<verseline>At large discourse while here they do remain. </verseline>
+<verseline>Exeunt Prologue, Pyramus, Thisby, </verseline>
+<verseline>Lion, and Moonshine </verseline>
+<character>Theseus </character>
+<verseline>I wonder if the lion be to speak. </verseline>
+<character>Demetrius </character>
+<verseline>No wonder, my lord: one lion may, when many asses do. </verseline>
+<character>Wall </character>
+<verseline>In this same interlude it doth befall </verseline>
+<verseline>That I, one Snout by name, present a wall; </verseline>
+<verseline>And such a wall as I would have you think </verseline>
+<verseline>That had in it a crannied hole or chink, </verseline>
+<verseline>Through which the lovers, Pyramus and Thisby, </verseline>
+<verseline>Did whisper often very secretly. </verseline>
+<verseline>This loam, this rough-cast, and this stone, doth show </verseline>
+<verseline>That I am that same wall; the truth is so; </verseline>
+<verseline>And this the cranny is, right and sinister, </verseline>
+<verseline>Through which the fearful lovers are to whisper. </verseline>
+<character>Theseus </character>
+<verseline>Would you desire lime and hair to speak better? </verseline>
+<character>Demetrius </character>
+<prose>It is the wittiest partition that ever I heard discourse, my lord. </prose>
+<stage_directions>Enter Pyramus </stage_directions>
+<character>Theseus </character>
+<verseline>Pyramus draws near the wall; silence. </verseline>
+<character>Pyramus </character>
+<verseline>O grim-look&#8217;d night! O night with hue so black! </verseline>
+<verseline>O night, which ever art when day is not! </verseline>
+<verseline>O night, O night, alack, alack, alack, </verseline>
+<verseline>I fear my Thisby&#8217;s promise is forgot! </verseline>
+<verseline>And thou, O wall, O sweet, O lovely wall, </verseline>
+<verseline>That stand&#8217;st between her father&#8217;s ground and mine; </verseline>
+<verseline>Thou wall, O wall, O sweet and lovely wall, </verseline>
+<verseline>Show me thy chink, to blink through with mine eyne. </verseline>
+<verseline>
+<stage_directions_inline>[Wall holds up his fingers]</stage_directions_inline> </verseline>
+<verseline>Thanks, courteous wall. Jove shield thee well for this! </verseline>
+<verseline>But what see what see I? No Thisby do I see. </verseline>
+<verseline>O wicked wall, through whom I see no bliss, </verseline>
+<verseline>Curs&#8217;d he thy stones for thus deceiving me! </verseline>
+<character>Theseus </character>
+<verseline>The wall, methinks, being sensible, should curse again. </verseline>
+<character>Pyramus </character>
+<prose>No, in truth, sir, he should not. Deceiving me is Thisby&#8217;s cue. She is to enter now, and I am to spy her through the wall. </prose>
+<verseline>You shall see it will fall pat as I told you; yonder she comes. </verseline>
+<stage_directions>Enter Thisby </stage_directions>
+<character>Thisby </character>
+<verseline>O wall, full often hast thou beard my moans, </verseline>
+<verseline>For parting my fair Pyramus and me! </verseline>
+<verseline>My cherry lips have often kiss&#8217;d thy stones, </verseline>
+<verseline>Thy stones with lime and hair knit up in thee. </verseline>
+<character>Pyramus </character>
+<verseline>I see a voice; now will I to the chink, </verseline>
+<verseline>To spy an I can hear my Thisby&#8217;s face. </verseline>
+<verseline>Thisby! </verseline>
+<character>Thisby </character>
+<verseline>My love! thou art my love, I think. </verseline>
+<character>Pyramus </character>
+<verseline>Think what thou wilt, I am thy lover&#8217;s grace; </verseline>
+<verseline>And like Limander am I trusty still. </verseline>
+<character>Thisby </character>
+<verseline>And I like Helen, till the Fates me kill. </verseline>
+<character>Pyramus </character>
+<verseline>Not Shafalus to Procrus was so true. </verseline>
+<character>Thisby </character>
+<verseline>As Shafalus to Procrus, I to you. </verseline>
+<character>Pyramus </character>
+<verseline>O, kiss me through the hole of this vile wall. </verseline>
+<character>Thisby </character>
+<verseline>I kiss the wall&#8217;s hole, not your lips at all. </verseline>
+<character>Pyramus </character>
+<verseline>Wilt thou at Ninny&#8217;s tomb meet me straightway? </verseline>
+<character>Thisby </character>
+<verseline>Tide life, tide death, I come without delay. </verseline>
+<stage_directions>Exeunt Pyramus and Thisby </stage_directions>
+<character>Wall </character>
+<verseline>Thus have I, Wall, my part discharged so; </verseline>
+<verseline>And, being done, thus Wall away doth go.Exit Wall </verseline>
+<character>Theseus </character>
+<verseline>Now is the moon used between the two neighbours. </verseline>
+<character>Demetrius </character>
+<prose>No remedy, my lord, when walls are so wilful to hear without warning. </prose>
+<character>Hippolyta </character>
+<verseline>This is the silliest stuff that ever I heard. </verseline>
+<character>Theseus </character>
+<prose>The best in this kind are but shadows; and the worst are no worse, if imagination amend them. </prose>
+<character>Hippolyta </character>
+<verseline>It must be your imagination then, and not theirs. </verseline>
+<character>Theseus </character>
+<prose>If we imagine no worse of them than they of themselves, they may pass for excellent men. Here come two noble beasts in, a man and a lion. </prose>
+<stage_directions>Enter Lion and Moonshine </stage_directions>
+<character>Lion </character>
+<verseline>You, ladies, you, whose gentle hearts do fear </verseline>
+<verseline>The smallest monstrous mouse that creeps on floor, </verseline>
+<verseline>May now, perchance, both quake and tremble here, </verseline>
+<verseline>When lion rough in wildest rage doth roar. </verseline>
+<verseline>Then know that I as Snug the joiner am </verseline>
+<verseline>A lion fell, nor else no lion&#8217;s dam; </verseline>
+<verseline>For, if I should as lion come in strife </verseline>
+<verseline>Into this place, &#8216;twere pity on my life. </verseline>
+<character>Theseus </character>
+<verseline>A very gentle beast, and of a good conscience. </verseline>
+<character>Demetrius </character>
+<verseline>The very best at a beast, my lord, that e&#8217;er I saw. </verseline>
+<character>Lysander </character>
+<verseline>This lion is a very fox for his valour. </verseline>
+<character>Theseus </character>
+<verseline>True; and a goose for his discretion. </verseline>
+<character>Demetrius </character>
+<prose>Not so, my lord; for his valour cannot carry his discretion, and the fox carries the goose. </prose>
+<character>Theseus </character>
+<prose>His discretion, I am sure, cannot carry his valour; for the goose carries not the fox. It is well. Leave it to his discretion, and let us listen to the Moon. </prose>
+<character>Moonshine </character>
+<verseline>This lanthorn doth the horned moon present- </verseline>
+<character>Demetrius </character>
+<verseline>He should have worn the horns on his head. </verseline>
+<character>Theseus </character>
+<prose>He is no crescent, and his horns are invisible within the circumference. </prose>
+<character>Moonshine </character>
+<verseline>This lanthorn doth the horned moon present; </verseline>
+<verseline>Myself the Man i&#8217; th&#8217; Moon do seem to be. </verseline>
+<character>Theseus </character>
+<prose>This is the greatest error of all the rest; the man should be put into the lantern. How is it else the man i&#8217; th&#8217; moon? </prose>
+<character>Demetrius </character>
+<prose>He dares not come there for the candle; for, you see, it is already in snuff. </prose>
+<character>Hippolyta </character>
+<verseline>I am aweary of this moon. Would he would change! </verseline>
+<character>Theseus </character>
+<prose>It appears, by his small light of discretion, that he is in the wane; but yet, in courtesy, in all reason, we must stay the time. </prose>
+<character>Lysander </character>
+<verseline>Proceed, Moon. </verseline>
+<character>Moon </character>
+<prose>All that I have to say is to tell you that the lanthorn is the moon; I, the Man i&#8217; th&#8217; Moon; this thorn-bush, my thorn-bush; and this dog, my dog. </prose>
+<character>Demetrius </character>
+<prose>Why, all these should be in the lantern; for all these are in the moon. But silence; here comes Thisby. </prose>
+<verseline>Re-enter Thisby </verseline>
+<character>Thisby </character>
+<verseline>This is old Ninny&#8217;s tomb. Where is my love? </verseline>
+<character>Lion </character>
+<verseline>
+<stage_directions_inline>[Roaring] O-[Thisby runs off]</stage_directions_inline> </verseline>
+<character>Demetrius </character>
+<verseline>Well roar&#8217;d, Lion. </verseline>
+<character>Theseus </character>
+<verseline>Well run, Thisby. </verseline>
+<character>Hippolyta </character>
+<prose>Well shone, Moon. Truly, the moon shines with a good grace.<stage_directions_inline>[The Lion tears Thisby&#8217;S Mantle, and exit]</stage_directions_inline> </prose>
+<character>Theseus </character>
+<verseline>Well mous&#8217;d, Lion. </verseline>
+<stage_directions>Re-enter Pyramus </stage_directions>
+<character>Demetrius </character>
+<verseline>And then came Pyramus. </verseline>
+<character>Lysander </character>
+<verseline>And so the lion vanish&#8217;d. </verseline>
+<character>Pyramus </character>
+<verseline>Sweet Moon, I thank thee for thy sunny beams; </verseline>
+<verseline>I thank thee, Moon, for shining now so bright; </verseline>
+<verseline>For, by thy gracious golden, glittering gleams, </verseline>
+<verseline>I trust to take of truest Thisby sight. </verseline>
+<verseline>But stay, O spite! </verseline>
+<verseline>But mark, poor knight, </verseline>
+<verseline>What dreadful dole is here! </verseline>
+<verseline>Eyes, do you see? </verseline>
+<verseline>How can it he? </verseline>
+<verseline>O dainty duck! O dear! </verseline>
+<verseline>Thy mantle good, </verseline>
+<verseline>What! stain&#8217;d with blood? </verseline>
+<verseline>Approach, ye Furies fell. </verseline>
+<verseline>O Fates! come, come; </verseline>
+<verseline>Cut thread and thrum; </verseline>
+<verseline>Quail, crush, conclude, and quell. </verseline>
+<character>Theseus </character>
+<prose>This passion, and the death of a dear friend, would go near to make a man look sad. </prose>
+<character>Hippolyta </character>
+<verseline>Beshrew my heart, but I pity the man. </verseline>
+<character>Pyramus </character>
+<verseline>O wherefore, Nature, didst thou lions frame? </verseline>
+<verseline>Since lion vile hath here deflower&#8217;d my dear; </verseline>
+<verseline>Which is- no, no- which was the fairest dame </verseline>
+<verseline>That liv&#8217;d, that lov&#8217;d, that lik&#8217;d, that look&#8217;d with cheer. </verseline>
+<verseline>Come, tears, confound; </verseline>
+<verseline>Out, sword, and wound </verseline>
+<verseline>The pap of Pyramus; </verseline>
+<verseline>Ay, that left pap, </verseline>
+<verseline>Where heart doth hop.<stage_directions_inline>[Stabs himself]</stage_directions_inline> </verseline>
+<verseline>Thus die I, thus, thus, thus. </verseline>
+<verseline>Now am I dead, </verseline>
+<verseline>Now am I fled; </verseline>
+<verseline>My soul is in the sky. </verseline>
+<verseline>Tongue, lose thy light; </verseline>
+<verseline>Moon, take thy flight.<stage_directions_inline>[Exit Moonshine]</stage_directions_inline> </verseline>
+<verseline>Now die, die, die, die, die.<stage_directions_inline>[Dies]</stage_directions_inline> </verseline>
+<character>Demetrius </character>
+<verseline>No die, but an ace, for him; for he is but one. </verseline>
+<character>Lysander </character>
+<verseline>Less than an ace, man; for he is dead; he is nothing. </verseline>
+<character>Theseus </character>
+<prose>With the help of a surgeon he might yet recover and yet prove an ass. </prose>
+<character>Hippolyta </character>
+<prose>How chance Moonshine is gone before Thisby comes back and finds her lover? </prose>
+<stage_directions>Re-enter Thisby </stage_directions>
+<character>Theseus </character>
+<prose>She will find him by starlight. Here she comes; and her passion ends the play. </prose>
+<character>Hippolyta </character>
+<verseline>Methinks she should not use a long one for such a </verseline>
+<verseline>Pyramus; I hope she will be brief. </verseline>
+<character>Demetrius </character>
+<verseline>A mote will turn the balance, which Pyramus, which </verseline>
+<prose>Thisby, is the better- he for a man, God warrant us: She for a woman, God bless us! </prose>
+<character>Lysander </character>
+<verseline>She hath spied him already with those sweet eyes. </verseline>
+<character>Demetrius </character>
+<verseline>And thus she moans, videlicet:- </verseline>
+<character>Thisby </character>
+<verseline>Asleep, my love? </verseline>
+<verseline>What, dead, my dove? </verseline>
+<verseline>O Pyramus, arise, </verseline>
+<verseline>Speak, speak. Quite dumb? </verseline>
+<verseline>Dead, dead? A tomb </verseline>
+<verseline>Must cover thy sweet eyes. </verseline>
+<verseline>These lily lips, </verseline>
+<verseline>This cherry nose, </verseline>
+<verseline>These yellow cowslip cheeks, </verseline>
+<verseline>Are gone, are gone; </verseline>
+<verseline>Lovers, make moan; </verseline>
+<verseline>His eyes were green as leeks. </verseline>
+<verseline>O Sisters Three, </verseline>
+<verseline>Come, come to me, </verseline>
+<verseline>With hands as pale as milk; </verseline>
+<verseline>Lay them in gore, </verseline>
+<verseline>Since you have shore </verseline>
+<verseline>With shears his thread of silk. </verseline>
+<verseline>Tongue, not a word. </verseline>
+<verseline>Come, trusty sword; </verseline>
+<verseline>Come, blade, my breast imbrue.<stage_directions_inline>[Stabs herself]</stage_directions_inline> </verseline>
+<verseline>And farewell, friends; </verseline>
+<verseline>Thus Thisby ends; </verseline>
+<verseline>Adieu, adieu, adieu.<stage_directions_inline>[Dies]</stage_directions_inline> </verseline>
+<character>Theseus </character>
+<verseline>Moonshine and Lion are left to bury the dead. </verseline>
+<character>Demetrius </character>
+<verseline>Ay, and Wall too. </verseline>
+<character>Bottom </character>
+<prose>
+<stage_directions_inline>[Starting up]</stage_directions_inline> No, I assure you; the wall is down that parted their fathers. Will it please you to see the Epilogue, or to hear a Bergomask dance between two of our company? </prose>
+<character>Theseus </character>
+<verseline>No epilogue, I pray you; for your play needs no excuse. </verseline>
+<prose>Never excuse; for when the players are all dead there need none to be blamed. Marry, if he that writ it had played Pyramus, and hang&#8217;d himself in Thisby&#8217;s garter, it would have been a fine tragedy. And so it is, truly; and very notably discharg&#8217;d. But come, your Bergomask; let your epilogue alone.<stage_directions_inline>[A dance]</stage_directions_inline> </prose>
+<verseline>The iron tongue of midnight hath told twelve. </verseline>
+<verseline>Lovers, to bed; &#8216;tis almost fairy time. </verseline>
+<verseline>I fear we shall out-sleep the coming morn, </verseline>
+<verseline>As much as we this night have overwatch&#8217;d. </verseline>
+<verseline>This palpable-gross play hath well beguil&#8217;d </verseline>
+<verseline>The heavy gait of night. Sweet friends, to bed. </verseline>
+<verseline>A fortnight hold we this solemnity, </verseline>
+<verseline>In nightly revels and new jollity.Exeunt </verseline>
+<stage_directions>Enter Puck with a broom </stage_directions>
+<character>Puck </character>
+<verseline>Now the hungry lion roars, </verseline>
+<verseline>And the wolf behowls the moon; </verseline>
+<verseline>Whilst the heavy ploughman snores, </verseline>
+<verseline>All with weary task fordone. </verseline>
+<verseline>Now the wasted brands do glow, </verseline>
+<verseline>Whilst the screech-owl, screeching loud, </verseline>
+<verseline>Puts the wretch that lies in woe </verseline>
+<verseline>In remembrance of a shroud. </verseline>
+<verseline>Now it is the time of night </verseline>
+<verseline>That the graves, all gaping wide, </verseline>
+<verseline>Every one lets forth his sprite, </verseline>
+<verseline>In the church-way paths to glide. </verseline>
+<verseline>And we fairies, that do run </verseline>
+<verseline>By the triple Hecate&#8217;s team </verseline>
+<verseline>From the presence of the sun, </verseline>
+<verseline>Following darkness like a dream, </verseline>
+<verseline>Now are frolic. Not a mouse </verseline>
+<verseline>Shall disturb this hallowed house. </verseline>
+<verseline>I am sent with broom before, </verseline>
+<verseline>To sweep the dust behind the door. </verseline>
+<stage_directions>Enter Oberon and Titania, with all their train </stage_directions>
+<character>Oberon </character>
+<verseline>Through the house give glimmering light, </verseline>
+<verseline>By the dead and drowsy fire; </verseline>
+<verseline>Every elf and fairy sprite </verseline>
+<verseline>Hop as light as bird from brier; </verseline>
+<verseline>And this ditty, after me, </verseline>
+<verseline>Sing and dance it trippingly. </verseline>
+<character>Titania </character>
+<verseline>First, rehearse your song by rote, </verseline>
+<verseline>To each word a warbling note; </verseline>
+<verseline>Hand in hand, with fairy grace, </verseline>
+<verseline>Will we sing, and bless this place. </verseline>
+<verseline>
+<stage_directions_inline>[Oberon leading, the Fairies sing and dance]</stage_directions_inline> </verseline>
+<character>Oberon </character>
+<verseline>Now, until the break of day, </verseline>
+<verseline>Through this house each fairy stray. </verseline>
+<verseline>To the best bride-bed will we, </verseline>
+<verseline>Which by us shall blessed be; </verseline>
+<verseline>And the issue there create </verseline>
+<verseline>Ever shall be fortunate. </verseline>
+<verseline>So shall all the couples three </verseline>
+<verseline>Ever true in loving be; </verseline>
+<verseline>And the blots of Nature&#8217;s hand </verseline>
+<verseline>Shall not in their issue stand; </verseline>
+<verseline>Never mole, hare-lip, nor scar, </verseline>
+<verseline>Nor mark prodigious, such as are </verseline>
+<verseline>Despised in nativity, </verseline>
+<verseline>Shall upon their children be. </verseline>
+<verseline>With this field-dew consecrate, </verseline>
+<verseline>Every fairy take his gait, </verseline>
+<verseline>And each several chamber bless, </verseline>
+<verseline>Through this palace, with sweet peace; </verseline>
+<verseline>And the owner of it blest </verseline>
+<verseline>Ever shall in safety rest. </verseline>
+<verseline>Trip away; make no stay; </verseline>
+<verseline>Meet me all by break of day. </verseline>
+<stage_directions>Exeunt all but Puck </stage_directions>
+<character>Puck </character>
+<verseline>If we shadows have offended, </verseline>
+<verseline>Think but this, and all is mended, </verseline>
+<verseline>That you have but slumb&#8217;red here </verseline>
+<verseline>While these visions did appear. </verseline>
+<verseline>And this weak and idle theme, </verseline>
+<verseline>No more yielding but a dream, </verseline>
+<verseline>Gentles, do not reprehend. </verseline>
+<verseline>If you pardon, we will mend. </verseline>
+<verseline>And, as I am an honest Puck, </verseline>
+<verseline>If we have unearned luck </verseline>
+<verseline>Now to scape the serpent&#8217;s tongue, </verseline>
+<verseline>We will make amends ere long; </verseline>
+<verseline>Else the Puck a liar call. </verseline>
+<verseline>So, good night unto you all. </verseline>
+<verseline>Give me your hands, if we be friends, </verseline>
+<verseline>And Robin shall restore amends.Exit </verseline>
+<stage_directions>-The End- </stage_directions>
+</play>
+</shakespeareplay>
